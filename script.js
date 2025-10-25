@@ -46,6 +46,19 @@ class TestGenerator {
                 this.saveProgress();
             }
         });
+
+        // Browser history: ensure a home state exists
+        if (!history.state) {
+            history.replaceState({ view: 'home' }, '', '#home');
+        }
+
+        // Handle back/forward navigation
+        window.addEventListener('popstate', (event) => {
+            const state = event.state || { view: 'home' };
+            if (state.view === 'home') {
+                this.exitToHome();
+            }
+        });
     }
     
     async loadAllQuestions() {
@@ -105,6 +118,13 @@ class TestGenerator {
         document.getElementById('testInterface').style.display = 'block';
         document.getElementById('results').style.display = 'none';
         
+        // Push a single history entry for the test; subsequent question changes will replace this
+        try {
+            history.pushState({ view: 'test', subject: this.currentSubject, q: 1 }, '', `#test/${encodeURIComponent(this.currentSubject)}/1`);
+        } catch (_) {
+            // no-op if history not available
+        }
+
         // Generate random 50 questions from all years for this subject
         this.generateRandomTest(subject);
         this.currentQuestionIndex = 0;
@@ -177,6 +197,17 @@ class TestGenerator {
         // Update navigation buttons
         document.getElementById('prevQuestion').disabled = this.currentQuestionIndex === 0;
         document.getElementById('nextQuestion').disabled = this.currentQuestionIndex === 49;
+
+        // Replace the current history state so Back goes straight to home
+        try {
+            history.replaceState(
+                { view: 'test', subject: this.currentSubject, q: this.currentQuestionIndex + 1 },
+                '',
+                `#test/${encodeURIComponent(this.currentSubject)}/${this.currentQuestionIndex + 1}`
+            );
+        } catch (_) {
+            // ignore history errors
+        }
     }
     
     selectAnswer(answer) {
@@ -316,6 +347,13 @@ class TestGenerator {
         this.currentQuestionIndex = 0;
         this.userAnswers = {};
         clearInterval(this.timer);
+
+        // Return URL to home state
+        try {
+            history.replaceState({ view: 'home' }, '', '#home');
+        } catch (_) {
+            // ignore
+        }
     }
     
     // Progress saving methods
@@ -387,6 +425,15 @@ class TestGenerator {
         if (this.currentSubject) {
             localStorage.removeItem(`jcl_test_progress_${this.currentSubject}`);
         }
+    }
+
+    exitToHome() {
+        // Called when user hits the browser Back button to leave the test
+        clearInterval(this.timer);
+        document.getElementById('testInterface').style.display = 'none';
+        document.getElementById('results').style.display = 'none';
+        document.getElementById('reviewInterface').style.display = 'none';
+        document.querySelector('.test-selection').style.display = 'block';
     }
 }
 
