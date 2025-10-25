@@ -23,6 +23,7 @@ class TestGenerator {
         // Test navigation
         document.getElementById('prevQuestion').addEventListener('click', () => this.previousQuestion());
         document.getElementById('nextQuestion').addEventListener('click', () => this.nextQuestion());
+        document.getElementById('saveProgress').addEventListener('click', () => this.manualSaveProgress());
         document.getElementById('submitTest').addEventListener('click', () => this.submitTest());
         
         // Results actions
@@ -72,6 +73,18 @@ class TestGenerator {
         if (!this.allQuestions[subject] || this.allQuestions[subject].length === 0) {
             alert('No questions available for this subject yet. Please try another subject.');
             return;
+        }
+        
+        this.currentSubject = subject;
+        
+        // Check for saved progress
+        const savedProgress = this.loadProgress(subject);
+        if (savedProgress) {
+            const resume = confirm(`You have a saved test in progress for ${subject.replace(/_/g, ' ')}. Would you like to resume it?`);
+            if (resume) {
+                this.resumeTest(savedProgress);
+                return;
+            }
         }
         
         // Hide test selection, show test interface
@@ -156,6 +169,9 @@ class TestGenerator {
     selectAnswer(answer) {
         this.userAnswers[this.currentQuestionIndex] = answer;
         
+        // Save progress automatically when user answers a question
+        this.saveProgress();
+        
         // Update visual selection
         document.querySelectorAll('.option').forEach(option => {
             option.classList.remove('selected');
@@ -167,6 +183,7 @@ class TestGenerator {
         if (this.currentQuestionIndex > 0) {
             this.currentQuestionIndex--;
             this.displayQuestion();
+            this.saveProgress(); // Save progress when navigating
         }
     }
     
@@ -174,6 +191,7 @@ class TestGenerator {
         if (this.currentQuestionIndex < 49) {
             this.currentQuestionIndex++;
             this.displayQuestion();
+            this.saveProgress(); // Save progress when navigating
         }
     }
     
@@ -219,6 +237,9 @@ class TestGenerator {
             score: correct,
             percentage: percentage
         };
+        
+        // Clear saved progress since test is completed
+        this.clearProgress();
     }
     
     reviewAnswers() {
@@ -277,6 +298,92 @@ class TestGenerator {
         this.currentQuestionIndex = 0;
         this.userAnswers = {};
         clearInterval(this.timer);
+    }
+    
+    // Progress saving methods
+    saveProgress() {
+        if (!this.currentSubject || !this.currentTest.length) return;
+        
+        const progress = {
+            subject: this.currentSubject,
+            currentQuestionIndex: this.currentQuestionIndex,
+            userAnswers: this.userAnswers,
+            timeRemaining: this.timeRemaining,
+            testQuestions: this.currentTest.map(q => ({
+                question_number: q.question_number,
+                question: q.question,
+                options: q.options,
+                correct_answer: q.correct_answer
+            })),
+            timestamp: Date.now()
+        };
+        
+        localStorage.setItem(`jcl_test_progress_${this.currentSubject}`, JSON.stringify(progress));
+        console.log('Progress saved for', this.currentSubject);
+    }
+    
+    loadProgress(subject) {
+        try {
+            const saved = localStorage.getItem(`jcl_test_progress_${subject}`);
+            if (!saved) return null;
+            
+            const progress = JSON.parse(saved);
+            
+            // Check if progress is older than 24 hours
+            const hoursSinceSaved = (Date.now() - progress.timestamp) / (1000 * 60 * 60);
+            if (hoursSinceSaved > 24) {
+                localStorage.removeItem(`jcl_test_progress_${subject}`);
+                return null;
+            }
+            
+            return progress;
+        } catch (error) {
+            console.error('Error loading progress:', error);
+            return null;
+        }
+    }
+    
+    resumeTest(progress) {
+        // Hide test selection, show test interface
+        document.querySelector('.test-selection').style.display = 'none';
+        document.getElementById('testInterface').style.display = 'block';
+        document.getElementById('results').style.display = 'none';
+        
+        // Restore test state
+        this.currentSubject = progress.subject;
+        this.currentTest = progress.testQuestions;
+        this.currentQuestionIndex = progress.currentQuestionIndex;
+        this.userAnswers = progress.userAnswers;
+        this.timeRemaining = progress.timeRemaining;
+        
+        // Start timer
+        this.startTimer();
+        
+        // Display current question
+        this.displayQuestion();
+        
+        console.log('Test resumed from question', this.currentQuestionIndex + 1);
+    }
+    
+    clearProgress() {
+        if (this.currentSubject) {
+            localStorage.removeItem(`jcl_test_progress_${this.currentSubject}`);
+        }
+    }
+    
+    manualSaveProgress() {
+        this.saveProgress();
+        
+        // Show confirmation message
+        const button = document.getElementById('saveProgress');
+        const originalText = button.textContent;
+        button.textContent = 'Saved!';
+        button.style.background = 'linear-gradient(135deg, #28a745, #20c997)';
+        
+        setTimeout(() => {
+            button.textContent = originalText;
+            button.style.background = '';
+        }, 2000);
     }
 }
 
