@@ -156,8 +156,19 @@ class TestGenerator {
         document.getElementById('questionCounter').textContent = 
             `Question ${this.currentQuestionIndex + 1} of 50`;
         
-        // Display question
-        document.getElementById('questionText').textContent = question.question;
+        // Display question + optional section title
+        const questionBlock = document.getElementById('questionText');
+        questionBlock.innerHTML = '';
+        if (question.section) {
+            const sectionDiv = document.createElement('div');
+            sectionDiv.className = 'section-title';
+            sectionDiv.textContent = this.formatSectionTitle(question.section);
+            questionBlock.appendChild(sectionDiv);
+        }
+        const qLine = document.createElement('div');
+        qLine.className = 'question-line';
+        qLine.textContent = question.question;
+        questionBlock.appendChild(qLine);
         
         // Display options
         const optionsContainer = document.getElementById('optionsContainer');
@@ -314,7 +325,10 @@ class TestGenerator {
                         ${isCorrect ? 'Correct' : 'Incorrect'}
                     </span>
                 </div>
-                <div class="question-text">${question.question}</div>
+                <div class="question-text">
+                    ${question.section ? `<div class=\"section-title\">${this.formatSectionTitle(question.section)}</div>` : ''}
+                    <div class=\"question-line\">${question.question}</div>
+                </div>
                 <div class="options-review">
                     ${Object.entries(question.options).map(([key, value]) => `
                         <div class="option-review ${key === correctAnswer ? 'correct-answer' : ''} ${key === userAnswer && !isCorrect ? 'user-answer-wrong' : ''}">
@@ -434,6 +448,20 @@ class TestGenerator {
         document.getElementById('results').style.display = 'none';
         document.getElementById('reviewInterface').style.display = 'none';
         document.querySelector('.test-selection').style.display = 'block';
+    }
+
+    // Format section title: remove trailing period, ensure colon
+    formatSectionTitle(raw) {
+        try {
+            let s = String(raw).trim();
+            // Remove trailing period(s)
+            s = s.replace(/[\.]+\s*$/,'');
+            // Add colon if missing
+            if (!s.endsWith(':')) s = `${s}:`;
+            return s;
+        } catch (_) {
+            return raw;
+        }
     }
 }
 
