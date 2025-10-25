@@ -33,6 +33,20 @@ class TestGenerator {
         // Review actions
         document.getElementById('backToResults').addEventListener('click', () => this.backToResults());
         document.getElementById('newTestFromReview').addEventListener('click', () => this.newTest());
+        
+        // Auto-save when page is about to be closed
+        window.addEventListener('beforeunload', () => {
+            if (this.currentTest && this.currentTest.length > 0) {
+                this.saveProgress();
+            }
+        });
+        
+        // Auto-save when user switches tabs or minimizes browser
+        document.addEventListener('visibilitychange', () => {
+            if (document.hidden && this.currentTest && this.currentTest.length > 0) {
+                this.saveProgress();
+            }
+        });
     }
     
     async loadAllQuestions() {
@@ -202,6 +216,11 @@ class TestGenerator {
             const seconds = this.timeRemaining % 60;
             document.getElementById('timeRemaining').textContent = 
                 `Time: ${minutes}:${seconds.toString().padStart(2, '0')}`;
+            
+            // Auto-save every 30 seconds
+            if (this.timeRemaining % 30 === 0) {
+                this.saveProgress();
+            }
             
             if (this.timeRemaining <= 0) {
                 this.submitTest();
