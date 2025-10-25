@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JCL Academic Testing Buddy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>JCL Academic Testing Buddy</h1>
+            <p>Choose a test subject to generate a random 50-question test</p>
+        </header>
+        
+        <main>
+            <div class="test-selection">
+                <h2>Select Test Subject</h2>
+                <div class="test-options">
+                    <button class="test-option" data-subject="Classical_Art">
+                        <h3>Classical Art</h3>
+                        <p>Questions about classical art and architecture</p>
+                    </button>
+                    
+                    <button class="test-option" data-subject="Classical_Geography">
+                        <h3>Classical Geography</h3>
+                        <p>Questions about ancient geography and locations</p>
+                    </button>
+                    
+                    <button class="test-option" data-subject="Derivatives_I">
+                        <h3>Derivatives I</h3>
+                        <p>First level derivative questions</p>
+                    </button>
+                    
+                    <button class="test-option" data-subject="Derivatives_II">
+                        <h3>Derivatives II</h3>
+                        <p>Advanced derivative questions</p>
+                    </button>
+                    
+                    <button class="test-option" data-subject="History_of_the_Empire">
+                        <h3>History of the Empire</h3>
+                        <p>Questions about Roman Empire history</p>
+                    </button>
+                    
+                    <button class="test-option" data-subject="History_of_the_Monarchy_and_Republic">
+                        <h3>History of Monarchy and Republic</h3>
+                        <p>Questions about early Roman history</p>
+                    </button>
+                    
+                    <button class="test-option" data-subject="Mottoes_Abbreviations_and_Quotations">
+                        <h3>Mottoes, Abbreviations, and Quotations</h3>
+                        <p>Latin sayings and abbreviations</p>
+                    </button>
+                    
+                    <button class="test-option" data-subject="Mythology">
+                        <h3>Mythology</h3>
+                        <p>Greek and Roman mythology questions</p>
+                    </button>
+                    
+                    <button class="test-option" data-subject="Vocabulary_I">
+                        <h3>Vocabulary I</h3>
+                        <p>Basic Latin vocabulary</p>
+                    </button>
+                    
+                    <button class="test-option" data-subject="Vocabulary_II">
+                        <h3>Vocabulary II</h3>
+                        <p>Advanced Latin vocabulary</p>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="test-interface" id="testInterface" style="display: none;">
+                <div class="test-header">
+                    <h2 id="testTitle">Test in Progress</h2>
+                    <div class="test-info">
+                        <span id="questionCounter">Question 1 of 50</span>
+                        <span id="timeRemaining">Time: 50:00</span>
+                    </div>
+                </div>
+                
+                <div class="question-container">
+                    <div class="question" id="questionText"></div>
+                    <div class="options" id="optionsContainer"></div>
+                </div>
+                
+                <div class="test-controls">
+                    <button id="prevQuestion" disabled>Previous</button>
+                    <button id="nextQuestion">Next</button>
+                    <button id="submitTest">Submit Test</button>
+                </div>
+            </div>
+            
+            <div class="results" id="results" style="display: none;">
+                <h2>Test Results</h2>
+                <div class="score-display">
+                    <div class="score-circle">
+                        <span id="scorePercentage">0%</span>
+                    </div>
+                    <p id="scoreText">You scored X out of 50</p>
+                </div>
+                <div class="results-actions">
+                    <button id="reviewAnswers">Review Answers</button>
+                    <button id="newTest">Take Another Test</button>
+                </div>
+            </div>
+            
+            <div class="review-interface" id="reviewInterface" style="display: none;">
+                <div class="review-header">
+                    <h2>Test Review</h2>
+                    <div class="review-actions">
+                        <button id="backToResults">Back to Results</button>
+                        <button id="newTestFromReview">Take Another Test</button>
+                    </div>
+                </div>
+                <div class="review-container" id="reviewContainer">
+                    <!-- Review content will be populated by JavaScript -->
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

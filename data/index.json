@@ -1,0 +1,54 @@
+{
+  "subjects": [
+    {
+      "name": "Derivatives_I",
+      "file": "Derivatives_I.json",
+      "total_questions": 481,
+      "description": "Basic Latin derivative questions and word formation"
+    },
+    {
+      "name": "Derivatives_II",
+      "file": "Derivatives_II.json",
+      "total_questions": 482,
+      "description": "Advanced Latin derivative questions and etymology"
+    },
+    {
+      "name": "History_of_the_Empire",
+      "file": "History_of_the_Empire.json",
+      "total_questions": 526,
+      "description": "Questions about Roman Empire history and events"
+    },
+    {
+      "name": "History_of_the_Monarchy_and_Republic",
+      "file": "History_of_the_Monarchy_and_Republic.json",
+      "total_questions": 506,
+      "description": "Questions about early Roman history"
+    },
+    {
+      "name": "Mottoes_Abbreviations_and_Quotations",
+      "file": "Mottoes_Abbreviations_and_Quotations.json",
+      "total_questions": 535,
+      "description": "Latin sayings, abbreviations, and famous quotations"
+    },
+    {
+      "name": "Mythology",
+      "file": "Mythology.json",
+      "total_questions": 547,
+      "description": "Greek and Roman mythology, gods, heroes, and stories"
+    },
+    {
+      "name": "Vocabulary_I",
+      "file": "Vocabulary_I.json",
+      "total_questions": 489,
+      "description": "Basic Latin vocabulary and word meanings"
+    },
+    {
+      "name": "Vocabulary_II",
+      "file": "Vocabulary_II.json",
+      "total_questions": 495,
+      "description": "Advanced Latin vocabulary and specialized terms"
+    }
+  ],
+  "total_subjects": 8,
+  "last_updated": "/Users/kylexu/JCL_AT_Buddy/website"
+}
