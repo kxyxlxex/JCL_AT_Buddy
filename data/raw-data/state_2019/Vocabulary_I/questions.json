@@ -1,0 +1,610 @@
+{
+  "test_info": {
+    "name": "Vocabulary_I",
+    "year": "state_2019",
+    "subject": "Vocabulary_I",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Choose the best English meaning for the following Latin words and phrases. vocare",
+      "options": {
+        "A": "to say",
+        "B": "to call",
+        "C": "to shout",
+        "D": "to speak"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "Choose the best English meaning for the following Latin words and phrases. olim",
+      "options": {
+        "A": "always",
+        "B": "one day",
+        "C": "almost",
+        "D": "never"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question": "Choose the best English meaning for the following Latin words and phrases. magnopere",
+      "options": {
+        "A": "great",
+        "B": "greatly",
+        "C": "well",
+        "D": "good"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "Choose the best English meaning for the following Latin words and phrases. atque",
+      "options": {
+        "A": "however",
+        "B": "but",
+        "C": "for",
+        "D": "and"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "Choose the best English meaning for the following Latin words and phrases. sacerdos",
+      "options": {
+        "A": "colony",
+        "B": "priest",
+        "C": "settler",
+        "D": "altar"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 6,
+      "question": "Choose the best English meaning for the following Latin words and phrases. aeger",
+      "options": {
+        "A": "river",
+        "B": "farm",
+        "C": "well",
+        "D": "sick"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 7,
+      "question": "Choose the best English meaning for the following Latin words and phrases. praeter",
+      "options": {
+        "A": "beyond",
+        "B": "near",
+        "C": "above",
+        "D": "below"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "Choose the best English meaning for the following Latin words and phrases. nobis",
+      "options": {
+        "A": "for whom",
+        "B": "for us",
+        "C": "for them",
+        "D": "for you"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "Choose the best English meaning for the following Latin words and phrases. claudere",
+      "options": {
+        "A": "to close",
+        "B": "to heal",
+        "C": "to kill",
+        "D": "to open"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "Choose the best English meaning for the following Latin words and phrases. mulier",
+      "options": {
+        "A": "slave",
+        "B": "woman",
+        "C": "mule",
+        "D": "husband"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 11,
+      "question": "Choose the best English meaning for the following Latin words and phrases. priscus",
+      "options": {
+        "A": "newfangled",
+        "B": "dirty",
+        "C": "clean",
+        "D": "old-fashioned"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 12,
+      "question": "Choose the best English meaning for the following Latin words and phrases. ingens",
+      "options": {
+        "A": "huge",
+        "B": "perilous",
+        "C": "tiny",
+        "D": "unharmed"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "Choose the best English meaning for the following Latin words and phrases. trahere",
+      "options": {
+        "A": "to push",
+        "B": "to write",
+        "C": "to pull",
+        "D": "to shorten"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "Choose the best English meaning for the following Latin words and phrases. foris",
+      "options": {
+        "A": "inside",
+        "B": "after",
+        "C": "outside",
+        "D": "before"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 15,
+      "question": "Choose the best English meaning for the following Latin words and phrases. quorum",
+      "options": {
+        "A": "whose",
+        "B": "those",
+        "C": "someone",
+        "D": "whom"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "Choose the best Latin meaning for the following English words and phrases. out of",
+      "options": {
+        "A": "inter",
+        "B": "pro",
+        "C": "ē",
+        "D": "ad"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 17,
+      "question": "Choose the best Latin meaning for the following English words and phrases. sheep",
+      "options": {
+        "A": "ovum",
+        "B": "lac",
+        "C": "ovis",
+        "D": "bos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 18,
+      "question": "Choose the best Latin meaning for the following English words and phrases. to fall",
+      "options": {
+        "A": "currere",
+        "B": "cadere",
+        "C": "cedere",
+        "D": "discedere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "Choose the best Latin meaning for the following English words and phrases. alas",
+      "options": {
+        "A": "tandem",
+        "B": "tamen",
+        "C": "eheu",
+        "D": "euge"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "Choose the best Latin meaning for the following English words and phrases. clearly",
+      "options": {
+        "A": "bene",
+        "B": "aeque",
+        "C": "praeclare",
+        "D": "male"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 21,
+      "question": "Choose the best Latin meaning for the following English words and phrases. highest",
+      "options": {
+        "A": "altus",
+        "B": "profundus",
+        "C": "alter",
+        "D": "summus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 22,
+      "question": "Choose the best Latin meaning for the following English words and phrases. to rout",
+      "options": {
+        "A": "fugare",
+        "B": "iacere",
+        "C": "fugere",
+        "D": "facere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "Choose the best Latin meaning for the following English words and phrases. spear",
+      "options": {
+        "A": "gladius",
+        "B": "galea",
+        "C": "scutum",
+        "D": "telum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 24,
+      "question": "Choose the best Latin meaning for the following English words and phrases. journey",
+      "options": {
+        "A": "certamen",
+        "B": "os",
+        "C": "iter",
+        "D": "flumen"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "Choose the best Latin meaning for the following English words and phrases. on account of",
+      "options": {
+        "A": "procul",
+        "B": "propter",
+        "C": "super",
+        "D": "apud"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question": "Choose the best Latin meaning for the following English words and phrases. then",
+      "options": {
+        "A": "iste",
+        "B": "quam",
+        "C": "mos",
+        "D": "deinde"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 27,
+      "question": "Choose the best Latin meaning for the following English words and phrases. to leap",
+      "options": {
+        "A": "mergere",
+        "B": "salire",
+        "C": "tollere",
+        "D": "sumere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "Choose the best Latin meaning for the following English words and phrases. rich",
+      "options": {
+        "A": "divis",
+        "B": "pauper",
+        "C": "incolumis",
+        "D": "omnis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "Choose the best Latin meaning for the following English words and phrases. low",
+      "options": {
+        "A": "humilis",
+        "B": "gracilis",
+        "C": "dissimilis",
+        "D": "facilis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "Choose the best Latin meaning for the following English words and phrases. to enter",
+      "options": {
+        "A": "appropinquare",
+        "B": "ambulare",
+        "C": "premere",
+        "D": "inire"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 31,
+      "question": "Choose the best SYNONYM for the following Latin words and phrases. litterae",
+      "options": {
+        "A": "verba",
+        "B": "epistulae",
+        "C": "orationes",
+        "D": "voces"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "Choose the best SYNONYM for the following Latin words and phrases. ferre",
+      "options": {
+        "A": "mittere",
+        "B": "velle",
+        "C": "posse",
+        "D": "gerere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 33,
+      "question": "Choose the best SYNONYM for the following Latin words and phrases. facies",
+      "options": {
+        "A": "spes",
+        "B": "vultus",
+        "C": "res",
+        "D": "impetus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "Choose the best SYNONYM for the following Latin words and phrases. indicium",
+      "options": {
+        "A": "vehiculum",
+        "B": "cisium",
+        "C": "baculum",
+        "D": "vestigium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 35,
+      "question": "Choose the best SYNONYM for the following Latin words and phrases. immortalis",
+      "options": {
+        "A": "aeternus",
+        "B": "longus",
+        "C": "mortalis",
+        "D": "brevis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Choose the best ANTONYM for the following Latin words and phrases. pax",
+      "options": {
+        "A": "amicitia",
+        "B": "oppidum",
+        "C": "bellum",
+        "D": "lux"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 37,
+      "question": "Choose the best ANTONYM for the following Latin words and phrases. discedere",
+      "options": {
+        "A": "relinquere",
+        "B": "volare",
+        "C": "festinare",
+        "D": "manere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 38,
+      "question": "Choose the best ANTONYM for the following Latin words and phrases. numquam",
+      "options": {
+        "A": "plene",
+        "B": "semper",
+        "C": "valde",
+        "D": "paene"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 39,
+      "question": "Choose the best ANTONYM for the following Latin words and phrases. neglegere",
+      "options": {
+        "A": "custodire",
+        "B": "natare",
+        "C": "relinquere",
+        "D": "amittere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "Choose the best ANTONYM for the following Latin words and phrases. vicina",
+      "options": {
+        "A": "remota",
+        "B": "propinqua",
+        "C": "finitima",
+        "D": "satis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "Complete the analogy. auriga : cisium :: _____ : plaustrum",
+      "options": {
+        "A": "nauta",
+        "B": "agricola",
+        "C": "imperator",
+        "D": "gladiator"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 42,
+      "question": "Complete the analogy. cantare : carmen :: scribere : _____",
+      "options": {
+        "A": "liberi",
+        "B": "aedificium",
+        "C": "ager",
+        "D": "narratio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 43,
+      "question": "Complete the analogy. athleta : celer :: philosophus : _____",
+      "options": {
+        "A": "senex",
+        "B": "vetus",
+        "C": "stultus",
+        "D": "sapiens"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 44,
+      "question": "Complete the analogy. oppidum : murus :: domus : _____",
+      "options": {
+        "A": "paries",
+        "B": "cubiculum",
+        "C": "triclinium",
+        "D": "urbs"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "Complete the analogy. morbus : salus :: _____ : donum",
+      "options": {
+        "A": "praemium",
+        "B": "vita",
+        "C": "furtum",
+        "D": "mors"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "Choose the word or phrase that does NOT belong by meaning.",
+      "options": {
+        "A": "mensis",
+        "B": "pons",
+        "C": "fons",
+        "D": "aedes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "Choose the word or phrase that does NOT belong by meaning.",
+      "options": {
+        "A": "percutere",
+        "B": "interficere",
+        "C": "necare",
+        "D": "pugnare"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 48,
+      "question": "Choose the word or phrase that does NOT belong by meaning.",
+      "options": {
+        "A": "enim",
+        "B": "namque",
+        "C": "nam",
+        "D": "autem"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 49,
+      "question": "Choose the word or phrase that does NOT belong by meaning.",
+      "options": {
+        "A": "malus",
+        "B": "tumultus",
+        "C": "pirus",
+        "D": "quercus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "Choose the word or phrase that does NOT belong by meaning.",
+      "options": {
+        "A": "ignis",
+        "B": "aestas",
+        "C": "palus",
+        "D": "sol"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    }
+  ]
+}

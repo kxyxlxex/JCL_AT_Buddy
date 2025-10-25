@@ -1,0 +1,607 @@
+{
+  "test_info": {
+    "name": "History_of_the_Monarchy_and_Republic",
+    "year": "state_2015",
+    "subject": "History_of_the_Monarchy_and_Republic",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Who was Octavian’s right-hand man throughout his life, the commander of the",
+      "options": {
+        "A": "Marc Antony",
+        "B": "Marcus Lepidus",
+        "C": "Marcus Agrippa",
+        "D": "Marcus Clodius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 2,
+      "question": "Who served as co-consul with Caesar in 59?",
+      "options": {
+        "A": "Bibulus",
+        "B": "Pompey",
+        "C": "Crassus",
+        "D": "Cato"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "What country did King Attalus III bequeath to Rome in 133?",
+      "options": {
+        "A": "Macedon",
+        "B": "Epirus",
+        "C": "Numidia",
+        "D": "Pergamum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "What animal did Pyrrhus introduce in a battle against the Romans?",
+      "options": {
+        "A": "camel",
+        "B": "elephant",
+        "C": "llama",
+        "D": "yak"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "Upon his death, Romulus was worshipped as what god?",
+      "options": {
+        "A": "Janus",
+        "B": "Lares",
+        "C": "Penates",
+        "D": "Quirinus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 6,
+      "question": "Whose incursion into Sicily hastened the 1st Punic War?",
+      "options": {
+        "A": "Mamertines",
+        "B": "Aequi",
+        "C": "Belgae",
+        "D": "Etruscans"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "At which battle were the forces of Brutus and Cassius effectively defeated?",
+      "options": {
+        "A": "Actium",
+        "B": "Philippi",
+        "C": "Misenum",
+        "D": "Tarentum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "What religious counselor to Numa Pompilius has been associated with the Greek",
+      "options": {
+        "A": "Livia",
+        "B": "Hersilia",
+        "C": "Egeria",
+        "D": "Lucretia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "In the mid-5th century, a Roman commission was sent to Greece to study the",
+      "options": {
+        "A": "Solon",
+        "B": "Draco",
+        "C": "Cleisthenes",
+        "D": "Ephialtes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "What did Publius Claudius Pulcher throw into the sea before losing the battle at",
+      "options": {
+        "A": "Neptune statue",
+        "B": "Lares",
+        "C": "wine",
+        "D": "chickens"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 11,
+      "question": "What Spartan strategist aided the Carthaginians during the 1st Punic War?",
+      "options": {
+        "A": "Adeimantus",
+        "B": "Xanthippus",
+        "C": "Pausanias",
+        "D": "Lycurgus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 12,
+      "question": "What Mauretanian king betrayed Jugurtha to Sulla?",
+      "options": {
+        "A": "Bocchus",
+        "B": "Juba",
+        "C": "Atlas",
+        "D": "Ptolemy"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "What Gallic chieftain defeated the Romans around 390?",
+      "options": {
+        "A": "Cavarinos",
+        "B": "Moritasgos",
+        "C": "Drappes",
+        "D": "Brennus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 14,
+      "question": "In 219 Hannibal’s siege of what city led to the 2nd Punic War?",
+      "options": {
+        "A": "Massilia",
+        "B": "Ebro",
+        "C": "Saguntum",
+        "D": "Gades"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 15,
+      "question": "What consul proposed the Lex Pompeia which granted citizenship to all free",
+      "options": {
+        "A": "Silvanus",
+        "B": "Strabo",
+        "C": "Sulla",
+        "D": "Pompey"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "Who was Octavian’s first wife?",
+      "options": {
+        "A": "Scribonia",
+        "B": "Livia",
+        "C": "Julia",
+        "D": "Claudia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 17,
+      "question": "How many consulships did Marius achieve?",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "7 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 18,
+      "question": "Which king of Rome was supposedly born a slave?",
+      "options": {
+        "A": "c. Tullus Hostilius",
+        "B": "Ancus Marcius",
+        "D": "Servius Tullius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 19,
+      "question": "What former governor of Sicily did Cicero successfully prosecute in 70?",
+      "options": {
+        "A": "Verres",
+        "B": "Piso",
+        "C": "Hortensius",
+        "D": "Rufus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "What river did Caesar cross with the immortal line, “Alea iacta est?”",
+      "options": {
+        "A": "Tiber",
+        "B": "Rubicon",
+        "C": "Po",
+        "D": "Ebro"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 21,
+      "question": "After which battle in 168, did Perseus of Macedon flee to Samothrace?",
+      "options": {
+        "A": "Cynoscephalae",
+        "B": "Magnesia",
+        "C": "Pydna",
+        "D": "Corinth"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "Who served as dictator in 458 and is considered a model of pietas?",
+      "options": {
+        "A": "Cincinnatus",
+        "B": "Scaevola",
+        "C": "Horatius",
+        "D": "Brutus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "Who begged her husband Coriolanus not attack the city of Rome?",
+      "options": {
+        "A": "Cloelia",
+        "B": "Tullia",
+        "C": "Lucretia",
+        "D": "Volumnia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 24,
+      "question": "What shepherd found and rescued Romulus and Remus?",
+      "options": {
+        "A": "Faustulus",
+        "B": "Numitor",
+        "C": "Amulius",
+        "D": "Tiberinus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "What set of triples fought for Rome against Alba Longa?",
+      "options": {
+        "A": "Curiatii",
+        "B": "Salii",
+        "C": "Luperci",
+        "D": "Horatii"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 26,
+      "question": "What supposed grandson of Marius was killed by Antony in 44?",
+      "options": {
+        "A": "Lepidus",
+        "B": "Amatius",
+        "C": "Helvius",
+        "D": "Cinna"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "What king of Numidia greedily seized most of the Carthaginian coastal colonies",
+      "options": {
+        "A": "Jugurtha",
+        "B": "Masinissa",
+        "C": "Antiochus IV",
+        "D": "Philip V"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "In 321 who lured a Roman army into a trap at Caudine Forks?",
+      "options": {
+        "A": "Etruscans",
+        "B": "Umbrians",
+        "C": "Samnites",
+        "D": "Gauls"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "Who received the enormous power created by the Lex Gabinia?",
+      "options": {
+        "A": "Cicero",
+        "B": "Pompey",
+        "C": "Sulla",
+        "D": "Octavius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "What king of the Veians was killed by Cossus around 426?",
+      "options": {
+        "A": "Tolumnius",
+        "B": "Herdonius",
+        "C": "Claudius",
+        "D": "Feretrius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "Who is credited with building the Mamertine prison?",
+      "options": {
+        "A": "Numa Pompilius",
+        "B": "Tullus Hostilius",
+        "C": "Ancus Marcius",
+        "D": "Servius Tullius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 32,
+      "question": "After the battle of Thapsus, which Roman statesman committed suicide?",
+      "options": {
+        "A": "Cato",
+        "B": "Antony",
+        "C": "Nerva",
+        "D": "Piso"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "Mago was the son of which Barcid general?",
+      "options": {
+        "A": "Hannibal",
+        "B": "Hamilcar",
+        "C": "Hasdrubal",
+        "D": "Hanno"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "Who was the Parthian commander at Carrhae?",
+      "options": {
+        "A": "Artavasdes",
+        "B": "Orodes",
+        "C": "Surena",
+        "D": "Ariamnes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 35,
+      "question": "Which Roman dictator successfully conquered the Latins in the Battle of Lake",
+      "options": {
+        "A": "c. Servius Sulpicius",
+        "B": "Manius Tullius",
+        "D": "Titus Aebutius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Who steadfastly demanded, ”Carthago delenda est,” at the end of each speech",
+      "options": {
+        "A": "Scipio",
+        "B": "Cato",
+        "C": "Brutus",
+        "D": "Metellus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "Who served as consul several times during the early years of the Republic?",
+      "options": {
+        "A": "Galba",
+        "B": "Claudius",
+        "C": "Poplicola",
+        "D": "Brutus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 38,
+      "question": "Which naval battle effectively ended the 1st Punic War?",
+      "options": {
+        "A": "Drepanum",
+        "B": "Aegates",
+        "C": "Mylae",
+        "D": "Panormus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 39,
+      "question": "Titus Tatius was the king of what people?",
+      "options": {
+        "A": "Etruscans",
+        "B": "Volscians",
+        "C": "Sabines",
+        "D": "Aequi"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "What gangplank with grappling hooks was introduced during the 1st Punic War?",
+      "options": {
+        "A": "velum",
+        "B": "uncus",
+        "C": "pilum",
+        "D": "corvus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 41,
+      "question": "According to Plutach, Gaius Fabricius Luscinus was unable to be bribed by what",
+      "options": {
+        "A": "Pyrrhus",
+        "B": "Pharnaces",
+        "C": "Ptolemy",
+        "D": "Philip"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "Who held the imperium in Rome, when the king was away from the city?",
+      "options": {
+        "A": "consul",
+        "B": "praefectus urbi",
+        "C": "interrex",
+        "D": "pontifex maximus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 43,
+      "question": "On which of the seven hills did Romulus build his first settlement at Rome?",
+      "options": {
+        "A": "Quirinal",
+        "B": "Capitoline",
+        "C": "Palatine",
+        "D": "Viminal"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 44,
+      "question": "What Italian city rebelled against Rome and declared itself for Carthage in 216?",
+      "options": {
+        "A": "Capua",
+        "B": "Caere",
+        "C": "Clusium",
+        "D": "Camerinum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "What woman did Antony officially divorce in 32?",
+      "options": {
+        "A": "Fulvia",
+        "B": "Cleopatra",
+        "C": "Livia",
+        "D": "Octavia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 46,
+      "question": "Queen Teuta of Illyria encouraged what group of people to defy Rome and kill",
+      "options": {
+        "A": "slaves",
+        "B": "farmers",
+        "C": "pirates",
+        "D": "gladiators"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 47,
+      "question": "What king of Syracuse was murdered after pledging his loyalty to Carthage?",
+      "options": {
+        "A": "Gelo",
+        "B": "Hieronymus",
+        "C": "Philistis",
+        "D": "Adranodoros"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "What consul demanded unconditional surrender from the Aetolians in 191?",
+      "options": {
+        "A": "Scipio",
+        "B": "Paullus",
+        "C": "Glabrio",
+        "D": "Licinius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 49,
+      "question": "What Vestal Virgin allowed the Sabines into Rome and whose name was applied to",
+      "options": {
+        "A": "Tarpeia",
+        "B": "Lucretia",
+        "C": "Hersilia",
+        "D": "Livia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "In 217 B.C., who served as Quintus Fabius Maximus' magister equitum?",
+      "options": {
+        "A": "Rullianus",
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    }
+  ]
+}

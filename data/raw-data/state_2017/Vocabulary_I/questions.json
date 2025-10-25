@@ -1,0 +1,556 @@
+{
+  "test_info": {
+    "name": "Vocabulary_I",
+    "year": "state_2017",
+    "subject": "Vocabulary_I",
+    "total_questions": 46
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "aperere",
+      "options": {
+        "A": "to appear",
+        "B": "to open",
+        "C": "to receive",
+        "D": "to close"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 2,
+      "question": "lectus",
+      "options": {
+        "A": "bed",
+        "B": "chair",
+        "C": "choice",
+        "D": "leg"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question": "cantare",
+      "options": {
+        "A": "to not be able",
+        "B": "to deny",
+        "C": "to sing",
+        "D": "to enter"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "antea",
+      "options": {
+        "A": "afterwards",
+        "B": "previously",
+        "C": "altar",
+        "D": "daily"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 5,
+      "question": "vincere",
+      "options": {
+        "A": "to see",
+        "B": "to destroy",
+        "C": "to conquer",
+        "D": "to go"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 6,
+      "question": "arx",
+      "options": {
+        "A": "citadel",
+        "B": "art",
+        "C": "city",
+        "D": "arch"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "capere",
+      "options": {
+        "A": "to desire",
+        "B": "to fall",
+        "C": "to stop",
+        "D": "to grasp"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "cum",
+      "options": {
+        "A": "that",
+        "B": "before",
+        "C": "which d after"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "soror",
+      "options": {
+        "A": "sorrow",
+        "B": "sister",
+        "C": "sword",
+        "D": "scene"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "virtus",
+      "options": {
+        "A": "courage",
+        "B": "means",
+        "C": "quality",
+        "D": "force"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 11,
+      "question": "ibi",
+      "options": {
+        "A": "here",
+        "B": "yesterday",
+        "C": "where",
+        "D": "there"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "magnus",
+      "options": {
+        "A": "many",
+        "B": "hand",
+        "C": "bad",
+        "D": "powerful"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 13,
+      "question": "quis",
+      "options": {
+        "A": "who",
+        "B": "such",
+        "C": "and",
+        "D": "witch"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 14,
+      "question": "onus",
+      "options": {
+        "A": "old lady",
+        "B": "load",
+        "C": "honor",
+        "D": "gold"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "dare",
+      "options": {
+        "A": "to dare",
+        "B": "to do",
+        "C": "to give",
+        "D": "stand"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 16,
+      "question": "to guard",
+      "options": {
+        "A": "servire",
+        "B": "manere",
+        "C": "curare",
+        "D": "servare"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "to pull",
+      "options": {
+        "A": "tradere",
+        "B": "trahere",
+        "C": "cedere",
+        "D": "tangere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 18,
+      "question": "merchant",
+      "options": {
+        "A": "mendax",
+        "B": "mater",
+        "C": "mercator",
+        "D": "nauta"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 19,
+      "question": "overseer",
+      "options": {
+        "A": "dux",
+        "B": "vilicus",
+        "C": "senator",
+        "D": "arbor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "building",
+      "options": {
+        "A": "villa",
+        "B": "insula",
+        "C": "aedificium",
+        "D": "domus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 21,
+      "question": "grain",
+      "options": {
+        "A": "periculum",
+        "B": "praemium",
+        "C": "frumentum",
+        "D": "cibus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 22,
+      "question": "skill",
+      "options": {
+        "A": "arx",
+        "B": "arcus",
+        "C": "aequus",
+        "D": "ars"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 23,
+      "question": "harbor",
+      "options": {
+        "A": "pons",
+        "B": "portus",
+        "C": "rivus",
+        "D": "pelagus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "to approach",
+      "options": {
+        "A": "appropinquare",
+        "B": "relinquere",
+        "C": "invenire",
+        "D": "apparare"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "tired",
+      "options": {
+        "A": "ignavus",
+        "B": "iratus",
+        "C": "brevis",
+        "D": "fessus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "situation",
+      "options": {
+        "A": "res",
+        "B": "causa",
+        "C": "negotio",
+        "D": "labor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "stone",
+      "options": {
+        "A": "lepus",
+        "B": "lapis",
+        "C": "lupus",
+        "D": "lectus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "quiet",
+      "options": {
+        "A": "timidus",
+        "B": "tacitus",
+        "C": "perterritus",
+        "D": "latus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "quick",
+      "options": {
+        "A": "celeritas",
+        "B": "cursus",
+        "C": "clarus",
+        "D": "celer"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 30,
+      "question": "slowly",
+      "options": {
+        "A": "breve",
+        "B": "fesse",
+        "C": "lente",
+        "D": "longe"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "altum",
+      "options": {
+        "A": "pons",
+        "B": "iauna",
+        "C": "mare",
+        "D": "latum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "petere",
+      "options": {
+        "A": "rogare",
+        "B": "timere",
+        "C": "fugere",
+        "D": "invenire"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "gladius",
+      "options": {
+        "A": "scutum",
+        "B": "miles",
+        "C": "campus",
+        "D": "ensis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 34,
+      "question": "et",
+      "options": {
+        "A": "quisque",
+        "B": "ad",
+        "C": "cum",
+        "D": "ac"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 35,
+      "question": "parvus",
+      "options": {
+        "A": "medius",
+        "B": "par",
+        "C": "paulus",
+        "D": "multum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 36,
+      "question": "ridere",
+      "options": {
+        "A": "pugnare",
+        "B": "debere",
+        "C": "caedere",
+        "D": "lacrimare"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 37,
+      "question": "ex",
+      "options": {
+        "A": "ab",
+        "B": "ad",
+        "C": "ubi",
+        "D": "sub"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "nolle",
+      "options": {
+        "A": "narrare",
+        "B": "cupere",
+        "C": "repellere",
+        "D": "delere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "hospes",
+      "options": {
+        "A": "amicus",
+        "B": "hostes",
+        "C": "filia",
+        "D": "corpus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 40,
+      "question": "mors",
+      "options": {
+        "A": "vir",
+        "B": "tempus",
+        "C": "pax",
+        "D": "vita"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 41,
+      "question": "liber : miles :: _____ : servus",
+      "options": {
+        "A": "homo",
+        "B": "captivus",
+        "C": "aequus",
+        "D": "noster"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "cacumen : ____ :: tectum : villa",
+      "options": {
+        "A": "arbor",
+        "B": "corpus",
+        "C": "silva",
+        "D": "caput"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 43,
+      "question": "coquere : cibus :: munire : ______",
+      "options": {
+        "A": "fenestra",
+        "B": "terra",
+        "C": "regnum",
+        "D": "animus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 44,
+      "question": "facere : ______ :: currere : remanere",
+      "options": {
+        "A": "iacere",
+        "B": "vertere",
+        "C": "impedire",
+        "D": "dolere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "olim : semper :: ______ : omnis",
+      "options": {
+        "A": "quid",
+        "B": "brevis",
+        "C": "turba",
+        "D": "aliquis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "a. veritas b. mors c. fides d. flumen",
+      "options": {},
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    }
+  ]
+}

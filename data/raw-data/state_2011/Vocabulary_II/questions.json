@@ -1,0 +1,552 @@
+{
+  "test_info": {
+    "name": "Vocabulary_II",
+    "year": "state_2011",
+    "subject": "Vocabulary_II",
+    "total_questions": 46
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "sol",
+      "options": {
+        "A": "sun",
+        "B": "ground",
+        "C": "alone",
+        "D": "sandal"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 2,
+      "question": "dulcis",
+      "options": {
+        "A": "sweet",
+        "B": "worthy",
+        "C": "stupid",
+        "D": "cruel"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 3,
+      "question": "ambo",
+      "options": {
+        "A": "walk",
+        "B": "full",
+        "C": "scorch",
+        "D": "both"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "feriae",
+      "options": {
+        "A": "jaws",
+        "B": "beast",
+        "C": "banquet",
+        "D": "holidays"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "ars",
+      "options": {
+        "A": "citadel",
+        "B": "bronze",
+        "C": "skill",
+        "D": "air"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 6,
+      "question": "desilio",
+      "options": {
+        "A": "scatter",
+        "B": "mock",
+        "C": "jump down",
+        "D": "cut up"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "peritus",
+      "options": {
+        "A": "dying",
+        "B": "obedient",
+        "C": "beginning",
+        "D": "experienced"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "faber",
+      "options": {
+        "A": "craftsman",
+        "B": "stage play",
+        "C": "storyteller",
+        "D": "bean"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "virga",
+      "options": {
+        "A": "courage",
+        "B": "garden",
+        "C": "rod",
+        "D": "maiden"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 10,
+      "question": "praebeo",
+      "options": {
+        "A": "rush forth",
+        "B": "test",
+        "C": "prohibit",
+        "D": "offer"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 11,
+      "question": "impiger",
+      "options": {
+        "A": "brave",
+        "B": "cowardly",
+        "C": "lively",
+        "D": "sick"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 12,
+      "question": "adeo",
+      "options": {
+        "A": "still",
+        "B": "so",
+        "C": "only",
+        "D": "immediately"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 13,
+      "question": "aetas",
+      "options": {
+        "A": "age",
+        "B": "estimation",
+        "C": "heat",
+        "D": "summer"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "morbus",
+      "options": {
+        "A": "regret",
+        "B": "disease",
+        "C": "death",
+        "D": "delay"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 15,
+      "question": "nanciscor",
+      "options": {
+        "A": "steer",
+        "B": "become unable",
+        "C": "obtain",
+        "D": "be born"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "be accustomed",
+      "options": {
+        "A": "exerceo",
+        "B": "redeo",
+        "C": "soleo",
+        "D": "pereo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 17,
+      "question": "it is permitted",
+      "options": {
+        "A": "licet",
+        "B": "oportet",
+        "C": "constat",
+        "D": "placet"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 18,
+      "question": "fall",
+      "options": {
+        "A": "caedo",
+        "B": "cado",
+        "C": "cedo",
+        "D": "condo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "spare",
+      "options": {
+        "A": "partio",
+        "B": "parco",
+        "C": "pareo",
+        "D": "pario"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "arouse",
+      "options": {
+        "A": "orior",
+        "B": "cogito",
+        "C": "ordior",
+        "D": "cieo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 21,
+      "question": "destroy",
+      "options": {
+        "A": "depono",
+        "B": "deligo",
+        "C": "deleo",
+        "D": "deicio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 22,
+      "question": "sleep",
+      "options": {
+        "A": "debeo",
+        "B": "dubito",
+        "C": "dimico",
+        "D": "dormio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "often",
+      "options": {
+        "A": "parum",
+        "B": "paene",
+        "C": "saepe",
+        "D": "semper"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "snow",
+      "options": {
+        "A": "nex",
+        "B": "nix",
+        "C": "nox",
+        "D": "nux"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "advise",
+      "options": {
+        "A": "maneo",
+        "B": "minuo",
+        "C": "moneo",
+        "D": "munio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question": "endure",
+      "options": {
+        "A": "subruo",
+        "B": "potior",
+        "C": "subicio",
+        "D": "patior"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "duty",
+      "options": {
+        "A": "prodigium",
+        "B": "oppidum",
+        "C": "officium",
+        "D": "praesidium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 28,
+      "question": "that one of yours",
+      "options": {
+        "A": "iste",
+        "B": "ille",
+        "C": "ipse",
+        "D": "is"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "praise",
+      "options": {
+        "A": "laetus",
+        "B": "laus",
+        "C": "latus",
+        "D": "lautus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "grape",
+      "options": {
+        "A": "ovum",
+        "B": "vinculum",
+        "C": "ebrius",
+        "D": "uva"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 31,
+      "question": "pompa",
+      "options": {
+        "A": "agger",
+        "B": "agmen",
+        "C": "proditio",
+        "D": "proles"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 32,
+      "question": "denique",
+      "options": {
+        "A": "haud",
+        "B": "protinus",
+        "C": "deinde",
+        "D": "tandem"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "fundus",
+      "options": {
+        "A": "excidium",
+        "B": "ager",
+        "C": "condicio",
+        "D": "pecunia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 34,
+      "question": "maturo",
+      "options": {
+        "A": "festino",
+        "B": "seneo",
+        "C": "adolesco",
+        "D": "tueor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "trux",
+      "options": {
+        "A": "saevus",
+        "B": "probus",
+        "C": "calidus",
+        "D": "quietus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 36,
+      "question": "prope",
+      "options": {
+        "A": "furtim",
+        "B": "repente",
+        "C": "magnopere",
+        "D": "procul"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 37,
+      "question": "alienus",
+      "options": {
+        "A": "proprius",
+        "B": "lenis",
+        "C": "cotidianus",
+        "D": "mobilis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "opto",
+      "options": {
+        "A": "insto",
+        "B": "nolo",
+        "C": "faveo",
+        "D": "retineo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 39,
+      "question": "suppleo",
+      "options": {
+        "A": "polliceor",
+        "B": "dono",
+        "C": "orior",
+        "D": "haurio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "omnino",
+      "options": {
+        "A": "paulatim",
+        "B": "benigne",
+        "C": "confestim",
+        "D": "forte"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 41,
+      "question": "lana : ovis ::",
+      "options": {
+        "A": "c. custos : canis",
+        "B": "caseus : mus",
+        "D": "lac : bos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 42,
+      "question": "vilicus : servus ::",
+      "options": {
+        "A": "c. culina : coquus",
+        "B": "barbarus : civis",
+        "D": "legatus : miles"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 43,
+      "question": "oleum : lubricus ::",
+      "options": {
+        "A": "c. aqua : madidus",
+        "B": "sanguis : limosus",
+        "D": "mel : apis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 44,
+      "question": "sol : lucet ::",
+      "options": {
+        "A": "c. sidus : accidit",
+        "B": "imber : pluit",
+        "D": "nubes : constat"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 45,
+      "question": "iocus : rideo ::",
+      "options": {
+        "A": "c. canis : latro",
+        "B": "poema : pono",
+        "D": "lectus : deleo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "a. ius b. tectum c. paries d. limen",
+      "options": {},
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    }
+  ]
+}

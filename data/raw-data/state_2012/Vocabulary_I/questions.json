@@ -1,0 +1,550 @@
+{
+  "test_info": {
+    "name": "Vocabulary_I",
+    "year": "state_2012",
+    "subject": "Vocabulary_I",
+    "total_questions": 45
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "fides",
+      "options": {
+        "A": "breath",
+        "B": "hope",
+        "C": "faith",
+        "D": "sight"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 2,
+      "question": "homo",
+      "options": {
+        "A": "same",
+        "B": "woman",
+        "C": "boy",
+        "D": "human"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 3,
+      "question": "miles",
+      "options": {
+        "A": "man",
+        "B": "soldier",
+        "C": "hand",
+        "D": "opponent"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "adsum",
+      "options": {
+        "A": "be able",
+        "B": "be from",
+        "C": "be in charge",
+        "D": "be present"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "taceo",
+      "options": {
+        "A": "I advise",
+        "B": "I remain",
+        "C": "I am quiet",
+        "D": "I wait"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "fessus",
+      "options": {
+        "A": "ignorant",
+        "B": "tired",
+        "C": "energy",
+        "D": "lazy"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "question": "nescio",
+      "options": {
+        "A": "I know",
+        "B": "I see",
+        "C": "I think",
+        "D": "I know not"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 8,
+      "question": "ante",
+      "options": {
+        "A": "before",
+        "B": "without",
+        "C": "opposite",
+        "D": "between"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "intro",
+      "options": {
+        "A": "I am beginning",
+        "B": "I end",
+        "C": "I enter",
+        "D": "I exit"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "morbus",
+      "options": {
+        "A": "death",
+        "B": "sickness",
+        "C": "custom",
+        "D": "bite"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 11,
+      "question": "nimbus",
+      "options": {
+        "A": "broomstick",
+        "B": "nimble",
+        "C": "eclipse",
+        "D": "cloud"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 12,
+      "question": "audeo",
+      "options": {
+        "A": "I dare",
+        "B": "I help",
+        "C": "I build",
+        "D": "I increase"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "perambulo",
+      "options": {
+        "A": "I walk through",
+        "B": "I drag",
+        "C": "I gird",
+        "D": "I beg"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "freedman (ex-­‐slave)",
+      "options": {
+        "A": "liber",
+        "B": "liberi",
+        "C": "socius",
+        "D": "libertus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 15,
+      "question": "body",
+      "options": {
+        "A": "opus",
+        "B": "homunculus",
+        "C": "porcus",
+        "D": "corpus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 16,
+      "question": "merchant",
+      "options": {
+        "A": "retailor",
+        "B": "negotiator",
+        "C": "mercator",
+        "D": "lector"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 17,
+      "question": "I sit",
+      "options": {
+        "A": "specto",
+        "B": "sedeo",
+        "C": "sto",
+        "D": "seco"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 18,
+      "question": "near",
+      "options": {
+        "A": "circum",
+        "B": "ubi",
+        "C": "pro",
+        "D": "prope"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 19,
+      "question": "I hand over",
+      "options": {
+        "A": "trado",
+        "B": "teneo",
+        "C": "traho",
+        "D": "tango"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "I spare",
+      "options": {
+        "A": "parco",
+        "B": "curo",
+        "C": "dono gratias",
+        "D": "ago gratias"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "happy",
+      "options": {
+        "A": "laetus",
+        "B": "latus",
+        "C": "brevis",
+        "D": "altus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "sleep",
+      "options": {
+        "A": "durus",
+        "B": "somnus",
+        "C": "lectus",
+        "D": "cubiculum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "doctor",
+      "options": {
+        "A": "medicus",
+        "B": "pediagogus",
+        "C": "advocatus",
+        "D": "tabernarius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "afraid",
+      "options": {
+        "A": "rubea",
+        "B": "similis",
+        "C": "stultus",
+        "D": "timidus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 25,
+      "question": "kitchen",
+      "options": {
+        "A": "cubiculum",
+        "B": "furnus",
+        "C": "culina",
+        "D": "copia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 26,
+      "question": "do",
+      "options": {
+        "A": "ago",
+        "B": "dono",
+        "C": "facio",
+        "D": "amo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "ianua",
+      "options": {
+        "A": "porta",
+        "B": "casus",
+        "C": "portus",
+        "D": "domus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "vel",
+      "options": {
+        "A": "ubi",
+        "B": "aut",
+        "C": "quod",
+        "D": "atque"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "demonstro",
+      "options": {
+        "A": "accipio",
+        "B": "habeo",
+        "C": "ambulo",
+        "D": "ostendo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 30,
+      "question": "interficio",
+      "options": {
+        "A": "cupio",
+        "B": "occido",
+        "C": "gero",
+        "D": "dormio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 31,
+      "question": "relinquo",
+      "options": {
+        "A": "maneo",
+        "B": "moneo",
+        "C": "exeo",
+        "D": "paro"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 32,
+      "question": "fortuna",
+      "options": {
+        "A": "ops",
+        "B": "dives",
+        "C": "sors",
+        "D": "gemma"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 33,
+      "question": "vetus",
+      "options": {
+        "A": "miliaris",
+        "B": "antiquus",
+        "C": "primus pilus",
+        "D": "praefectus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "brevis",
+      "options": {
+        "A": "clarus",
+        "B": "longus",
+        "C": "ingens",
+        "D": "latus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "obesus",
+      "options": {
+        "A": "gracilis",
+        "B": "praemium",
+        "C": "miles",
+        "D": "senator"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "inopia",
+      "options": {
+        "A": "res",
+        "B": "divitiae",
+        "C": "pars",
+        "D": "vox"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "comes",
+      "options": {
+        "A": "instar",
+        "B": "carrus",
+        "C": "sanus",
+        "D": "hostis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 38,
+      "question": "umquam",
+      "options": {
+        "A": "saepe",
+        "B": "vix",
+        "C": "numquam",
+        "D": "quisquam"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 39,
+      "question": "aliquis",
+      "options": {
+        "A": "nemo",
+        "B": "rus",
+        "C": "prope",
+        "D": "ob"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "gaudeo",
+      "options": {
+        "A": "advenio",
+        "B": "doleo",
+        "C": "simpleficio",
+        "D": "credo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 46,
+      "question": "nubes : caelum :: miles :",
+      "options": {
+        "A": "exercitus",
+        "B": "turba",
+        "C": "mors",
+        "D": "imperium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "discipulus : disco :: gladiator :",
+      "options": {
+        "A": "navigo",
+        "B": "pugno",
+        "C": "duco",
+        "D": "lego"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "quindecim : quintus decimus :: viginti duo :",
+      "options": {
+        "A": "viginti secundus",
+        "B": "vicesimus duo",
+        "C": "vicesimus secundus",
+        "D": "secundus vicesimus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 49,
+      "question": "fulmen : Iuppiter :: sagitta :",
+      "options": {
+        "A": "Minerva",
+        "B": "Mars",
+        "C": "Diana",
+        "D": "Neptunus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "gladius : necare :: penna :",
+      "options": {
+        "A": "navigare",
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    }
+  ]
+}

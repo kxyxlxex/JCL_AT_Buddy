@@ -1,0 +1,610 @@
+{
+  "test_info": {
+    "name": "Mottoes,_Abbreviations,_and_Quotations",
+    "year": "state_2018",
+    "subject": "Mottoes,_Abbreviations,_and_Quotations",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "ab ovo usque ad mala",
+      "options": {
+        "A": "quickly",
+        "B": "from start to finish",
+        "C": "we learn from one example",
+        "D": "it is not allowed"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "lapsus linguae",
+      "options": {
+        "A": "a slip of the tongue",
+        "B": "a slip of the pen",
+        "C": "a lapse in judgment",
+        "D": "a lapse of memory"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "sententia iudicum",
+      "options": {
+        "A": "finding of the jury",
+        "B": "spirit of the law",
+        "C": "the right of the accused",
+        "D": "miscarriage of justice"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "in situ",
+      "options": {
+        "A": "notably",
+        "B": "the situation",
+        "C": "in its natural place",
+        "D": "promptly"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 5,
+      "question": "the other way around",
+      "options": {
+        "A": "cuique suum",
+        "B": "ipso facto",
+        "C": "pro tempore",
+        "D": "vice versa"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 6,
+      "question": "yearly",
+      "options": {
+        "A": "per annum",
+        "B": "per mensem",
+        "C": "per centum",
+        "D": "per diem"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "masterpiece",
+      "options": {
+        "A": "magnum opus",
+        "B": "res gestae",
+        "C": "propria manu",
+        "D": "spiritus mundi"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "The art of dying",
+      "options": {
+        "A": "Arte perire sua",
+        "B": "Ars moriendi",
+        "C": "Ars poetica",
+        "D": "Artes perdiste"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "Which phrase promotes the essential value of lying?",
+      "options": {
+        "A": "Qui fugiebat rursus proeliabitur",
+        "B": "Qui scribit bis legit",
+        "C": "Quis custodiet ipsos custodes",
+        "D": "Qui nescit dissimulare nescit vivere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 10,
+      "question": "Which phrase indicates that an item is indispensible for the task at hand?",
+      "options": {
+        "A": "sine qua non",
+        "B": "verbatim",
+        "C": "stet",
+        "D": "merite"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "Which phrase means approximately the same thing as quid pro quo?",
+      "options": {
+        "A": "manus manum lavat",
+        "B": "alter idem",
+        "C": "primus inter pares",
+        "D": "quid nunc"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "Which of the following phrases refers to taxation based upon an object’s worth?",
+      "options": {
+        "A": "a principio",
+        "B": "ad hominem",
+        "C": "ab extra",
+        "D": "ad valorem"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 13,
+      "question": "Sic semper tyrannis",
+      "options": {
+        "A": "South Carolina",
+        "B": "Virginia",
+        "C": "Maryland",
+        "D": "Massachusetts"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 14,
+      "question": "Urbs in horto",
+      "options": {
+        "A": "Paris",
+        "B": "New York",
+        "C": "Montreal",
+        "D": "Chicago"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 15,
+      "question": "Sicut patribus sit Deus nobis",
+      "options": {
+        "A": "Lucerne",
+        "B": "Boston",
+        "C": "Madrid",
+        "D": "Geneva"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "Ad astra per aspera",
+      "options": {
+        "A": "Kansas",
+        "B": "Arkansas",
+        "C": "California",
+        "D": "Idaho"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "Veritas",
+      "options": {
+        "A": "Yale",
+        "B": "Harvard",
+        "C": "Johns Hopkins",
+        "D": "North Dakota"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 18,
+      "question": "Crescit eundo",
+      "options": {
+        "A": "Colorado",
+        "B": "Connecticut",
+        "C": "Oklahoma",
+        "D": "New Mexico"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 19,
+      "question": "Haec tibi dona fero",
+      "options": {
+        "A": "Saskatchewan",
+        "B": "Scotland",
+        "C": "Nova Scotia",
+        "D": "Newfoundland"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 20,
+      "question": "Domino, Optimo, Maximo",
+      "options": {
+        "A": "Louis XIV",
+        "B": "Epicureans",
+        "C": "Benedictines",
+        "D": "Jesuits"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 21,
+      "question": "Disce et doce",
+      "options": {
+        "A": "University of Sheffield",
+        "B": "University of Wellington",
+        "C": "Oxford University",
+        "D": "Cambridge University"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "Fordham University",
+      "options": {
+        "A": "Scientia sol mentis",
+        "B": "Sapientia et doctrina",
+        "C": "Salus populi",
+        "D": "Studiis et rebus honestis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "Bryn Mawr College",
+      "options": {
+        "A": "Terras irradiant",
+        "B": "Veritatem Dilexi",
+        "C": "Mihi cura futuri",
+        "D": "Non sibi sed suis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "Belize",
+      "options": {
+        "A": "Pro mundi beneficio",
+        "B": "Semper progrediens",
+        "C": "Pergo et perago",
+        "D": "Sub umbra floreo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 25,
+      "question": "t.i.d. = three times a ______.",
+      "options": {
+        "A": "week",
+        "B": "month",
+        "C": "day",
+        "D": "year"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 26,
+      "question": "N.B.",
+      "options": {
+        "A": "note well",
+        "B": "compare",
+        "C": "see below",
+        "D": "the work cited"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "Medicine marked “a.c.” should be taken ______",
+      "options": {
+        "A": "at night",
+        "B": "before meals",
+        "C": "every day",
+        "D": "only once"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "Found on coins of the United Kingdom, Canada, and Australia, D.G. means",
+      "options": {
+        "A": "by the grace of God",
+        "B": "may it last forever",
+        "C": "legal tender",
+        "D": "sovereign ruler"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "agit.",
+      "options": {
+        "A": "take",
+        "B": "apply",
+        "C": "shake",
+        "D": "swallow"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 30,
+      "question": "as needed",
+      "options": {
+        "A": "p.r.d.",
+        "B": "p.r.",
+        "C": "p.r.n.",
+        "D": "p.n."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "b.v.",
+      "options": {
+        "A": "See you soon",
+        "B": "Hello",
+        "C": "Goodbye",
+        "D": "Welcome"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 32,
+      "question": "see below",
+      "options": {
+        "A": "v.s.",
+        "B": "vs.",
+        "C": "v.i.",
+        "D": "V.C."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 33,
+      "question": "op. cit.",
+      "options": {
+        "A": "he/she died without issue",
+        "B": "in the right eye",
+        "C": "in the work cited",
+        "D": "in the left eye"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 34,
+      "question": "immediately",
+      "options": {
+        "A": "init.",
+        "B": "inf.",
+        "C": "stet",
+        "D": "stat."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 35,
+      "question": "oil",
+      "options": {
+        "A": "oz.",
+        "B": "or.",
+        "C": "ob.",
+        "D": "ol."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 36,
+      "question": "aet.",
+      "options": {
+        "A": "summertime",
+        "B": "of the age",
+        "C": "silver",
+        "D": "bronze"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "fl.",
+      "options": {
+        "A": "flourished",
+        "B": "let it be made",
+        "C": "pages",
+        "D": "female"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "Which is roughly synonymous with s.i.d.?",
+      "options": {
+        "A": "h.d.",
+        "B": "d.d.",
+        "C": "o.d.",
+        "D": "u.d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 39,
+      "question": "Which does NOT belong with the others?",
+      "options": {
+        "A": "exc.",
+        "B": "disp.",
+        "C": "fec.",
+        "D": "pinx."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "Quot homines tot sententiae",
+      "options": {
+        "A": "Terence",
+        "B": "Vergil",
+        "C": "Ennius",
+        "D": "Horace"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "Dux femina facti",
+      "options": {
+        "A": "Vergil",
+        "B": "Silius Italicus",
+        "C": "Ovid",
+        "D": "Jerome"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "Errare humanum est",
+      "options": {
+        "A": "Ennius",
+        "B": "Lucretius",
+        "C": "Seneca",
+        "D": "Vergil"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 43,
+      "question": "Odi et amo",
+      "options": {
+        "A": "Horace",
+        "B": "Ovid",
+        "C": "Phaedrus",
+        "D": "Catullus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 44,
+      "question": "Non est ad astra mollis e terris via",
+      "options": {
+        "A": "Seneca",
+        "B": "Vergil",
+        "C": "Martial",
+        "D": "Catullus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "Grammatici certant",
+      "options": {
+        "A": "Seneca",
+        "B": "Palaemon",
+        "C": "Quintilian",
+        "D": "Horace"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 46,
+      "question": "Mihi forsan, tibi quod negarit, porriget hora",
+      "options": {
+        "A": "Ovid",
+        "B": "Persius",
+        "C": "Plautus",
+        "D": "Horace"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 47,
+      "question": "Rara avis in terris, nigroque simillima cycno",
+      "options": {
+        "A": "Cicero",
+        "B": "Vergil",
+        "C": "Tacitus",
+        "D": "Juvenal"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 48,
+      "question": "Rident stolidi verba Latina",
+      "options": {
+        "A": "Quintilian",
+        "B": "Ovid",
+        "C": "Cicero",
+        "D": "Horace"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "Haec scripsi non otii abundantia, sed amoris erga te",
+      "options": {
+        "A": "Propertius",
+        "B": "Cicero",
+        "C": "Ovid",
+        "D": "Catullus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "Non scribit, cuius carmina nemo legit",
+      "options": {
+        "A": "Martial",
+        "B": "Quintilian",
+        "C": "Pliny",
+        "D": "Seneca"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    }
+  ]
+}

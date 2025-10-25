@@ -1,0 +1,603 @@
+{
+  "test_info": {
+    "name": "Classical_Art",
+    "year": "state_2011",
+    "subject": "Classical_Art",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "What artistic technique does this work employ?",
+      "options": {
+        "A": "mosaic",
+        "B": "cameo",
+        "C": "fresco",
+        "D": "secco"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "What is the subject matter of the work?",
+      "options": {
+        "A": "c. Achilles and Hector at Troy",
+        "B": "Caesar and Pompey at Pharsalus",
+        "D": "Alexander and Darius at Issus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 3,
+      "question": "Where in Pompeii was the work discovered?",
+      "options": {
+        "A": "c. The Villa of Diomedes",
+        "B": "The House of the Faun",
+        "D": "The Villa of the Mysteries"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "Classify the work by the civilization/area that produced it.",
+      "options": {
+        "A": "Minoan",
+        "B": "Mycenaean",
+        "C": "Cycladic",
+        "D": "Etruscan"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "What is the medium of the work?",
+      "options": {
+        "A": "terra cotta",
+        "B": "tufa",
+        "C": "marble",
+        "D": "porphyry"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "Where would the work have been placed?",
+      "options": {
+        "A": "a tomb",
+        "B": "a temple",
+        "C": "a home",
+        "D": "a theater"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "Of which architectural order is this a model?",
+      "options": {
+        "A": "Corinthian",
+        "B": "Doric",
+        "C": "Ionic",
+        "D": "Tuscan"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "What portion of the entablature, composed of triglyphs and metopes, is labeled “A”?",
+      "options": {
+        "A": "architrave",
+        "B": "cornice",
+        "C": "frieze",
+        "D": "pediment"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "What portion of the capital, upon which the entablature rested, is labeled “B”?",
+      "options": {
+        "A": "stylobate",
+        "B": "plinth",
+        "C": "abacus",
+        "D": "echinus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "Assuming that the scene on the metope is from the Parthenon, on which side did it appear?",
+      "options": {
+        "A": "North",
+        "B": "South",
+        "C": "East",
+        "D": "West"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 11,
+      "question": "This vessel dates to which Greek artistic period?",
+      "options": {
+        "A": "Geometric",
+        "B": "Orientalizing",
+        "C": "Archaic",
+        "D": "Classical"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "Give the technical name for a mixing bowl, of which this is an example.",
+      "options": {
+        "A": "lekythos",
+        "B": "amphora",
+        "C": "kylix",
+        "D": "krater"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 13,
+      "question": "The repeated turning path of the decorative border at the top of the piece is a(n) __________.",
+      "options": {
+        "A": "meander",
+        "B": "reticulatum",
+        "C": "acanthus",
+        "D": "volute"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "Who is identified as the painter of this piece?",
+      "options": {
+        "A": "the Achilles Painter",
+        "B": "the Dipylon Master",
+        "C": "Euphronius",
+        "D": "Psiax"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "Perhaps the most famous Hellenistic ensemble, where was the original of this Altar of Zeus?",
+      "options": {
+        "A": "Athens",
+        "B": "Epidauros",
+        "C": "Paestum",
+        "D": "Pergamon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 16,
+      "question": "To which of the four Pompeian Styles does this fresco belong?",
+      "options": {
+        "A": "First",
+        "B": "Second",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 17,
+      "question": "Upon what earlier Greek work is the harmonious body positioning of this Roman portrait based?",
+      "options": {
+        "A": "Discophoros",
+        "B": "Doryphoros",
+        "C": "Kriophoros",
+        "D": "Moscophoros"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 18,
+      "question": "What do the central figures on the cuirass depict?",
+      "options": {
+        "A": "Augustus and Agrippa after defeating Antony and Cleopatra at the Battle of Actium",
+        "B": "Augustus and Antony after defeating Brutus and Cassius at the Battle of Philippi",
+        "C": "the Parthian King restoring Crassus’ lost standards to Tiberius",
+        "D": "the Gallic chieftain Vercingetorix paying homage to the triumphing Julius Caesar"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 19,
+      "question": "What Roman emperor is depicted enjoying his apotheosis in this piece?",
+      "options": {
+        "A": "Hadrian",
+        "B": "Trajan",
+        "C": "Antoninus Pius",
+        "D": "Marcus Aurelius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "What is the medium of this Severan family portrait?",
+      "options": {
+        "A": "fresco secco",
+        "B": "buon fresco",
+        "C": "encaustic",
+        "D": "tempera"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 21,
+      "question": "This black figure vase was painted by",
+      "options": {
+        "A": "Exekias",
+        "B": "Kleitias",
+        "C": "Euphronius",
+        "D": "Pheon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 22,
+      "question": "What mythological event is the subject of this vase?",
+      "options": {
+        "A": "c. The Trojan War",
+        "B": "The wedding of Peleus and Thetis",
+        "D": "The travels of Odysseus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "This figure belongs to the ______________ period.",
+      "options": {
+        "A": "Hellenistic",
+        "B": "Classical",
+        "C": "Archaic",
+        "D": "Geometric"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "This famous gate can be found in which Greek city?",
+      "options": {
+        "A": "Argos",
+        "B": "Athens",
+        "C": "Corinth",
+        "D": "Mycenae"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 25,
+      "question": "Which Roman emperor commissioned this triumphal arch?",
+      "options": {
+        "A": "Trajan",
+        "B": "Titus",
+        "C": "Septimius Severus",
+        "D": "Constantine"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 26,
+      "question": "This terracotta statue, found at Veii, is a representation of which Greek god?",
+      "options": {
+        "A": "Zeus",
+        "B": "Poseidon",
+        "C": "Apollo",
+        "D": "Hades"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 27,
+      "question": "Which Roman emperor is depicted here?",
+      "options": {
+        "A": "Augustus",
+        "B": "Vespasian",
+        "C": "Trajan",
+        "D": "Decius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "This Ionic temple is located ______________.",
+      "options": {
+        "A": "in the Agora",
+        "B": "on the Acropolis",
+        "C": "on the Pynx",
+        "D": "in the Forum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "The sculptor of this famous work is",
+      "options": {
+        "A": "Myron",
+        "B": "Pheidias",
+        "C": "Praxiteles",
+        "D": "Polyclitus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "Which Roman consul is seen here?",
+      "options": {
+        "A": "Scipio Africanus",
+        "B": "Marius",
+        "C": "Pompey",
+        "D": "Brutus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 31,
+      "question": "Whose colossal head, hand, foot, and knee – which once stood in a Forum building -­‐ now stand in",
+      "options": {
+        "A": "Julian’s",
+        "B": "Trajan’s",
+        "C": "Hadrian’s",
+        "D": "Constantine’s"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 32,
+      "question": "What structure provides modern researchers with the best illustrations of Roman military dress,",
+      "options": {
+        "A": "c. Arch of Augustus",
+        "B": "Amendola Sarcohagus",
+        "D": "Trajan’s Column"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 33,
+      "question": "Which famous bronze statue was found in a shipwreck off the coast of Cape Artemisium, probably",
+      "options": {
+        "A": "Kritios Boy",
+        "B": "Poseidon/Zeus without his trident/lightning bolt",
+        "C": "Marathon Boy",
+        "D": "Farnese Hercules"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "The drinking horn usually adorned with depictions of animal heads is called a",
+      "options": {
+        "A": "rhyton",
+        "B": "kylix",
+        "C": "hydria",
+        "D": "oinochoe"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "The first permanent stone theater in Rome was the Theater of",
+      "options": {
+        "A": "Pompey",
+        "B": "Balbus",
+        "C": "Marcellus",
+        "D": "Marius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Paintings at both Herculaneum and Pompeii (e.g. the Three Graces, Hercules finding his son",
+      "options": {
+        "A": "Pergamum",
+        "B": "Delphi",
+        "C": "Ephesus",
+        "D": "Olympia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "In the mid 1900s, Mussolini attempted to remove the _________ a marble Roman fountain built by",
+      "options": {
+        "A": "Pons Fabricius",
+        "B": "Fons Juturna",
+        "C": "Subura",
+        "D": "Meta Sudans"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 38,
+      "question": "The large marble plan of Rome (the Forma Urbis Romae) that provided the location of major",
+      "options": {
+        "A": "c. Temple of Peace",
+        "B": "Mausoleum of Augustus",
+        "D": "Tabularium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 39,
+      "question": "The famous lifesize marble statues of Odysseus blinding the Cyclops Polyphemus and the Sirens",
+      "options": {
+        "A": "c. Villa of Livia at Prima Porta",
+        "B": "Villa of Tiberius at Sperlonga",
+        "D": "Villa of the Papyri at Herculaneum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "It is believed that statues of the early Roman heroes and ancestors of the emperor once stood in the",
+      "options": {
+        "A": "Julius Caesar",
+        "B": "Augustus Caesar",
+        "C": "Trajan",
+        "D": "Nerva"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 41,
+      "question": "The columns of the Parthenon are:",
+      "options": {
+        "A": "Doric",
+        "B": "Ionic",
+        "C": "Doric and Ionic",
+        "D": "Corinthian"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "Pheidias, sculptor of the Parthenon and the statue of Zeus at Olympia, is also credited with the",
+      "options": {
+        "A": "c. Artemis of Ephesus",
+        "B": "Charioteer of Delphi",
+        "D": "Hermes and the Infant Dionysus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "The best example of a Roman apartment house, originally fitted with wooden balconies, is on the",
+      "options": {
+        "A": "Pompeii",
+        "B": "Paestum",
+        "C": "Ostia",
+        "D": "Herculaneum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 44,
+      "question": "Which structure contains Caryatids on its porch?",
+      "options": {
+        "A": "Hephaistion",
+        "B": "Erectheum",
+        "C": "Stoa Poikile",
+        "D": "Propylea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 45,
+      "question": "Which man was responsible for excavating Knossos?",
+      "options": {
+        "A": "Wagman",
+        "B": "Schmeling",
+        "C": "Schliemann",
+        "D": "Evans"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 46,
+      "question": "The Bronze Doors of the Roman Curia in the Forum Romanum now hang in",
+      "options": {
+        "A": "The Roman Curia in the Forum Romanum",
+        "B": "St. Johns Lateran, the Cathedral of Rome",
+        "C": "St. Peter’s Basilia at the Vatican",
+        "D": "The Pantheon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 47,
+      "question": "The basic building material of early buildings and walls of Rome was peperino, a kind of _______.",
+      "options": {
+        "A": "concrete",
+        "B": "Tufa",
+        "C": "granite",
+        "D": "brick"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "The now excavated Villa of Poppea, wife of Nero, is located at",
+      "options": {
+        "A": "Boscoreale",
+        "B": "Oplontis",
+        "C": "Stabiae",
+        "D": "Baiae"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "Which is NOT a name for a Roman aqueduct?",
+      "options": {
+        "A": "Marcia",
+        "B": "Claudia",
+        "C": "Julia",
+        "D": "Livia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 50,
+      "question": "The Portland Vase depicts its figures in/on/by",
+      "options": {
+        "A": "red figure style",
+        "B": "black figure style",
+        "C": "cameo",
+        "D": "repousse"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    }
+  ]
+}

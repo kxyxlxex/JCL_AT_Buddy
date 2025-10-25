@@ -1,0 +1,571 @@
+{
+  "test_info": {
+    "name": "Mottoes,_Abbreviations,_and_Quotations",
+    "year": "state_2016",
+    "subject": "Mottoes,_Abbreviations,_and_Quotations",
+    "total_questions": 48
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "sine qua non",
+      "options": {
+        "A": "indispensable",
+        "B": "formerly",
+        "C": "thankless",
+        "D": "for the time being"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "The child prodigy was a ________",
+      "options": {
+        "A": "rara avis",
+        "B": "terra firma",
+        "C": "pater patriae",
+        "D": "alma mater"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "sincerely",
+      "options": {
+        "A": "de facto",
+        "B": "bona fide",
+        "C": "a quo",
+        "D": "per se"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "“He is wearing a toga. He must be a Roman” is a _________ statement.",
+      "options": {
+        "A": "tabula rasa",
+        "B": "suum cuique",
+        "C": "causa sui",
+        "D": "non sequitur"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "in place",
+      "options": {
+        "A": "inter se b.in situ",
+        "C": "in loco parentis",
+        "D": "in re"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 6,
+      "question": "She delivered a magnificent speech __________",
+      "options": {
+        "A": "quod vide",
+        "B": "ex tempore",
+        "C": "per capita",
+        "D": "ab inconvenienti"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "question": "secretly",
+      "options": {
+        "A": "lingua franca",
+        "B": "post scriptum",
+        "C": "in vitro d.sub rosa"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 8,
+      "question": "Beethoven’s 5th Symphony could be considered a _______________",
+      "options": {
+        "A": "magnum opus",
+        "B": "lectio breviter",
+        "C": "manu propria",
+        "D": "habeas corpus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "to a disgusting or ridiculous degree",
+      "options": {
+        "A": "ante bellum",
+        "B": "habeas corpus c.ad nauseam",
+        "D": "in toto"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "per annum",
+      "options": {
+        "A": "daily",
+        "B": "weekly",
+        "C": "monthly",
+        "D": "yearly"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 11,
+      "question": "Accidentally revealing the surprise birthday party was a _____________",
+      "options": {
+        "A": "memento mori",
+        "B": "lapsus linguae",
+        "C": "pro forma",
+        "D": "sine die"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 12,
+      "question": "without charge",
+      "options": {
+        "A": "de jure",
+        "B": "pro bono",
+        "C": "sine ope",
+        "D": "lucre causa"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 13,
+      "question": "a formal acknowledgement of error",
+      "options": {
+        "A": "mea culpa",
+        "B": "ex gratia",
+        "C": "ad hoc",
+        "D": "quid pro quo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "urbs in horto",
+      "options": {
+        "A": "New York",
+        "B": "Philadelphia",
+        "C": "Chicago",
+        "D": "San Francisco"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 15,
+      "question": "Dartmouth",
+      "options": {
+        "A": "c. Scientia sol mentis",
+        "B": "Terras irradiant",
+        "D": "Nil sine magno labore"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "Arizona",
+      "options": {
+        "A": "c. Nil sine numine",
+        "B": "Crescit eundo",
+        "D": "Ditat deus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 17,
+      "question": "Lux et lex",
+      "options": {
+        "A": "c. University of Washington",
+        "B": "University of New Mexico",
+        "D": "University of North Dakota"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "palmam qui meruit ferat",
+      "options": {
+        "A": "c. University of South Carolina",
+        "B": "Duke University",
+        "D": "Clemson University"
+      },
+      "type": "multiple_choice",
+      "correct_answer": ""
+    },
+    {
+      "question_number": 19,
+      "question": "quis separabit?",
+      "options": {
+        "A": "c. the Benedictines",
+        "B": "the Jesuits",
+        "D": "Order of the Bath"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "Sic semper tyrannis",
+      "options": {
+        "A": "Maryland",
+        "B": "Virginia",
+        "C": "Massachusetts",
+        "D": "South Carolina"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 21,
+      "question": "the European Union",
+      "options": {
+        "A": "c. non sibi sed omnibus",
+        "B": "quo pax et gloria ducunt",
+        "D": "in varietate concordia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 22,
+      "question": "Veritas vos liberabit",
+      "options": {
+        "A": "c. Universoty of Mississippi",
+        "B": "Johns Hopkins University",
+        "D": "Harvard University"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "Panama",
+      "options": {
+        "A": "c. confide et conquiesco",
+        "B": "lux venit ab alto",
+        "D": "pro mundi beneficio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 24,
+      "question": "Labor omnia vincit",
+      "options": {
+        "A": "Idaho b.Oklahoma",
+        "C": "Wyoming",
+        "D": "Kansas"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 25,
+      "question": "semper paratus",
+      "options": {
+        "A": "c. U.S. Air Force",
+        "B": "U.S. Coast Guard",
+        "D": "U.S. Army"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question": "N.B.",
+      "options": {
+        "A": "see below",
+        "B": "compare",
+        "C": "the work cited",
+        "D": "note well"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 27,
+      "question": "In which class would you most likely see q.e.d?",
+      "options": {
+        "A": "music",
+        "B": "geometry",
+        "C": "history",
+        "D": "art"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "n. is the abbreviation for all of the following EXCEPT",
+      "options": {
+        "A": "born",
+        "B": "at night",
+        "C": "noon",
+        "D": "neuter"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "viz.",
+      "options": {
+        "A": "namely",
+        "B": "look up",
+        "C": "as directed",
+        "D": "conversely"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "If you received a letter “ult.”, it came last ______",
+      "options": {
+        "A": "night",
+        "B": "week",
+        "C": "month",
+        "D": "year"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "loq.",
+      "options": {
+        "A": "a lotion",
+        "B": "he/she speaks",
+        "C": "in the place cited",
+        "D": "a pound"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "Which of the following has the same meaning as the abbreviation “d.s.p.”?",
+      "options": {
+        "A": "ob.s.p.",
+        "B": "h.m.p.",
+        "C": "i.p.i d.r.i.p"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "d.d.",
+      "options": {
+        "A": "from day to day",
+        "B": "given as a gift",
+        "C": "God’s grace",
+        "D": "he/she drew it"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "Medicine marked “a.c.” should be taken ______",
+      "options": {
+        "A": "every day",
+        "B": "at night",
+        "C": "before meals",
+        "D": "only once"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 35,
+      "question": "ibid.",
+      "options": {
+        "A": "in the same place",
+        "B": "that is",
+        "C": "the same as",
+        "D": "below"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "The abbreviation “A.R.” would most likely be said when speaking of which",
+      "options": {
+        "A": "Queen Elizabeth",
+        "B": "Steve Jobs",
+        "C": "Ben Franklin",
+        "D": "Taylor Swift"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "The abbreviation “c.f.” would most likely appear in _____",
+      "options": {
+        "A": "c. an online blog",
+        "B": "an academic journal",
+        "D": "a work of fiction"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 39,
+      "question": "etc.",
+      "options": {
+        "A": "and the rest",
+        "B": "that is",
+        "C": "and others",
+        "D": "for example"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "The abbreviation “fl.” refers to _____",
+      "options": {
+        "A": "Propertius",
+        "B": "Horace",
+        "D": "Catullus",
+        "C": "Ovid"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 42,
+      "question": "Forsan et haec olim meminisse iuvabit",
+      "options": {
+        "A": "Sallust",
+        "B": "Horace",
+        "C": "Vergil",
+        "D": "Plautus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 43,
+      "question": "historis vero testis temporum, lux veritatis",
+      "options": {
+        "A": "Cicero",
+        "B": "Seneca",
+        "C": "Tacitus",
+        "D": "Juvenal"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "alea iacta est",
+      "options": {
+        "A": "Nero",
+        "B": "Caesar",
+        "C": "Pompey",
+        "D": "Augustus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 45,
+      "question": "ora et labora",
+      "options": {
+        "A": "St. Benedict",
+        "B": "St. Gregory",
+        "C": "St. Jerome",
+        "D": "St. Athanasius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "actum ne agas",
+      "options": {
+        "A": "Ovid",
+        "B": "Terence",
+        "C": "Ennius",
+        "D": "Horace"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 47,
+      "question": "clarum et venerabile nomen",
+      "options": {
+        "A": "Livy",
+        "B": "Cato",
+        "C": "Lucan",
+        "D": "Seneca"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 48,
+      "question": "amor tussisque non celantur",
+      "options": {
+        "A": "Ovid",
+        "B": "Martial",
+        "C": "Catullus",
+        "D": "Plautus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "carpe diem",
+      "options": {
+        "A": "Caesar",
+        "B": "Laberius",
+        "C": "Augustus",
+        "D": "Horace"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 50,
+      "question": "maxima debetur puero reverentia",
+      "options": {
+        "A": "Martial",
+        "B": "Juvenal",
+        "C": "Cicero",
+        "D": "Livy"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    }
+  ]
+}

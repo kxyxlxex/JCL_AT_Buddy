@@ -1,0 +1,589 @@
+{
+  "test_info": {
+    "name": "Classical_Geography",
+    "year": "state_2013",
+    "subject": "Classical_Geography",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which of these cities is NOT located in ancient Greece:",
+      "options": {
+        "A": "Mycenae",
+        "B": "Sardis",
+        "C": "Orchomenus",
+        "D": "Corinth"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "Which of these cities is located in Italy?",
+      "options": {
+        "A": "Phaistos",
+        "B": "Rhegium",
+        "C": "Messana",
+        "D": "Mytilene"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question": "The city of Gades is located in modern ___________.",
+      "options": {
+        "A": "Portugal",
+        "B": "Spain",
+        "C": "France",
+        "D": "Romania"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "Where was the ancient city of Eboracum?",
+      "options": {
+        "A": "Thrace",
+        "B": "Britain",
+        "C": "Asia",
+        "D": "Cyprus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "The city of Salonae, modern Split in Croatia, was located in ancient _________.",
+      "options": {
+        "A": "Dalmatia",
+        "B": "Moesia",
+        "C": "Pannonia",
+        "D": "Raetia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "Caledonia is modern day",
+      "options": {
+        "A": "Portugal",
+        "B": "Ireland",
+        "C": "Scotland",
+        "D": "Denmark"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 7,
+      "question": "Which city in Britain is correctly paired with its ancient Roman equivalent:",
+      "options": {
+        "A": "c. Glevum/Cadiz",
+        "B": "Aquae Sulis/Aix-en-Provence",
+        "D": "Londinium/Lyon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "The Roman name for modern-day Vienna:",
+      "options": {
+        "A": "Aquincum",
+        "B": "Vindobona",
+        "C": "Singidunum",
+        "D": "Salonae"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "Orgetorix, king of the Helvetii, began his migration into Gaul from:",
+      "options": {
+        "A": "Luxembourg",
+        "B": "Switzerland",
+        "C": "Italy",
+        "D": "Belgium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 10,
+      "question": "The ancient city of Oea was located in modern _________.",
+      "options": {
+        "A": "Libya",
+        "B": "Portugal",
+        "C": "Spain",
+        "D": "Egypt"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "Which of these provinces was farthest north?",
+      "options": {
+        "A": "Belgica",
+        "B": "Dacia",
+        "C": "Germania Superior",
+        "D": "Armenia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "In what direction would one travel to go from Rome to Neapolis?",
+      "options": {
+        "A": "North",
+        "B": "South",
+        "C": "East",
+        "D": "West"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 13,
+      "question": "Which city in Africa was furthest east?",
+      "options": {
+        "A": "Cyrene",
+        "B": "Caesarea",
+        "C": "Alexandria",
+        "D": "Hippo Regius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "In which direction would you travel in the city of Rome to go from the Baths of Diocletian to the",
+      "options": {
+        "A": "North",
+        "B": "South",
+        "C": "East",
+        "D": "West"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "Which sequence is correct in the Roman Forum from West to East:",
+      "options": {
+        "A": "Arch of Septimius Severus, Regia, Curia",
+        "B": "Curia, Temple of Antoninus & Faustina, Arch of Titus",
+        "C": "Temple of Vesta, Temple of Antoninus & Faustina, Curia",
+        "D": "Imperial Rostra, Regia, Arch of Septimius Severus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "Emerita Augusta could be found in which province on a map of imperial Rome?",
+      "options": {
+        "A": "Gallia Comata",
+        "B": "Moesia",
+        "C": "Cappadocia",
+        "D": "Lusitania"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 17,
+      "question": "Into what two provinces was Mauretania divided?",
+      "options": {
+        "A": "c. Tingitana & Caesarensis",
+        "B": "Armenia & Cappadocia",
+        "D": "Citerior & Ulterior"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 18,
+      "question": "Which of the following Roman provinces was NOT located in Gallia?",
+      "options": {
+        "A": "Comata",
+        "B": "Aquitania",
+        "C": "Achaia",
+        "D": "Lugdunensis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 19,
+      "question": "Mt. Eryx was located in the province of _________.",
+      "options": {
+        "A": "Sicilia",
+        "B": "Corsica",
+        "C": "Sardinia",
+        "D": "Dacia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "The provinces of Syria and Assyria both bordered which province?",
+      "options": {
+        "A": "Cappadocia",
+        "B": "Mesopotamia",
+        "C": "Arabia",
+        "D": "Aegyptus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 21,
+      "question": "Number",
+      "options": {
+        "A": "Messana",
+        "B": "Syracuse",
+        "C": "Panormus",
+        "D": "Lilybaeum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 22,
+      "question": "Number",
+      "options": {
+        "A": "Nemausus",
+        "B": "Lutetia",
+        "C": "Burdigalia",
+        "D": "Augusta Treverorum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 23,
+      "question": "Number",
+      "options": {
+        "A": "Corcyra",
+        "B": "Tingis",
+        "C": "Valentia",
+        "D": "Caesaraugusta"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "Number",
+      "options": {
+        "A": "Londinium",
+        "B": "Camulodunum",
+        "C": "Deva",
+        "D": "Eboracum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "Rome",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "25 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "Carthage",
+      "options": {
+        "A": "23",
+        "B": "24",
+        "C": "21 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "New Carthage (Carthago Nova)",
+      "options": {
+        "A": "23",
+        "B": "24",
+        "C": "22 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "Eboracum",
+      "options": {
+        "A": "8",
+        "B": "5",
+        "C": "7 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "Lutetia",
+      "options": {
+        "A": "30",
+        "B": "18",
+        "C": "16 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 30,
+      "question": "Massilia",
+      "options": {
+        "A": "12",
+        "B": "31",
+        "C": "16 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "Number",
+      "options": {
+        "A": "Knossos",
+        "B": "Phaistos",
+        "C": "Gortynia",
+        "D": "Asturica"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "Number",
+      "options": {
+        "A": "Argos",
+        "B": "Sparta",
+        "C": "Corinth",
+        "D": "Thebes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "Number",
+      "options": {
+        "A": "Argos",
+        "B": "Sparta",
+        "C": "Corinth",
+        "D": "Thebes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 34,
+      "question": "Number",
+      "options": {
+        "A": "Pella",
+        "B": "Pydna",
+        "C": "Abdera",
+        "D": "Thessalonica"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 35,
+      "question": "Number",
+      "options": {
+        "A": "Corcyra",
+        "B": "Sybota",
+        "C": "Edessa",
+        "D": "Histiaea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Chios",
+      "options": {
+        "A": "22",
+        "B": "23",
+        "C": "24 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "Lemnos",
+      "options": {
+        "A": "19",
+        "B": "20",
+        "C": "21 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "Delos",
+      "options": {
+        "A": "28",
+        "B": "29",
+        "C": "30 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 39,
+      "question": "Corinth",
+      "options": {
+        "A": "3",
+        "B": "8",
+        "C": "9 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "Mytilene",
+      "options": {
+        "A": "21",
+        "B": "22",
+        "C": "23 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 41,
+      "question": "Number",
+      "options": {
+        "A": "c. Arch of Constantine",
+        "B": "Arch of Septimius Severus",
+        "D": "Arch of Augustus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 42,
+      "question": "Number",
+      "options": {
+        "A": "Circus Maximus",
+        "B": "Circus Flaminius",
+        "C": "Circus of Gaius",
+        "D": "Stadium of Domitian"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 43,
+      "question": "Number",
+      "options": {
+        "A": "c. Temple of Janus",
+        "B": "Theater of Marcellus",
+        "D": "Porticus of Octavia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "Number",
+      "options": {
+        "A": "c. Ara Pacis",
+        "B": "Mausoleum of Hadrian",
+        "D": "Trajan's Column"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 45,
+      "question": "Number",
+      "options": {
+        "A": "c. Theater of Balbus",
+        "B": "Theater of Marcellus",
+        "D": "Temple of Hercules Victor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 46,
+      "question": "Domus Augustana",
+      "options": {
+        "A": "28",
+        "B": "33",
+        "C": "30 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 47,
+      "question": "Circus Maximus",
+      "options": {
+        "A": "34",
+        "B": "37",
+        "C": "6 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 48,
+      "question": "Ara Pacis",
+      "options": {
+        "A": "11",
+        "B": "25",
+        "C": "16 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "Regia",
+      "options": {
+        "A": "between 22 & 18",
+        "B": "between 18 & 23",
+        "C": "between 17 & 18",
+        "D": "between 5 &"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "Pantheon",
+      "options": {
+        "A": "35",
+        "B": "10",
+        "C": "13 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    }
+  ]
+}

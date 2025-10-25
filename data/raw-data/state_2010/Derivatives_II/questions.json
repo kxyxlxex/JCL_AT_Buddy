@@ -1,0 +1,495 @@
+{
+  "test_info": {
+    "name": "Derivatives_II",
+    "year": "state_2010",
+    "subject": "Derivatives_II",
+    "total_questions": 41
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Your plan will ameliorate the situation.",
+      "options": {
+        "A": "exacerbate",
+        "B": "complicate",
+        "C": "improve",
+        "D": "circumvent"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 2,
+      "question": "My taciturn friend ______.",
+      "options": {
+        "A": "c. loves to read",
+        "B": "usually remains silent",
+        "D": "freely expresses her opinions"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question": "An aquiline nose resembles the ____.",
+      "options": {
+        "A": "beak of an eagle",
+        "B": "snout of a pig",
+        "C": "nose of a horse",
+        "D": "nose of a fox"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "The child’s doleful look revealed his ___.",
+      "options": {
+        "A": "boredom",
+        "B": "glee",
+        "C": "sorrow",
+        "D": "exhaustion"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "The scientist’s research was focused on the estival flora of the region.",
+      "options": {
+        "A": "summer",
+        "B": "dormant",
+        "C": "indigenous",
+        "D": "non-native"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 6,
+      "question": "The performance elicited derision from the audience.",
+      "options": {
+        "A": "apathy",
+        "B": "mockery",
+        "C": "appreciation",
+        "D": "anger"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "question": "Certain trees thrive in riparian environments.",
+      "options": {
+        "A": "arid",
+        "B": "on a river bank",
+        "C": "in sandy soil",
+        "D": "tropical"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "Our supervisor was inexorable; he could not _____.",
+      "options": {
+        "A": "c. show favoritism",
+        "B": "be fooled",
+        "D": "delegate responsibility"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "Many people try to avoid the appearance of senescence.",
+      "options": {
+        "A": "laziness",
+        "B": "selfishness",
+        "C": "inexperience",
+        "D": "aging"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "The man was hired because of his putative experience.",
+      "options": {
+        "A": "recent",
+        "B": "proven",
+        "C": "supposed",
+        "D": "innovative"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 11,
+      "question": "overture",
+      "options": {
+        "A": "aperio",
+        "B": "verto",
+        "C": "opus",
+        "D": "verus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "arson",
+      "options": {
+        "A": "ars",
+        "B": "ardeo",
+        "C": "artus",
+        "D": "arceo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 13,
+      "question": "auspicious",
+      "options": {
+        "A": "augeo",
+        "B": "avis",
+        "C": "spes",
+        "D": "spiro"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "train",
+      "options": {
+        "A": "traho",
+        "B": "ago",
+        "C": "eo",
+        "D": "terreo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 15,
+      "question": "pursue",
+      "options": {
+        "A": "premo",
+        "B": "pungo",
+        "C": "sumo",
+        "D": "sequor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "usurp",
+      "options": {
+        "A": "rumpo",
+        "B": "rapio",
+        "C": "servio",
+        "D": "surgo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 17,
+      "question": "impair",
+      "options": {
+        "A": "paro",
+        "B": "pareo",
+        "C": "par",
+        "D": "peior"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 18,
+      "question": "payment",
+      "options": {
+        "A": "poena",
+        "B": "panis",
+        "C": "pax",
+        "D": "pecunia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 19,
+      "question": "sprain",
+      "options": {
+        "A": "pello",
+        "B": "rumpo",
+        "C": "premo",
+        "D": "rapio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "sullen",
+      "options": {
+        "A": "soleo",
+        "B": "solvo",
+        "C": "sol",
+        "D": "solus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 21,
+      "question": "ala",
+      "options": {
+        "A": "alien",
+        "B": "aisle",
+        "C": "alacrity",
+        "D": "coalesce"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "plenus",
+      "options": {
+        "A": "multiply",
+        "B": "please",
+        "C": "plain",
+        "D": "accomplish"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 23,
+      "question": "noceo",
+      "options": {
+        "A": "nuclear",
+        "B": "noose",
+        "C": "nuisance",
+        "D": "connoisseur"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "ius",
+      "options": {
+        "A": "conjure",
+        "B": "adjutant",
+        "C": "joust",
+        "D": "peruse"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "cresco",
+      "options": {
+        "A": "accrue",
+        "B": "crest",
+        "C": "across",
+        "D": "miscreant"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "caedo",
+      "options": {
+        "A": "incident",
+        "B": "decay",
+        "C": "abscess",
+        "D": "precise"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 27,
+      "question": "manus",
+      "options": {
+        "A": "mandate",
+        "B": "manner",
+        "C": "menial",
+        "D": "manor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "dies",
+      "options": {
+        "A": "dismal",
+        "B": "deist",
+        "C": "duty",
+        "D": "deign"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "orior",
+      "options": {
+        "A": "orifice",
+        "B": "adore",
+        "C": "orient",
+        "D": "inexorable"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 30,
+      "question": "salio",
+      "options": {
+        "A": "salubrious",
+        "B": "sauce",
+        "C": "salute",
+        "D": "sauté"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "allow",
+      "options": {
+        "A": "choose",
+        "B": "nourish",
+        "C": "praise",
+        "D": "play"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "conquer",
+      "options": {
+        "A": "attack",
+        "B": "look for",
+        "C": "take",
+        "D": "cut"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "courteous",
+      "options": {
+        "A": "heart",
+        "B": "body",
+        "C": "citizen",
+        "D": "cohort"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 34,
+      "question": "hesitate",
+      "options": {
+        "A": "cling",
+        "B": "have",
+        "C": "touch",
+        "D": "stand"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "dilapidated",
+      "options": {
+        "A": "wood",
+        "B": "stone",
+        "C": "hang",
+        "D": "fall"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "loyal",
+      "options": {
+        "A": "bind",
+        "B": "choose",
+        "C": "law",
+        "D": "place"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "volunteer",
+      "options": {
+        "A": "wish",
+        "B": "vow",
+        "C": "voice",
+        "D": "roll"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 38,
+      "question": "tasty",
+      "options": {
+        "A": "hold",
+        "B": "try",
+        "C": "seek",
+        "D": "touch"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "sue",
+      "options": {
+        "A": "use",
+        "B": "follow",
+        "C": "sit",
+        "D": "take"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "mortgage",
+      "options": {
+        "A": "mountain",
+        "B": "custom",
+        "C": "die",
+        "D": "delay"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 50,
+      "question": "a. protege b. tile c. detect d. contiguous",
+      "options": {},
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    }
+  ]
+}

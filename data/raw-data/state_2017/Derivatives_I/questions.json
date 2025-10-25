@@ -1,0 +1,548 @@
+{
+  "test_info": {
+    "name": "Derivatives_I",
+    "year": "state_2017",
+    "subject": "Derivatives_I",
+    "total_questions": 45
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "The care of one’s children is a magnificent responsibility.",
+      "options": {
+        "A": "fiduciary",
+        "B": "difficult",
+        "C": "fiscal",
+        "D": "glorious"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 2,
+      "question": "The custodial rights of minors are awarded in the best interest of children.",
+      "options": {
+        "A": "guardian",
+        "B": "resourceful",
+        "C": "powerful",
+        "D": "diplomatic"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "The students were enamored by the pulchritude of the statue of Adonis in the museum.",
+      "options": {
+        "A": "sweetness",
+        "B": "beauty",
+        "C": "scantiness",
+        "D": "strength"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "Hercules was given the onerous task of cleaning the Augean stables.",
+      "options": {
+        "A": "wonderful",
+        "B": "incredible",
+        "C": "blessed",
+        "D": "burdensome"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "Hercules is considered to be a man of impetuous nature.",
+      "options": {
+        "A": "magnanimous",
+        "B": "doleful",
+        "C": "impulsive",
+        "D": "obstinate"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "Marcus was thrilled at the felicitously cool July morning.",
+      "options": {
+        "A": "harshly",
+        "B": "delightfully",
+        "C": "unfortunately",
+        "D": "beautifully"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "question": "Toxins and noxious substances are ubiquitous.",
+      "options": {
+        "A": "harmful",
+        "B": "carcinogenic",
+        "C": "everywhere",
+        "D": "wherever"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 8,
+      "question": "Her audacity in the deed became apparent to all who listened to her testimony of her larceny.",
+      "options": {
+        "A": "cowardice",
+        "B": "boldness",
+        "C": "crime",
+        "D": "guilt"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "The lunatic fringe frequently abuses social media with its insular views.",
+      "options": {
+        "A": "global",
+        "B": "unrealistic",
+        "C": "isolated",
+        "D": "tropical"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "Juno had many conflicts with Jupiter due to his infidelity.",
+      "options": {
+        "A": "profitability",
+        "B": "faithfulness",
+        "C": "poverty",
+        "D": "faithlessness"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 11,
+      "question": "equestrian",
+      "options": {
+        "A": "horse",
+        "B": "equal",
+        "C": "water",
+        "D": "slave woman"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "souvenir",
+      "options": {
+        "A": "to save",
+        "B": "to sell",
+        "C": "to solve",
+        "D": "to come"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 13,
+      "question": "data",
+      "options": {
+        "A": "donors",
+        "B": "dates",
+        "C": "things given",
+        "D": "information"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "status",
+      "options": {
+        "A": "sitting",
+        "B": "standing",
+        "C": "satisfying",
+        "D": "placing"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "tractor",
+      "options": {
+        "A": "across",
+        "B": "drag",
+        "C": "trade",
+        "D": "lead over"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "position",
+      "options": {
+        "A": "put",
+        "B": "demand",
+        "C": "spread out",
+        "D": "seek"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "fustian",
+      "options": {
+        "A": "concern",
+        "B": "worry",
+        "C": "club",
+        "D": "fuse"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 18,
+      "question": "concordance",
+      "options": {
+        "A": "body",
+        "B": "belief",
+        "C": "captive",
+        "D": "heart"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 19,
+      "question": "libidinous",
+      "options": {
+        "A": "liver",
+        "B": "drink",
+        "C": "desire",
+        "D": "repulsion"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "deification",
+      "options": {
+        "A": "god",
+        "B": "day",
+        "C": "about",
+        "D": "mortal"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "celer",
+      "options": {
+        "A": "accept",
+        "B": "celery",
+        "C": "acrimony",
+        "D": "acceleration"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 22,
+      "question": "volo",
+      "options": {
+        "A": "vulnerable",
+        "B": "invincible",
+        "C": "revolution",
+        "D": "volatile"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 23,
+      "question": "frango",
+      "options": {
+        "A": "frighten",
+        "B": "fraction",
+        "C": "disenfranchisement",
+        "D": "fruit"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "lex",
+      "options": {
+        "A": "legislator",
+        "B": "galaxy",
+        "C": "levy",
+        "D": "lector"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "pes",
+      "options": {
+        "A": "pest",
+        "B": "pea",
+        "C": "pedantic",
+        "D": "pod"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 26,
+      "question": "ius",
+      "options": {
+        "A": "usage",
+        "B": "juror c impious",
+        "D": "jester"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "silva",
+      "options": {
+        "A": "savior",
+        "B": "preserve",
+        "C": "sylvan",
+        "D": "silt"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "veho",
+      "options": {
+        "A": "verge",
+        "B": "avert",
+        "C": "veer",
+        "D": "vector"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 29,
+      "question": "amo",
+      "options": {
+        "A": "enemy",
+        "B": "animosity",
+        "C": "anonymous",
+        "D": "ameliorate"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "doceo",
+      "options": {
+        "A": "endorsement",
+        "B": "document",
+        "C": "pardon",
+        "D": "condone"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 31,
+      "question": "feral",
+      "options": {
+        "A": "ferrum",
+        "B": "fur",
+        "C": "fero",
+        "D": "ferus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 32,
+      "question": "inclusion",
+      "options": {
+        "A": "ludere",
+        "B": "incidere",
+        "C": "claudere",
+        "D": "incipere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 33,
+      "question": "concoction",
+      "options": {
+        "A": "coquere",
+        "B": "cognoscere",
+        "C": "cogere",
+        "D": "coniungere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "nonsense",
+      "options": {
+        "A": "putare",
+        "B": "sentire",
+        "C": "nescio",
+        "D": "ponere"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "collaboration",
+      "options": {
+        "A": "laboro",
+        "B": "colloco",
+        "C": "apello",
+        "D": "colligo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "mortuary",
+      "options": {
+        "A": "mos",
+        "B": "mus",
+        "C": "mors",
+        "D": "mora"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 37,
+      "question": "decapitate",
+      "options": {
+        "A": "caput",
+        "B": "capere",
+        "C": "incipere",
+        "D": "cupio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "homicide",
+      "options": {
+        "A": "cado",
+        "B": "cedo",
+        "C": "credo",
+        "D": "caedo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 39,
+      "question": "relative",
+      "options": {
+        "A": "religo",
+        "B": "refero",
+        "C": "relego d.relinquo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "marinade",
+      "options": {
+        "A": "maritus",
+        "B": "mars",
+        "C": "mare",
+        "D": "mas"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "miscellaneous",
+      "options": {
+        "A": "medley",
+        "B": "missive",
+        "C": "miscreant",
+        "D": "misanthrope"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "couple",
+      "options": {
+        "A": "count",
+        "B": "apt",
+        "C": "cup",
+        "D": "unfit"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "taste",
+      "options": {
+        "A": "tongue",
+        "B": "sense",
+        "C": "baste",
+        "D": "contagious"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 49,
+      "question": "allspice",
+      "options": {
+        "A": "alimony",
+        "B": "spindle",
+        "C": "species",
+        "D": "separation"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "sacrilege",
+      "options": {
+        "A": "negligent",
+        "B": "illegitimate",
+        "C": "legal",
+        "D": "college"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    }
+  ]
+}

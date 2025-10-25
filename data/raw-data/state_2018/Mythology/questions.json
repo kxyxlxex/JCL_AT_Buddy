@@ -1,0 +1,610 @@
+{
+  "test_info": {
+    "name": "Mythology",
+    "year": "state_2018",
+    "subject": "Mythology",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "The goddess whose symbols are the owl, olive, and helmet is ______.",
+      "options": {
+        "A": "Athena",
+        "B": "Hera",
+        "C": "Artemis",
+        "D": "Hestia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "Venus is the Roman name for ______.",
+      "options": {
+        "A": "Aphrodite",
+        "B": "Juno",
+        "C": "Demeter",
+        "D": "Proserpina"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "Hermes is the god of everything listed below EXCEPT ______.",
+      "options": {
+        "A": "laughter",
+        "B": "messengers",
+        "C": "thieves",
+        "D": "earthquakes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "______ was turned into a spider by Athena.",
+      "options": {
+        "A": "Thisbe",
+        "B": "Aurora",
+        "C": "Danae",
+        "D": "Arachne"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "Demeter’s daughter, ______, was married to Hades.",
+      "options": {
+        "A": "Daphne",
+        "B": "Medea",
+        "C": "Andromeda",
+        "D": "Persephone"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 6,
+      "question": "Shakespeare’s play Romeo and Juliet is based upon ______.",
+      "options": {
+        "A": "Icarus and Daedalus",
+        "B": "Aurora and Tithonus",
+        "C": "Baucis and Philemon",
+        "D": "Pyramus and Thisbe"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 7,
+      "question": "Heracles goes to the oracle at ______ after he kills his wife and children.",
+      "options": {
+        "A": "Corinth",
+        "B": "Crete",
+        "C": "Delphi",
+        "D": "Athens"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 8,
+      "question": "______ held the yarn for Theseus so he could find his way out of the Labyrinth.",
+      "options": {
+        "A": "Androgeos",
+        "B": "Deianeira",
+        "C": "Ariadne",
+        "D": "Minos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "Queen Cassiopeia got into trouble with Thetis because she ______",
+      "options": {
+        "A": "challenged her to a contest.",
+        "B": "killed the sea monster Ceto.",
+        "C": "boasted that her daughter was more beautiful.",
+        "D": "encouraged Perseus to trick Thetis."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "Odysseus was from the island of ______.",
+      "options": {
+        "A": "Ithaca",
+        "B": "Seriphos",
+        "C": "Naxos",
+        "D": "Crete"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "Which symbol is NOT associated with Mars?",
+      "options": {
+        "A": "dog",
+        "B": "bident",
+        "C": "spear",
+        "D": "vulture"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 12,
+      "question": "Aeneas’s parents were ______.",
+      "options": {
+        "A": "Venus and Anchises",
+        "B": "Andromache and Hector",
+        "C": "Alcimide and Aeson",
+        "D": "Aegina and Jupiter"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "The gods who visited Baucis and Philemon disguised as beggars were ______.",
+      "options": {
+        "A": "Zeus and Hermes",
+        "B": "Artemis and Apollo",
+        "C": "Demeter and Persephone",
+        "D": "Ares and Hades"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "Pluto and Dis are other names for ______.",
+      "options": {
+        "A": "Hermes",
+        "B": "Hades",
+        "C": "Dionysus",
+        "D": "Ares"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "The symbols of the peacock and cow are associated with ______.",
+      "options": {
+        "A": "Proserpina",
+        "B": "Minerva",
+        "C": "Juno",
+        "D": "Vesta"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 16,
+      "question": "______ was originally named Podarces, and his name meant “ransomed one.”",
+      "options": {
+        "A": "Philemon",
+        "B": "Paris",
+        "C": "Priam",
+        "D": "Polydectes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 17,
+      "question": "The monster Echidna was a combination of a ______.",
+      "options": {
+        "A": "nymph and snake",
+        "B": "goat and man",
+        "C": "dog and horse",
+        "D": "lion, goat, and snake"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "The Aegean Sea derives its name as a result of which event?",
+      "options": {
+        "A": "Heracles slays the Stymphalian Birds.",
+        "B": "Theseus forgets to take down the black sails of his ship.",
+        "C": "Jason obtains a crew for the Argo and sails to find the Golden Fleece.",
+        "D": "Perseus goes on his quest to kill Medusa."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "The Cocytus is the river of ______.",
+      "options": {
+        "A": "fire",
+        "B": "pain",
+        "C": "forgetfulness",
+        "D": "wailing"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 20,
+      "question": "Parcae is another word for the ______.",
+      "options": {
+        "A": "Furies",
+        "B": "Muses",
+        "C": "Graces",
+        "D": "Fates"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 21,
+      "question": "After Apollo gives Midas donkey’s ears, his secret is eventually revealed by ______",
+      "options": {
+        "A": "reeds whispering what happened into the wind.",
+        "B": "rumors spread by Pan.",
+        "C": "the gods gossiping about Midas’ foolishness.",
+        "D": "Apollo bragging about how he punished Midas."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "In the Underworld Ixion is punished by ______",
+      "options": {
+        "A": "having his liver eaten daily.",
+        "B": "being bound to a wheel of fire.",
+        "C": "being eternally hungry and thirsty.",
+        "D": "rolling a boulder up a hill."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "What pair repopulated the earth by throwing stones over their shoulders?",
+      "options": {
+        "A": "Prometheus and Epimetheus",
+        "B": "Daedalus and Icarus",
+        "C": "Deucalion and Pyrrha",
+        "D": "Echo and Narcissus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "Jason and the Argonauts had to sail through ______ to get to the land of Colchis.",
+      "options": {
+        "A": "Scylla",
+        "B": "the Clashing Rocks",
+        "C": "the Altars",
+        "D": "Charybdis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 25,
+      "question": "What daughter of Priam was sacrificed on the tomb of Achilles?",
+      "options": {
+        "A": "Creusa",
+        "B": "Andromache",
+        "C": "Cassandra",
+        "D": "Polyxena"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 26,
+      "question": "Odysseus lived with ______ for seven years before she helped him build a raft to leave her island.",
+      "options": {
+        "A": "Circe",
+        "B": "Calypso",
+        "C": "Leto",
+        "D": "Nausicaa"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "How does Jason lose one of his shoes?",
+      "options": {
+        "A": "Helping an old lady (Hera in disguise) cross a river.",
+        "B": "During his marriage to Glauce, the princess of Corinth.",
+        "C": "Sailing to Corinth after he gets the Golden Fleece.",
+        "D": "Fighting men who grew from dragon teeth."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "The Age of ______ is NOT part of Ovid’s Ages of Man.",
+      "options": {
+        "A": "Heroes",
+        "B": "Bronze",
+        "C": "Gold",
+        "D": "Iron"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "Aegina and Zeus are the parents of ______.",
+      "options": {
+        "A": "Aeacus",
+        "B": "Polydeuces",
+        "C": "Orestes",
+        "D": "Astyanax"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "When old age completely overtook Tithonus he turned into a ______.",
+      "options": {
+        "A": "tree",
+        "B": "grasshopper",
+        "C": "lion",
+        "D": "dog"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 31,
+      "question": "Which hero killed the Chimaera and also fought the Solymi and the Amazons?",
+      "options": {
+        "A": "Perseus",
+        "B": "Dardanus",
+        "C": "Bellerophon",
+        "D": "Heracles"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 32,
+      "question": "Pegasus and ______ sprung from Medusa’s neck after Perseus cut off her head.",
+      "options": {
+        "A": "Chrysaor",
+        "B": "Geryon",
+        "C": "Orthus",
+        "D": "Hydra"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "Hebe and Ganymede were both ______",
+      "options": {
+        "A": "soldiers in the Trojan War.",
+        "B": "children of Vulcan.",
+        "C": "enemies to Juno.",
+        "D": "cupbearers to the gods."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 34,
+      "question": "Which Fate measured out the thread of life?",
+      "options": {
+        "A": "Atropos",
+        "B": "Clotho",
+        "C": "Lachesis",
+        "D": "Tisiphone"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 35,
+      "question": "To which city did Acrisius travel for the athletic event that resulted in his death?",
+      "options": {
+        "A": "Larissa",
+        "B": "Argos",
+        "C": "Tyre",
+        "D": "Tiryns"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Jupiter is the father of all of the following EXCEPT ______.",
+      "options": {
+        "A": "Sarpedon",
+        "B": "Aeacus",
+        "C": "Perseus",
+        "D": "Castor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 37,
+      "question": "Melpomene is the muse of ______.",
+      "options": {
+        "A": "tragedy",
+        "B": "comedy",
+        "C": "history",
+        "D": "hymns"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "Deianira gave Heracles a robe dipped in blood because he had fallen in love with ______.",
+      "options": {
+        "A": "Omphale",
+        "B": "Megara",
+        "C": "Iole",
+        "D": "Hippolyta"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 39,
+      "question": "Neptune, with his helpers Triton and ______, saved the Trojan ships from being completely",
+      "options": {
+        "A": "Amphitrite",
+        "B": "Camilla",
+        "C": "Cymothoe",
+        "D": "Thetis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "In the Iliad, which two soldiers traded armor instead of fighting?",
+      "options": {
+        "A": "Odysseus and Rhesus",
+        "B": "Glaucus and Diomedes",
+        "C": "Sarpedon and Agamemnon",
+        "D": "Idomeneus and Helenus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 41,
+      "question": "According to Ovid, who desired an ivory maiden for his wife?",
+      "options": {
+        "A": "Adonis",
+        "B": "Cupid",
+        "C": "Apollo",
+        "D": "Pygmalion"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 42,
+      "question": "To what king of Argos did Polynices come to seek advice on how to convince Amphiaraus to join",
+      "options": {
+        "A": "Anaxagorus",
+        "B": "Adrastus",
+        "C": "Alector",
+        "D": "Iphis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 43,
+      "question": "All of the following apply to the Graiae EXCEPT ______",
+      "options": {
+        "A": "They were sisters of the Gorgons.",
+        "B": "They were the daughters of Phorcys.",
+        "C": "They shared one eye and one tooth.",
+        "D": "They gave Perseus a helmet of invisibility."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 44,
+      "question": "______, son of Crius and Eurybia, was the father of the Anemoi.",
+      "options": {
+        "A": "Pallas",
+        "B": "Menoetius",
+        "C": "Perses",
+        "D": "Astraeus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 45,
+      "question": "What mythological crime was engraved on the swordbelt of Pallas?",
+      "options": {
+        "A": "the Danaids murdering their husbands",
+        "B": "Tantalus stealing nectar and ambrosia",
+        "C": "Salmoneus imitating Zeus",
+        "D": "Ajax slaughtering a flock of sheep"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "______ and his brother Ialmenus were both suitors of Helen, Argonauts, and leaders of the forces",
+      "options": {
+        "A": "Podalirius",
+        "B": "Amphimachus",
+        "C": "Ascalaphus",
+        "D": "Euphemus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 47,
+      "question": "The doctor who tried to heal Aeneas’ wound in Book 12 of the Aeneid was named ______.",
+      "options": {
+        "A": "Calchas",
+        "B": "Iapyx",
+        "C": "Troilus",
+        "D": "Deiphobus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "Anchises, Aeneas’s father, died in which Sicilian city?",
+      "options": {
+        "A": "Segesta",
+        "B": "Drepanum",
+        "C": "Messana",
+        "D": "Syracuse"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "Which youth, beloved of Apollo, became unconsolably sad when he accidentally killed his own",
+      "options": {
+        "A": "Iamus",
+        "B": "Phorbas",
+        "C": "Caunus",
+        "D": "Cyparissus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 50,
+      "question": "______ grew jealous of Triptolemus and killed one of the snakes that pulled his winged chariot.",
+      "options": {
+        "A": "Thaumas",
+        "B": "Eumelus",
+        "C": "Epopeus",
+        "D": "Carnabon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "test_info": {
+    "name": "Vocabulary_I",
+    "year": "state_2010",
+    "subject": "Vocabulary_I",
+    "total_questions": 46
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "regina",
+      "options": {
+        "A": "kingdom",
+        "B": "palace",
+        "C": "queen",
+        "D": "power"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 2,
+      "question": "paucī",
+      "options": {
+        "A": "many",
+        "B": "few",
+        "C": "small",
+        "D": "large"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "occīdo",
+      "options": {
+        "A": "to happen",
+        "B": "to withdraw; yield",
+        "C": "to hide",
+        "D": "to kill"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "olfaciō",
+      "options": {
+        "A": "to moisten",
+        "B": "to wash",
+        "C": "to smell",
+        "D": "to show"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 5,
+      "question": "taceō",
+      "options": {
+        "A": "to be silent",
+        "B": "to extend",
+        "C": "to turn",
+        "D": "to speed"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "augeō",
+      "options": {
+        "A": "to increase",
+        "B": "to measure",
+        "C": "to drive; push",
+        "D": "to need"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "quoque",
+      "options": {
+        "A": "yet",
+        "B": "but",
+        "C": "and so",
+        "D": "also"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "fur",
+      "options": {
+        "A": "skin",
+        "B": "rage",
+        "C": "thief",
+        "D": "animal"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "ullus",
+      "options": {
+        "A": "none",
+        "B": "any",
+        "C": "either",
+        "D": "both"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 10,
+      "question": "rota",
+      "options": {
+        "A": "couch",
+        "B": "wheel",
+        "C": "inheritance",
+        "D": "limit"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 11,
+      "question": "tristis",
+      "options": {
+        "A": "sad",
+        "B": "such",
+        "C": "shameful",
+        "D": "ferocioua"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 12,
+      "question": "saeculum",
+      "options": {
+        "A": "knife",
+        "B": "soul",
+        "C": "cheese",
+        "D": "generation"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 13,
+      "question": "quidem",
+      "options": {
+        "A": "a certain",
+        "B": "the same",
+        "C": "indeed",
+        "D": "anyone"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 14,
+      "question": "colō",
+      "options": {
+        "A": "to gather",
+        "B": "to stab",
+        "C": "to worship",
+        "D": "to heat"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 15,
+      "question": "month",
+      "options": {
+        "A": "mens",
+        "B": "mensa",
+        "C": "mensis",
+        "D": "mensura"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 16,
+      "question": "to fill",
+      "options": {
+        "A": "poscō",
+        "B": "compleō",
+        "C": "lavō",
+        "D": "perficiō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 17,
+      "question": "ring",
+      "options": {
+        "A": "asellus",
+        "B": "anulus",
+        "C": "auris",
+        "D": "antilla"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "to nourish",
+      "options": {
+        "A": "tonō",
+        "B": "garriō",
+        "C": "laedō",
+        "D": "alō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 19,
+      "question": "husband",
+      "options": {
+        "A": "maritus",
+        "B": "gener",
+        "C": "pater",
+        "D": "avunculus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "rock",
+      "options": {
+        "A": "senex",
+        "B": "statumen",
+        "C": "saxum",
+        "D": "scapha"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 21,
+      "question": "right hand",
+      "options": {
+        "A": "dextra",
+        "B": "laevus",
+        "C": "sinister",
+        "D": "iussus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "to throw",
+      "options": {
+        "A": "iaceō",
+        "B": "iaciō",
+        "C": "patior"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "among",
+      "options": {
+        "A": "circa",
+        "B": "prae",
+        "C": "extra",
+        "D": "apud"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "dove",
+      "options": {
+        "A": "columba",
+        "B": "palus",
+        "C": "poma",
+        "D": "passer"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 25,
+      "question": "wine cup",
+      "options": {
+        "A": "cyathus",
+        "B": "poculum",
+        "C": "lituus",
+        "D": "baculus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question": "coniunx",
+      "options": {
+        "A": "mare",
+        "B": "litus",
+        "C": "sanguis",
+        "D": "uxor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "flumen",
+      "options": {
+        "A": "anguis",
+        "B": "amnis",
+        "C": "alumnus",
+        "D": "albus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "desinō",
+      "options": {
+        "A": "claudō",
+        "B": "sistō",
+        "C": "gerō",
+        "D": "agō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "metus",
+      "options": {
+        "A": "finis",
+        "B": "versus",
+        "C": "timor",
+        "D": "socius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 30,
+      "question": "fortis",
+      "options": {
+        "A": "validus",
+        "B": "siccus",
+        "C": "umidus",
+        "D": "lenis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "aspiciō",
+      "options": {
+        "A": "faciō",
+        "B": "capiō",
+        "C": "videō",
+        "D": "veniō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 32,
+      "question": "gēns",
+      "options": {
+        "A": "crus",
+        "B": "ōs",
+        "C": "lararium",
+        "D": "familia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "deficiō",
+      "options": {
+        "A": "incipiō",
+        "B": "superō",
+        "C": "promō",
+        "D": "exeō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "discō",
+      "options": {
+        "A": "saltō",
+        "B": "ambulō",
+        "C": "sedeō",
+        "D": "doceō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "amor",
+      "options": {
+        "A": "vitium",
+        "B": "lacerta",
+        "C": "invidia",
+        "D": "odium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 36,
+      "question": "pauper",
+      "options": {
+        "A": "dives",
+        "B": "avarus",
+        "C": "amarus",
+        "D": "mollis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "superbus",
+      "options": {
+        "A": "gracilis",
+        "B": "diligens",
+        "C": "atrox",
+        "D": "humilis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 38,
+      "question": "sol",
+      "options": {
+        "A": "caelum",
+        "B": "mare",
+        "C": "luna",
+        "D": "dies"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 39,
+      "question": "aliquid",
+      "options": {
+        "A": "nihil",
+        "B": "quoque",
+        "C": "idem",
+        "D": "melior"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 40,
+      "question": "multitudo",
+      "options": {
+        "A": "cladēs",
+        "B": "paucitas",
+        "C": "gratia",
+        "D": "speculum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 41,
+      "question": "ursa : spelunca ::",
+      "options": {
+        "A": "aquila : mare",
+        "B": "mus : caelum",
+        "C": "piscis : mons",
+        "D": "lupus : silva"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 42,
+      "question": "possideo : habeo ::",
+      "options": {
+        "A": "respondeo : rogo",
+        "B": "soleo : absum",
+        "C": "cupio : desidero",
+        "D": "volo : curro"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 43,
+      "question": "digitus : manus ::",
+      "options": {
+        "A": "velum : navis",
+        "B": "currus : villa",
+        "C": "patronus : cliens",
+        "D": "femina : stola"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 44,
+      "question": "doleo : lacrimō ::",
+      "options": {
+        "A": "incipio : perficio",
+        "B": "sto : sedeō",
+        "C": "esuriō : comedō",
+        "D": "portō : gerō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 45,
+      "question": "ferula : verbero ::",
+      "options": {
+        "A": "nauta : navigo",
+        "B": "gladius : necō",
+        "C": "panis : coquo",
+        "D": "stylus : lego"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "a. caelicola b. rupēs c. deus d. numen",
+      "options": {},
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "test_info": {
+    "name": "Vocabulary_I",
+    "year": "state_2013",
+    "subject": "Vocabulary_I",
+    "total_questions": 46
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "fessus",
+      "options": {
+        "A": "hungry",
+        "B": "greedy",
+        "C": "tired",
+        "D": "festive"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 2,
+      "question": "imperium",
+      "options": {
+        "A": "emperor",
+        "B": "power",
+        "C": "inexperience",
+        "D": "honor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question": "muto",
+      "options": {
+        "A": "to be silent",
+        "B": "to count",
+        "C": "to move",
+        "D": "to change"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "apud",
+      "options": {
+        "A": "near",
+        "B": "among",
+        "C": "away from",
+        "D": "above"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "ignavus",
+      "options": {
+        "A": "ignorant",
+        "B": "dirty",
+        "C": "foul",
+        "D": "lazy"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 6,
+      "question": "fatum",
+      "options": {
+        "A": "destiny b frugal",
+        "C": "distaste",
+        "D": "obese"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "colo",
+      "options": {
+        "A": "to worship",
+        "B": "to place",
+        "C": "to come",
+        "D": "to seize"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "super",
+      "options": {
+        "A": "always",
+        "B": "above",
+        "C": "often",
+        "D": "around"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "species",
+      "options": {
+        "A": "cave",
+        "B": "proof",
+        "C": "appearance",
+        "D": "family"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "adiuvo",
+      "options": {
+        "A": "to walk",
+        "B": "to approach",
+        "C": "to help",
+        "D": "to hear"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 11,
+      "question": "centum",
+      "options": {
+        "A": "100",
+        "B": "500",
+        "C": "40 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "poculum",
+      "options": {
+        "A": "court",
+        "B": "market",
+        "C": "ceremony",
+        "D": "cup"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 13,
+      "question": "exercitus",
+      "options": {
+        "A": "exercise",
+        "B": "example",
+        "C": "army",
+        "D": "motion"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "ceteri",
+      "options": {
+        "A": "contests",
+        "B": "the rest",
+        "C": "certain",
+        "D": "faithful"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "spero",
+      "options": {
+        "A": "to hope",
+        "B": "to breathe",
+        "C": "to deny",
+        "D": "to despair"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "to fight",
+      "options": {
+        "A": "pugno",
+        "B": "vinco",
+        "C": "paro",
+        "D": "interficio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "the same",
+      "options": {
+        "A": "ita",
+        "B": "illa",
+        "C": "ipse",
+        "D": "idem"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "sea",
+      "options": {
+        "A": "mare",
+        "B": "unda",
+        "C": "ora",
+        "D": "pons"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "to stand",
+      "options": {
+        "A": "sterno",
+        "B": "sto",
+        "C": "stipo",
+        "D": "tollo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 20,
+      "question": "to feel",
+      "options": {
+        "A": "sentio",
+        "B": "fero",
+        "C": "audio",
+        "D": "consisto"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "right",
+      "options": {
+        "A": "rictus",
+        "B": "sinister",
+        "C": "dexter",
+        "D": "breviter"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "to run",
+      "options": {
+        "A": "curro",
+        "B": "festino",
+        "C": "ambulo",
+        "D": "contend"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "sand",
+      "options": {
+        "A": "sanguis",
+        "B": "litus",
+        "C": "petra",
+        "D": "arena"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 24,
+      "question": "journey",
+      "options": {
+        "A": "ita",
+        "B": "iter",
+        "C": "item",
+        "D": "iterum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 25,
+      "question": "illness",
+      "options": {
+        "A": "mors",
+        "B": "mortalis",
+        "C": "mos",
+        "D": "morbus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 26,
+      "question": "shoe",
+      "options": {
+        "A": "saccus",
+        "B": "palla",
+        "C": "calceus",
+        "D": "tunica"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 27,
+      "question": "greatest",
+      "options": {
+        "A": "minimus",
+        "B": "proximus",
+        "C": "optimus",
+        "D": "maximus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 28,
+      "question": "river",
+      "options": {
+        "A": "flumen",
+        "B": "mare",
+        "C": "litus",
+        "D": "pontus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "to go away",
+      "options": {
+        "A": "pervenio",
+        "B": "discedo",
+        "C": "relinquo",
+        "D": "debeo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "amicus",
+      "options": {
+        "A": "cliens",
+        "B": "hostes",
+        "C": "socius",
+        "D": "dominus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "delecto",
+      "options": {
+        "A": "deligo",
+        "B": "suscipio",
+        "C": "retineo",
+        "D": "placeo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 32,
+      "question": "teneo",
+      "options": {
+        "A": "rapio",
+        "B": "comprehend",
+        "C": "quaero",
+        "D": "habeo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 33,
+      "question": "dux",
+      "options": {
+        "A": "optio",
+        "B": "rex",
+        "C": "princeps",
+        "D": "patronus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 34,
+      "question": "propter",
+      "options": {
+        "A": "ad",
+        "B": "prope",
+        "C": "ab",
+        "D": "ob"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 35,
+      "question": "servo",
+      "options": {
+        "A": "regno",
+        "B": "deleo",
+        "C": "iubeo",
+        "D": "vinco"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 36,
+      "question": "affirmo",
+      "options": {
+        "A": "nego",
+        "B": "gaudeo",
+        "C": "consentio",
+        "D": "nescio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "praemium",
+      "options": {
+        "A": "auxilium",
+        "B": "proelium",
+        "C": "argentum",
+        "D": "poena"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 38,
+      "question": "multi",
+      "options": {
+        "A": "magni",
+        "B": "boni",
+        "C": "pauci",
+        "D": "breves"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 39,
+      "question": "cras",
+      "options": {
+        "A": "tum",
+        "B": "heri",
+        "C": "tunc",
+        "D": "mox"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "pater : vir :: mater : ____",
+      "options": {
+        "A": "soror",
+        "B": "puella",
+        "C": "mulier",
+        "D": "filia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 41,
+      "question": "nauta : navis :: agricola : _____",
+      "options": {
+        "A": "civis",
+        "B": "fundus",
+        "C": "urbs",
+        "D": "thermae"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 42,
+      "question": "puto : cogito :: quaero : _____",
+      "options": {
+        "A": "peto",
+        "B": "ostendo",
+        "C": "doceo",
+        "D": "relinquo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "caelum: terra :: umidus : _____",
+      "options": {
+        "A": "sordidus",
+        "B": "mollis",
+        "C": "durus",
+        "D": "siccus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 44,
+      "question": "scribo : manus :: ambulo : _____",
+      "options": {
+        "A": "pes",
+        "B": "femur",
+        "C": "umerus",
+        "D": "caput"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "do : capio :: laudo: ______",
+      "options": {
+        "A": "iacio",
+        "B": "demitto",
+        "C": "vitupero",
+        "D": "pingo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "a. nomen b. deus c. numen d. divus",
+      "options": {},
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    }
+  ]
+}

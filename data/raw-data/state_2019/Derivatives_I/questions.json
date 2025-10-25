@@ -1,0 +1,610 @@
+{
+  "test_info": {
+    "name": "Derivatives_I",
+    "year": "state_2019",
+    "subject": "Derivatives_I",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "The politician offered vociferous opposition to the new law.",
+      "options": {
+        "A": "truthful",
+        "B": "vehement",
+        "C": "silent",
+        "D": "false"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "Julia’s friends noticed her urbane appearance as soon as she walked into the room.",
+      "options": {
+        "A": "enthusiastic",
+        "B": "rustic",
+        "C": "sophisticated",
+        "D": "disheveled"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "The coroner found the murder victim supine on the floor.",
+      "options": {
+        "A": "face up",
+        "B": "face down",
+        "C": "dead",
+        "D": "on the side"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "Marcus planned to advance his own agenda for the student council through subterfuge.",
+      "options": {
+        "A": "deception",
+        "B": "violence",
+        "C": "logic",
+        "D": "charm"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "Aurelia was shocked when she discovered that some fishes have viviparous births.",
+      "options": {
+        "A": "easy",
+        "B": "messy",
+        "C": "difficult",
+        "D": "live"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 6,
+      "question": "Quintus had a mulierose reaction the first time he held his niece.",
+      "options": {
+        "A": "sad",
+        "B": "fearful",
+        "C": "composed",
+        "D": "feminine"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 7,
+      "question": "Upon looking in the mirror after several days, Flavia recoiled at her severe erubescence.",
+      "options": {
+        "A": "dryness",
+        "B": "redness",
+        "C": "sweating",
+        "D": "paleness"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "The aquiline appearance of the professor immediately silenced the chatty students.",
+      "options": {
+        "A": "wolf-like",
+        "B": "rabbit-like",
+        "C": "otter-like",
+        "D": "eagle-like"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 9,
+      "question": "Lollia and Delia perambulated through the gardens to meet their friends under an apple tree.",
+      "options": {
+        "A": "glided",
+        "B": "skipped",
+        "C": "rushed",
+        "D": "strolled"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 10,
+      "question": "The parents noticed the amity between Lucius and Aelia straightaway.",
+      "options": {
+        "A": "harmony",
+        "B": "discord",
+        "C": "tension",
+        "D": "silence"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "Choose the English word that is derived from the given Latin word. coquo",
+      "options": {
+        "A": "sand",
+        "B": "cookie",
+        "C": "apple",
+        "D": "rooster"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 12,
+      "question": "Choose the English word that is derived from the given Latin word. flo",
+      "options": {
+        "A": "flatulence",
+        "B": "flip",
+        "C": "flower",
+        "D": "fluid"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "Choose the English word that is derived from the given Latin word. rapio",
+      "options": {
+        "A": "ravioli",
+        "B": "wrap",
+        "C": "ravage",
+        "D": "crate"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "Choose the English word that is derived from the given Latin word. plumbum",
+      "options": {
+        "A": "plunge",
+        "B": "poster",
+        "C": "plank",
+        "D": "prick"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "Choose the English word that is derived from the given Latin word. murus",
+      "options": {
+        "A": "intramural",
+        "B": "mark",
+        "C": "manumit",
+        "D": "pumice"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "Choose the English word that is derived from the given Latin word. onus",
+      "options": {
+        "A": "opposition",
+        "B": "exonerate",
+        "C": "propose",
+        "D": "orange"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 17,
+      "question": "Choose the English word that is derived from the given Latin word. mare",
+      "options": {
+        "A": "marinate",
+        "B": "marred",
+        "C": "marriage",
+        "D": "saline"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "Choose the English word that is derived from the given Latin word. nonus",
+      "options": {
+        "A": "no",
+        "B": "noon",
+        "C": "none",
+        "D": "new"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "Choose the English word that is derived from the given Latin word. caudex",
+      "options": {
+        "A": "codify",
+        "B": "idiot",
+        "C": "creep",
+        "D": "caution"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "Choose the English word that is derived from the given Latin word. scintilla",
+      "options": {
+        "A": "scant",
+        "B": "smell",
+        "C": "tile",
+        "D": "tinsel"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 21,
+      "question": "Identify the Latin word from which the given English word is derived. volunteer",
+      "options": {
+        "A": "volo",
+        "B": "vivus",
+        "C": "volvo",
+        "D": "voluptas"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "Identify the Latin word from which the given English word is derived. sombrero",
+      "options": {
+        "A": "umbra",
+        "B": "somnus",
+        "C": "umbilicus",
+        "D": "summus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "Identify the Latin word from which the given English word is derived. quaint",
+      "options": {
+        "A": "quintus",
+        "B": "novus",
+        "C": "nosco",
+        "D": "quasso"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "Identify the Latin word from which the given English word is derived. enjoy",
+      "options": {
+        "A": "fero",
+        "B": "eicio",
+        "C": "gaudeo",
+        "D": "venio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "Identify the Latin word from which the given English word is derived. chair",
+      "options": {
+        "A": "cingulum",
+        "B": "sedeo",
+        "C": "cedo",
+        "D": "cathedra"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 26,
+      "question": "Identify the Latin word from which the given English word is derived. enhance",
+      "options": {
+        "A": "sum",
+        "B": "do",
+        "C": "alo",
+        "D": "haereo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 27,
+      "question": "Identify the Latin word from which the given English word is derived. lotion",
+      "options": {
+        "A": "lavo",
+        "B": "laudo",
+        "C": "libero",
+        "D": "lego"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "Identify the Latin word from which the given English word is derived. mussel",
+      "options": {
+        "A": "mundus",
+        "B": "mus",
+        "C": "musca",
+        "D": "murus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "Identify the Latin word from which the given English word is derived. kennel",
+      "options": {
+        "A": "corpus",
+        "B": "canis",
+        "C": "capio",
+        "D": "caput"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "Identify the Latin word from which the given English word is derived. inert",
+      "options": {
+        "A": "amo",
+        "B": "ars",
+        "C": "intereo",
+        "D": "aer"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 31,
+      "question": "Choose the meaning of the Latin word from which the given English word is derived. manual",
+      "options": {
+        "A": "hand",
+        "B": "to remain",
+        "C": "iron",
+        "D": "man"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "Choose the meaning of the Latin word from which the given English word is derived. refrain (n.)",
+      "options": {
+        "A": "to bear",
+        "B": "to break",
+        "C": "to sing",
+        "D": "to write"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "Choose the meaning of the Latin word from which the given English word is derived. emulsion",
+      "options": {
+        "A": "to milk",
+        "B": "to cry",
+        "C": "to mix",
+        "D": "to pet"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "Choose the meaning of the Latin word from which the given English word is derived. interregnum",
+      "options": {
+        "A": "to kill",
+        "B": "thing",
+        "C": "question",
+        "D": "to rule"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 35,
+      "question": "Choose the meaning of the Latin word from which the given English word is derived. virtuoso",
+      "options": {
+        "A": "skill",
+        "B": "vice",
+        "C": "man",
+        "D": "life"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 36,
+      "question": "Choose the meaning of the Latin word from which the given English word is derived. defenestrate",
+      "options": {
+        "A": "chicken",
+        "B": "window",
+        "C": "defense",
+        "D": "hay"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "Choose the meaning of the Latin word from which the given English word is derived. ridiculous",
+      "options": {
+        "A": "to speak",
+        "B": "crude",
+        "C": "root",
+        "D": "to laugh"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 38,
+      "question": "Choose the meaning of the Latin word from which the given English word is derived. sample",
+      "options": {
+        "A": "to buy",
+        "B": "to be",
+        "C": "sweet",
+        "D": "juice"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "Choose the meaning of the Latin word from which the given English word is derived. cruise",
+      "options": {
+        "A": "cross",
+        "B": "cruel",
+        "C": "to sink",
+        "D": "to walk"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "Choose the meaning of the Latin word from which the given English word is derived. bugle",
+      "options": {
+        "A": "insect",
+        "B": "horn",
+        "C": "cow",
+        "D": "cat"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 41,
+      "question": "Choose the word which does NOT belong by derivation.",
+      "options": {
+        "A": "incisor",
+        "B": "decide",
+        "C": "cadence",
+        "D": "precision"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 42,
+      "question": "Choose the word which does NOT belong by derivation.",
+      "options": {
+        "A": "boon",
+        "B": "bountiful",
+        "C": "bottle",
+        "D": "bounty"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 43,
+      "question": "Choose the word which does NOT belong by derivation.",
+      "options": {
+        "A": "evolve",
+        "B": "volute",
+        "C": "volition",
+        "D": "voluble"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 44,
+      "question": "Choose the word which does NOT belong by derivation.",
+      "options": {
+        "A": "print",
+        "B": "princess",
+        "C": "express",
+        "D": "sprain"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 45,
+      "question": "Choose the word which does NOT belong by derivation.",
+      "options": {
+        "A": "align",
+        "B": "line",
+        "C": "relic",
+        "D": "lint"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "Choose the word derived from the same Latin root as the given English word. forge",
+      "options": {
+        "A": "failure",
+        "B": "fling",
+        "C": "flavor",
+        "D": "fabric"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 47,
+      "question": "Choose the word derived from the same Latin root as the given English word. monocle",
+      "options": {
+        "A": "warning",
+        "B": "antler",
+        "C": "trickle",
+        "D": "able"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "Choose the word derived from the same Latin root as the given English word. dame",
+      "options": {
+        "A": "dormitory",
+        "B": "doctor",
+        "C": "dump",
+        "D": "dominate"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 49,
+      "question": "Choose the word derived from the same Latin root as the given English word. obey",
+      "options": {
+        "A": "oyster",
+        "B": "age",
+        "C": "auditorium",
+        "D": "odd"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "Choose the word derived from the same Latin root as the given English word. carpet",
+      "options": {
+        "A": "art",
+        "B": "excerpt",
+        "C": "carnal",
+        "D": "crop"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "test_info": {
+    "name": "Derivatives_I",
+    "year": "state_2016",
+    "subject": "Derivatives_I",
+    "total_questions": 45
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "The man completed the onerous task.",
+      "options": {
+        "A": "lucrative",
+        "B": "burdensome",
+        "C": "morose",
+        "D": "facile"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "The president pledged to put the nation’s full puissance toward the war",
+      "options": {
+        "A": "military",
+        "B": "resources",
+        "C": "power",
+        "D": "diplomacy"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "I will always be indebted to you.",
+      "options": {
+        "A": "well-known",
+        "B": "friendly",
+        "C": "obligated",
+        "D": "drawn"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 4,
+      "question": "The young man issued a ludicrous statement.",
+      "options": {
+        "A": "ridiculous",
+        "B": "outrageous",
+        "C": "troublesome",
+        "D": "stupendous"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "He feels like his family is his guerdon.",
+      "options": {
+        "A": "reward",
+        "B": "punishment",
+        "C": "burden",
+        "D": "inspiration"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "\"Hello up there,\" I said, in an amicable a manner.",
+      "options": {
+        "A": "friendly",
+        "B": "ingratiating",
+        "C": "polite",
+        "D": "carefree"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "A vexing remonstrance was consequently made by the British government,",
+      "options": {
+        "A": "terse",
+        "B": "annoying",
+        "C": "vitriolic",
+        "D": "virulent"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "Vienna was ruled by a committee of students and citizens, who arrogated",
+      "options": {
+        "A": "stole",
+        "B": "gave up",
+        "C": "asked",
+        "D": "refused"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "The thief approached the woman in an ominous manner.",
+      "options": {
+        "A": "peaceful",
+        "B": "fawning",
+        "C": "secretive",
+        "D": "portentous"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 10,
+      "question": "The students petitioned for the right to have more freedom.",
+      "options": {
+        "A": "fought",
+        "B": "sought",
+        "C": "demanded",
+        "D": "begged"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 11,
+      "question": "preamble.",
+      "options": {
+        "A": "prepare",
+        "B": "offer",
+        "C": "walk",
+        "D": "first"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "editor",
+      "options": {
+        "A": "give",
+        "B": "eat",
+        "C": "ought",
+        "D": "speak out"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "excursion",
+      "options": {
+        "A": "care",
+        "B": "chariot",
+        "C": "exercise",
+        "D": "run"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 14,
+      "question": "participate",
+      "options": {
+        "A": "head",
+        "B": "take",
+        "C": "equal",
+        "D": "touch"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "ancestor",
+      "options": {
+        "A": "yield",
+        "B": "slave woman",
+        "C": "year",
+        "D": "trunk"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "infection",
+      "options": {
+        "A": "carry",
+        "B": "make",
+        "C": "act",
+        "D": "throat"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 17,
+      "question": "conjecture",
+      "options": {
+        "A": "join",
+        "B": "against",
+        "C": "crowd",
+        "D": "throw"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "predilection",
+      "options": {
+        "A": "delight",
+        "B": "choose",
+        "C": "plunder",
+        "D": "couch"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "lieutenant",
+      "options": {
+        "A": "lion",
+        "B": "slow",
+        "C": "hold",
+        "D": "before"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "conditional",
+      "options": {
+        "A": "say",
+        "B": "give",
+        "C": "establish",
+        "D": "against"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "video",
+      "options": {
+        "A": "prudent",
+        "B": "souvenir",
+        "C": "convict",
+        "D": "velour"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "venio",
+      "options": {
+        "A": "ventricle",
+        "B": "vein",
+        "C": "venerable",
+        "D": "covenant"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 23,
+      "question": "sto",
+      "options": {
+        "A": "stipend",
+        "B": "distinction",
+        "C": "substantive",
+        "D": "stagnant"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "porto",
+      "options": {
+        "A": "airport",
+        "B": "apportion",
+        "C": "sportsmanship",
+        "D": "portico"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "puto",
+      "options": {
+        "A": "disreputable",
+        "B": "putrid",
+        "C": "expunge",
+        "D": "pulpit"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "pono",
+      "options": {
+        "A": "ponderous",
+        "B": "imposition",
+        "C": "postulate",
+        "D": "appoint"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "mitto",
+      "options": {
+        "A": "commiserate",
+        "B": "missive",
+        "C": "mixture",
+        "D": "medley"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "lego",
+      "options": {
+        "A": "legume",
+        "B": "allegation",
+        "C": "diligent",
+        "D": "obligation"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "fero",
+      "options": {
+        "A": "interfere",
+        "B": "ferocious",
+        "C": "effervescence",
+        "D": "referee"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 30,
+      "question": "capio",
+      "options": {
+        "A": "municiple",
+        "B": "capillary",
+        "C": "capsule",
+        "D": "capitalist"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "distraction",
+      "options": {
+        "A": "traho",
+        "B": "trado",
+        "C": "discedo",
+        "D": "disco"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "adjourn",
+      "options": {
+        "A": "ius",
+        "B": "adeo",
+        "C": "dies",
+        "D": "durus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 33,
+      "question": "traitor",
+      "options": {
+        "A": "traho",
+        "B": "trado",
+        "C": "ratio",
+        "D": "ater"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "precocious",
+      "options": {
+        "A": "cogo",
+        "B": "praeceps",
+        "C": "coquo",
+        "D": "praecipito"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 35,
+      "question": "obedient",
+      "options": {
+        "A": "edo",
+        "B": "do",
+        "C": "obeo",
+        "D": "audio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 36,
+      "question": "parachute",
+      "options": {
+        "A": "cado",
+        "B": "paratus",
+        "C": "causa",
+        "D": "pareo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "bounty",
+      "options": {
+        "A": "bos",
+        "B": "unus",
+        "C": "onus",
+        "D": "bonus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 38,
+      "question": "squat",
+      "options": {
+        "A": "squalidus",
+        "B": "qualis",
+        "C": "ago",
+        "D": "ater"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 39,
+      "question": "secluded",
+      "options": {
+        "A": "seco",
+        "B": "claudo",
+        "C": "clam",
+        "D": "sicut"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "ability",
+      "options": {
+        "A": "agilis",
+        "B": "abeo",
+        "C": "habeo",
+        "D": "habito"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "adroit",
+      "options": {
+        "A": "dress",
+        "B": "admire",
+        "C": "dire",
+        "D": "addition"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "perdition",
+      "options": {
+        "A": "peril",
+        "B": "peregrine",
+        "C": "sacerdotal",
+        "D": "sedition"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 48,
+      "question": "envious",
+      "options": {
+        "A": "convey",
+        "B": "voyage",
+        "C": "environment",
+        "D": "evident"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 49,
+      "question": "convincing",
+      "options": {
+        "A": "vanquish",
+        "B": "vivacious",
+        "C": "conventional",
+        "D": "convivial"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "exist",
+      "options": {
+        "A": "exit",
+        "B": "constant",
+        "C": "exile",
+        "D": "continue"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "test_info": {
+    "name": "Derivatives_I",
+    "year": "state_2011",
+    "subject": "Derivatives_I",
+    "total_questions": 40
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "lex",
+      "options": {
+        "A": "laxity",
+        "B": "lecture",
+        "C": "legislate",
+        "D": "legion"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 2,
+      "question": "lingua",
+      "options": {
+        "A": "linguini",
+        "B": "malingerer",
+        "C": "lingerie",
+        "D": "lingonberry"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "mando",
+      "options": {
+        "A": "mendicant",
+        "B": "mandible",
+        "C": "mandolin",
+        "D": "commendation"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "cano",
+      "options": {
+        "A": "cantaloupe",
+        "B": "enchantress",
+        "C": "cantilever",
+        "D": "canteen"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "dico",
+      "options": {
+        "A": "doctrine",
+        "B": "index",
+        "C": "verdict",
+        "D": "decoration"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "moneo",
+      "options": {
+        "A": "monitor b, monastery",
+        "C": "money",
+        "D": "monsoon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "tempus",
+      "options": {
+        "A": "contempt",
+        "B": "tempt",
+        "C": "temple",
+        "D": "tempest"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 8,
+      "question": "pes",
+      "options": {
+        "A": "pedagogue",
+        "B": "pedestal",
+        "C": "peddler",
+        "D": "pestilence"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "casa",
+      "options": {
+        "A": "cascade",
+        "B": "cash",
+        "C": "casino",
+        "D": "casserole"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "clamo",
+      "options": {
+        "A": "exclaim",
+        "B": "clamp",
+        "C": "clang",
+        "D": "declare"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "Which word would be used to indicate that Bubba is a fourth-­‐generation Floridian?",
+      "options": {
+        "A": "indignant",
+        "B": "indigenous",
+        "C": "indigent",
+        "D": "indigoid"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 22,
+      "question": "Which Latin word meaning little handful or small bundle is related to the English word meaning shrewd or",
+      "options": {
+        "A": "manducus",
+        "B": "manumissio",
+        "C": "manipulus",
+        "D": "manes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 23,
+      "question": "If you are a persuasive person, your influence is based on an Latin adjective meaning ____________.",
+      "options": {
+        "A": "sweet",
+        "B": "exemplary",
+        "C": "forceful",
+        "D": "reasonable"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "A companion was originally a person who would share ________with you.",
+      "options": {
+        "A": "a garment",
+        "B": "all things",
+        "C": "your pain",
+        "D": "bread"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 25,
+      "question": "A congregation was originally a church term meaning the shepherd’s, or pastor’s ____________.",
+      "options": {
+        "A": "bible",
+        "B": "herd",
+        "C": "farm",
+        "D": "fellow shepherds"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question": "Dismal comes from dies and mal, literally a(n)",
+      "options": {
+        "A": "cloudy sky",
+        "B": "ominous sign",
+        "C": "depressing wind",
+        "D": "evil day"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 27,
+      "question": "As a magnanimous person , you literally have a",
+      "options": {
+        "A": "great soul",
+        "B": "large family",
+        "C": "big army",
+        "D": "great heart"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "If something is innocuous, it will not _________ you.",
+      "options": {
+        "A": "help",
+        "B": "hinder",
+        "C": "harm",
+        "D": "hate"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "An irascible person is easily",
+      "options": {
+        "A": "frightened",
+        "B": "angered",
+        "C": "fooled",
+        "D": "defeated"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "What is literally “a pig with thorns?”",
+      "options": {
+        "A": "a cactus",
+        "B": "a rosebush",
+        "C": "a spiny lobster",
+        "D": "a porcupine"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 31,
+      "question": "precocious",
+      "options": {
+        "A": "cook",
+        "B": "prepare",
+        "C": "know",
+        "D": "stand"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "patriot",
+      "options": {
+        "A": "follower",
+        "B": "country",
+        "C": "soldier",
+        "D": "sympathizer"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "desolate",
+      "options": {
+        "A": "sad",
+        "B": "hopeless",
+        "C": "alone",
+        "D": "gloomy"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 34,
+      "question": "terrain",
+      "options": {
+        "A": "earth",
+        "B": "fearful",
+        "C": "bounding",
+        "D": "frightening"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "sewer",
+      "options": {
+        "A": "water",
+        "B": "witness",
+        "C": "dirty",
+        "D": "foul"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "detract",
+      "options": {
+        "A": "to vandalize",
+        "B": "to insult",
+        "C": "to ruin",
+        "D": "to drag"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 37,
+      "question": "tenacious",
+      "options": {
+        "A": "to spend",
+        "B": "to pile up",
+        "C": "to exceed",
+        "D": "to hold"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 38,
+      "question": "souvenir",
+      "options": {
+        "A": "to occur",
+        "B": "to be plentiful",
+        "C": "to be strong",
+        "D": "to come"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 39,
+      "question": "collaborate",
+      "options": {
+        "A": "to follow",
+        "B": "to work",
+        "C": "to annoy",
+        "D": "to harm"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "nonsense",
+      "options": {
+        "A": "to know",
+        "B": "to feel",
+        "C": "to think",
+        "D": "to agree"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 41,
+      "question": "lucid",
+      "options": {
+        "A": "lux",
+        "B": "luctus",
+        "C": "lucus",
+        "D": "lumen"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "effect",
+      "options": {
+        "A": "effero",
+        "B": "fallo",
+        "C": "fatigo",
+        "D": "facio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 43,
+      "question": "accurate",
+      "options": {
+        "A": "accursus",
+        "B": "cura",
+        "C": "currus",
+        "D": "curio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 44,
+      "question": "appease",
+      "options": {
+        "A": "pax",
+        "B": "par",
+        "C": "pareo",
+        "D": "pes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "morgue",
+      "options": {
+        "A": "mos",
+        "B": "mora",
+        "C": "mors",
+        "D": "moretum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "somnambulent",
+      "options": {
+        "A": "sonorous",
+        "B": "somniferous",
+        "C": "sordid",
+        "D": "somber"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 47,
+      "question": "capture",
+      "options": {
+        "A": "capitulate",
+        "B": "decapitate",
+        "C": "captivate",
+        "D": "capsize"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 48,
+      "question": "data",
+      "options": {
+        "A": "dative",
+        "B": "deign",
+        "C": "predicament",
+        "D": "mandible"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "belligerent",
+      "options": {
+        "A": "duel",
+        "B": "beauty",
+        "C": "bounty",
+        "D": "germ"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "agile",
+      "options": {
+        "A": "actor",
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    }
+  ]
+}

@@ -1,0 +1,675 @@
+{
+  "test_info": {
+    "name": "Classical_Geography",
+    "year": "state_2011",
+    "subject": "Classical_Geography",
+    "total_questions": 56
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which of these ancient cities was in what we now call Spain?",
+      "options": {
+        "A": "Tarsus",
+        "B": "Gades",
+        "C": "Arelate",
+        "D": "Messana"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "Which of these cites was NOT in Britannia?",
+      "options": {
+        "A": "Eboracum",
+        "B": "Aquae Sulis",
+        "C": "Burdigala",
+        "D": "Londinium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "Trapezus is a port city on the ________ Sea.",
+      "options": {
+        "A": "Black",
+        "B": "Aegean",
+        "C": "Ionian",
+        "D": "Tyrrhenian"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "Ephesus was located in an area the Romans would have called",
+      "options": {
+        "A": "Thracia",
+        "B": "Syria",
+        "C": "Cyrenica",
+        "D": "Asia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "Which river actually flows through the ancient city of Athens?",
+      "options": {
+        "A": "Cephisus",
+        "B": "Tempe",
+        "C": "Eridanus",
+        "D": "Ilisus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "Which of these ancient names most closely occupies the area that is modern France?",
+      "options": {
+        "A": "Moesia",
+        "B": "Gallia",
+        "C": "Aquitania",
+        "D": "Mauritania"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "question": "The European city of Cartagena was originally called",
+      "options": {
+        "A": "Carthago Nova",
+        "B": "Emporion",
+        "C": "Cartenna",
+        "D": "Camulodunum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "The modern Greek island of Corfu was known as ____ in classical times",
+      "options": {
+        "A": "Cephallenia",
+        "B": "Zacynthus",
+        "C": "Leucas",
+        "D": "Corcyra"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 9,
+      "question": "The town near the famous palace of Hadrian is now called Tivoli, in ancent times it was?",
+      "options": {
+        "A": "Tibur",
+        "B": "Collatia",
+        "C": "Treba",
+        "D": "Tusculum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "The ancient town of Lutetia is now",
+      "options": {
+        "A": "London",
+        "B": "Paris",
+        "C": "Coln",
+        "D": "Lyon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 11,
+      "question": "Which island is southeast of Athens?",
+      "options": {
+        "A": "Naxos",
+        "B": "Scyros",
+        "C": "Samos",
+        "D": "Aegina"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "Which Italian city is to the south of Rome?",
+      "options": {
+        "A": "Tarentum",
+        "B": "Tarquinii",
+        "C": "Asculum",
+        "D": "Mutina"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "If Aeneas had decided to sail from Carthage to Knossos, which direction would he travel?",
+      "options": {
+        "A": "West",
+        "B": "South",
+        "C": "North",
+        "D": "East"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 14,
+      "question": "If a merchant in Syracuse wanted to sell his goods in Lugdunum, which direction would he travel?",
+      "options": {
+        "A": "Southwest",
+        "B": "Southeast",
+        "C": "Northwest",
+        "D": "Northeast"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 15,
+      "question": "On a busy day, Hermes began in Arcadia, flew first to Acarnia, then to Boeotia and finally to Mount",
+      "options": {
+        "A": "c. North -­‐ Northwest -­‐ Northeast",
+        "B": "East -­‐ North -­‐ South",
+        "D": "South -­‐ East -­‐ North"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "Augustus exiled the poet Ovid to the city of Tomi on the Black Sea. In which province was Tomi",
+      "options": {
+        "A": "Thracia",
+        "B": "Dacia",
+        "C": "Moesia",
+        "D": "Dalmatica"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 17,
+      "question": "Which of these provinces was the farthest west?",
+      "options": {
+        "A": "Cyrenica",
+        "B": "Sardinia",
+        "C": "Cilicia",
+        "D": "Mauretania"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "Which province did not border on Tarraconensis?",
+      "options": {
+        "A": "Lusitania",
+        "B": "Aquitania",
+        "C": "Baetica",
+        "D": "Lugdunensis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 19,
+      "question": "In the time of Trajan, Greece was divided into three provinces. Which contained the famous cities",
+      "options": {
+        "A": "Epirus",
+        "B": "Macedonia",
+        "C": "Achaea",
+        "D": "Laconia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "The Euphrates River served as the eastern boundary of the province of",
+      "options": {
+        "A": "Armenia",
+        "B": "Syria",
+        "C": "Tingitana",
+        "D": "Mesopotamia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 21,
+      "question": "Number",
+      "options": {
+        "A": "Alexandria",
+        "B": "Thebes",
+        "C": "Gaza",
+        "D": "Cyrene"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "Number",
+      "options": {
+        "A": "Nicomedia",
+        "B": "Sinope",
+        "C": "Antioch",
+        "D": "Halicarnassus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "Number",
+      "options": {
+        "A": "Thermopylae",
+        "B": "Pylos",
+        "C": "Apollonia",
+        "D": "Calydon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "Number",
+      "options": {
+        "A": "Carthage",
+        "B": "Caesarea",
+        "C": "Hippo Regius",
+        "D": "Arsinoe"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "Number",
+      "options": {
+        "A": "Tarraco",
+        "B": "Cirta",
+        "C": "Colonia Agrippina",
+        "D": "Tingis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "Number",
+      "options": {
+        "A": "Rhodes",
+        "B": "Crete",
+        "C": "Corsica",
+        "D": "Cyprus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 27,
+      "question": "Number",
+      "options": {
+        "A": "Carrhae",
+        "B": "Ancyra",
+        "C": "Artaxata",
+        "D": "Pergamum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 28,
+      "question": "Number",
+      "options": {
+        "A": "Maeotis Palus",
+        "B": "Pontus Euxinus",
+        "C": "Mare Tuscum",
+        "D": "Icarian Sea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "Number",
+      "options": {
+        "A": "Mauretania",
+        "B": "Narbonensis",
+        "C": "Raetia",
+        "D": "Lusitania"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 30,
+      "question": "Number",
+      "options": {
+        "A": "Calleva",
+        "B": "Isca",
+        "C": "Camelodunum",
+        "D": "Deva"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 31,
+      "question": "Letter A",
+      "options": {
+        "A": "c. Mausoleum of Hadrian",
+        "B": "Temple of Fortuna Virilis",
+        "D": "Saepta Julia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 32,
+      "question": "Letter B is the Via",
+      "options": {
+        "A": "Salaria",
+        "B": "Aurelia",
+        "C": "Flaminia",
+        "D": "Asinaria"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 33,
+      "question": "Letter C",
+      "options": {
+        "A": "c. Castra Praetoriana",
+        "B": "Baths of Agrippa",
+        "D": "Castrensian Amphitheatre"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 34,
+      "question": "The walls at letter D were begun by",
+      "options": {
+        "A": "Servius Tullius",
+        "B": "Aurelian",
+        "C": "Oppian",
+        "D": "Alexander Severus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "Letter E is the Via",
+      "options": {
+        "A": "Latina",
+        "B": "Appia",
+        "C": "Ostiensis",
+        "D": "Portuensis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 36,
+      "question": "Letter F marks the Baths of",
+      "options": {
+        "A": "Caracalla",
+        "B": "Trajan",
+        "C": "Diocletian",
+        "D": "Nero"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "Letter G is the _________ Hill",
+      "options": {
+        "A": "Palatine",
+        "B": "Aventine",
+        "C": "Caelian",
+        "D": "Esquiline"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "Letter H is the _________ Hill",
+      "options": {
+        "A": "Viminal",
+        "B": "Oppian",
+        "C": "Quirinal",
+        "D": "Janiculan"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 39,
+      "question": "The two bridges to the right of letter I are",
+      "options": {
+        "A": "c. Sublician and Aurelian",
+        "B": "Fabrician and Sublician",
+        "D": "Aurelian and Aemilian"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "Which of the following buildings is NOT built on the hill marked letter K?",
+      "options": {
+        "A": "c. Temple of Jupiter Optimus Maximus",
+        "B": "Temple of Mars Ultor",
+        "D": "Tabularium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 41,
+      "question": "The town at number 1 is famous for a battle fought near there.",
+      "options": {
+        "A": "Mutina",
+        "B": "Vercellae",
+        "C": "Aquae Sextiae",
+        "D": "Bedriacum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 42,
+      "question": "Number 2 was a port city in ancient times, but it is now landlocked.",
+      "options": {
+        "A": "Pisae",
+        "B": "Genua",
+        "C": "Patavium",
+        "D": "Aquileia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 43,
+      "question": "Number 3 was famous for being the home town of one of the most famous Roman poets.",
+      "options": {
+        "A": "Arpinum",
+        "B": "Mantua",
+        "C": "Reate",
+        "D": "Sulmo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 44,
+      "question": "Number",
+      "options": {
+        "A": "Ariminum",
+        "B": "Placentia",
+        "C": "Antium",
+        "D": "Asculum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "Number 5 is the famous hill country between the Tiber and Arno rivers",
+      "options": {
+        "A": "Umbria",
+        "B": "Liguria",
+        "C": "Etruria",
+        "D": "Picenum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "Number",
+      "options": {
+        "A": "Larinum",
+        "B": "Aleria",
+        "C": "Bosa",
+        "D": "Caralis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 47,
+      "question": "Number",
+      "options": {
+        "A": "Metapontum",
+        "B": "Tarentum",
+        "C": "Brundisium",
+        "D": "Paestum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 48,
+      "question": "Number",
+      "options": {
+        "A": "Lilybaeum",
+        "B": "Gela",
+        "C": "Panormus",
+        "D": "Utica"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "Number",
+      "options": {
+        "A": "Agrigentum",
+        "B": "Segesta",
+        "C": "Syracuse",
+        "D": "Catana"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "Number",
+      "options": {
+        "A": "Heraclea",
+        "B": "Posidonia",
+        "C": "Ardea",
+        "D": "Croton"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 1,
+      "question": "Mediolanum is the modern city of",
+      "options": {
+        "A": "Manchester",
+        "B": "Marseilles",
+        "C": "Milan",
+        "D": "Mantua"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "Nemausus is a city in modern",
+      "options": {
+        "A": "Germany",
+        "B": "Spain",
+        "C": "Belgium",
+        "D": "France"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "(On map of Rome) Letter J",
+      "options": {
+        "A": "Pantheon",
+        "B": "Colosseum",
+        "C": "Ara Martis",
+        "D": "Circus Flaminius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "(On map of Rome) Letter L",
+      "options": {
+        "A": "c. Baths of Diocletian",
+        "B": "Baths of Trajan",
+        "D": "Baths of Nero"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "(On map of Italy) Number 10 is",
+      "options": {
+        "A": "c. Henna.",
+        "B": "Mount Vesuvius.",
+        "D": "Rhegium."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "(On map of Italy), Number 12 is the region of Italy known as",
+      "options": {
+        "A": "Lucania.",
+        "B": "Campania.",
+        "C": "Samnium.",
+        "D": "Calabria."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    }
+  ]
+}

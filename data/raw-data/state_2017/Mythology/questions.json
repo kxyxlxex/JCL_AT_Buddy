@@ -1,0 +1,597 @@
+{
+  "test_info": {
+    "name": "Mythology",
+    "year": "state_2017",
+    "subject": "Mythology",
+    "total_questions": 49
+  },
+  "questions": [
+    {
+      "question_number": 2,
+      "question": "Alcides",
+      "options": {
+        "A": "Apollo",
+        "B": "Hermes",
+        "C": "Dionysus",
+        "D": "Heracles"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question": "Indiges",
+      "options": {
+        "A": "Ascanius",
+        "B": "Picus",
+        "C": "Janus",
+        "D": "Aeneas"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 4,
+      "question": "Achilles",
+      "options": {
+        "A": "Ligyron",
+        "B": "Asterius",
+        "C": "Podarces",
+        "D": "Polypemon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "Priam",
+      "options": {
+        "A": "Ligyron",
+        "B": "Asterius",
+        "C": "Podarces",
+        "D": "Polypemon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 6,
+      "question": "What daughter of Agenor was kidnapped by Zeus in the form of a bull?",
+      "options": {
+        "A": "Io",
+        "B": "Europa",
+        "C": "Callisto",
+        "D": "Leda"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 7,
+      "question": "The prow of the Argo was made from a sacred oak from what oracle of Zeus?",
+      "options": {
+        "A": "Olympia",
+        "B": "Siwa",
+        "C": "Dodona",
+        "D": "Lydia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "What brigand was known for feeding people to a man-eating turtle while he had",
+      "options": {
+        "A": "Sciron",
+        "B": "Sinis",
+        "C": "Periphetes",
+        "D": "Procrustes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 9,
+      "question": "Eurydice died when she stepped on a snake while fleeing what son of Apollo?",
+      "options": {
+        "A": "Philammon",
+        "B": "Eleuther",
+        "C": "Ion",
+        "D": "Aristaeus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "Andromeda was engaged to her uncle when she married Perseus. What was",
+      "options": {
+        "A": "Perses",
+        "B": "Cepheus",
+        "C": "Phineus",
+        "D": "Belus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "Who was the first of the Greeks to leap ashore at Troy and thus the first to die?",
+      "options": {
+        "A": "Podarces",
+        "B": "Iphiclus",
+        "C": "Achilles",
+        "D": "Protesilaus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "Which of the following was NOT the child of a Titan?",
+      "options": {
+        "A": "Chiron",
+        "B": "Cecrops",
+        "C": "Deucalion",
+        "D": "Pyrrha"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 13,
+      "question": "Who won the throne of Mycenae by causing the sun to reverse its path in the",
+      "options": {
+        "A": "Atreus",
+        "B": "Thyestes",
+        "C": "Tantalus",
+        "D": "Pleisthenes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 14,
+      "question": "Who purified Medea and Jason of the murder of Apsyrtus?",
+      "options": {
+        "A": "Calypso",
+        "B": "Hecate",
+        "C": "Circe",
+        "D": "Amphitrite"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "According to Ovid, into what were the daughters of Oeneus changed after the",
+      "options": {
+        "A": "hoopoes",
+        "B": "bats",
+        "C": "guinea fowl",
+        "D": "frogs"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 16,
+      "question": "What son of Poseidon and Thoosa loved the nymph Galatea?",
+      "options": {
+        "A": "Busiris",
+        "B": "Polyphemus",
+        "C": "Antaeus",
+        "D": "Orion"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 17,
+      "question": "Thebes was named after the wife of which of its kings?",
+      "options": {
+        "A": "Polydorus",
+        "B": "Lycus",
+        "C": "Labdacus",
+        "D": "Zethus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "Where was the first place Aeneas and his men sailed after leaving Troy?",
+      "options": {
+        "A": "Crete",
+        "B": "Thrace",
+        "C": "Delos",
+        "D": "Strophades"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "Which of the following was not a child of Typhaon and Echidna?",
+      "options": {
+        "A": "Medusa",
+        "B": "Orthus",
+        "C": "The Chimera",
+        "D": "Cerberus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "When the gods fled to Egypt to escape Typhon, which was not an animal one of",
+      "options": {
+        "A": "ram",
+        "B": "ibis",
+        "C": "fish",
+        "D": "hippo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 21,
+      "question": "According to Hesiod, who was married to the Grace Aglaea?",
+      "options": {
+        "A": "Hermes",
+        "B": "Poseidon",
+        "C": "Apollo",
+        "D": "Hephaestus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 22,
+      "question": "Who fought both as one of the Epigoni and at Troy, and wounded both Ares and",
+      "options": {
+        "A": "Alcmeon",
+        "B": "Protesilaus",
+        "C": "Diomedes",
+        "D": "Aegialeus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "Who was the only one of the Seven Against Thebes to survive, thanks in part to",
+      "options": {
+        "A": "Parthenopaeus",
+        "B": "Amphiaraus",
+        "C": "Adrastus",
+        "D": "Hippomedon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 24,
+      "question": "What name was shared by the following characters from mythology: a son of",
+      "options": {
+        "A": "Creon",
+        "B": "Agenor",
+        "C": "Glaucus",
+        "D": "Sthenelus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "What drunken companion of Dionysus did Midas protect and entertain when he",
+      "options": {
+        "A": "Icarius",
+        "B": "Silenus",
+        "C": "Pholus",
+        "D": "Oenopion"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 26,
+      "question": "What wife of Neleus was the only daughter of Niobe to survive Apollo and",
+      "options": {
+        "A": "Chione",
+        "B": "Chryse",
+        "C": "Chalciope",
+        "D": "Chloris"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "What muse was the mother of Orpheus?",
+      "options": {
+        "A": "Melpomene",
+        "B": "Calliope",
+        "C": "Terpsichore",
+        "D": "Urania"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "Who was Paris’ first wife, who refused to heal him after he was wounded in the",
+      "options": {
+        "A": "Oenone",
+        "B": "Hecuba",
+        "C": "Phaea",
+        "D": "Glauce"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "Into what did Latona change the Lycian peasants who refused to let her drink",
+      "options": {
+        "A": "trees",
+        "B": "gnats",
+        "C": "frogs",
+        "D": "birds"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 30,
+      "question": "Who was the Phaeacian princess who rescued the shipwrecked Odysseus?",
+      "options": {
+        "A": "Arete",
+        "B": "Nausicaa",
+        "C": "Melite",
+        "D": "Periboea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 31,
+      "question": "The Areopagus was named because Ares was prosecuted there for the murder",
+      "options": {
+        "A": "Euphemus",
+        "B": "Butes",
+        "C": "Halirrhothius",
+        "D": "Eryx"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "Which of the following did NOT win a prize at an event at Anchises’ funeral",
+      "options": {
+        "A": "Cloanthus",
+        "B": "Euryalus",
+        "C": "Acestes",
+        "D": "Eurytion"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "Which of the following did NOT win an event at Patroclus’ funeral games in book",
+      "options": {
+        "A": "Eumelus",
+        "B": "Epeus",
+        "C": "Polypoetes",
+        "D": "Meriones"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 34,
+      "question": "What pair of brothers either died of exhaustion while chasing the harpies away",
+      "options": {
+        "A": "b. Passalus and Acmon",
+        "C": "Zetes and Calaias",
+        "D": "Ampion and Zethus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "Who accidentally killed his wife, Procris, with an infallible spear because he",
+      "options": {
+        "A": "Pandion",
+        "B": "Cephalus",
+        "C": "Iphiclus",
+        "D": "Erechtheus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 36,
+      "question": "What member of Odysseus’ crew did Aeneas save from the island of the",
+      "options": {
+        "A": "Elpenor",
+        "B": "Eurylochus",
+        "C": "Outis",
+        "D": "Achaemenides"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 37,
+      "question": "During the sack of Troy, who angered Athena by defiling Cassandra in the",
+      "options": {
+        "A": "Ajax the Greater",
+        "B": "Teucer",
+        "C": "Ajax the Lesser",
+        "D": "Neoptolemus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "Which of the Argonauts ran so fast he could run across water?",
+      "options": {
+        "A": "Euphemus",
+        "B": "Iphiclus",
+        "C": "Lynceus",
+        "D": "Mopsus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 39,
+      "question": "Who was NOT one of Turnus’ allies in his war against Aeneas?",
+      "options": {
+        "A": "Aventinus",
+        "B": "Theron",
+        "C": "Drances",
+        "D": "Mezentius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "Who was turned into the sea goddess Leucothea after she jumped into the sea",
+      "options": {
+        "A": "Semele",
+        "B": "Ino",
+        "C": "Agave",
+        "D": "Autonoe"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "Who was the father of Callisto who was changed into a wolf because he fed",
+      "options": {
+        "A": "Lycurgus",
+        "B": "Lycus",
+        "C": "Lycomedes",
+        "D": "Lycaon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 42,
+      "question": "What Greek hero carried off Helen to be his bride because he wanted to marry",
+      "options": {
+        "A": "Menelaus",
+        "B": "Peirithous",
+        "C": "Theseus",
+        "D": "Alexandros"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 43,
+      "question": "Who tricked Odysseus into proving his sanity, thus making the Ithacan fit for",
+      "options": {
+        "A": "Ajax the Lesser",
+        "B": "Sinon",
+        "C": "Palamedes",
+        "D": "Cinyras"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "Who was the mother of the god Pan?",
+      "options": {
+        "A": "Polymele",
+        "B": "Clytie",
+        "C": "Antineira",
+        "D": "Penelope"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 45,
+      "question": "According to Homer, who is the mother of Aphrodite?",
+      "options": {
+        "A": "Dione",
+        "B": "Rhea",
+        "C": "Gaia",
+        "D": "Nyx"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 46,
+      "question": "Medusa",
+      "options": {
+        "A": "Theseus",
+        "B": "Perseus",
+        "C": "Heracles",
+        "D": "Odysseus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "Otus",
+      "options": {
+        "A": "Zeus",
+        "B": "Heracles",
+        "C": "Ares",
+        "D": "Ephialtes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 48,
+      "question": "Mimas",
+      "options": {
+        "A": "Hephaestus",
+        "B": "the Fates",
+        "C": "Dionysus",
+        "D": "Athena"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "Phaea",
+      "options": {
+        "A": "Theseus",
+        "B": "Perseus",
+        "C": "Heracles",
+        "D": "Odysseus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "Neleus",
+      "options": {
+        "A": "Theseus",
+        "B": "Perseus",
+        "C": "Heracles",
+        "D": "Odysseus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    }
+  ]
+}

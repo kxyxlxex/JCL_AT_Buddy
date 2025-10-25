@@ -1,0 +1,607 @@
+{
+  "test_info": {
+    "name": "Mythology",
+    "year": "state_2012",
+    "subject": "Mythology",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "She was Apollo’s first love but, wishing to remain a virgin forever, she pleaded to her father and was",
+      "options": {
+        "A": "Diana",
+        "B": "Daphne",
+        "C": "Marpessa",
+        "D": "Cassandra"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "What sorceress so enchanted Odysseus that he remained on her island of Aeaea for a full year?",
+      "options": {
+        "A": "Circe",
+        "B": "Medea",
+        "C": "Deiphobe",
+        "D": "Manto"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "Which of the centaurs, the only immortal one, was the wisest of them all?",
+      "options": {
+        "A": "Cheiron",
+        "B": "Eurytion",
+        "C": "Pholus",
+        "D": "Nessus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "What young man was the leader of the Quest for the Golden Fleece?",
+      "options": {
+        "A": "Perseus",
+        "B": "Diomedes",
+        "C": "Achilles",
+        "D": "Jason"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "What woman boasted that she was more worthy of praise than Latona because her fourteen",
+      "options": {
+        "A": "Juturna",
+        "B": "Cassiopeia",
+        "C": "Niobe",
+        "D": "Aethra"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "Whose stables at Elis did Heracles have to clean in one day for one of his famous twelve labors?",
+      "options": {
+        "A": "Enydmion",
+        "B": "Augeias",
+        "C": "Aetolus",
+        "D": "Thespius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "question": "When Deucalion and Pyrrha asked the oracle of Themis for advice following the great deluge, they",
+      "options": {
+        "A": "Loosen the foot of their wineskin only after you reach the top of the mountain",
+        "B": "Build an arc and take with you a pair of every animal you can find",
+        "C": "Plant the seeds from the nearest tree at the foot of the mountain",
+        "D": "Cast over your shoulders the bones of your mother"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 8,
+      "question": "What river-­‐god did not recognize his daughter, recently transformed into a heifer, until she spelled",
+      "options": {
+        "A": "Peneus",
+        "B": "Asopus",
+        "C": "Enipeus",
+        "D": "Inachus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 9,
+      "question": "Who, the eldest of the Pleiades, bore the god Hermes to Zeus?",
+      "options": {
+        "A": "Alcyone",
+        "B": "Semele",
+        "C": "Maia",
+        "D": "Merope"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "Which of the following was not one of the Fates?",
+      "options": {
+        "A": "Clotho",
+        "B": "Terpsichore",
+        "C": "Atropos",
+        "D": "Lachesis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 11,
+      "question": "According to Olen, what goddess of childbirth was the mother of Eros?",
+      "options": {
+        "A": "Eileithyia",
+        "B": "Cyllene",
+        "C": "Tyche",
+        "D": "Aphrodite"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "During his second labor, Heracles elicited the help of his nephew Iolaus to kill the monstrous Hydra.",
+      "options": {
+        "A": "Immortalization",
+        "B": "Rejuvenation",
+        "C": "Mycenaean throne",
+        "D": "Wealth"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 13,
+      "question": "Who, after being transformed into the constellation Ursa Major, was not allowed to settle below",
+      "options": {
+        "A": "Erigone",
+        "B": "Cassiopeia",
+        "C": "Callisto",
+        "D": "Antiope"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "Who was the god of healing and the son of Apollo and Coronis?",
+      "options": {
+        "A": "Machaon",
+        "B": "Epidaurus",
+        "C": "Paeon",
+        "D": "Asclepius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 15,
+      "question": "Her name is a feminine form of Zeus and, according to Homer, she was the mother of Aphrodite.",
+      "options": {
+        "A": "Hera",
+        "B": "Delia",
+        "C": "Dione",
+        "D": "Phoebe"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 16,
+      "question": "She was the muse of epic poetry and the mother of Orpheus.",
+      "options": {
+        "A": "Mnemosyne",
+        "B": "Calliope",
+        "C": "Jocasta",
+        "D": "Terpsichore"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 17,
+      "question": "Together, this couple of deities reared Hera after she was born.",
+      "options": {
+        "A": "c. Uranus and Ge",
+        "B": "Coeus and Phoebe",
+        "D": "Oceanus and Tethys"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "What woman unwittingly sent her husband Alcmaeon to his death when she asked for the infamous",
+      "options": {
+        "A": "Clymene",
+        "B": "Arsinoe",
+        "C": "Phaedra",
+        "D": "Callirrhoe"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 19,
+      "question": "Her father made all her suitors beat him in a chariot race before they could win her hand in",
+      "options": {
+        "A": "Iole",
+        "B": "Atalanta",
+        "C": "Hippodameia",
+        "D": "Oenomaeia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "To which island did Dictys take the chest containing Danae and Perseus? His brother Polydectes was",
+      "options": {
+        "A": "Delos",
+        "B": "Seriphus",
+        "C": "Naxos",
+        "D": "Aegina"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 21,
+      "question": "What Athenian king was born from the earth and had a man’s body ending in a snake’s tail? He was",
+      "options": {
+        "A": "Cecrops",
+        "B": "Erechtheus",
+        "C": "Erisychthon",
+        "D": "Cranaus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "Which of the following was not one of the Hechatonchires?",
+      "options": {
+        "A": "Brontes",
+        "B": "Briareus",
+        "C": "Gyes",
+        "D": "Cottus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "He was an offspring of Poseidon and Medusa and the father of Geryon. His name means “Golden",
+      "options": {
+        "A": "Pegasus",
+        "B": "Almus",
+        "C": "Chrysaor",
+        "D": "Phlegyas"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "She was the goddess of victory, daughter of Pallas and Styx, and was a constant companion of Zeus.",
+      "options": {
+        "A": "Lucina",
+        "B": "Ate",
+        "C": "Nike",
+        "D": "Bia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "Who saw right through Odysseus’ feigned insanity and was able to successfully enlist the Ithacan",
+      "options": {
+        "A": "Philoctetes",
+        "B": "Phoenix",
+        "C": "Teucer",
+        "D": "Palamedes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 26,
+      "question": "What infant child was foolishly left on a bed of parsley by his nurse Hypsipyle while she was showing",
+      "options": {
+        "A": "Thoas",
+        "B": "Opheltes",
+        "C": "Demophoon",
+        "D": "Orchomenus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "What Cretan spirits were entrusted with the care of the infant Zeus? To drown out his cries, they",
+      "options": {
+        "A": "Doliones",
+        "B": "Cicones",
+        "C": "Gegenees",
+        "D": "Curetes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 28,
+      "question": "Which of the Argonauts was so skilled at boxing that he killed the Bebrycian King Amycus with one",
+      "options": {
+        "A": "Tiphys",
+        "B": "Lynceus",
+        "C": "Aethalides",
+        "D": "Polydeuces"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 29,
+      "question": "They were warned by their mother not to fall into the hands of Blackbottom. Eventually, their",
+      "options": {
+        "A": "c. Sisyphus and Autolycus",
+        "B": "Passalus and Acmon",
+        "D": "Idas and Lynceus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "According to some accounts, to what mortal woman did Zeus give the hound Laelaps as a watchdog",
+      "options": {
+        "A": "Europa",
+        "B": "Procris",
+        "C": "Tyro",
+        "D": "Aegina"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "Into what kind of bird was Tereus transformed?",
+      "options": {
+        "A": "Hoopoe",
+        "B": "Swallow",
+        "C": "Screech Owl",
+        "D": "Falcon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "What name is common to a daughter of Deucalion who gave birth to Delphus, eponym of Delphi,",
+      "options": {
+        "A": "Pandora",
+        "B": "Melantho",
+        "C": "Despoina",
+        "D": "Celaeno"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "What woman was kidnapped by Theseus and Pirithous when they determined that they would",
+      "options": {
+        "A": "Helen",
+        "B": "Clytemnestra",
+        "C": "Timandra",
+        "D": "Phisadie"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "Which of the following is not associated with the god Hermes?",
+      "options": {
+        "A": "Caduceus",
+        "B": "Drepane",
+        "C": "Petasus",
+        "D": "Kerykeion"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "Before Priam was married to Hecuba, he was married to this woman who bore a son, Aesacus. Who",
+      "options": {
+        "A": "Arisbe",
+        "B": "Merope",
+        "C": "Laodice",
+        "D": "Themiste"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "She was first carried off by Achilles after her husband, parents, and brothers were killed during a",
+      "options": {
+        "A": "Chryseis",
+        "B": "Polyxena",
+        "C": "Carme",
+        "D": "Briseis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 37,
+      "question": "His only claim to fame is that he reared the Chimaera, the fire-­‐breathing monster that ravaged Lycia",
+      "options": {
+        "A": "Amisodarus",
+        "B": "Iobates",
+        "C": "Amphimachus",
+        "D": "Leucippus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "Who are the parents of Eumelus, the husband of Penelope’s sister Iphthime?",
+      "options": {
+        "A": "c. Heracles and Omphale",
+        "B": "Admetus and Alcestis",
+        "D": "Perieres and Gorgophone"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 39,
+      "question": "What epithet of Dionysus means “Thunderer”?",
+      "options": {
+        "A": "Lenaeus",
+        "B": "Dendrites",
+        "C": "Bromios",
+        "D": "Smintheus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "During the Gigantomachy, which of the giants was killed after Apollo shot an arrow into his left eye",
+      "options": {
+        "A": "Otus",
+        "B": "Eurytus",
+        "C": "Ephialtes",
+        "D": "Polybotes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 41,
+      "question": "Under what name did Demeter wander into the palace of Celeus at Eleusis?",
+      "options": {
+        "A": "Doso",
+        "B": "Cyane",
+        "C": "Metaneira",
+        "D": "Cothonea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "What mountain supposedly contained a cave which was the haven of the infant Zeus? This",
+      "options": {
+        "A": "Cithaeron",
+        "B": "Dicte",
+        "C": "Laphystius",
+        "D": "Parnassus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 43,
+      "question": "Where was Nestor when all of his siblings and his father Neleus were killed by Heracles? Some say",
+      "options": {
+        "A": "Pylos",
+        "B": "Gerenia",
+        "C": "Sparta",
+        "D": "Scyros"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 44,
+      "question": "What king became the first man to murder a family member when he killed his father-­‐in-­‐law",
+      "options": {
+        "A": "Ixion",
+        "B": "Halirrhothius",
+        "C": "Periclymenus",
+        "D": "Magnes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "To what mythological group do the following belong: Erytheia, Hestia, Aegle, and Arethusa? This",
+      "options": {
+        "A": "Harpies",
+        "B": "Hesperides",
+        "C": "Graeae",
+        "D": "Horae"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 46,
+      "question": "When Poseidon lost to Hera in the competition for the patronage of Argos, he left the land destitute",
+      "options": {
+        "A": "Amymone",
+        "B": "Scaea",
+        "C": "Anaxibia",
+        "D": "Hypermnestra"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "When Dionysus intended to retrieve his mother from the Underworld, what native guide agreed to",
+      "options": {
+        "A": "Phanus",
+        "B": "Thoas",
+        "C": "Staphylus",
+        "D": "Prosymnus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 48,
+      "question": "She was a daughter of Oceanus and, together with the Telchines, she brought up the infant",
+      "options": {
+        "A": "Macris",
+        "B": "Hiera",
+        "C": "Caphira",
+        "D": "Syme"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 49,
+      "question": "According to Book II of Ovid’s Metamorphoses, this old man observed Hermes stealing cattle from",
+      "options": {
+        "A": "Eudorus",
+        "B": "Battus",
+        "C": "Hyleus",
+        "D": "Damasichthon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "According to legend, what Titan saved his mother Ge from the wrath of Zeus by producing a fig tree",
+      "options": {
+        "A": "Mandylas",
+        "B": "Patron",
+        "C": "Syceus",
+        "D": "Cranon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    }
+  ]
+}

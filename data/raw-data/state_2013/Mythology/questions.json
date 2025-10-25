@@ -1,0 +1,607 @@
+{
+  "test_info": {
+    "name": "Mythology",
+    "year": "state_2013",
+    "subject": "Mythology",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Mercury killed the monster Argus while he was guarding the princess",
+      "options": {
+        "A": "Metis",
+        "B": "Io",
+        "C": "Danae",
+        "D": "Leda"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "Deucalion and Pyrrha were the only ones left alive after",
+      "options": {
+        "A": "the great flood sent by Jupiter killed all the people on earth.",
+        "B": "Jupiter and Mercury destroyed their neighbors for lack of hospitality.",
+        "C": "Hercules sacked Troy because Laomedon refused to pay him.",
+        "D": "The plague on Aegina destroyed the population."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "The nine goddesses who inspired poets and musicians were the",
+      "options": {
+        "A": "Graces.",
+        "B": "Seasons.",
+        "C": "Muses.",
+        "D": "Moirae."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 4,
+      "question": "The winged horse Pegasus was ridden by the hero",
+      "options": {
+        "A": "Perseus.",
+        "B": "Bellerophon.",
+        "C": "Hercules.",
+        "D": "Theseus."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "The King of the Winds who gave Odysseus a sack containing all the winds save one was",
+      "options": {
+        "A": "Aeolus.",
+        "B": "Boreas.",
+        "C": "Zephyr.",
+        "D": "Aquilo."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "Helen’s seduction by _____________ began the Trojan War.",
+      "options": {
+        "A": "Odysseus",
+        "B": "Achilles",
+        "C": "Aeneas",
+        "D": "Paris"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 7,
+      "question": "The Cyclops Polyphemus ate",
+      "options": {
+        "A": "c. his rival for the love of Galatea.",
+        "B": "some of Aeneas’ men.",
+        "D": "all of these."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "Hercules did the twelve labors to atone for killing",
+      "options": {
+        "A": "Iphitus.",
+        "B": "Amphitryon.",
+        "C": "Megara.",
+        "D": "Deianira."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "Although Daedalus escaped from Crete, his son, _______, drowned.",
+      "options": {
+        "A": "Perdix",
+        "B": "Iolaus",
+        "C": "Nisus",
+        "D": "Icarus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 10,
+      "question": "Medea killed her brother to ensure the escape of",
+      "options": {
+        "A": "Jason.",
+        "B": "Aeetes.",
+        "C": "Medus.",
+        "D": "Aegeus."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "The symbol of Pan is the",
+      "options": {
+        "A": "shepherd’s staff.",
+        "B": "the flute.",
+        "C": "the reed pipes.",
+        "D": "the ram."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "Theseus loved the princess _____________, but was forced to leave her behind on Naxos.",
+      "options": {
+        "A": "Hippolyta",
+        "B": "Ariadne",
+        "C": "Phaedra",
+        "D": "Helen"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 13,
+      "question": "Phaethon was killed by _________________ to prevent the destruction of the earth.",
+      "options": {
+        "A": "Gaea",
+        "B": "Apollo",
+        "C": "Pluto",
+        "D": "Jupiter"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 14,
+      "question": "The criminal in the Underworld who was punished with perpetual hunger and thirst was",
+      "options": {
+        "A": "Sisyphus.",
+        "B": "Ixion.",
+        "C": "Tityus.",
+        "D": "Tantalus."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 15,
+      "question": "What son of Oenomaeus dressed as a girl to win the friendship of Daphne, but was killed after the girls",
+      "options": {
+        "A": "Iphis",
+        "B": "Leucippus",
+        "C": "Caeneus",
+        "D": "Vertumnus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "The only one of the Lemnian women to spare a man was the queen, _________.",
+      "options": {
+        "A": "Hypsiple.",
+        "B": "Hippolyta.",
+        "C": "Omphale.",
+        "D": "Eriphyle."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "At the end of the Trojan War, Andromache became the concubine of",
+      "options": {
+        "A": "Agamemnon.",
+        "B": "Meneleus.",
+        "C": "Odysseus.",
+        "D": "Neoptolemus."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "When Hector attacked the Greek ships after the withdrawal of Achilles, they were saved primarily by the",
+      "options": {
+        "A": "Meneleus",
+        "B": "Ajax the Greater",
+        "C": "Diomedes.",
+        "D": "Idomeneus."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "When the spy, Dolon, was captured, he gave the Greeks important information about",
+      "options": {
+        "A": "c. the arrival of King Rhesus.",
+        "B": "the alliance with the Amazons.",
+        "D": "the food situation in Troy."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "Which of the following wives was NOT induced to cuckold their husband by Nauplius?",
+      "options": {
+        "A": "Meda",
+        "B": "Clytemnestra",
+        "C": "Aegialeia",
+        "D": "Metharme"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 21,
+      "question": "Zeus rained tears of blood on the Plain of Troy because he could not save",
+      "options": {
+        "A": "Hector.",
+        "B": "Achilles.",
+        "C": "Sarpedon.",
+        "D": "Glaucus."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "Odysseus was twice saved from",
+      "options": {
+        "A": "Polyphemus.",
+        "B": "the Lotus eaters.",
+        "C": "Circe.",
+        "D": "Charybdis."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 23,
+      "question": "The list of people visited by Odysseus which is in the correct order is",
+      "options": {
+        "A": "Laestrygonians, Lotus Eaters, Polyphemus, Calypso, Circe.",
+        "B": "Lotus Eaters, Laestrygonians, Polyphemus, Circe, Calypso.",
+        "C": "Lotus Eaters, Polyphemus, Laestrygonians, Circe, Calypso",
+        "D": "Laestrygoinans, Polyphemus, Lotus Eaters, Circe, Calypso."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "Phoenix was Achilles’",
+      "options": {
+        "A": "armor-bearer.",
+        "B": "charioteer.",
+        "C": "tutor.",
+        "D": "trumpeter."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "The nymph who was changed into a stream because she tried to stop the abduction of Persephone was",
+      "options": {
+        "A": "Cyane",
+        "B": "Mentha",
+        "C": "Arethusa",
+        "D": "Salamacis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "In Egypt, Hercules defeated _______________, who killed all strangers to his land because of an oracle",
+      "options": {
+        "A": "Antaeus",
+        "B": "Busiris",
+        "C": "Cacus",
+        "D": "Anubis."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "Hercules was sold to _________, Queen of Lydia, for a period of a year.",
+      "options": {
+        "A": "Candace",
+        "B": "Callidace",
+        "C": "Omphale",
+        "D": "Demonassa"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "Hercules saved the Trojan princess ___________ from a sea monster.",
+      "options": {
+        "A": "Dejanira",
+        "B": "Iole",
+        "C": "Hesione",
+        "D": "Andromeda"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "What king, a son of the river god Strymon and one of the muses, after being thrown into the river by his",
+      "options": {
+        "A": "Eumolpus",
+        "B": "Mastusius",
+        "C": "Rhesus",
+        "D": "Oeagrus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 30,
+      "question": "Hercules killed Ladon to get access to the",
+      "options": {
+        "A": "golden apples.",
+        "B": "Cretan bull.",
+        "C": "Cattle of Geryon.",
+        "D": "belt of Hippolyta."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "A man-eating turtle was a favorite pet of",
+      "options": {
+        "A": "Sinis",
+        "B": "Sciron",
+        "C": "Polyphemus",
+        "D": "Minos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "Theseus had to make his way from Troezen to Athens to prove himself worthy of the throne of his father",
+      "options": {
+        "A": "Athamas",
+        "B": "Atreus",
+        "C": "Aristaeus",
+        "D": "Aegeus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 33,
+      "question": "What king of Epeirus became proverbial for his cruelty for blinding his own daughter, locking her in a",
+      "options": {
+        "A": "Cynortas",
+        "B": "Echetus.",
+        "C": "Aegimius",
+        "D": "Sthenelus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "To marry his bride, Perseus first had to kill her fiancé __________and his supporters.",
+      "options": {
+        "A": "Phineus",
+        "B": "Cepheus",
+        "C": "Proteus",
+        "D": "Dictys"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "The hero Bellerophon was sent away by King Iobates because Iobates’ wife, ___________, had accused",
+      "options": {
+        "A": "Phaedra",
+        "B": "Sthenoboea",
+        "C": "Antiope",
+        "D": "Dirce"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 36,
+      "question": "Acamas and Demophon rescued their grandmother, ________,who had been carried off to Troy to serve",
+      "options": {
+        "A": "Ino",
+        "B": "Alcmene",
+        "C": "Aethra",
+        "D": "Hecale"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 37,
+      "question": "Aeneas’ ships were changed into nereids by the goddess____________ when Turnus tried to burn them.",
+      "options": {
+        "A": "Venus",
+        "B": "Iris",
+        "C": "Cybele",
+        "D": "Ceres"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 38,
+      "question": "Aeneas finally learned from _________ that the land he sought was in Italy",
+      "options": {
+        "A": "the Penates.",
+        "B": "the Sibyl.",
+        "C": "Helenus.",
+        "D": "the Oracle at Delos."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "Oedipus wandered for many years, but finally died at Colonus in peace, protected by",
+      "options": {
+        "A": "Antigone.",
+        "B": "Polyneices.",
+        "C": "Tiresias.",
+        "D": "Theseus."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "The Argo was able to avoid the hazards posed by the Planctae with the help of",
+      "options": {
+        "A": "Athena.",
+        "B": "Medea",
+        "C": "the Maids of Libya.",
+        "D": "the Nereids."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 41,
+      "question": "When Dionysus was kidnapped by pirates, the only member of the crew to oppose the idea of selling him",
+      "options": {
+        "A": "Acoetes.",
+        "B": "Elpenor.",
+        "C": "Butes",
+        "D": "Palinurus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "After the death of Dido, Anna eventually came to Italy because she was fleeing",
+      "options": {
+        "A": "Dido’s ghost.",
+        "B": "Sychaeus’s ghost.",
+        "C": "Pygmalion.",
+        "D": "Iarbas."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 43,
+      "question": "What man, the first demagogue, stirred up the people of Athens against Theseus while he was detained in",
+      "options": {
+        "A": "Menestheus",
+        "B": "Polypemon",
+        "C": "Cypselus",
+        "D": "Areius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "What youth loved the sea nymph Argyra, died of heartbreak after she tired of him, and was turned into a",
+      "options": {
+        "A": "Selemnus",
+        "B": "Thonis",
+        "C": "Euripus",
+        "D": "Lycormas"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "Vertumnus, the god of vegetable gardens, fell in love with the orchard goddess __________.",
+      "options": {
+        "A": "Pomona",
+        "B": "Mestra",
+        "C": "Myrrha",
+        "D": "Ianthe"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "The consort of Astraeus who gave birth to Zephyrus, Boreas, and Notus was the goddess",
+      "options": {
+        "A": "Selene.",
+        "B": "Doris.",
+        "C": "Iris.",
+        "D": "Eos."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 47,
+      "question": "The Greek king who lived for three generations by the gift of Apollo because Apollo gave him the years",
+      "options": {
+        "A": "Tithonus.",
+        "B": "Nestor.",
+        "C": "Priam.",
+        "D": "Admetus."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "Daedalus came to Crete",
+      "options": {
+        "A": "because he had been hired to build the labyrinth.",
+        "B": "because he had been exiled from Athens for murder.",
+        "C": "because he wanted to marry Minos’ daughter, Acalle.",
+        "D": "because he was a relative of the queen, Pasiphae."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "While she was helping Aeneas in battle, Aphrodite was wounded by",
+      "options": {
+        "A": "Turnus.",
+        "B": "Achilles.",
+        "C": "Diomedes.",
+        "D": "Ajax the Greater."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "At the beginning of the Trojan War, the Greeks sent _______ and ________ to demand that the Trojans",
+      "options": {
+        "A": "c. Diomedes and Agamemnon.",
+        "B": "Odysseus and Meneleus",
+        "D": "Meneleus and Agamemnon."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    }
+  ]
+}

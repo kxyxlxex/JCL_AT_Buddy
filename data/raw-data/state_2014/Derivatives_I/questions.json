@@ -1,0 +1,550 @@
+{
+  "test_info": {
+    "name": "Derivatives_I",
+    "year": "state_2014",
+    "subject": "Derivatives_I",
+    "total_questions": 45
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "The queen found her lodgings at the nearby inn adequate.",
+      "options": {
+        "A": "small",
+        "B": "crampt",
+        "C": "suitable",
+        "D": "perfect"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 2,
+      "question": "Tim kept his baseball cards in pristine condition.",
+      "options": {
+        "A": "tattered",
+        "B": "destroyed",
+        "C": "mint",
+        "D": "moderate"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "She defended herself in court with a translucent explanation.",
+      "options": {
+        "A": "clear",
+        "B": "unforegetable",
+        "C": "remarkable",
+        "D": "irrational"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "Jenny brought a souvenir back from Pompeii.",
+      "options": {
+        "A": "map",
+        "B": "keepsake",
+        "C": "receipt",
+        "D": "boyfriend"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "Alice Paul was an advocate for women’s suffrage.",
+      "options": {
+        "A": "oppoent",
+        "B": "victim",
+        "C": "bystander",
+        "D": "intercessor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 6,
+      "question": "The teens approached the haunted house with timidity.",
+      "options": {
+        "A": "bravery",
+        "B": "care",
+        "C": "reason",
+        "D": "fear"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 7,
+      "question": "The artist established a close rapport with his patron.",
+      "options": {
+        "A": "connection",
+        "B": "hatred",
+        "C": "project",
+        "D": "contract"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "The ballet company put on their rendition of “Swan Lake”.",
+      "options": {
+        "A": "copy",
+        "B": "interpretation",
+        "C": "summary",
+        "D": "analysis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "The children of wealthy parents tend to be prodigal.",
+      "options": {
+        "A": "educated",
+        "B": "giving",
+        "C": "wasteful",
+        "D": "helpful"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "He was exalted to the position of president.",
+      "options": {
+        "A": "degraded",
+        "B": "raze",
+        "C": "elevated",
+        "D": "acclaimed"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 11,
+      "question": "amble",
+      "options": {
+        "A": "walk",
+        "B": "ride",
+        "C": "talk",
+        "D": "care"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "edifice",
+      "options": {
+        "A": "fake",
+        "B": "side",
+        "C": "build",
+        "D": "create"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 13,
+      "question": "elate",
+      "options": {
+        "A": "wear",
+        "B": "happy",
+        "C": "bear",
+        "D": "wide"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "augment",
+      "options": {
+        "A": "silver",
+        "B": "increase",
+        "C": "decrease",
+        "D": "aid"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "homicide",
+      "options": {
+        "A": "man",
+        "B": "slide",
+        "C": "same",
+        "D": "dust"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "cenacle",
+      "options": {
+        "A": "room",
+        "B": "dinner",
+        "C": "food",
+        "D": "gathering"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 17,
+      "question": "cerulean",
+      "options": {
+        "A": "cloud",
+        "B": "sea",
+        "C": "color",
+        "D": "sky"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "pulchritude",
+      "options": {
+        "A": "mind",
+        "B": "sad",
+        "C": "blessed",
+        "D": "beautiful"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 19,
+      "question": "rivulet",
+      "options": {
+        "A": "river",
+        "B": "amulet",
+        "C": "moisture",
+        "D": "water"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "innuendo",
+      "options": {
+        "A": "joke",
+        "B": "hint",
+        "C": "nod",
+        "D": "smile"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 21,
+      "question": "Verbum",
+      "options": {
+        "A": "virile",
+        "B": "vocabulary",
+        "C": "verbose",
+        "D": "vicious"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "Corpus",
+      "options": {
+        "A": "concordant",
+        "B": "record",
+        "C": "cordial",
+        "D": "corpulent"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 23,
+      "question": "Vinco",
+      "options": {
+        "A": "visual",
+        "B": "evidence",
+        "C": "victual",
+        "D": "evict"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 24,
+      "question": "Bonus",
+      "options": {
+        "A": "bonfire",
+        "B": "bow",
+        "C": "debonair",
+        "D": "dine"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "Do",
+      "options": {
+        "A": "dedicate",
+        "B": "act",
+        "C": "daring",
+        "D": "addiction"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 26,
+      "question": "Sum",
+      "options": {
+        "A": "furtive",
+        "B": "future",
+        "C": "summary",
+        "D": "assume"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "Rogo",
+      "options": {
+        "A": "erode",
+        "B": "interrogate",
+        "C": "erudite",
+        "D": "rogue"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "Traho",
+      "options": {
+        "A": "attract",
+        "B": "addict",
+        "C": "tenatious",
+        "D": "attain"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "Paene",
+      "options": {
+        "A": "panacea",
+        "B": "peninsula",
+        "C": "percussion",
+        "D": "perturbed"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "Via",
+      "options": {
+        "A": "vital",
+        "B": "vine",
+        "C": "trivial",
+        "D": "vitiate"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "Vignette",
+      "options": {
+        "A": "vita",
+        "B": "vinum",
+        "C": "vir",
+        "D": "vitium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "Obtain",
+      "options": {
+        "A": "oscura",
+        "B": "timeo",
+        "C": "opto",
+        "D": "teneo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 33,
+      "question": "Emperor",
+      "options": {
+        "A": "pareo",
+        "B": "paro",
+        "C": "duco",
+        "D": "impedio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "Bellicose",
+      "options": {
+        "A": "beatus",
+        "B": "bellum",
+        "C": "casus",
+        "D": "custos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "Pugnacious",
+      "options": {
+        "A": "nauta",
+        "B": "gnatus",
+        "C": "pugno",
+        "D": "unda"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 36,
+      "question": "Aperture",
+      "options": {
+        "A": "aperio",
+        "B": "appareo",
+        "C": "paro",
+        "D": "porto"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "Pilgrim",
+      "options": {
+        "A": "pilum",
+        "B": "patria",
+        "C": "ager",
+        "D": "gratia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 38,
+      "question": "Perjury",
+      "options": {
+        "A": "ius",
+        "B": "iungo",
+        "C": "iuventus",
+        "D": "invenio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "Abound",
+      "options": {
+        "A": "unda",
+        "B": "copia",
+        "C": "bonus",
+        "D": "bellus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "Cornucopia",
+      "options": {
+        "A": "cor",
+        "B": "pax",
+        "C": "cornu",
+        "D": "corpus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "Annouce",
+      "options": {
+        "A": "annoy",
+        "B": "odious",
+        "C": "notary",
+        "D": "denunciate"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 47,
+      "question": "Surreal",
+      "options": {
+        "A": "irrational",
+        "B": "interger",
+        "C": "viceroy",
+        "D": "republic"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 48,
+      "question": "Cognitive",
+      "options": {
+        "A": "cogitative",
+        "B": "notice",
+        "C": "connect",
+        "D": "native"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "Sediment",
+      "options": {
+        "A": "resent",
+        "B": "prosect",
+        "C": "session",
+        "D": "resile"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "Vertex",
+      "options": {
+        "A": "convert",
+        "B": "survey",
+        "C": "vector",
+        "D": "convene"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    }
+  ]
+}

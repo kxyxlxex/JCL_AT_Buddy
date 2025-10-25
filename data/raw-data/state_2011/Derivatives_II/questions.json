@@ -1,0 +1,550 @@
+{
+  "test_info": {
+    "name": "Derivatives_II",
+    "year": "state_2011",
+    "subject": "Derivatives_II",
+    "total_questions": 45
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "The uncomfortable fabric gave a chafed feel to the model’s skin.",
+      "options": {
+        "A": "hot",
+        "B": "scratchy",
+        "C": "slippery",
+        "D": "allergenic"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "An insatiable person can never get .",
+      "options": {
+        "A": "too much",
+        "B": "more",
+        "C": "any",
+        "D": "enough"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 3,
+      "question": "Which of these best describes a coy person?",
+      "options": {
+        "A": "happy",
+        "B": "quiet",
+        "C": "lugubrious",
+        "D": "mendacious"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "The boy was covetous of his cousin’s Christmas present.",
+      "options": {
+        "A": "happy for",
+        "B": "desirous of",
+        "C": "jealous of",
+        "D": "indifferent to"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "According to its Latin derivation, which of these actions is most associated with the word remorse?",
+      "options": {
+        "A": "thinking",
+        "B": "weeping",
+        "C": "whipping",
+        "D": "biting"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 6,
+      "question": "The pinnate animal was so cute!",
+      "options": {
+        "A": "feathered",
+        "B": "furry",
+        "C": "big-­‐eyed",
+        "D": "endangered"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "That sauce certainly lived up to its Latin derivation! It was so !",
+      "options": {
+        "A": "hot",
+        "B": "spicy",
+        "C": "salty",
+        "D": "delicious"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 8,
+      "question": "The recalcitrant animal was finally left alone by its owner.",
+      "options": {
+        "A": "stubborn",
+        "B": "lazy",
+        "C": "grumpy",
+        "D": "growling"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "The indigent people gathered around the tourists.",
+      "options": {
+        "A": "curious",
+        "B": "merchant",
+        "C": "needy",
+        "D": "native"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "A hostel by definition is a place that expects which kind of people?",
+      "options": {
+        "A": "youths",
+        "B": "guests",
+        "C": "enemies",
+        "D": "foreign"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 11,
+      "question": "periculum",
+      "options": {
+        "A": "peach",
+        "B": "imperil",
+        "C": "experience",
+        "D": "impenetrable"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 12,
+      "question": "plenus",
+      "options": {
+        "A": "perplexed",
+        "B": "deplorable",
+        "C": "plant",
+        "D": "plenipotentiary"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 13,
+      "question": "humus",
+      "options": {
+        "A": "humorous",
+        "B": "humid",
+        "C": "human",
+        "D": "humble"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 14,
+      "question": "iacio",
+      "options": {
+        "A": "jewel",
+        "B": "adjacent",
+        "C": "jut",
+        "D": "joist"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 15,
+      "question": "lego",
+      "options": {
+        "A": "lentil",
+        "B": "coil",
+        "C": "oblige",
+        "D": "equilibrium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "mel",
+      "options": {
+        "A": "ameliorate",
+        "B": "demerit",
+        "C": "moiety",
+        "D": "molasses"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 17,
+      "question": "mora",
+      "options": {
+        "A": "demur",
+        "B": "immortality",
+        "C": "morsel",
+        "D": "molecule"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "vir",
+      "options": {
+        "A": "violence",
+        "B": "virulent",
+        "C": "virtuoso",
+        "D": "verge"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 19,
+      "question": "ripa",
+      "options": {
+        "A": "rigidity",
+        "B": "river",
+        "C": "rite",
+        "D": "rear"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 20,
+      "question": "salio",
+      "options": {
+        "A": "exult",
+        "B": "salicylic",
+        "C": "execrable",
+        "D": "sagacity"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "inimical",
+      "options": {
+        "A": "mico",
+        "B": "caleo",
+        "C": "emo",
+        "D": "amo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 22,
+      "question": "quintessence",
+      "options": {
+        "A": "sto",
+        "B": "teneo",
+        "C": "sum",
+        "D": "quatio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 23,
+      "question": "cable",
+      "options": {
+        "A": "caper",
+        "B": "caballus",
+        "C": "capio",
+        "D": "cerno"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "inter",
+      "options": {
+        "A": "terra",
+        "B": "terreo",
+        "C": "tero",
+        "D": "tres"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "agree",
+      "options": {
+        "A": "gratus",
+        "B": "gradus",
+        "C": "grex",
+        "D": "granum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "horticulture",
+      "options": {
+        "A": "horreo",
+        "B": "hortus",
+        "C": "hortor",
+        "D": "holus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "tavern",
+      "options": {
+        "A": "taberna",
+        "B": "tabula",
+        "C": "ver",
+        "D": "verna"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "boil",
+      "options": {
+        "A": "bos",
+        "B": "bellum",
+        "C": "brevis",
+        "D": "bulla"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 29,
+      "question": "libation",
+      "options": {
+        "A": "liber (noun)",
+        "B": "līber (adjective)",
+        "C": "libra",
+        "D": "libo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 30,
+      "question": "frail",
+      "options": {
+        "A": "fallo",
+        "B": "frango",
+        "C": "facio",
+        "D": "fretus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 31,
+      "question": "naïve",
+      "options": {
+        "A": "innocent",
+        "B": "young",
+        "C": "to be born",
+        "D": "to obtain"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 32,
+      "question": "incentive",
+      "options": {
+        "A": "to offer",
+        "B": "one hundred",
+        "C": "dog",
+        "D": "to sing"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 33,
+      "question": "discount",
+      "options": {
+        "A": "to think",
+        "B": "to give",
+        "C": "to buy",
+        "D": "to sell"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "avoirdupois",
+      "options": {
+        "A": "to go",
+        "B": "to learn",
+        "C": "to have",
+        "D": "to teach"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 35,
+      "question": "apricot",
+      "options": {
+        "A": "fruit",
+        "B": "grain",
+        "C": "to appear",
+        "D": "to cook"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 36,
+      "question": "eliminate",
+      "options": {
+        "A": "threshold",
+        "B": "to get rid of",
+        "C": "light",
+        "D": "to kill"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "control",
+      "options": {
+        "A": "to rub",
+        "B": "wheel",
+        "C": "to frighten",
+        "D": "power"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "farrier",
+      "options": {
+        "A": "grain",
+        "B": "iron",
+        "C": "to speak",
+        "D": "to carry"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 39,
+      "question": "carnation",
+      "options": {
+        "A": "chariot",
+        "B": "heel",
+        "C": "flower",
+        "D": "flesh"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 40,
+      "question": "barber",
+      "options": {
+        "A": "beard",
+        "B": "untidy",
+        "C": "to cut",
+        "D": "to fight"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "suave",
+      "options": {
+        "A": "dissuade",
+        "B": "sublimate",
+        "C": "assuage",
+        "D": "desuetude"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 47,
+      "question": "mercenary",
+      "options": {
+        "A": "mercurial",
+        "B": "mendicant",
+        "C": "mercy",
+        "D": "meretricious"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 48,
+      "question": "mint",
+      "options": {
+        "A": "money",
+        "B": "demeanor",
+        "C": "administer",
+        "D": "menu"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "node",
+      "options": {
+        "A": "renown",
+        "B": "noose",
+        "C": "innocent",
+        "D": "renegade"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "annoy",
+      "options": {
+        "A": "obnoxious",
+        "B": "odious",
+        "C": "oblivion",
+        "D": "oblique"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    }
+  ]
+}

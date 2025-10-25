@@ -1,0 +1,538 @@
+{
+  "test_info": {
+    "name": "Derivatives_II",
+    "year": "state_2015",
+    "subject": "Derivatives_II",
+    "total_questions": 44
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "The classicists are studying the nascent civilization of ancient Greece.",
+      "options": {
+        "A": "intelligent",
+        "B": "advanced",
+        "C": "creative",
+        "D": "beginning"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 2,
+      "question": "The answer was conjectured from the facts given in the paper.",
+      "options": {
+        "A": "guessed",
+        "B": "proven",
+        "C": "assimilated",
+        "D": "proven false"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "A sedentary lifestyle has been linked to a higher risk of heart disease.",
+      "options": {
+        "A": "mobile",
+        "B": "itinerant",
+        "C": "inactive",
+        "D": "thrill-seeking"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 4,
+      "question": "The defendant’s rule of lenity argument was deemed meritorious.",
+      "options": {
+        "A": "clemency",
+        "B": "ambiguity",
+        "C": "negligence",
+        "D": "torts"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "After years of obloquy from her father, the girl was glad to move in with her",
+      "options": {
+        "A": "rigidity",
+        "B": "verbal abuse",
+        "C": "neglect",
+        "D": "permissiveness"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 6,
+      "question": "Pliny the Elder wrote extensively about horticulture in the 1st century C.E.",
+      "options": {
+        "A": "history",
+        "B": "philosophy",
+        "C": "gardening",
+        "D": "arts"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 7,
+      "question": "The boys were embarrassed by the profuse laudatory comments by their",
+      "options": {
+        "A": "scant",
+        "B": "excessive",
+        "C": "inappropriate",
+        "D": "inopportune"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "It was incumbent upon the president to react very quickly to the threat of such",
+      "options": {
+        "A": "necessary for",
+        "B": "reckless for",
+        "C": "impossible for",
+        "D": "credible for"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "They presented a cogent argument for the passage of the constitutional",
+      "options": {
+        "A": "flimsy",
+        "B": "serious",
+        "C": "fallacious",
+        "D": "compelling"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 10,
+      "question": "Although he was somnambulant, he never seemed to get into trouble.",
+      "options": {
+        "A": "defiant",
+        "B": "an overeater",
+        "C": "a wanderer",
+        "D": "a sleepwalker"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 11,
+      "question": "decay",
+      "options": {
+        "A": "fall",
+        "B": "receive",
+        "C": "head",
+        "D": "dog"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "cessation",
+      "options": {
+        "A": "learn",
+        "B": "hollow",
+        "C": "yield",
+        "D": "beware"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 13,
+      "question": "renown",
+      "options": {
+        "A": "learn",
+        "B": "name",
+        "C": "sign",
+        "D": "new"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 14,
+      "question": "alert",
+      "options": {
+        "A": "rule",
+        "B": "read",
+        "C": "lighten",
+        "D": "couch"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "sociologist",
+      "options": {
+        "A": "public",
+        "B": "mind",
+        "C": "friend",
+        "D": "outsider"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 16,
+      "question": "controversial",
+      "options": {
+        "A": "make",
+        "B": "fear",
+        "C": "turn",
+        "D": "word"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 17,
+      "question": "viaduct",
+      "options": {
+        "A": "win",
+        "B": "street",
+        "C": "bridge",
+        "D": "house"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 18,
+      "question": "oboe",
+      "options": {
+        "A": "good",
+        "B": "owl",
+        "C": "reed",
+        "D": "high"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 19,
+      "question": "auspice",
+      "options": {
+        "A": "omen",
+        "B": "dare",
+        "C": "hear",
+        "D": "bird"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 20,
+      "question": "congestion",
+      "options": {
+        "A": "carry on",
+        "B": "thicken",
+        "C": "heavy",
+        "D": "crowd"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "gaudeo",
+      "options": {
+        "A": "groan",
+        "B": "gaudy",
+        "C": "gerund",
+        "D": "conjoin"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 22,
+      "question": "caput",
+      "options": {
+        "A": "mischievous",
+        "B": "decoy",
+        "C": "capsule",
+        "D": "dishevelled"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "puto",
+      "options": {
+        "A": "impurity",
+        "B": "approval",
+        "C": "counter",
+        "D": "appoint"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "dens",
+      "options": {
+        "A": "condense",
+        "B": "dent",
+        "C": "dandelion",
+        "D": "deny"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "domus",
+      "options": {
+        "A": "diminution",
+        "B": "indomitable",
+        "C": "dormant",
+        "D": "dungeon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 26,
+      "question": "cupio",
+      "options": {
+        "A": "covet",
+        "B": "coverlet",
+        "C": "covert",
+        "D": "comeuppance"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "dignitas",
+      "options": {
+        "A": "digital",
+        "B": "dainty",
+        "C": "gneiss",
+        "D": "condone"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "utor",
+      "options": {
+        "A": "abstruse",
+        "B": "torpor",
+        "C": "usurp",
+        "D": "torrid"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 30,
+      "question": "sto",
+      "options": {
+        "A": "storage",
+        "B": "distress",
+        "C": "assist",
+        "D": "bonanza"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "indolent",
+      "options": {
+        "A": "doleo",
+        "B": "dolus",
+        "C": "indo",
+        "D": "induco"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "farrior",
+      "options": {
+        "A": "facio",
+        "B": "ferrum",
+        "C": "rideo",
+        "D": "arx"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "savor",
+      "options": {
+        "A": "salveo",
+        "B": "devoro",
+        "C": "sapiens",
+        "D": "vos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 34,
+      "question": "experience",
+      "options": {
+        "A": "pereo",
+        "B": "perimo",
+        "C": "expers",
+        "D": "experior"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 35,
+      "question": "festoon",
+      "options": {
+        "A": "orno",
+        "B": "sto",
+        "C": "eo",
+        "D": "festus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 36,
+      "question": "ravine",
+      "options": {
+        "A": "vinum",
+        "B": "rapio",
+        "C": "ramus",
+        "D": "vinco"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "interrogate",
+      "options": {
+        "A": "rogo",
+        "B": "rogus",
+        "C": "rosa",
+        "D": "rex"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "prosecute",
+      "options": {
+        "A": "sequor",
+        "B": "seco",
+        "C": "securus",
+        "D": "secedo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "invective",
+      "options": {
+        "A": "vinco",
+        "B": "vicus",
+        "C": "veho",
+        "D": "verto"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "purvey",
+      "options": {
+        "A": "venio",
+        "B": "video",
+        "C": "vereor",
+        "D": "verro"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 46,
+      "question": "altar",
+      "options": {
+        "A": "unaltered",
+        "B": "adulterate",
+        "C": "enhance",
+        "D": "inertia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 47,
+      "question": "preclude",
+      "options": {
+        "A": "closet",
+        "B": "circlet",
+        "C": "sirloin",
+        "D": "allusion"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "opportunity",
+      "options": {
+        "A": "portable",
+        "B": "purport",
+        "C": "support",
+        "D": "passport"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 49,
+      "question": "entertain",
+      "options": {
+        "A": "contaminate",
+        "B": "lieutenant",
+        "C": "attain",
+        "D": "intense"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "prove",
+      "options": {
+        "A": "approbation",
+        "B": "appropriate",
+        "C": "prosper",
+        "D": "reproach"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    }
+  ]
+}

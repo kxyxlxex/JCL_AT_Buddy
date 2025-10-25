@@ -1,0 +1,588 @@
+{
+  "test_info": {
+    "name": "Classical_Art",
+    "year": "state_2015",
+    "subject": "Classical_Art",
+    "total_questions": 49
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "This relief is from which monument in the Roman forum?",
+      "options": {
+        "A": "c. Arch of Septimius Severus",
+        "B": "Arch of Constantine",
+        "D": "Arch of Tiberius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "The statue pictured is commonly known as:",
+      "options": {
+        "A": "Kritios Boy",
+        "B": "Discobolus",
+        "C": "Doryphorus",
+        "D": "Dying Gaul"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "Which artist originally sculpted this work?",
+      "options": {
+        "A": "Myron",
+        "B": "Polykleitos",
+        "C": "Praxiteles",
+        "D": "Phidias"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "What is the term for this cup’s shape?",
+      "options": {
+        "A": "amphora",
+        "B": "krater",
+        "C": "lekythos",
+        "D": "skyphos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "What mythological creature is depicted on this cup?",
+      "options": {
+        "A": "Satyr",
+        "B": "Gorgon",
+        "C": "Siren",
+        "D": "Cyclops"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 6,
+      "question": "This porch is a famous feature of which structure, located on the Acropolis?",
+      "options": {
+        "A": "c. Erechtheion",
+        "B": "Parthenon",
+        "D": "Propylaea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 7,
+      "question": "What type of columns are these?",
+      "options": {
+        "A": "Doric",
+        "B": "Ionic",
+        "C": "Corinthian",
+        "D": "Caryatid"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 8,
+      "question": "This column was built to honor which emperor?",
+      "options": {
+        "A": "Antoninus Pius",
+        "B": "Titus",
+        "C": "Marcus Aurelius",
+        "D": "Theodosius I"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "This image is an example of:",
+      "options": {
+        "A": "mosaic",
+        "B": "tempera",
+        "C": "fresco",
+        "D": "encaustic"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "Who are the combatants in the image?",
+      "options": {
+        "A": "c. Hasdrubal and L. Metellus",
+        "B": "Pyrrhus and Manius Curius",
+        "D": "Alexander the Great and Darius III"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 11,
+      "question": "Which Roman emperor does this statue depict?",
+      "options": {
+        "A": "Quintilian",
+        "B": "Hadrian",
+        "C": "Commodus",
+        "D": "Caligula"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "This emperor enjoyed dressing as which mythological hero?",
+      "options": {
+        "A": "Theseus",
+        "B": "Meleager",
+        "C": "Hercules",
+        "D": "Perseus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 13,
+      "question": "This late imperial portrait of the Four Tetrarchs is made of which of the following",
+      "options": {
+        "A": "porphyry",
+        "B": "marble",
+        "C": "bronze",
+        "D": "granite"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "This material comes from:",
+      "options": {
+        "A": "Rome",
+        "B": "Greece",
+        "C": "Britain",
+        "D": "Egypt"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 15,
+      "question": "This statue, called The Dying Gaul, comes from what period of Greek art?",
+      "options": {
+        "A": "Geometric",
+        "B": "Archaic",
+        "C": "Classical",
+        "D": "Hellenistic"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 16,
+      "question": "Where is this triumphal arch located?",
+      "options": {
+        "A": "Via Flaminia",
+        "B": "Roman Forum",
+        "C": "Templum Pacis",
+        "D": "Circus Maximus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "The image shown is an example of what style of vase painting?",
+      "options": {
+        "A": "Red-figure",
+        "B": "Black-figure",
+        "C": "Geometric",
+        "D": "White-ground"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "The two figures depicted are:",
+      "options": {
+        "A": "c. Herakles and Theseus",
+        "B": "Perseus and Polydectes",
+        "D": "Dionysus and Midas"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "Which vase painter signed this work?",
+      "options": {
+        "A": "Euthymides",
+        "B": "Kleitias",
+        "C": "Theseus Painter",
+        "D": "Exekias"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 21,
+      "question": "In this plan of a Roman villa, identify the area labeled 1.",
+      "options": {
+        "A": "culina",
+        "B": "tablinum",
+        "C": "cubiculum",
+        "D": "atrium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "In this plan of a Roman villa, identify the area labeled 2.",
+      "options": {
+        "A": "taberna",
+        "B": "triclinium",
+        "C": "ala",
+        "D": "peristylium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 23,
+      "question": "In this plan of a Roman villa, identify the area labeled 3.",
+      "options": {
+        "A": "triclinium",
+        "B": "culina",
+        "C": "atrium",
+        "D": "exedra"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "In what century was this sarcophagus produced?",
+      "options": {
+        "A": "1st c BC",
+        "B": "2nd c AD",
+        "C": "3rd c AD",
+        "D": "4th c AD"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 25,
+      "question": "What scene is shown in the upper-leftmost panel of the sarcophagus?",
+      "options": {
+        "A": "c. Sacrifice of Isaac",
+        "B": "Jesus Entering Jerusalem",
+        "D": "Daniel in the Lion’s Den"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "This painting depicts the interior of which structure?",
+      "options": {
+        "A": "Temple of Jupiter Optimus Maximus",
+        "B": "Pantheon",
+        "C": "Parthenon",
+        "D": "Temple of Antoninus and Faustina"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "Under which emperor was this structure built?",
+      "options": {
+        "A": "Hadrian",
+        "B": "Marcus Aurelius",
+        "C": "Commodus",
+        "D": "Nerva"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "These paintings are found on the walls of:",
+      "options": {
+        "A": "c. the House of the Vettii",
+        "B": "the Villa of Mysteries",
+        "D": "the Villa at Boscotrecase"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "What style do these paintings represent?",
+      "options": {
+        "A": "First Style",
+        "B": "Second Style",
+        "C": "Third Style",
+        "D": "Fourth Style"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 30,
+      "question": "This sculpture is an example of:",
+      "options": {
+        "A": "Kouros",
+        "B": "S-curve",
+        "C": "contrapposto",
+        "D": "Kore"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 31,
+      "question": "Under which emperor was the Domus Aurea built?",
+      "options": {
+        "A": "Hadrian",
+        "B": "Nero",
+        "C": "Augustus",
+        "D": "Trajan"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "Which of the following describes the process of working metal from behind?",
+      "options": {
+        "A": "repousée",
+        "B": "stamping",
+        "C": "hollow casting",
+        "D": "hammering"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "Which period of classical art is best known for its pathos and asymmetry?",
+      "options": {
+        "A": "Geometric",
+        "B": "Archaic",
+        "C": "Classical",
+        "D": "Hellenistic"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 34,
+      "question": "Which of the following emperors did NOT build a bath complex in Rome?",
+      "options": {
+        "A": "Decius",
+        "B": "Domitian",
+        "C": "Trajan",
+        "D": "Caracalla"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "Who sculpted the work known as Discobolus, the Discus-Thrower?",
+      "options": {
+        "A": "Myron",
+        "B": "Euphronius",
+        "C": "Polyclitus",
+        "D": "Phidias"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Who was the personal sculptor of Alexander the Great?",
+      "options": {
+        "A": "Praxiteles",
+        "B": "Lysippus",
+        "C": "Callicrates",
+        "D": "Apoxyomenos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "Which of these temples is NOT located on the Acropolis?",
+      "options": {
+        "A": "Parthenon",
+        "B": "Erechtheum",
+        "C": "Hephaestion",
+        "D": "Athena Nike"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 38,
+      "question": "Which term describes the process of applying paint to wet plaster?",
+      "options": {
+        "A": "fresco",
+        "B": "encaustic",
+        "C": "tempera",
+        "D": "faience"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "Of what kind of marble was the Nike of Samothrace sculpted?",
+      "options": {
+        "A": "Parian",
+        "B": "Carrara",
+        "C": "Pentelic",
+        "D": "Elgin"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "Which red-figure vase painter made great strides in the technique of foreshadowing?",
+      "options": {
+        "A": "Polygnotos",
+        "B": "Euthymides",
+        "C": "Anokides",
+        "D": "Euphronios"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 41,
+      "question": "Which word refers to the top of a column?",
+      "options": {
+        "A": "architrave",
+        "B": "abacus",
+        "C": "capital",
+        "D": "stylobate"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 42,
+      "question": "What is the term for a panel inserted between pairs of triglyphs in the Doric order?",
+      "options": {
+        "A": "cornice",
+        "B": "frieze",
+        "C": "pediment",
+        "D": "metope"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 43,
+      "question": "The spiral scrolls at the top of an ionic column are called:",
+      "options": {
+        "A": "volutes",
+        "B": "flutes",
+        "C": "capitals",
+        "D": "dentils"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "Roman portraiture is most significant for its:",
+      "options": {
+        "A": "c. pathos",
+        "B": "veristic portrayal",
+        "D": "stoicism"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 45,
+      "question": "A famous Etruscan terracotta statue to which god is located in Rome at the Villa",
+      "options": {
+        "A": "Jupiter",
+        "B": "Apollo",
+        "C": "Neptune",
+        "D": "Mars"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 46,
+      "question": "The term “composite columns” refers to combination of which two orders?",
+      "options": {
+        "A": "c. Ionic and Corinthian",
+        "B": "Doric and Corinthian",
+        "D": "Doric and Caryatid"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 47,
+      "question": "Which structure on the Campus Martius has a panel which represents Tellus, the",
+      "options": {
+        "A": "c. Baths of Agrippa",
+        "B": "Ara Pacis Augustae",
+        "D": "Pantheon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "Where in Rome was the temple of Antoninus and Faustina?",
+      "options": {
+        "A": "Forum",
+        "B": "Campus Martius",
+        "C": "Janiculum",
+        "D": "Aventine"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "Which of the following Imperial statues is known for the complex iconographic",
+      "options": {
+        "A": "Equestrian Statue of Marcus Aurelius",
+        "B": "Domitian as Emperor",
+        "C": "Marble Statue of Septimius Severus",
+        "D": "Augustus of Prima Porta"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 50,
+      "question": "What did a kylix hold?",
+      "options": {
+        "A": "c. water for religious ceremonies",
+        "B": "drinking water",
+        "D": "wine"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    }
+  ]
+}

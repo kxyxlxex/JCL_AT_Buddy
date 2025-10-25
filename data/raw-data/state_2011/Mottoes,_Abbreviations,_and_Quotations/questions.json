@@ -1,0 +1,603 @@
+{
+  "test_info": {
+    "name": "Mottoes,_Abbreviations,_and_Quotations",
+    "year": "state_2011",
+    "subject": "Mottoes,_Abbreviations,_and_Quotations",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "in situ",
+      "options": {
+        "A": "c. caught red handed",
+        "B": "in the matter (of)",
+        "D": "into the middle of things"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 2,
+      "question": "the diploma of an outstanding student",
+      "options": {
+        "A": "c. emeritus",
+        "B": "dramatis personae",
+        "D": "alumus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 3,
+      "question": "the body of a crime",
+      "options": {
+        "A": "corpus iuris",
+        "B": "corpus vile",
+        "C": "corpus delicti",
+        "D": "habeas corpus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "unique",
+      "options": {
+        "A": "sui generis",
+        "B": "amicus curiae",
+        "C": "cui bono",
+        "D": "lapsus calami"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "genius _______",
+      "options": {
+        "A": "memoriae",
+        "B": "linguae",
+        "C": "parentis",
+        "D": "loci"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 6,
+      "question": "the limit of any journey",
+      "options": {
+        "A": "locum tenens",
+        "B": "terra incognita",
+        "C": "ultima Thule",
+        "D": "pons asinorum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 7,
+      "question": "modus vivendi",
+      "options": {
+        "A": "c. way of living",
+        "B": "mode of doing",
+        "D": "method of fighting"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "seriatim",
+      "options": {
+        "A": "word for word",
+        "B": "in a series",
+        "C": "let it stand",
+        "D": "with merit"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "post obitum",
+      "options": {
+        "A": "after childbirth",
+        "B": "after death",
+        "C": "after the end",
+        "D": "after things"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 10,
+      "question": "I would never entrust an important task to one who is (a) __________________.",
+      "options": {
+        "A": "c. mens sana in corpore sano",
+        "B": "nemo est supra leges",
+        "D": "non compos mentis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 11,
+      "question": "a busy body",
+      "options": {
+        "A": "quidnunc",
+        "B": "credo",
+        "C": "exeat",
+        "D": "placebo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "an essential part of the whole",
+      "options": {
+        "A": "sine qua non",
+        "B": "quid pro quo",
+        "C": "per se",
+        "D": "ipso facto"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 13,
+      "question": "law of nations",
+      "options": {
+        "A": "lex talionis",
+        "B": "petitio principii",
+        "C": "ius gentium",
+        "D": "legalis homo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 14,
+      "question": "supernatural intervention",
+      "options": {
+        "A": "deo volente",
+        "B": "soli deo gratia",
+        "C": "deo favente",
+        "D": "deus ex machina"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 15,
+      "question": "cedant arma togae",
+      "options": {
+        "A": "Mississippi",
+        "B": "Alabama",
+        "C": "Wyoming",
+        "D": "Oregon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "US Naval Academy",
+      "options": {
+        "A": "de oppresso liber",
+        "B": "ex scientia tridens",
+        "C": "defensor fortis",
+        "D": "sua sponte"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 17,
+      "question": "Tulane University",
+      "options": {
+        "A": "non sibi sed suis",
+        "B": "deus nobis fiducia",
+        "C": "meus et manus",
+        "D": "perstare et praestare"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "Which university does not have the Latin word for “light” in its motto?",
+      "options": {
+        "A": "Washington",
+        "B": "Harvard",
+        "C": "New Mexico",
+        "D": "Yale"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "qui transtulit sustinet",
+      "options": {
+        "A": "Massachusetts",
+        "B": "New York",
+        "C": "Maine",
+        "D": "Connecticut"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "Which state has a Greek motto?",
+      "options": {
+        "A": "Maine",
+        "B": "Colorado",
+        "C": "Michigan",
+        "D": "California"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 21,
+      "question": "sapientia et doctrina",
+      "options": {
+        "A": "c. Davidson College",
+        "B": "Tufts University",
+        "D": "Emory University"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 22,
+      "question": "iustitia omnibus",
+      "options": {
+        "A": "Puerto Rico",
+        "B": "U.S.A.",
+        "C": "Virgin Islands",
+        "D": "District of Columbia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 23,
+      "question": "regnat populus",
+      "options": {
+        "A": "Kansas",
+        "B": "Arkansas",
+        "C": "Idaho",
+        "D": "United Kingdom"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 24,
+      "question": "urbs in horto",
+      "options": {
+        "A": "Melbourne",
+        "B": "Detroit",
+        "C": "Paris",
+        "D": "Chicago"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "a mari usque ad mare",
+      "options": {
+        "A": "Canada",
+        "B": "Spain",
+        "C": "Russia",
+        "D": "The European Union"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 26,
+      "question": "lux et veritas, the motto of Yale, is also the motto of ___________.",
+      "options": {
+        "A": "Stanford",
+        "B": "Missouri",
+        "C": "Indiana",
+        "D": "Duke"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "from the beginning",
+      "options": {
+        "A": "ad inf.",
+        "B": "ab init.",
+        "C": "ibid.",
+        "D": "viz."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "Which is NOT an academic degree?",
+      "options": {
+        "A": "Ph.D",
+        "B": "LL.B.",
+        "C": "Q.E.D.",
+        "D": "B.A."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "i.e.",
+      "options": {
+        "A": "and others",
+        "B": "for example",
+        "C": "and so forth",
+        "D": "that is"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "aq.",
+      "options": {
+        "A": "the year of the city",
+        "B": "water",
+        "C": "silver",
+        "D": "among others"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 31,
+      "question": "A.D.",
+      "options": {
+        "A": "c. in the year of our Lord",
+        "B": "by the grace of God",
+        "D": "Doctor of Arts"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 32,
+      "question": "q.i.d.",
+      "options": {
+        "A": "every four hours",
+        "B": "four times a day",
+        "C": "hourly",
+        "D": "three times a day"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "used as a placeholder for unknown names",
+      "options": {
+        "A": "N.N.",
+        "B": "J.D.",
+        "C": "N.B.",
+        "D": "Q.D."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "ointment",
+      "options": {
+        "A": "gtt.",
+        "B": "o.u.",
+        "C": "ung.",
+        "D": "cochl."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 35,
+      "question": "see below",
+      "options": {
+        "A": "v.i.",
+        "B": "v.s.",
+        "C": "V.C.",
+        "D": "vs."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 36,
+      "question": "used in a similar manner to R.I.P.",
+      "options": {
+        "A": "S.V.B.E.E.V.",
+        "B": "REG.",
+        "C": "S.T.T.L.",
+        "D": "D.V."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "Which abbreviation does NOT refer to time?",
+      "options": {
+        "A": "A.M.",
+        "B": "o.n.",
+        "C": "p.r.n.",
+        "D": "o.m."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 38,
+      "question": "pro tem.",
+      "options": {
+        "A": "at the right time",
+        "B": "for the time being",
+        "C": "every time",
+        "D": "in no time"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "odi et amo",
+      "options": {
+        "A": "Catullus",
+        "B": "Ovid",
+        "C": "Tibullus",
+        "D": "Propertius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "acta est fabula, plaudite",
+      "options": {
+        "A": "Pliny the Younger",
+        "B": "Nero",
+        "C": "Augustus",
+        "D": "Plautus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 41,
+      "question": "cum grano salis",
+      "options": {
+        "A": "Pliny the Elder",
+        "B": "Cicero",
+        "C": "Horace",
+        "D": "Apuleius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 42,
+      "question": "rident stolidi verba latina",
+      "options": {
+        "A": "Lactantius",
+        "B": "Ovid",
+        "C": "Ennius",
+        "D": "Cato"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 43,
+      "question": "abiit, excessit, evasit, erupit",
+      "options": {
+        "A": "Tacitus",
+        "B": "Cicero",
+        "C": "Livy",
+        "D": "Juvenal"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 44,
+      "question": "non est ad astra mollis e terris via",
+      "options": {
+        "A": "Seneca",
+        "B": "Catullus",
+        "C": "Martial",
+        "D": "Vergil"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "delenda est Carthago",
+      "options": {
+        "A": "Cato",
+        "B": "Cicero",
+        "C": "Sallust",
+        "D": "Caesar"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "fortuna favet fortibus",
+      "options": {
+        "A": "Terence",
+        "B": "Suetonius",
+        "C": "Lucretius",
+        "D": "Statius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 47,
+      "question": "panem et circenses",
+      "options": {
+        "A": "Tacitus",
+        "B": "Suetonius",
+        "C": "Juvenal",
+        "D": "Silius Italicus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "timeo Danaos et dona ferentes",
+      "options": {
+        "A": "Tibullus",
+        "B": "Ennius",
+        "C": "Horace",
+        "D": "Vergil"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "nunc est bibendum",
+      "options": {
+        "A": "Horace",
+        "B": "Gallus",
+        "C": "Propertius d.Tertullian"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "libenter homines id quod volunt credunt",
+      "options": {
+        "A": "Caesar",
+        "B": "Cicero",
+        "C": "Seneca",
+        "D": "Grotius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    }
+  ]
+}

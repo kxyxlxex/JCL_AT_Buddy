@@ -1,0 +1,610 @@
+{
+  "test_info": {
+    "name": "Classical_Art",
+    "year": "state_2019",
+    "subject": "Classical_Art",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "[Picture 1] Known in Rome today as the Castel Sant’ Angelo, this monument formerly served as a",
+      "options": {
+        "A": "Antoninus Pius",
+        "B": "Augustus",
+        "C": "Vespasian",
+        "D": "Hadrian"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 2,
+      "question": "[Picture 2] What type of pottery is pictured here?",
+      "options": {
+        "A": "lekythos",
+        "B": "kylix",
+        "C": "amphora",
+        "D": "krater"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "[Picture 2] What might this vessel have been used for?",
+      "options": {
+        "A": "to store large quantities of grain",
+        "B": "to mix wine and water",
+        "C": "to hold perfumed oils",
+        "D": "to transport water from a spring or well"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "[Picture 2] What painting style is seen here?",
+      "options": {
+        "A": "Orientalizing",
+        "B": "Geometric",
+        "C": "Black Figure",
+        "D": "Red Figure"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 5,
+      "question": "[Picture 3] What is the name of this sculpture?",
+      "options": {
+        "A": "Apoxymenos",
+        "B": "Doryphoros",
+        "C": "Discobolus",
+        "D": "Critias Boy"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 6,
+      "question": "[Picture 3] Who is the original sculptor of the work?",
+      "options": {
+        "A": "Myron",
+        "B": "Phidias",
+        "C": "Polyclitus",
+        "D": "Praxiteles"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 7,
+      "question": "[Picture 3] To what period does the original sculpture belong?",
+      "options": {
+        "A": "Archaic",
+        "B": "Hellenistic",
+        "C": "Classical",
+        "D": "Early Roman Empire"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 8,
+      "question": "[Picture 4] To what monument does this relief belong?",
+      "options": {
+        "A": "Pantheon",
+        "B": "Altar of Pergamon",
+        "C": "Parthenon",
+        "D": "Ara Pacis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "[Picture 4] What type of scene is being depicted here?",
+      "options": {
+        "A": "Amazonomachy",
+        "B": "Gigantomachy",
+        "C": "Titanomachy",
+        "D": "Lapiths vs. Centuars"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 10,
+      "question": "[Picture 4] Which mythological character is the primary focus in a frieze on the interior of the",
+      "options": {
+        "A": "Telephus",
+        "B": "Hercules",
+        "C": "Athena",
+        "D": "Perseus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "[Picture 5] During which imperial dynasty was this hairstyle popular?",
+      "options": {
+        "A": "Severan",
+        "B": "Five Good Emperors",
+        "C": "Julio-Claudian",
+        "D": "Flavian"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 12,
+      "question": "[Picture5] Where in Rome is the Fonseca Bust located?",
+      "options": {
+        "A": "Vatican Museum",
+        "B": "Borghese Gallery",
+        "C": "Capitoline Museum",
+        "D": "Villa Giulia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 13,
+      "question": "[Picture 6] After what city does this item take its name?",
+      "options": {
+        "A": "Zakros",
+        "B": "Knossos",
+        "C": "Phaistos",
+        "D": "Malia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "[Picture 6] What writing system appears here?",
+      "options": {
+        "A": "Linear B",
+        "B": "Unknown",
+        "C": "Cuneiform",
+        "D": "Linear A"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "[Picture 7] What order of column is shown here?",
+      "options": {
+        "A": "Tuscan",
+        "B": "Doric",
+        "C": "Corinthian",
+        "D": "Ionic"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "[Picture 8] Where is this fresco located?",
+      "options": {
+        "A": "Villa of Agrippa Postumus",
+        "B": "Villa of the Mysteries",
+        "C": "House of the Faun",
+        "D": "House of Menander"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 17,
+      "question": "[Picture 8] To whom does the arrow point?",
+      "options": {
+        "A": "Dionysus",
+        "B": "Silenus",
+        "C": "Apollo",
+        "D": "Hermes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "[Picture 8] What is the name of the staff lying across this person’s lap?",
+      "options": {
+        "A": "caduceus",
+        "B": "lituus",
+        "C": "thyrsus",
+        "D": "bident"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 19,
+      "question": "[Picture 9] Number 1 is a label for the _____.",
+      "options": {
+        "A": "triglyph",
+        "B": "pediment",
+        "C": "metope",
+        "D": "architrave"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "[Picture 9] Number 2 is a label for the _____.",
+      "options": {
+        "A": "cornice",
+        "B": "abacus",
+        "C": "frieze",
+        "D": "capital"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 21,
+      "question": "[Picture 9] Number 3 is a label for the _____.",
+      "options": {
+        "A": "entablature",
+        "B": "naos",
+        "C": "pronaos",
+        "D": "stylobate"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 22,
+      "question": "[Picture 10] Located in the Forum of Julius Caesar, this temple is dedicated to _____.",
+      "options": {
+        "A": "Gens Julia",
+        "B": "Venus Genetrix",
+        "C": "Mars Ultor",
+        "D": "Venus Victrix"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "[Picture 10] Which emperor had to rebuild the temple after a fire in the 1st cent AD?",
+      "options": {
+        "A": "Domitian",
+        "B": "Vespasian",
+        "C": "Tiberius",
+        "D": "Claudius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "[Picture 11] This is a Peter Paul Rubens’s painting of the original Roman _____.",
+      "options": {
+        "A": "sarcophagus",
+        "B": "frieze",
+        "C": "cameo",
+        "D": "fresco"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "[Picture 11] Who is the central figure in this image?",
+      "options": {
+        "A": "Trajan",
+        "B": "Tiberius",
+        "C": "Augustus",
+        "D": "Claudius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question": "[Picture 12] Who are the two figures in this scene?",
+      "options": {
+        "A": "Harmodius and Aristogeiton",
+        "B": "Nisus and Euryalus",
+        "C": "Theseus and Pirithous",
+        "D": "Achilles and Patroclus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "[Picture 13] Where is this tomb located?",
+      "options": {
+        "A": "Paestum",
+        "B": "Tarquinia",
+        "C": "Pompeii",
+        "D": "Akrotiri"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "[Picture 14] On what does this scene appear?",
+      "options": {
+        "A": "altar frieze",
+        "B": "pediment",
+        "C": "temple frieze",
+        "D": "sarcophagus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 29,
+      "question": "[Picture 14] To what century does this date?",
+      "options": {
+        "A": "1st cent. AD",
+        "B": "2nd cent. AD",
+        "C": "5th cent. AD",
+        "D": "3rd cent. AD"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 30,
+      "question": "[Picture 15] This is a portrait of _____.",
+      "options": {
+        "A": "Sulla",
+        "B": "Caesar",
+        "C": "Pompey",
+        "D": "Marius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "In what museum is the Nike of Samothrace housed?",
+      "options": {
+        "A": "Metropolitan Museum of Art (New York City)",
+        "B": "Louvre (Paris)",
+        "C": "Staatliche Antekensammlungen (Munich)",
+        "D": "Vatican (Vatican City)"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "Where in London are the Parthenon friezes located?",
+      "options": {
+        "A": "National Gallery",
+        "B": "Westminster Abbey",
+        "C": "British Museum",
+        "D": "Ashmolean Museum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 33,
+      "question": "Lysippus served as the personal sculptor of _____.",
+      "options": {
+        "A": "Pericles",
+        "B": "Trajan",
+        "C": "Augustus",
+        "D": "Alexander of Macedon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 34,
+      "question": "_____ is ornamental work of fine (typically gold or silver) wire formed into delicate tracery.",
+      "options": {
+        "A": "bucchero",
+        "B": "filigree",
+        "C": "repousse",
+        "D": "faience"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "Of the following, which method of Greek vase painting was developed last?",
+      "options": {
+        "A": "Red Figure",
+        "B": "Geometric",
+        "C": "Black Figure",
+        "D": "Orientalizing"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Many Roman copies of Greek original sculptures have survived antiquity because they are made",
+      "options": {
+        "A": "limestone",
+        "B": "sandstone",
+        "C": "tin",
+        "D": "bronze"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 37,
+      "question": "In which emperor’s forum is the Temple of Peace located?",
+      "options": {
+        "A": "Vespasian",
+        "B": "Augustus",
+        "C": "Nerva",
+        "D": "Trajan"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "What river deity is pictured at the base of Trajan’s column?",
+      "options": {
+        "A": "Danube",
+        "B": "Rhine",
+        "C": "Euphrates",
+        "D": "Tigris"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "Greek gravestones are referred to as _____.",
+      "options": {
+        "A": "metopes",
+        "B": "stelai",
+        "C": "naoi",
+        "D": "architraves"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "Which of the following temples is the oldest?",
+      "options": {
+        "A": "Temple of Zeus at Athens",
+        "B": "Temple of Apollo at Delphi",
+        "C": "Temple of Apollo at Corinth",
+        "D": "Temple of Zeus at Olympia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 41,
+      "question": "What archaeologist excavated at Pylos and Troy?",
+      "options": {
+        "A": "Luigi Pernier",
+        "B": "Arthur Evans",
+        "C": "Michael Ventris",
+        "D": "Carl Blegen"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 42,
+      "question": "Which of the following is the oldest?",
+      "options": {
+        "A": "Francois Vase",
+        "B": "Parthenon",
+        "C": "Nike of Samothrace",
+        "D": "Capitoline Wolf"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "Where was the Alexander Mosaic discovered?",
+      "options": {
+        "A": "House of the Tragic Poet (Pompeii)",
+        "B": "House of the Faun (Pompeii)",
+        "C": "House of the Griffins (Rome)",
+        "D": "Domus Aurea (Rome)"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 44,
+      "question": "Which Roman emperor had himself depicted in the guise of Hercules?",
+      "options": {
+        "A": "Constantine",
+        "B": "Caligula",
+        "C": "Nero",
+        "D": "Commodus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 45,
+      "question": "Where is the famed Pont du Gard, a Roman aqueduct, located?",
+      "options": {
+        "A": "Nimes",
+        "B": "Arles",
+        "C": "Cannes",
+        "D": "Nice"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "The Apollo of Veii is a _____ sculpture.",
+      "options": {
+        "A": "chryselephantine",
+        "B": "bronze",
+        "C": "marble",
+        "D": "terracotta"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 47,
+      "question": "What creatures are featured in the frescoes of the Queen’s Megaron at the Palace of Knossos?",
+      "options": {
+        "A": "dolphins",
+        "B": "snakes",
+        "C": "bulls",
+        "D": "griffins"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "Which emperor completed the construction of the Basilica of Maxentius, Rome’s largest",
+      "options": {
+        "A": "Constans",
+        "B": "Valerian",
+        "C": "Constantine",
+        "D": "Galerius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 49,
+      "question": "To which painter is the amphora depicting Achilles and Ajax playing dice attributed?",
+      "options": {
+        "A": "Euthymides",
+        "B": "Exekias",
+        "C": "Ergoteles",
+        "D": "Euphronios"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "Which of the following Etruscan tombs is NOT located in Tarquinia?",
+      "options": {
+        "A": "Tomb of Hunting and Fishing",
+        "B": "Francois Tomb",
+        "C": "Tomb of the Leopards",
+        "D": "Tomb of the Blue Demons"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    }
+  ]
+}

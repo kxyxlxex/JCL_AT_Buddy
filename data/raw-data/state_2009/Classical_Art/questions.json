@@ -1,0 +1,596 @@
+{
+  "test_info": {
+    "name": "Classical_Art",
+    "year": "state_2009",
+    "subject": "Classical_Art",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "This clay drinking cup from Pithikoussai is known by what name?",
+      "options": {
+        "A": "The Dionysus Cup",
+        "B": "The Vapheio Cup",
+        "C": "The Cup of Nestor",
+        "D": "The Warren Cup"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 2,
+      "question": "Which artistic style does this piece represent?",
+      "options": {
+        "A": "Geometric",
+        "B": "Archaic",
+        "C": "Cycladic",
+        "D": "Minoan"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "Who is the painter of this vessel?",
+      "options": {
+        "A": "c. Exekias",
+        "B": "The Antokides Painter",
+        "D": "Euphronius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "What is the name of this type of vessel?",
+      "options": {
+        "A": "skyphos",
+        "B": "amphora",
+        "C": "oinochoe",
+        "D": "krater"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "The painter has diminished the dimensions of portions of the figures to portray a correct spatial",
+      "options": {
+        "A": "repoussoir",
+        "B": "foreshortening",
+        "C": "grisaille",
+        "D": "reverse perspective"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 6,
+      "question": "These two statues come from the pediments of what temple?",
+      "options": {
+        "A": "c. Temple of Hera at Paestum",
+        "B": "Temple of Concordia at Acragas",
+        "D": "Temple of Zeus at Olympia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "Identify the pair depicted by these statues.",
+      "options": {
+        "A": "c. Hippias and Hipparchus",
+        "B": "Harmodius and Aristogeiton",
+        "D": "Cleobis and Biton"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "What battle of mythology does this statue group from the west pediment of the Temple of Zeus at",
+      "options": {
+        "A": "Gigantomachy",
+        "B": "Titanomachy",
+        "C": "Centauromachy",
+        "D": "Amazonomachy"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "The creation of this statue group was built to be a reference to what contemporaneous conflict?",
+      "options": {
+        "A": "c. The Persian Wars",
+        "B": "The Sacred War",
+        "D": "The Messenian War"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "Alas! The original of this piece is gone, but this is a reconstruction of what statue?",
+      "options": {
+        "A": "Athena Promachus",
+        "B": "Athena Polias",
+        "C": "Athena Parthenos",
+        "D": "Athena Nike"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 11,
+      "question": "What two materials were employed in making the original of this chryselephantine statue?",
+      "options": {
+        "A": "gold and ivory",
+        "B": "bronze and marble",
+        "C": "gold and marble",
+        "D": "bronze and ivory"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "What sculptor created the original of this statue?",
+      "options": {
+        "A": "Praxiteles",
+        "B": "Lysippos",
+        "C": "Polykleitos",
+        "D": "Phidias"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 13,
+      "question": "Identify the portion of this figure labeled “A”.",
+      "options": {
+        "A": "entablature",
+        "B": "frieze",
+        "C": "architrave",
+        "D": "pediment"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "Identify the six projections in the oval labeled “B”.",
+      "options": {
+        "A": "taenia",
+        "B": "guttae",
+        "C": "regulae",
+        "D": "fascia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "Identify the portion of this figure labeled “C”.",
+      "options": {
+        "A": "mutule",
+        "B": "raking cornice",
+        "C": "metope",
+        "D": "epistylium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "Name this sculpture, whose original bronze does not survive, but which lives on through many",
+      "options": {
+        "A": "Discobolus",
+        "B": "Diadumenos",
+        "C": "Doryphoros",
+        "D": "Discophoros"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 17,
+      "question": "Who was the creator of the original bronze?",
+      "options": {
+        "A": "Skopos",
+        "B": "Myron",
+        "C": "Lysippos",
+        "D": "Polykleitos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "What is the name of the lost treatise on aesthetics written by the artist of this piece?",
+      "options": {
+        "A": "Mechanicus",
+        "B": "Contrapposto",
+        "C": "Kanon",
+        "D": "Symmetria"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 19,
+      "question": "What artistic technique does this work found in Pella, Greece, employ?",
+      "options": {
+        "A": "mosaic",
+        "B": "cameo",
+        "C": "fresco",
+        "D": "secco"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "What material did the artist use to depict the stag hunt?",
+      "options": {
+        "A": "ceramic",
+        "B": "glass",
+        "C": "pebbles",
+        "D": "metal"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 21,
+      "question": "Where is this perhaps best preserved theater of ancient Greece?",
+      "options": {
+        "A": "Corinth",
+        "B": "Nauplion",
+        "C": "Athens",
+        "D": "Epidauros"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 22,
+      "question": "What are the individual wedge-shaped sections of the seating area called?",
+      "options": {
+        "A": "skene",
+        "B": "cuneus",
+        "C": "theatron",
+        "D": "cavea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "Who was the political patron who commissioned the building indicated as “1” in this reconstruction",
+      "options": {
+        "A": "Themistocles",
+        "B": "Pericles",
+        "C": "Megacles",
+        "D": "Alcibiades"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "What structure is indicated as “2”?",
+      "options": {
+        "A": "c. Chaikotheke",
+        "B": "Propylaia",
+        "D": "Erechtheion"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "This Greek writer of the 2nd century AD wrote the Description of Greece, within which many useful",
+      "options": {
+        "A": "Agaclytus",
+        "B": "Pausanias",
+        "C": "Plutarch",
+        "D": "Dionysius Periegetes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question": "What is the origin of this figure?",
+      "options": {
+        "A": "Rhodes",
+        "B": "Cyprus",
+        "C": "Crete",
+        "D": "Delos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 27,
+      "question": "These statues mark a transition between what two artistic eras?",
+      "options": {
+        "A": "c. Bronze Age and Geometric",
+        "B": "Classical and Hellenistic",
+        "D": "Archaic and Classical"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 28,
+      "question": "What is this stone called?",
+      "options": {
+        "A": "Lapis Niger",
+        "B": "Omphalos",
+        "C": "Great Obsidian",
+        "D": "Saxum Atrum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "Where was this stone discovered?",
+      "options": {
+        "A": "Herculaneum",
+        "B": "The Roman Forum",
+        "C": "The Palatine hill",
+        "D": "Tarquinia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "What is the more common name for this low-value Roman bronze coin also called a teruncius",
+      "options": {
+        "A": "quadrans",
+        "B": "triens",
+        "C": "as",
+        "D": "semis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "What term refers to the front of a coin?",
+      "options": {
+        "A": "die",
+        "B": "planchet",
+        "C": "obverse",
+        "D": "incuse"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 32,
+      "question": "Which of these styles is exemplified by this stonework?",
+      "options": {
+        "A": "opus reticulatum",
+        "B": "opus latericium",
+        "C": "opus cottum",
+        "D": "opus mixtum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 33,
+      "question": "Where can this fresco be found?",
+      "options": {
+        "A": "c. Tomb of Hunting and Fishing",
+        "B": "Tomb of the Diver",
+        "D": "Tomb of the Augurs"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 34,
+      "question": "What technique still used today is exemplified by this piece?",
+      "options": {
+        "A": "cameo",
+        "B": "intaglio",
+        "C": "filigree",
+        "D": "repousse"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "What Roman emperor is the subject?",
+      "options": {
+        "A": "Antoninus Pius",
+        "B": "Tiberius",
+        "C": "Augustus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 36,
+      "question": "Identify this structure.",
+      "options": {
+        "A": "c. Mausoleum of Hadrian",
+        "B": "Tomb of Caecilia Metella",
+        "D": "Tomb of Cestius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "Near what ancient road can this and many other ancient tombs be found?",
+      "options": {
+        "A": "Via Aurelia",
+        "B": "Via Appia",
+        "C": "Via Sacra",
+        "D": "Via Flaminia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "Which hero is depicted here?",
+      "options": {
+        "A": "Hercules",
+        "B": "Theseus",
+        "C": "Jason",
+        "D": "Perseus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 39,
+      "question": "Which Hercules of classical art is this?",
+      "options": {
+        "A": "c. Capitoline Hercules",
+        "B": "Nemi Hercules",
+        "D": "Famese Hercules"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 40,
+      "question": "It now stands in the Museo Nazionale di Napoli, but where was this piece originally housed?",
+      "options": {
+        "A": "c. the Septa Julia",
+        "B": "Trajan’s Forum",
+        "D": "the Domus Aurea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "What is the name for the superrealistic presentation exemplified by this portrait bust?",
+      "options": {
+        "A": "formalism",
+        "B": "verism",
+        "C": "romanticism",
+        "D": "classicism"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 42,
+      "question": "Of what time period of what culture is this bust characteristic?",
+      "options": {
+        "A": "Roman Republican",
+        "B": "Greek Archaic",
+        "C": "Roman Imperial",
+        "D": "Greek Classical"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "Which of the four Pompeian styles does this fresco represent?",
+      "options": {
+        "A": "1st",
+        "B": "2nd",
+        "C": "3rd",
+        "D": "4th"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 44,
+      "question": "What famous art historian articulated the concept of the four Pompeian Styles?",
+      "options": {
+        "A": "c. August Mau",
+        "B": "Johann Joachim Winckelmann",
+        "D": "John Beazley"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 45,
+      "question": "To which Pompeian house does this belong?",
+      "options": {
+        "A": "c. House of Neptune and Amphitrite",
+        "B": "House of the Vettii",
+        "D": "House of the Faun"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 46,
+      "question": "What Roman empress, identifiable by her characteristic hairstyle, is depicted on this denarius?",
+      "options": {
+        "A": "Julia Aurelia",
+        "B": "Julia Agrippina",
+        "C": "Julia Domna",
+        "D": "Julia Drusi Caesaris"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 47,
+      "question": "On which monument does this decursio appear?",
+      "options": {
+        "A": "c. Arch of Septimius Severus",
+        "B": "Column of Antoninus Pius",
+        "D": "Arch of Constantine"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "What term reflects the distinctive decorations on the face of this Severan era sarcophagus?",
+      "options": {
+        "A": "kline",
+        "B": "lenos",
+        "C": "strigilate",
+        "D": "aedicula"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 49,
+      "question": "What term do art historians employ to represent works of art like this mosaic, which calls for",
+      "options": {
+        "A": "memento mori",
+        "B": "nunc est bibendum",
+        "C": "carpe diem",
+        "D": "ubi sunt"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "This Roman writer (seen in this 19th-century portrait, since none of him survive from antiquity) of",
+      "options": {
+        "A": "Tacitus",
+        "B": "Frontinus",
+        "C": "Paterculus",
+        "D": "Pliny the Elder"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    }
+  ]
+}

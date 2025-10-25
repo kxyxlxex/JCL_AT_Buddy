@@ -1,63 +1,171 @@
-C o n t e s t  N a m e L e v e l 123456789 1 0
-1011 - Classical Art I I 21 20 19 16 14
-1012 - Classical Art II II 32 26 22 19 18 17 14
-1013 - Classical Art Adv. IV 35 32 29 26 25 24 23 22 21 20
-1021 - Customs I I 28 26 25 21 20 19 17 16 15 14
-1022 - Customs II II 34 31 29 28 26 24 23 22 21 20
-1023 - Customs Adv IV 37 30 29 28 27 26 24 23 22 21
-1031 - Derivatives I I 31 28 27 26 25 24 23 22 21 20
-1032 - Derivatives II II 36 29 28 27 26 24 23 22 21 20
-1033 - Derivatives Adv IV 46 38 29 26 23 22 21 20 19 18
-1041 - Geography I I 35 24 23 21 18 14 13
-1042 - Geography II II 26 24 21 20 17 16 14 13 11 9
-1043 - Geography Adv IV 44 40 35 34 32 30 28 27 24 23
-1051 - Grammar I I 43 42 41 38 34 31 30 29 28 27
-1052 - Grammar II II 47 33 28 25 21 19 15 14 13 12
-1053 - Grammar Adv IV 43 33 31 28 23 22 21 20 19 18
-1061 - Greek Derivatives I I 37 25 24 23 22 20 18 17 15 14
-1062 - Greek Derivatives II II 32 24 23 21 20 18 17 16 12 11
-1063 - Greek Derivatives Adv IV 39 38 34 33 30 29 26 25 24 22
-1071 - Hellenic History I I 30 29 28 19 18 16 13 12
-1072 - Hellenic History II II 35 34 31 29 27 24 20 18 17 12
-1073 - Hellenic History Adv IV 39 36 35 34 29 28 27 25 21 19
-1082 - Heptathlon II II 36 25 24 23 22 21 19 16
-1083 - Heptathlon Adv IV 43 36 35 32 28 27 25 24 21 20
-1091 - Empire I I 36 31 30 27 26 24 23 22 21 20
-1092 - Empire II II 36 34 32 31 30 29 28 26 25 22
-1093 - Empire Adv IV 39 38 37 36 33 32 31 30 29 28
-1101 - Republic I I 39 35 31 29 25 24 17 16 14 12
-1102 - Republic II II 36 34 30 25 22 20 18 17 15 14
-1103 - Republic Adv IV 33 32 30 29 28 27 23 22 20 19
-1111 - Latin Literature I I 33 27 25 19 16 14 12
-1112 - Latin Literature II II 35 34 33 28 24 22 19 16 14 13
-1113 - Latin Literature Adv IV 43 39 38 35 34 31 30 29 27 25
-1121 - Mottoes and Quotations I I 39 36 33 30 29 26 25 24 23 22
-1122 - Mottoes and Quotations II II 37 36 33 32 31 30 29 28 27 24
-1123 - Mottoes and Quotations Adv IV 45 43 42 41 40 37 36 33 32 31
-1131 - Mythology I I 36 33 32 30 27 25 24 22 21 20
-1132 - Mythology II II 44 41 33 32 29 27 26 25 24 23
-1133 - Mythology Adv IV 47 42 40 38 36 33 32 30 29 27
-1141 - Pentathlon I 47 38 37 34 33 28 26 24 20 19
-1152 - Reading Comp. Level II Prose II 28 19 15
-1153 - Reading Comp. Adv. Prose IV 37 32 30 27 26 25 24 23 19 18
-1162 - Reading Comp. Level II Poetry II 17 14
-1163 - Reading Comp. Adv. Poetry IV 39 35 33 30 27 26 25 24 23 22
-1171 - Vocabulary I I 44 43 42 38 37 36 35 34 33 31
-1172 - Vocabulary II II 43 41 40 37 34 32 31 30 29 28
-1173 - Vocabulary Adv IV 45 44 43 40 28 27 26 24 23 20
-1700 - Customs 1/2 1/2 23 22 20 19 18 15 14 13
-1701 - Derivatives 1/2 1/2 24 23 20 19 18 17 16 15
-1702 - Grammar 1/2 1/2 26 19 17 16 14 13
-1703 - Mythology 1/2 1/2 31 29 25 24 23 21 20 19 18 17
-1704 - Pentathlon 1/2 1/2 30 25 24 22 20 18 17 16 15 13
-1705 - Vocabulary 1/2 1/2 29 25 23 22 21 20 19 18 17 16   Place (highest score per place shown in bold )Florida Junior Classical League
-2009 FJCL Convention
-Score Distribution by Level
-C o n t e s t  N a m e L e v e l 123456789 1 0
-1706 - Empire 1/2 1/2 26 25 24 22 20 19 18 16 13
-1707 - Republic 1/2 1/2 23 19 17 16 12 11 9
-1771 - Greek Literature Level I I 31 24 22 19 18 17 11
-1772 - Greek Literature Level II II 29 27 26 24 20 18 17 16 14 13
-1773 - Greek Literature Adv IV 37 29 28 27 24 22 20 17 16 15   Place (highest score per place shown in bold )Florida Junior Classical League
-2009 FJCL Convention
-Score Distribution by Level
+2009 FJCL State Latin Forum
+Geography
+N.B. Questions 1-5 pertain to ancient cities.
+
+1. The palace at Knossos was located on _____________.
+a. Sicily b. Crete c. Rhodes d. Cyrene
+
+2. Which of these cities was the capital of Lydia?
+a. Miletus b. Babylon c. Susa d. Sardis
+
+3. The city of Augusta Treverorum was located in which modern country?
+a. France b. Turkey c. Switzerland d. Germany
+
+4. Which of the following cities was NOT located on ancient Sicily?
+a. Panormus b. Lilybaeum c. Eryx d. Pistoria
+
+5. Hannibal attacked the city of ______________ in Spain, an act which led to war with Rome.
+a. Saguntum b. Cremona c. Massilia d. Cyzicus
+N.B. Questions 6-10 pertain to ancient places and their modern equivalents
+
+6. Which modern European city is the equivalent of anceint Vindobona?
+a. Bonn b. Venice c. Vienna d. Berlin
+
+7. The modern equivalent of ancient Lutetia is what city?
+a. Lyons b. Paris c. London d. Luxembourg
+
+8. The city of Jerusalem was known as ________________ to the Romans.
+a. Edessa b. Magnesia c. Interamna d. Aelia Capitolina
+
+9. Which modern country did the Romans call Hibernia?
+a. Greenland b. Scotland c. Ireland d. England
+
+10. Gallia: France:: Lusitania::
+a. Portugal b. Morocco c. Lithuania d. Romania
+N.B. Questions 11-15 refer to directional geography
+
+11. Which of these ancient Greek cities was farthest south?
+a. Athens b. Corinth c. Sparta d. Tiryns
+
+12. Which Roman province was farthest west?
+a. Pannonia b. Noricum c. Raetia d. Tarraconensis
+
+13. In which direction would a traveler have to go to get from Rome to Tarentum?
+a. northeast b. northwest c. southeast d. southwest
+2009 FJCL State Latin Forum – Geography –
+
+14. In which cardinal direction would one travel to go from Numidia to Cappadocia?
+a. west b. north c. south d. east
+
+15. Which of these ancient Greek islands was farthest north?
+a. Lemnos b. Delos c. Scyros d. Melos
+N.B. Questions 16-20 pertain to the provinces of the Roman Empire
+
+16. Which of the following was NOT a division of Roman Gaul?
+a. Aquitania b. Lugdunensis c. Baetica d. Narbonensis
+
+17. Which of these provinces was in Africa?
+a. Mauretania b. Moesia c. Raetia d. Pontus
+
+18. Which Roman province did NOT border the Mediterranean Sea?
+a. Africa Nova b. Cyrene c. Dacia d. Achaea
+
+19. Into how many provinces was imperial Spain divided?
+a. two b. three c. four d. five
+
+20. Which province did NOT border the Pontus Euxinus?
+a. Thracia b. Moesia c. Bithynia-Pontus d. Galatia
+N.B. For questions 21-30 please refer to the map of Italy located at the end of the test. Match the
+number on the map to the correct answer.
+
+21. Number
+a. Beneventum b. Ravenna c. Mediolanum d. Arpinum
+
+22. Number
+a. Rome b. Alba Fucens c. Clusium d. Sulmo
+
+23. Number
+a. Syracuse b. Eryx c. Mylae d. Henna
+
+24. Number
+a. Capua b. Puteoli c. Reate d. Brundisium
+
+25. Number
+a. Heraclea b. Tarentum c. Abella d. Ancona
+
+26. Number
+a. Rome b. Ostia c. Antium d. Fanum
+2009 FJCL State Latin Forum – Geography –
+
+27. Number
+a. Capua b. Venusia c. Aufidena d. Cures
+
+28. Number
+a. Mariana b. Urcinium c. Clunium d. Aleria
+
+29. Number
+a. Mt. Etna b. Massena c. Syracuse d. Gela
+
+30. Number
+a. Comum b. Mediolanum c. Neapolis d. Tibur
+N.B. For questions 31-40 please refer to the map of Greece at the end of the test. Match the number
+on the map to the correct answer.
+
+31. Number
+a. Tegea b. Sparta c. Aretria d. Olympia
+
+32. Number
+a. Mycene b. Argos c. Corinth d. Elis
+
+33. Number
+a. Chios b. Samos c. Melos d. Delos
+
+34. Number
+a. Corinth b. Marathon c. Athens d. Cyme
+
+35. Number
+a. Thebes b. Assos c. Cynthos d. Iolcos
+
+36. Number
+a. Pydna b. Pella c. Pharsalos d. Gomphoi
+
+37. Number
+a. Tegea b. Sparta c. Elatea d. Oreus
+
+38. Number
+a. Rhodes b. Cos c. Skyros d. Cnidos
+
+39. Number
+a. Elis b. Pylos c. Mantinea d. Argos
+
+40. Number
+a. Philipi b. Maronea c. Olynthos d. Torone
+2009 FJCL State Latin Forum – Geography –
+N.B. For questions 41-50 please refer to the attached map of Rome. Match the number on the map
+to the correct answer.
+
+41. Number
+a. Circus Maximus b. Circus Flaminus c. Circus Maxentius d. Circus of Nero
+
+42. Which emperor’s Thermae is represented by number 7?
+a. Titus b. Trajan c. Diocletian d. Caracalla
+
+43. Number 13 was built by
+a. Augustus b. Hadrian c. Domitian d. Constantine
+
+44. Which hill is encompassed by number “3” on the map?
+a. Capitoline b. Aventine c. Esquiline d. Palatine
+
+45. Number
+a. Forum Traiani b. Forum Caesaris c. Forum Augusti d. Forum Nervae
+
+46. Number “6” on the map represents what area?
+a. Campus Martius b. Forum Romanum c. Forum Bovarium d. Subura
+
+47. Number
+a. Pantheon b. Saepta Julia c. Isis and Serapis d. Forum Pacis
+
+48. Number
+a. Colosseum b. Circus Flaminius c. Domus Aurea d. Baths of Titus
+
+49. Which number on the map represents the Temple of Venus et Roma?
+a. 16 b. 12 c. 10 d.
+
+50. The structure labelled “14” was dedicated to
+a. Marcellus b. Balbus c. Pompey d. Augustus
+2009 FJCL State Latin Forum – Geography –
+Map 1 – Ancient Italy and Sicily. Please use this map to complete questions 21-30.
+2009 FJCL State Latin Forum – Geography –
+Map 2 – Ancient Greece and the Aegean. Please use this map to complete questions 31-40.
+2009 FJCL State Latin Forum – Geography –
+Map 3 – City of Rome. Please use this map to complete questions 41-

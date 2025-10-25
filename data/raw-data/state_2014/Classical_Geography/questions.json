@@ -1,0 +1,589 @@
+{
+  "test_info": {
+    "name": "Classical_Geography",
+    "year": "state_2014",
+    "subject": "Classical_Geography",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which of these cities was NOT located in ancient Italy:",
+      "options": {
+        "A": "Panormus",
+        "B": "Capua",
+        "C": "Tarentum",
+        "D": "Praeneste"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "Which of these cities was located on the Pontus Euxinus?",
+      "options": {
+        "A": "Dura Europus",
+        "B": "Nicopolis",
+        "C": "Gordium",
+        "D": "Tomis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 3,
+      "question": "The city of Burdigala is located in modern ___________.",
+      "options": {
+        "A": "Portugal",
+        "B": "Spain",
+        "C": "France",
+        "D": "Romania"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 4,
+      "question": "Where was the ancient city of Cyrene located?",
+      "options": {
+        "A": "Thrace",
+        "B": "Africa",
+        "C": "Asia",
+        "D": "Cyprus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "All of the following cities are south of Mt. Olympus except:",
+      "options": {
+        "A": "Pydna",
+        "B": "Eleusis",
+        "C": "Sparta",
+        "D": "Naupactus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "Hibernia is modern day",
+      "options": {
+        "A": "Portugal",
+        "B": "Ireland",
+        "C": "Scotland",
+        "D": "Denmark"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "question": "The ancient Roman name for the Spanish port of Cadiz is",
+      "options": {
+        "A": "Arretrium",
+        "B": "Gades",
+        "C": "Carthago Nova",
+        "D": "Cartagena"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "The Roman name for modern-day Belgrade:",
+      "options": {
+        "A": "Aquincum",
+        "B": "Vindobona",
+        "C": "Singidunum",
+        "D": "Salonae"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "The city of Jerusalem was known to the Romans as",
+      "options": {
+        "A": "Aelia Capitolina",
+        "B": "Sidon",
+        "C": "Caesarea",
+        "D": "Machareus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "The ancient city of Tingis was located in modern _________.",
+      "options": {
+        "A": "Libya",
+        "B": "Morocco",
+        "C": "Spain",
+        "D": "Egypt"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 11,
+      "question": "Which of these provinces was farthest south?",
+      "options": {
+        "A": "Belgica",
+        "B": "Britannia",
+        "C": "Aegyptus",
+        "D": "Galatia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "In what direction would one travel to go from Londinium to Aquae Sulis?",
+      "options": {
+        "A": "North",
+        "B": "Northeast",
+        "C": "East",
+        "D": "West"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 13,
+      "question": "In what direction would you travel to go from Alesia to Massilia?",
+      "options": {
+        "A": "North",
+        "B": "South",
+        "C": "East",
+        "D": "West"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 14,
+      "question": "Which of these cities is east of the Danube river?",
+      "options": {
+        "A": "Lutetia",
+        "B": "Bibracte",
+        "C": "Pyrgi",
+        "D": "Cyzicus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 15,
+      "question": "Which sequence is correct in the city of Rome from West to East:",
+      "options": {
+        "A": "Pantheon, Aventine Hill, Forum Romanum, Castra Praetoria",
+        "B": "Circus of Nero, Forum Romanum, Horologium, Pyramid of Cestus",
+        "C": "Curia, Tiber Island, Janiculum Hill, Baths of Decius",
+        "D": "Imperial Rostra, Aventine Hill, Circus Maximus, Baths of Caracalla"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "In which province was the city of Cordoba located?",
+      "options": {
+        "A": "Baetica",
+        "B": "Lusitania",
+        "C": "Cappadocia",
+        "D": "Dalmatia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "Which of the following provinces was NOT located in Roman Africa?",
+      "options": {
+        "A": "Africa Nova",
+        "B": "Mauretania",
+        "C": "Cilicia",
+        "D": "Cyrenaica"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 18,
+      "question": "What Roman province comprised most of mainland Greece?",
+      "options": {
+        "A": "Comata",
+        "B": "Aquitania",
+        "C": "Achaia",
+        "D": "Lugdunensis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 19,
+      "question": "Sarmizigethusa was the capital of _________.",
+      "options": {
+        "A": "Sicilia",
+        "B": "Corsica",
+        "C": "Sardinia",
+        "D": "Dacia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 20,
+      "question": "Which of the following provinces did NOT border Moesia?",
+      "options": {
+        "A": "Cappadocia",
+        "B": "Thrace",
+        "C": "Macedonia",
+        "D": "Dalmatia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "Number",
+      "options": {
+        "A": "c. Malta",
+        "B": "Aegates Islands",
+        "D": "Pithecusae"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "Number",
+      "options": {
+        "A": "Pylos",
+        "B": "Mycenae",
+        "C": "Argos",
+        "D": "Knossos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 23,
+      "question": "Number",
+      "options": {
+        "A": "Corcyra",
+        "B": "Corsica",
+        "C": "Sardinia",
+        "D": "Caesaraugusta"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "Number",
+      "options": {
+        "A": "Brundisium",
+        "B": "Ostia",
+        "C": "Piraeus",
+        "D": "Tarentum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "Cordoba",
+      "options": {
+        "A": "19",
+        "B": "22",
+        "C": "21 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "Syracuse",
+      "options": {
+        "A": "3",
+        "B": "11",
+        "C": "10 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "Constantinople",
+      "options": {
+        "A": "30",
+        "B": "14",
+        "C": "22 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "Londinium",
+      "options": {
+        "A": "8",
+        "B": "5",
+        "C": "7 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "Burdigala",
+      "options": {
+        "A": "16",
+        "B": "18",
+        "C": "17 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "Arretium",
+      "options": {
+        "A": "12",
+        "B": "31",
+        "C": "16 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 31,
+      "question": "Number",
+      "options": {
+        "A": "Knossos",
+        "B": "Phaistos",
+        "C": "Gortynia",
+        "D": "Asturica"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "Number",
+      "options": {
+        "A": "Histiaea",
+        "B": "Eretria",
+        "C": "Corinth",
+        "D": "Carystus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 33,
+      "question": "Number",
+      "options": {
+        "A": "Argos",
+        "B": "Athens",
+        "C": "Corinth",
+        "D": "Thebes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "Number",
+      "options": {
+        "A": "Cyprus",
+        "B": "Pydna",
+        "C": "Cythera",
+        "D": "Thessalonica"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 35,
+      "question": "Number",
+      "options": {
+        "A": "Corcyra",
+        "B": "Lesbos",
+        "C": "Edessa",
+        "D": "Delos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 36,
+      "question": "Argos",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "8 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "Olympia",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "2 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "Iolcus",
+      "options": {
+        "A": "15",
+        "B": "12",
+        "C": "18 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "Andros",
+      "options": {
+        "A": "29",
+        "B": "30",
+        "C": "31 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "Lemnos",
+      "options": {
+        "A": "21",
+        "B": "7",
+        "C": "19 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 41,
+      "question": "Number",
+      "options": {
+        "A": "c. Arch of Constantine",
+        "B": "Arch of Septimius Severus",
+        "D": "Arch of Augustus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 42,
+      "question": "Number",
+      "options": {
+        "A": "c. Tabularium",
+        "B": "Temple of Concord",
+        "D": "Rostra"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "Number",
+      "options": {
+        "A": "c. Temple of Janus",
+        "B": "Temple of Concord",
+        "D": "Temple of Titus and Vespasian"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 44,
+      "question": "Number",
+      "options": {
+        "A": "Via Sacra",
+        "B": "Via Flaminia",
+        "C": "Via Latina",
+        "D": "Via Casina"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "Number",
+      "options": {
+        "A": "c. Temple of Castor",
+        "B": "Temple of Vesta",
+        "D": "Temple of Hercules Victor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 46,
+      "question": "Basilica Sempronia",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "3 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 47,
+      "question": "Temple of Antoninus and Faustina",
+      "options": {
+        "A": "11",
+        "B": "2",
+        "C": "15 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "Tabularium",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "3 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 49,
+      "question": "Regia",
+      "options": {
+        "A": "10",
+        "B": "11",
+        "C": "12 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "Temple of Castor",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "4 d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    }
+  ]
+}

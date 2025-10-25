@@ -1,0 +1,545 @@
+{
+  "test_info": {
+    "name": "Vocabulary_II",
+    "year": "state_2013",
+    "subject": "Vocabulary_II",
+    "total_questions": 45
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "infestus",
+      "options": {
+        "A": "angry",
+        "B": "hostile",
+        "C": "widespread",
+        "D": "disagreeable"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "minor",
+      "options": {
+        "A": "frighten",
+        "B": "lessen",
+        "C": "threaten",
+        "D": "attend to"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "censeō",
+      "options": {
+        "A": "burn",
+        "B": "think",
+        "C": "disapprove",
+        "D": "forbid"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "facultās",
+      "options": {
+        "A": "ability",
+        "B": "ease",
+        "C": "deed",
+        "D": "school"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "secūris",
+      "options": {
+        "A": "axe",
+        "B": "safe",
+        "C": "careless",
+        "D": "protection"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "ignōscō",
+      "options": {
+        "A": "forget",
+        "B": "not know",
+        "C": "examine",
+        "D": "forgive"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 7,
+      "question": "pīcus",
+      "options": {
+        "A": "chest",
+        "B": "woodpecker",
+        "C": "cattle",
+        "D": "color"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "furō",
+      "options": {
+        "A": "steal",
+        "B": "enjoy",
+        "C": "prowl",
+        "D": "be angry"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 9,
+      "question": "vetus",
+      "options": {
+        "A": "true",
+        "B": "clothed",
+        "C": "old",
+        "D": "forbidden"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "flō",
+      "options": {
+        "A": "blow",
+        "B": "weep",
+        "C": "flow",
+        "D": "prosper"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "ferō",
+      "options": {
+        "A": "publish",
+        "B": "seize",
+        "C": "inhabit",
+        "D": "bring"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 12,
+      "question": "supplicium",
+      "options": {
+        "A": "offering",
+        "B": "reward",
+        "C": "punishment",
+        "D": "plea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 13,
+      "question": "tegō",
+      "options": {
+        "A": "weave",
+        "B": "touch",
+        "C": "dye",
+        "D": "cover"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 14,
+      "question": "perītus",
+      "options": {
+        "A": "dead",
+        "B": "experienced",
+        "C": "ruined",
+        "D": "lost"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "vallēs",
+      "options": {
+        "A": "wall",
+        "B": "valley",
+        "C": "trench",
+        "D": "stake"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "especially",
+      "options": {
+        "A": "praesertim",
+        "B": "prōtinus",
+        "C": "saltem",
+        "D": "sponte"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "it is fitting",
+      "options": {
+        "A": "opus est",
+        "B": "licet",
+        "C": "dedecet",
+        "D": "oportet"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "light (in weight)",
+      "options": {
+        "A": "lēnis",
+        "B": "levis",
+        "C": "mītis",
+        "D": "mollis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "breeze",
+      "options": {
+        "A": "aura",
+        "B": "auris",
+        "C": "äer",
+        "D": "aurora"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "each",
+      "options": {
+        "A": "quisque",
+        "B": "quisquam",
+        "C": "quidem",
+        "D": "quīdam"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "to admire",
+      "options": {
+        "A": "nitor",
+        "B": "nectō",
+        "C": "mīror",
+        "D": "micō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "plan",
+      "options": {
+        "A": "contiō",
+        "B": "contentiō",
+        "C": "consilium",
+        "D": "concitus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 23,
+      "question": "to explain",
+      "options": {
+        "A": "experior",
+        "B": "explicō",
+        "C": "explōrō",
+        "D": "expōnō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 24,
+      "question": "likewise",
+      "options": {
+        "A": "sīcut",
+        "B": "item",
+        "C": "īdem",
+        "D": "velut"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 25,
+      "question": "to attack",
+      "options": {
+        "A": "orior",
+        "B": "aggredior",
+        "C": "saliō",
+        "D": "molior"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question": "white",
+      "options": {
+        "A": "cinerārius",
+        "B": "alvus",
+        "C": "albus",
+        "D": "āleāris"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 27,
+      "question": "once",
+      "options": {
+        "A": "mox",
+        "B": "nuper",
+        "C": "paulisper",
+        "D": "olim"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 28,
+      "question": "to defeat, overcome",
+      "options": {
+        "A": "vincō",
+        "B": "supersum",
+        "C": "vinciō",
+        "D": "supplicō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "to open",
+      "options": {
+        "A": "condō",
+        "B": "texō",
+        "C": "aperiō",
+        "D": "recumbō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 30,
+      "question": "to take possession",
+      "options": {
+        "A": "nancīscor",
+        "B": "pōtō",
+        "C": "potior",
+        "D": "sciscitor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "vulgus",
+      "options": {
+        "A": "faciēs",
+        "B": "turba",
+        "C": "dedecus",
+        "D": "plāga"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "comperiō",
+      "options": {
+        "A": "colligō",
+        "B": "instituō",
+        "C": "inveniō",
+        "D": "observō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 33,
+      "question": "ordior",
+      "options": {
+        "A": "nascor",
+        "B": "precor",
+        "C": "surgō",
+        "D": "incipiō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 34,
+      "question": "vagor",
+      "options": {
+        "A": "errō",
+        "B": "obscūrō",
+        "C": "digredior",
+        "D": "deficiō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "consuētūdō",
+      "options": {
+        "A": "mors",
+        "B": "suāsiō",
+        "C": "mos",
+        "D": "statua"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 36,
+      "question": "prōsum",
+      "options": {
+        "A": "noceō",
+        "B": "sequor",
+        "C": "dēficiō",
+        "D": "serviō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "agilis",
+      "options": {
+        "A": "lēnis",
+        "B": "alacer",
+        "C": "turpis",
+        "D": "piger"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 38,
+      "question": "aestās",
+      "options": {
+        "A": "hiems",
+        "B": "friō",
+        "C": "aevum",
+        "D": "febris"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "hauriō",
+      "options": {
+        "A": "ēmittō",
+        "B": "solvō",
+        "C": "compleō",
+        "D": "tenuō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "callidus",
+      "options": {
+        "A": "frīgidus",
+        "B": "fessus",
+        "C": "stupidus",
+        "D": "foedus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "poēta : recitō ::",
+      "options": {
+        "A": "c. venia : parcō",
+        "B": "tectum : aedificō",
+        "D": "praecō : nūntiō"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 47,
+      "question": "moenia : urbs ::",
+      "options": {
+        "A": "c. agger : fossa",
+        "B": "vallum : castra",
+        "D": "pōns : rīvus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "sagittae : pharetra ::",
+      "options": {
+        "A": "c. lectīcus : via",
+        "B": "fluctūs : mare",
+        "D": "carbasus : nāvis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "laurus : arbor ::",
+      "options": {
+        "A": "c. caepa : holus",
+        "B": "radīx : flōs",
+        "D": "grāmen : humus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "rōstrum : volucris ::",
+      "options": {
+        "A": "c. vacca : pecus",
+        "B": "ungula : equus",
+        "D": "sōl : astrum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    }
+  ]
+}

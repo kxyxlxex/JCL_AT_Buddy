@@ -1,0 +1,610 @@
+{
+  "test_info": {
+    "name": "Mythology",
+    "year": "state_2019",
+    "subject": "Mythology",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "What did Hermes use as the soundbox for the first lyre?",
+      "options": {
+        "A": "an oak bowl",
+        "B": "a tortoise shell",
+        "C": "a raven’s nest",
+        "D": "an ox skull"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "Which divinity is INCORRECTLY paired with its Homeric epithet?",
+      "options": {
+        "A": "Artemis Silver-Footed",
+        "B": "Iris Wind-Footed",
+        "C": "Zeus Cloud-Gatherer",
+        "D": "Poseidon Earth-Shaker"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "Who killed his father and married his mother?",
+      "options": {
+        "A": "Pelops",
+        "B": "Oedipus",
+        "C": "Orestes",
+        "D": "Phaëthon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "By the waters of which river would a deity swear their oaths?",
+      "options": {
+        "A": "Cocytus",
+        "B": "Styx",
+        "C": "Lethe",
+        "D": "Phlegethon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "According to Homer, which of the following was hated by his parents?",
+      "options": {
+        "A": "Apollo",
+        "B": "Hermes",
+        "C": "Poseidon",
+        "D": "Ares"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 6,
+      "question": "Who was the first-born child of Cronus and Rhea?",
+      "options": {
+        "A": "Hades",
+        "B": "Hestia",
+        "C": "Hera",
+        "D": "Poseidon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "question": "Which of the murderers encountered by Theseus was given the nickname “Procrustes”?",
+      "options": {
+        "A": "Damastes",
+        "B": "Sinis",
+        "C": "Pityocamptes",
+        "D": "Sciron"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "Agamemnon sent Odysseus, Phoenix, and _____ to convince Achilles to return to the battlefield.",
+      "options": {
+        "A": "Diomedes",
+        "B": "Locrian Ajax",
+        "C": "Talthybius",
+        "D": "Telamonian Ajax"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 9,
+      "question": "Which of these was the Fate responsible for measuring the thread of life?",
+      "options": {
+        "A": "Clotho",
+        "B": "Lachesis",
+        "C": "Atropos",
+        "D": "Thalia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 10,
+      "question": "Who was the mother of Achilles?",
+      "options": {
+        "A": "Thetis",
+        "B": "Tyche",
+        "C": "Tethys",
+        "D": "Themis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "Aphrodite’s name means “Born of the ____.”",
+      "options": {
+        "A": "Waves",
+        "B": "Deep",
+        "C": "Foam",
+        "D": "Sea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "After being put to sea in a chest, where did Perseus arrive safely?",
+      "options": {
+        "A": "Cyprus",
+        "B": "Crete",
+        "C": "Delos",
+        "D": "Seriphus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 13,
+      "question": "Who plotted the demise of the children of Athamas and Nephele?",
+      "options": {
+        "A": "Hesione",
+        "B": "Ino",
+        "C": "Chloris",
+        "D": "Arsinoe"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 14,
+      "question": "Which Harpy was the mother of Achilles’ horses?",
+      "options": {
+        "A": "Aello",
+        "B": "Ocypetes",
+        "C": "Podarge",
+        "D": "Celaeno"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 15,
+      "question": "What youngest son of Priam was killed by Polymestor, King of the Bistones?",
+      "options": {
+        "A": "Polites",
+        "B": "Deiphobus",
+        "C": "Polydorus",
+        "D": "Deiopides"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 16,
+      "question": "What poison did Aegeus nearly use to kill Theseus before recognizing who he was?",
+      "options": {
+        "A": "aconite",
+        "B": "pharmaceia",
+        "C": "harcalo",
+        "D": "parysatis"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "He was the Greek who convinced the Trojans to take the Trojan Horse into the city.",
+      "options": {
+        "A": "Machaon",
+        "B": "Ligyron",
+        "C": "Palamedes",
+        "D": "Sinon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 18,
+      "question": "Where did Theseus die?",
+      "options": {
+        "A": "Naxos",
+        "B": "Thrace",
+        "C": "Scyros",
+        "D": "Megara"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 19,
+      "question": "Who killed Paris?",
+      "options": {
+        "A": "Myrtilus",
+        "B": "Menelaus",
+        "C": "Catreus",
+        "D": "Philoctetes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 20,
+      "question": "What happened after Irus the beggar challenged Odysseus to fight?",
+      "options": {
+        "A": "Odysseus beat Irus with one soft but winning blow.",
+        "B": "Irus backed down because he saw how strong Odysseus looked.",
+        "C": "Odysseus let Irus win because he wanted to maintain his disguise.",
+        "D": "Odysseus refused to fight because it would delight the suitors."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "Who tricked Eileithyia into “allowing” Alcmene to give birth?",
+      "options": {
+        "A": "Alecstis",
+        "B": "Galanthis",
+        "C": "Mnesimache",
+        "D": "Sterope"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 22,
+      "question": "Which Argonaut had the gift of extraordinary sight?",
+      "options": {
+        "A": "Telamon",
+        "B": "Augeias",
+        "C": "Idas",
+        "D": "Lynceus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 23,
+      "question": "What poet sings in the court of Alcinous?",
+      "options": {
+        "A": "Phemius",
+        "B": "Demodocus",
+        "C": "Eumolpus",
+        "D": "Thamyris"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "Which of the following were born at the same time as the Giants?",
+      "options": {
+        "A": "The Graces",
+        "B": "The Furies",
+        "C": "The Muses",
+        "D": "The Fates"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 25,
+      "question": "What water nymphs did the Romans later identify with the Greek Muses?",
+      "options": {
+        "A": "The Parcae",
+        "B": "The Gratiae",
+        "C": "The Camenae",
+        "D": "The Molae"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 26,
+      "question": "Which of Artemis’s epithets deals with her birthplace?",
+      "options": {
+        "A": "Cynthia",
+        "B": "Phoebe",
+        "C": "Agrotora",
+        "D": "Locheia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "By whom was Odysseus killed?",
+      "options": {
+        "A": "Melantheus",
+        "B": "Eupeithes",
+        "C": "Telegonus",
+        "D": "Philoetius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "Which piece of Achilles’ weapons/armor did Patroclus NOT take before entering battle?",
+      "options": {
+        "A": "greaves",
+        "B": "spear",
+        "C": "sword",
+        "D": "breastplate"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "According to Vergil’s Aeneid, Minos was the judge of souls who _____.",
+      "options": {
+        "A": "had been murderers",
+        "B": "had committed crimes against the gods",
+        "C": "had been falsely accused",
+        "D": "had been unfaithful"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 30,
+      "question": "In Vergil’s Aeneid, to whom does Iarbus compare Aeneas?",
+      "options": {
+        "A": "Hector",
+        "B": "Paris",
+        "C": "Priam",
+        "D": "Ilius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 31,
+      "question": "Which of these was NOT a child of Hephaestus?",
+      "options": {
+        "A": "Palaemon",
+        "B": "Lernus",
+        "C": "Periphetes",
+        "D": "Erichthonius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "Which deity cut off a lock of Dido’s hair, allowing her die?",
+      "options": {
+        "A": "Mercury",
+        "B": "Iris",
+        "C": "Proserpina",
+        "D": "Juno"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "Alectryon was turned into what kind type of bird?",
+      "options": {
+        "A": "rooster",
+        "B": "dove",
+        "C": "sparrow",
+        "D": "crow"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "Which of the following was a monster that ate children?",
+      "options": {
+        "A": "Thoön",
+        "B": "Eidolon",
+        "C": "Thaumas",
+        "D": "Lamia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 35,
+      "question": "What was the name of the boy whom Demeter turned into a lizard?",
+      "options": {
+        "A": "Ascalabus",
+        "B": "Boötes",
+        "C": "Iasion",
+        "D": "Triptolemus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Where did Psyche enter the underworld when she went to bring some of Proserpina’s beauty to",
+      "options": {
+        "A": "Cumae",
+        "B": "Acheron",
+        "C": "Avernus",
+        "D": "Taenarum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 37,
+      "question": "Who killed Aegialeus, son of Adrastus?",
+      "options": {
+        "A": "Mentes",
+        "B": "Laodamas",
+        "C": "Erysichthon",
+        "D": "Otreus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "On his way to retrieve Hippolyta’s belt, Heracles killed the brother of which king?",
+      "options": {
+        "A": "Neleus",
+        "B": "Lycus",
+        "C": "Androgeus",
+        "D": "Amycus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 39,
+      "question": "Perseus accidentally killed Acrisius while participated in funeral games hosted by whom?",
+      "options": {
+        "A": "Megapenthes",
+        "B": "Proteus",
+        "C": "Teutamides",
+        "D": "Cepheus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "What king once convinced Hera that Zeus was about to take a new bride?",
+      "options": {
+        "A": "Cithaeron",
+        "B": "Echion",
+        "C": "Laomedon",
+        "D": "Syleus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "Items 41–45: Identify the mother of the given person. Rhadamanthys",
+      "options": {
+        "A": "Clytemnestra",
+        "B": "Aegina",
+        "C": "Pasiphae",
+        "D": "Europa"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 42,
+      "question": "Items 41–45: Identify the mother of the given person. Hermione",
+      "options": {
+        "A": "Andromache",
+        "B": "Leda",
+        "C": "Aethra",
+        "D": "Helen"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 43,
+      "question": "Items 41–45: Identify the mother of the given person. Mecisteus",
+      "options": {
+        "A": "Lysimache",
+        "B": "Eidyia",
+        "C": "Manto",
+        "D": "Medea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "Items 41–45: Identify the mother of the given person. Deucalion",
+      "options": {
+        "A": "Arisbe",
+        "B": "Tyro",
+        "C": "Metaneira",
+        "D": "Pronoea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 45,
+      "question": "Items 41–45: Identify the mother of the given person. Aristaeus",
+      "options": {
+        "A": "Orsinome",
+        "B": "Aphrodite",
+        "C": "Cyrene",
+        "D": "Aerope"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "Items 46–50: Complete the analogy with the most logical choice. Stheneboea : Bellerophon :: Phaedra : _____",
+      "options": {
+        "A": "Theseus",
+        "B": "Pirithous",
+        "C": "Deucalion",
+        "D": "Hippolytus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 47,
+      "question": "Items 46–50: Complete the analogy with the most logical choice. Aeneas : Iapyx :: Menelaus : _____",
+      "options": {
+        "A": "Machaon",
+        "B": "Agamemnon",
+        "C": "Tyndareus",
+        "D": "Nicostratus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "Items 46–50: Complete the analogy with the most logical choice. Britomartis : Dictynna :: Melicertes : _____",
+      "options": {
+        "A": "Ino",
+        "B": "Palaemon",
+        "C": "Learchus",
+        "D": "Dionysus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "Items 46–50: Complete the analogy with the most logical choice. Daedalus : cow :: Epeius : _____",
+      "options": {
+        "A": "serpent",
+        "B": "eagle",
+        "C": "horse",
+        "D": "dog"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "Items 46–50: Complete the analogy with the most logical choice. Anchises : Evander :: Bellerophon : ____",
+      "options": {
+        "A": "Glaucus",
+        "B": "Oeneus",
+        "C": "Iobates",
+        "D": "Proetus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    }
+  ]
+}

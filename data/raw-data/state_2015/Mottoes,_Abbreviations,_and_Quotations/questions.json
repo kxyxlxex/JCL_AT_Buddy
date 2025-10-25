@@ -1,0 +1,597 @@
+{
+  "test_info": {
+    "name": "Mottoes,_Abbreviations,_and_Quotations",
+    "year": "state_2015",
+    "subject": "Mottoes,_Abbreviations,_and_Quotations",
+    "total_questions": 50
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "unborn",
+      "options": {
+        "A": "in vitro",
+        "B": "in utero",
+        "C": "in vivo",
+        "D": "in vacuo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "yearly",
+      "options": {
+        "A": "per diem",
+        "B": "per mensem",
+        "C": "per annum",
+        "D": "per centum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "The matter speaks for itself.",
+      "options": {
+        "A": "ipse dixit",
+        "B": "ipso facto",
+        "C": "ipse jure",
+        "D": "res ipsa loquitur"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "By the hundred:",
+      "options": {
+        "A": "licet",
+        "B": "per stirpes",
+        "C": "per capita",
+        "D": "pecunia non olet"
+      },
+      "type": "multiple_choice",
+      "correct_answer": ""
+    },
+    {
+      "question_number": 5,
+      "question": "_____ in fabula",
+      "options": {
+        "A": "lupus",
+        "B": "leo",
+        "C": "vulpes",
+        "D": "asinus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "After a sail on a choppy sea, you are glad to be back on:",
+      "options": {
+        "A": "terra firma",
+        "B": "terra incognita",
+        "C": "terra es",
+        "D": "terrae motus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "Ab ________ usque ad mala.",
+      "options": {
+        "A": "capite",
+        "B": "manu",
+        "C": "ovo",
+        "D": "digito"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 8,
+      "question": "Time flies",
+      "options": {
+        "A": "c. tempus abire tibi est",
+        "B": "tempus edax rerum",
+        "D": "tempus ludendi"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "Which phrase means approximately the same thing as “quid pro quo”?",
+      "options": {
+        "A": "c. alter idem",
+        "B": "manus manum lavat",
+        "D": "quid nunc"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 10,
+      "question": "Which phrase means “just going through the motions”?",
+      "options": {
+        "A": "pro forma",
+        "B": "pro tanto",
+        "C": "pro memoria",
+        "D": "pro merito"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "How would you relate something that you didn’t want others to know?",
+      "options": {
+        "A": "sub poena",
+        "B": "sub lite",
+        "C": "sub rosa",
+        "D": "sub dio"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "What does “aut vincere aut mori” mean?",
+      "options": {
+        "A": "c. change the way you do things",
+        "B": "do or die",
+        "D": "watch your step"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 13,
+      "question": "What does “ad Kalendas Graecas” mean?",
+      "options": {
+        "A": "b. at the stroke of twelve",
+        "B": "until the cows come home",
+        "D": "at year’s end"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "Whose motto is “audemus iura nostra defendere”?",
+      "options": {
+        "A": "Alabama",
+        "B": "Mississippi",
+        "C": "Arkansas",
+        "D": "Tennessee"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "Which is the motto of Arizona?",
+      "options": {
+        "A": "regnat populus",
+        "B": "nil sine numine",
+        "C": "ditat deus",
+        "D": "crescit eundo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 16,
+      "question": "Which of the following states has a one-word motto?",
+      "options": {
+        "A": "Missouri",
+        "B": "Maryland",
+        "C": "Michigan",
+        "D": "Maine"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 17,
+      "question": "Whose motto is \"Alis volat propriis” ?",
+      "options": {
+        "A": "Oregon",
+        "B": "Virginia",
+        "C": "Wyoming",
+        "D": "West Virginia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "What do the following college mottoes have in common?",
+      "options": {
+        "A": "c. They are three words long.",
+        "B": "They are Greek.",
+        "D": "They all contain a verb."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "What is the motto for Stetson University?",
+      "options": {
+        "A": "c. dei sub numine viget",
+        "B": "deo volente",
+        "D": "deo ac veritati"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "Which universities have the same motto?",
+      "options": {
+        "A": "c. Washington/California",
+        "B": "Northeastern/ Pittsburgh",
+        "D": "Yale/Indiana"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 21,
+      "question": "Which university has the motto \"religio doctrina civilitas prae omnibus virtus\" ?",
+      "options": {
+        "A": "c. Northwestern",
+        "B": "Ohio University",
+        "D": "Notre Dame"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 22,
+      "question": "Which Canadian province has the motto “fortis et liber”?",
+      "options": {
+        "A": "Alberta",
+        "B": "Manitoba",
+        "C": "Nova Scotia",
+        "D": "British Columbia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "\"Ad astra per aspera\" is the motto of which state?",
+      "options": {
+        "A": "Kansas",
+        "B": "Arkansas",
+        "C": "Colorado",
+        "D": "Nevada"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "What is the motto for the city of Paris?",
+      "options": {
+        "A": "c. multis e gentibus vires",
+        "B": "munit haec et alter vincit",
+        "D": "fluctuat nec mergitur"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 25,
+      "question": "Which motto has been adopted by many U.S. labor unions?",
+      "options": {
+        "A": "c. laborare est orare",
+        "B": "labor omnia vincit",
+        "D": "labore et honore"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question": "An actor who makes up his own lines does so _____",
+      "options": {
+        "A": "ad inf.",
+        "B": "ad init.",
+        "C": "ad loc.",
+        "D": "ad lib."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 27,
+      "question": "Who uses the term b.i.d.?",
+      "options": {
+        "A": "a lawyer",
+        "B": "a judge",
+        "C": "a pharmacist",
+        "D": "an engineer"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "Which abbreviation is a synonym of etc.?",
+      "options": {
+        "A": "exc.",
+        "B": "e.g.",
+        "C": "et al.",
+        "D": "et ux."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "What does \"fe\" stand for?",
+      "options": {
+        "A": "iron",
+        "B": "lead",
+        "C": "zinc",
+        "D": "copper"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "What does \"in lim.\" mean?",
+      "options": {
+        "A": "c. at the end",
+        "B": "in the middle",
+        "D": "over and over"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "Which of the following choices does the abbreviation n. NOT mean?",
+      "options": {
+        "A": "born",
+        "B": "neuter",
+        "C": "never",
+        "D": "at night"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 32,
+      "question": "What does P.M. mean other than “afternoon”?",
+      "options": {
+        "A": "monthly",
+        "B": "after death",
+        "C": "head of the table",
+        "D": "through the ages"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "What is the abbreviation for “What had to be done”?",
+      "options": {
+        "A": "Q.E.D.",
+        "B": "Q.E.F.",
+        "C": "Q. H.",
+        "D": "q.i.d."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "What is the correct abbreviation for “videlicet”?",
+      "options": {
+        "A": "v.",
+        "B": "v.i.",
+        "C": "viz.",
+        "D": "v.v."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 35,
+      "question": "The ancient Romans calculated dates using this abbreviation.",
+      "options": {
+        "A": "A.P.C.N.",
+        "B": "A.H.",
+        "C": "A.A.S.",
+        "D": "A.U.C."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 36,
+      "question": "Which is NOT a university degree?",
+      "options": {
+        "A": "A.B.",
+        "B": "J.D.",
+        "C": "D.P.",
+        "D": "M.D."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 37,
+      "question": "The opposite of a.c. is:",
+      "options": {
+        "A": "pct.",
+        "B": "ptc.",
+        "C": "p.p.",
+        "D": "p.c."
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 38,
+      "question": "What is the meaning of “b.v.”?",
+      "options": {
+        "A": "Hello",
+        "B": "Goodbye",
+        "C": "Welcome",
+        "D": "See you soon"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 39,
+      "question": "Where would you be if you saw the abbreviation dram. pers.?",
+      "options": {
+        "A": "c. in a theater",
+        "B": "in a doctor’s office",
+        "D": "in a stadium"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "What is the meaning of “ft”?",
+      "options": {
+        "A": "he made",
+        "B": "she will make",
+        "C": "they did",
+        "D": "let it be done"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 41,
+      "question": "\"salus populi suprema lex esto\"",
+      "options": {
+        "A": "Julius Caesar",
+        "B": "Cicero",
+        "C": "Pompey",
+        "D": "Augustus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 42,
+      "question": "\"varium et mutabile semper femina\"",
+      "options": {
+        "A": "Juvenal",
+        "B": "Ovid",
+        "C": "Vergil",
+        "D": "Propertius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 43,
+      "question": "\"ab honesto virum bonum nihil deterret \"",
+      "options": {
+        "A": "Seneca",
+        "B": "Tacitus",
+        "C": "Juvenal",
+        "D": "Cornelius Nepos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "\"abeunt studia in mores\"",
+      "options": {
+        "A": "Cicero",
+        "B": "Tibullus",
+        "C": "Ovid",
+        "D": "Catullus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 45,
+      "question": "What famous words precede “quam minimum credula postero”?",
+      "options": {
+        "A": "c. delenda est Carthago",
+        "B": "carpe diem",
+        "D": "tempus fugit"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 46,
+      "question": "Which author relates the quotation, “diem perdidi,” attributed to Titus?",
+      "options": {
+        "A": "Juvenal",
+        "B": "Seneca",
+        "C": "Suetonius",
+        "D": "Sallust"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 47,
+      "question": "“quem di diligunt adolescens moritur”",
+      "options": {
+        "A": "Vergil",
+        "B": "Ovid",
+        "C": "Plautus",
+        "D": "Terence"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 48,
+      "question": "\"Alea iacta est\"",
+      "options": {
+        "A": "Livy",
+        "B": "Caesar",
+        "C": "Cicero",
+        "D": "Augustus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "“vivamus…atque amemus”",
+      "options": {
+        "A": "Propertius",
+        "B": "Ovid",
+        "C": "Tibullus",
+        "D": "Catullus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 50,
+      "question": "Which emperor stated “vae puto deus fio”?",
+      "options": {
+        "A": "Nero",
+        "B": "Vespasian",
+        "C": "Domitian",
+        "D": "Commodus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    }
+  ]
+}

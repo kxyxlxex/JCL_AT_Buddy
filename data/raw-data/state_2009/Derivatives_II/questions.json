@@ -1,0 +1,549 @@
+{
+  "test_info": {
+    "name": "Derivatives_II",
+    "year": "state_2009",
+    "subject": "Derivatives_II",
+    "total_questions": 45
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "They were accused of parricide, the killing of a _________.",
+      "options": {
+        "A": "c. family member",
+        "B": "tyrannical ruler",
+        "D": "radical terrorist"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "Which bird is best described as a “bone-breaker”?",
+      "options": {
+        "A": "vulture",
+        "B": "eagle",
+        "C": "ostrich",
+        "D": "osprey"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 3,
+      "question": "His tertiary excuse for not having his homework was “the dog ate it”.",
+      "options": {
+        "A": "third",
+        "B": "feeble",
+        "C": "incredible",
+        "D": "final"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "The girl’s musical talent seemed to be innate.",
+      "options": {
+        "A": "born into her",
+        "B": "impressive",
+        "C": "rapidly increasing",
+        "D": "lessening"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 5,
+      "question": "The judge approved the change of venue in the controversial trial.",
+      "options": {
+        "A": "plea",
+        "B": "location",
+        "C": "attorney",
+        "D": "charge"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "The teacher decided to vituperate his students the next day.",
+      "options": {
+        "A": "teach",
+        "B": "praise",
+        "C": "evaluate",
+        "D": "scold"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 7,
+      "question": "The speaker’s incisive remarks were most effective.",
+      "options": {
+        "A": "brief",
+        "B": "complimentary",
+        "C": "direct",
+        "D": "eloquent"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "The press always seems to impugn the candidates’ reputations.",
+      "options": {
+        "A": "publicize",
+        "B": "attack",
+        "C": "investigate",
+        "D": "embellish"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "The hastate leaf was shaped like a __________.",
+      "options": {
+        "A": "shield",
+        "B": "spear",
+        "C": "tooth",
+        "D": "fist"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 10,
+      "question": "The legislature wanted to ameliorate the plan.",
+      "options": {
+        "A": "reject",
+        "B": "improve",
+        "C": "ratify",
+        "D": "discuss"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 11,
+      "question": "traho",
+      "options": {
+        "A": "intrepid",
+        "B": "trunk",
+        "C": "architrave",
+        "D": "treaty"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "turba",
+      "options": {
+        "A": "trouble",
+        "B": "trounce",
+        "C": "truffle",
+        "D": "tubule"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 13,
+      "question": "eo",
+      "options": {
+        "A": "trowel",
+        "B": "truffle",
+        "C": "trance",
+        "D": "trestle"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 14,
+      "question": "scutum",
+      "options": {
+        "A": "squire",
+        "B": "scullery",
+        "C": "scurrilous",
+        "D": "execute"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "sedeo",
+      "options": {
+        "A": "soiree",
+        "B": "seduction",
+        "C": "sober",
+        "D": "residual"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "sequor",
+      "options": {
+        "A": "sect",
+        "B": "section",
+        "C": "excise",
+        "D": "precise"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 17,
+      "question": "vivo",
+      "options": {
+        "A": "vicissitude",
+        "B": "vicinity",
+        "C": "victuals",
+        "D": "vicious"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "puto",
+      "options": {
+        "A": "punctual",
+        "B": "accountant",
+        "C": "putrid",
+        "D": "accrue"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "iaceo",
+      "options": {
+        "A": "jut",
+        "B": "gist",
+        "C": "griddle",
+        "D": "joke"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 20,
+      "question": "curro",
+      "options": {
+        "A": "cursory",
+        "B": "hidalgo",
+        "C": "hilarious",
+        "D": "hurry"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 21,
+      "question": "congestion",
+      "options": {
+        "A": "congruo",
+        "B": "cogo",
+        "C": "gero",
+        "D": "genus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "miscreant",
+      "options": {
+        "A": "creo",
+        "B": "credo",
+        "C": "misceo",
+        "D": "miser"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "controversy",
+      "options": {
+        "A": "vereor",
+        "B": "ver",
+        "C": "verto",
+        "D": "verus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "abstract",
+      "options": {
+        "A": "traho",
+        "B": "sto",
+        "C": "struo",
+        "D": "tollo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "incorruptible",
+      "options": {
+        "A": "ruo",
+        "B": "rumpo",
+        "C": "cor",
+        "D": "cerno"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 26,
+      "question": "summon",
+      "options": {
+        "A": "manus",
+        "B": "sum",
+        "C": "mons",
+        "D": "moneo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 27,
+      "question": "subjunctive",
+      "options": {
+        "A": "ius",
+        "B": "iungo",
+        "C": "iuvo",
+        "D": "iuncus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "rely",
+      "options": {
+        "A": "lego",
+        "B": "liqueo",
+        "C": "linquo",
+        "D": "ligo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 29,
+      "question": "resource",
+      "options": {
+        "A": "soror",
+        "B": "solvo",
+        "C": "res",
+        "D": "rego"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "ransom",
+      "options": {
+        "A": "emo",
+        "B": "sumo",
+        "C": "do",
+        "D": "rogo"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 31,
+      "question": "coil",
+      "options": {
+        "A": "to choose",
+        "B": "to tie",
+        "C": "law",
+        "D": "to hide"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "attain",
+      "options": {
+        "A": "to touch",
+        "B": "to hold",
+        "C": "to stretch",
+        "D": "to guard"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 33,
+      "question": "alarm",
+      "options": {
+        "A": "wing",
+        "B": "to feed",
+        "C": "to nourish",
+        "D": "weapons"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "intrinsic",
+      "options": {
+        "A": "to draw",
+        "B": "to follow",
+        "C": "to surrender",
+        "D": "to go"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 35,
+      "question": "jet",
+      "options": {
+        "A": "to help",
+        "B": "to lie",
+        "C": "joke",
+        "D": "to throw"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "defy",
+      "options": {
+        "A": "to make",
+        "B": "to destroy",
+        "C": "faithful",
+        "D": "to fight"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 37,
+      "question": "mural",
+      "options": {
+        "A": "wall",
+        "B": "mouse",
+        "C": "to change",
+        "D": "to delay"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "meticulous",
+      "options": {
+        "A": "fear",
+        "B": "goal",
+        "C": "to measure",
+        "D": "to reap"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 39,
+      "question": "perorate",
+      "options": {
+        "A": "to pray",
+        "B": "to rise",
+        "C": "boundary",
+        "D": "to equip"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "totalitarian",
+      "options": {
+        "A": "to drive",
+        "B": "often",
+        "C": "all",
+        "D": "then"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 46,
+      "question": "augury",
+      "options": {
+        "A": "oriole",
+        "B": "auspices",
+        "C": "author",
+        "D": "avid"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "recognition",
+      "options": {
+        "A": "ambiguous",
+        "B": "encourage",
+        "C": "unconscious",
+        "D": "acquaint"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 48,
+      "question": "queue",
+      "options": {
+        "A": "precede",
+        "B": "coward",
+        "C": "cautious",
+        "D": "decoy"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "innocence",
+      "options": {
+        "A": "equinoctial",
+        "B": "notorious",
+        "C": "connubial",
+        "D": "nuisance"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "flourish",
+      "options": {
+        "A": "cauliflower",
+        "B": "confluence",
+        "C": "flounder",
+        "D": "founder"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    }
+  ]
+}

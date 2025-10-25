@@ -1,0 +1,514 @@
+{
+  "test_info": {
+    "name": "Classical_Geography",
+    "year": "state_2019",
+    "subject": "Classical_Geography",
+    "total_questions": 42
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which of these cities was NOT located in ancient Spain?",
+      "options": {
+        "A": "Gades",
+        "B": "Cartago Nova",
+        "C": "Emerita Augusta",
+        "D": "Lutetia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 2,
+      "question": "Which of these cities was located in modern-day Greece?",
+      "options": {
+        "A": "Halicarnassus",
+        "B": "Pella",
+        "C": "Ephesus",
+        "D": "Salona"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question": "The city of Nemausus is located in modern _____.",
+      "options": {
+        "A": "France",
+        "B": "Jordan",
+        "C": "Germany",
+        "D": "Portugal"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "Where was the ancient city of Eboracum located?",
+      "options": {
+        "A": "Hungary",
+        "B": "Libya",
+        "C": "Italy",
+        "D": "Britain"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "Which of these cities was NOT located in ancient France?",
+      "options": {
+        "A": "Aquae Sextiae",
+        "B": "Vindobona",
+        "C": "Lugdunum",
+        "D": "Massilia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 6,
+      "question": "Parthia is modern-day _____.",
+      "options": {
+        "A": "Turkey",
+        "B": "Poland",
+        "C": "Iran",
+        "D": "Algeria"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 7,
+      "question": "The ancient Roman name for the river Scheldt in Belgium is _____.",
+      "options": {
+        "A": "Scaldis",
+        "B": "Thader",
+        "C": "Sequana",
+        "D": "Rhenus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "The Roman name for modern-day Edirne is _____.",
+      "options": {
+        "A": "Byzantium",
+        "B": "Halmyris",
+        "C": "Adrianopolis",
+        "D": "Oea"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "The city of Colchester was known to the Romans as Colonia _____.",
+      "options": {
+        "A": "Ulpia Traiana Sarmizegetusa",
+        "B": "Claudia Victricensis Camulodunum",
+        "C": "Claudia Ara Agrippinensium",
+        "D": "Iulia Aemona"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 10,
+      "question": "Ancient Colchis is located in modern _____.",
+      "options": {
+        "A": "Corfu",
+        "B": "Hungary",
+        "C": "Georgia",
+        "D": "Scotland"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 11,
+      "question": "Which of these mountain ranges was farthest west?",
+      "options": {
+        "A": "Apennines",
+        "B": "Pyrenees",
+        "C": "Caucasus",
+        "D": "Atlas"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 12,
+      "question": "In what direction would one travel to go from Palmyra to Tyrus?",
+      "options": {
+        "A": "west",
+        "B": "southeast",
+        "C": "southwest",
+        "D": "northeast"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 13,
+      "question": "In what general direction would you travel if you left Rome on the Via Tiburtina?",
+      "options": {
+        "A": "northeast",
+        "B": "southwest",
+        "C": "south",
+        "D": "northwest"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "Which of these cities is closest to Mt. Oeta?",
+      "options": {
+        "A": "Knossos",
+        "B": "Alexandria",
+        "C": "Heraclea",
+        "D": "Thebes"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 15,
+      "question": "Order these cities from North to South:",
+      "options": {
+        "A": "Carthago, Saguntum, Drepanum, Cyrene",
+        "B": "Saguntum, Drepanum, Carthago, Cyrene",
+        "C": "Drepanum, Saguntum, Carthago, Cyrene",
+        "D": "Saguntum, Drepanum, Cyrene, Carthago"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "In which province was the city of Smryna located?",
+      "options": {
+        "A": "Dacia",
+        "B": "Bithynia",
+        "C": "Asia",
+        "D": "Syria"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 17,
+      "question": "Which of the following provinces was NOT located in modern Europe?",
+      "options": {
+        "A": "Cappadocia",
+        "B": "Thracia",
+        "C": "Terraconensis",
+        "D": "Lusitania"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "Which of the following was NOT a province of Gallia?",
+      "options": {
+        "A": "Narbonensis",
+        "B": "Comata",
+        "C": "Transalpina",
+        "D": "Tingitana"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 19,
+      "question": "Which province was NOT located in ancient Africa?",
+      "options": {
+        "A": "Aegyptus",
+        "B": "Macedonia",
+        "C": "Cyrenaica",
+        "D": "Mauretania"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 20,
+      "question": "Which of the following provinces bordered the Black Sea?",
+      "options": {
+        "A": "Pontus",
+        "B": "Illyricum",
+        "C": "Pannonia",
+        "D": "Belgica"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "",
+      "options": {
+        "A": "Corcyra",
+        "B": "Chios",
+        "C": "Lesbos",
+        "D": "Ithaca"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "",
+      "options": {
+        "A": "Caspian",
+        "B": "Marmara",
+        "C": "Aegean",
+        "D": "Black"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "",
+      "options": {
+        "A": "Tiberis",
+        "B": "Padus",
+        "C": "Rubico",
+        "D": "Metaurus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "",
+      "options": {
+        "A": "Memphis",
+        "B": "Berenice",
+        "C": "Alexandria",
+        "D": "Colonia Junonia"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "Sardinia",
+      "options": {
+        "A": "24",
+        "B": "27",
+        "C": "25",
+        "D": "Geography - States 2019 -"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 30,
+      "question": "Leptis Magna",
+      "options": {
+        "A": "27",
+        "B": "30",
+        "C": "28",
+        "D": "Questions 31–40 refer to Map 2: Ancient Greece and Asia Minor"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 31,
+      "question": "D",
+      "options": {
+        "A": "Parnassus",
+        "B": "Ida",
+        "C": "Helicon",
+        "D": "Athos"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "R",
+      "options": {
+        "A": "Samos",
+        "B": "Lesbos",
+        "C": "Euboea",
+        "D": "Chios"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 33,
+      "question": "",
+      "options": {
+        "A": "Dodona",
+        "B": "Corinth",
+        "C": "Thermopylae",
+        "D": "Pharsalus"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "",
+      "options": {
+        "A": "Iolcus",
+        "B": "Mytilene",
+        "C": "Delphi",
+        "D": "Thessalonika"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "Olympos",
+      "options": {
+        "A": "C",
+        "B": "A",
+        "C": "G",
+        "D": "F"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Cythera",
+      "options": {
+        "A": "S",
+        "B": "V",
+        "C": "Q",
+        "D": "N"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 37,
+      "question": "Salamis",
+      "options": {
+        "A": "U",
+        "B": "P",
+        "C": "O",
+        "D": "M"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 38,
+      "question": "Marathon",
+      "options": {
+        "A": "3",
+        "B": "12",
+        "C": "5",
+        "D": "Questions 41–50 refer to Map 3: Ancient Rome"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 41,
+      "question": "G",
+      "options": {
+        "A": "Aventine",
+        "B": "Vatican",
+        "C": "Caelian",
+        "D": "Viminal"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "N",
+      "options": {
+        "A": "Servian Walls",
+        "B": "Tiber River",
+        "C": "Via Praenestina",
+        "D": "Aurelian Walls"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 43,
+      "question": "H",
+      "options": {
+        "A": "Quirinal",
+        "B": "Palatine",
+        "C": "Janiculum",
+        "D": "Capitoline"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 44,
+      "question": "",
+      "options": {
+        "A": "Ara Pacis",
+        "B": "Domus Aurea",
+        "C": "Baths of Diocletian",
+        "D": "Forum"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 45,
+      "question": "",
+      "options": {
+        "A": "Theater of Pompey",
+        "B": "Hadian’s Mausoleum",
+        "C": "Pantheon",
+        "D": "Circus Flaminius"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "Via Appia",
+      "options": {
+        "A": "L",
+        "B": "M",
+        "C": "N",
+        "D": "O"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 47,
+      "question": "Esquiline",
+      "options": {
+        "A": "A",
+        "B": "E",
+        "C": "K",
+        "D": "B"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "Castra Praetoria",
+      "options": {
+        "A": "2",
+        "B": "5",
+        "C": "10",
+        "D": "Geography - States 2019 -"
+      },
+      "type": "multiple_choice",
+      "correct_answer": "C"
+    }
+  ]
+}
