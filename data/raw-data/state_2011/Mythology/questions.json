@@ -3,7 +3,8 @@
     "name": "Mythology",
     "year": "state_2011",
     "subject": "Mythology",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Hephaestus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Lycaon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -40,6 +45,8 @@
         "D": "Hera"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -52,11 +59,13 @@
         "D": "Odysseus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 5,
-      "question": "Which of the following was a constellation of 7 stars formed from 7 sisters who are perpetually",
+      "question": "Which of the following was a constellation of 7 stars formed from 7 sisters who are perpetually chased by the constellation Orion?",
       "options": {
         "A": "Hyades",
         "B": "Pleiades",
@@ -64,6 +73,8 @@
         "D": "Hesperides"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -76,11 +87,13 @@
         "D": "Delphi"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 7,
-      "question": "What daughter of Hyperion and Theia drove a silver chariot drawn by 2 horses across the sky and",
+      "question": "What daughter of Hyperion and Theia drove a silver chariot drawn by 2 horses across the sky and was the mother of 50 daughters by Endymion?",
       "options": {
         "A": "Selene",
         "B": "Hestia",
@@ -88,6 +101,8 @@
         "D": "Pasiphae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -100,11 +115,13 @@
         "D": "Polydectes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 9,
-      "question": "According to the Aeneid, what goddess feared and hated all Trojans, but especially Aeneas because",
+      "question": "According to the Aeneid, what goddess feared and hated all Trojans, but especially Aeneas because he was destined to found Rome?",
       "options": {
         "A": "Vesta",
         "B": "Minverva",
@@ -112,6 +129,8 @@
         "D": "Juno"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -124,11 +143,13 @@
         "D": "Belus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 11,
-      "question": "Who was the son of Procne and Tereus, who was killed by his mother in revenge for Tereus’",
+      "question": "Who was the son of Procne and Tereus, who was killed by his mother in revenge for Tereus’ treatment of Philomela?",
       "options": {
         "A": "Itys",
         "B": "Ion",
@@ -136,11 +157,13 @@
         "D": "Nestor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 12,
-      "question": "What companion of Achilles stole his armor and wore it into battle in order to rally the Greeks when",
+      "question": "What companion of Achilles stole his armor and wore it into battle in order to rally the Greeks when Achilles would not fight?",
       "options": {
         "A": "Diomedes",
         "B": "Ajax the Lesser",
@@ -148,11 +171,13 @@
         "D": "Patroclus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 13,
-      "question": "What woman, a princess from Crete, married an Athenian king, fell in love with her stepson, and",
+      "question": "What woman, a princess from Crete, married an Athenian king, fell in love with her stepson, and committed suicide in order to turn the boy’s father against him?",
       "options": {
         "A": "Cassiopeia",
         "B": "Phaedra",
@@ -160,11 +185,13 @@
         "D": "Tyro"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 14,
-      "question": "What instrument of Orpheus continued playing itself as it floated down the Hebrus river after the",
+      "question": "What instrument of Orpheus continued playing itself as it floated down the Hebrus river after the musician’s death?",
       "options": {
         "A": "flute",
         "B": "drum",
@@ -172,11 +199,13 @@
         "D": "lyre"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 15,
-      "question": "What son of Tantalus was fed to the gods and, after being restored to life, needed his shoulder",
+      "question": "What son of Tantalus was fed to the gods and, after being restored to life, needed his shoulder replaced with a piece of ivory?",
       "options": {
         "A": "Amphion",
         "B": "Pelops",
@@ -184,11 +213,13 @@
         "D": "Zethus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 16,
-      "question": "What goddesses were renamed the Eumenides, or Kindly Ones, after Athena acquitted Orestes of",
+      "question": "What goddesses were renamed the Eumenides, or Kindly Ones, after Athena acquitted Orestes of the murder of his mother?",
       "options": {
         "A": "the Fates",
         "B": "the Graeae",
@@ -196,17 +227,22 @@
         "D": "the Furies"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 17,
       "question": "What did Erysichthon do to earn his punishment of being eternally hungry?",
       "options": {
-        "A": "c. He stole ambrosia from the gods",
+        "A": "He sold his daughter into slavery",
         "B": "He saw a goddess bathing",
+        "C": "He stole ambrosia from the gods",
         "D": "He cut down a sacred tree"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -219,11 +255,13 @@
         "D": "Delphi"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 19,
-      "question": "What monsters plagued the prophet Phineus until the Argonauts, Zetes and Calaias, chased them",
+      "question": "What monsters plagued the prophet Phineus until the Argonauts, Zetes and Calaias, chased them away?",
       "options": {
         "A": "Lamiae",
         "B": "Pygmies",
@@ -231,11 +269,13 @@
         "D": "Centaurs"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 20,
-      "question": "What hero was originally born as Alcides, but was given a new name by the Pythia when he tried to",
+      "question": "What hero was originally born as Alcides, but was given a new name by the Pythia when he tried to atone for the murder of his wife and children?",
       "options": {
         "A": "Odysseus",
         "B": "Orestes",
@@ -243,11 +283,13 @@
         "D": "Heracles"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 21,
-      "question": "According to Hesiod’s Theogony, what daughter of Chaos was the mother of Aether (Upper Air),",
+      "question": "According to Hesiod’s Theogony, what daughter of Chaos was the mother of Aether (Upper Air), Hemera (Day), Morus (Destiny), Hypnus (Sleep), Momus (Sarcasm), Nemesis, and the Hesperides?",
       "options": {
         "A": "Erebus",
         "B": "Nyx",
@@ -255,6 +297,8 @@
         "D": "Nike"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -267,11 +311,13 @@
         "D": "Poseidon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 23,
-      "question": "Which goddess, the eldest child of Cronus and Rhea, refused to marry either Poseidon or Apollo,",
+      "question": "Which goddess, the eldest child of Cronus and Rhea, refused to marry either Poseidon or Apollo, vowing to remain a virgin?",
       "options": {
         "A": "Persephone",
         "B": "Athena",
@@ -279,11 +325,13 @@
         "D": "Hestia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 24,
-      "question": "What man, described by Homer as bowlegged, lame in one foot, and stooped with a misshapen",
+      "question": "What man, described by Homer as bowlegged, lame in one foot, and stooped with a misshapen head, was killed by Achilles when he ridiculed the hero for falling in love with Penthesileia after she was killed?",
       "options": {
         "A": "Thersites",
         "B": "Echepolus",
@@ -291,11 +339,13 @@
         "D": "Epeius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 25,
-      "question": "From whom did Odysseus acquire his great bow, which once originally belonged to Eurytus, the",
+      "question": "From whom did Odysseus acquire his great bow, which once originally belonged to Eurytus, the famous archer?",
       "options": {
         "A": "Apollo",
         "B": "Orion",
@@ -303,11 +353,13 @@
         "D": "Iphitus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 26,
-      "question": "What god did Cadmus have to serve for a 'great year' or a period of 8 years to atone for killing a",
+      "question": "What god did Cadmus have to serve for a 'great year' or a period of 8 years to atone for killing a dragon?",
       "options": {
         "A": "Poseidon",
         "B": "Ares",
@@ -315,11 +367,13 @@
         "D": "Apollo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 27,
-      "question": "Who sent Bellerophon to his father-­‐in-­‐law Iobates with a letter ordering the king to kill the bearer of",
+      "question": "Who sent Bellerophon to his father-­‐in-­‐law Iobates with a letter ordering the king to kill the bearer of the letter?",
       "options": {
         "A": "Glaucus",
         "B": "Isandrus",
@@ -327,11 +381,13 @@
         "D": "Dysaules"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 28,
-      "question": "What king of Argos led 7 chiefs from the whole of the Peloponnese with the exception of the",
+      "question": "What king of Argos led 7 chiefs from the whole of the Peloponnese with the exception of the Maeceneans, Agamemnon and Menelaus, who foresaw the expedition would fail, in order to help Polyneices and Tydeus reclaim their thrones?",
       "options": {
         "A": "Amphiaraus",
         "B": "Adrastus",
@@ -339,22 +395,27 @@
         "D": "Parthenopaeus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 29,
-      "question": "Although the more common story is that Medea killed her two sons, there is another myth that",
+      "question": "Although the more common story is that Medea killed her two sons, there is another myth that claims the two boys were stoned to death by enraged Corinthians while they took refuge at Hera's altar. Both versions agree that their names were",
       "options": {
-        "A": "c. Otus and Ephialtes",
+        "A": "Mermerus and Pheres",
         "B": "Pamphylus and Dymas",
+        "C": "Otus and Ephialtes",
         "D": "Ceisus and Phalces"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 30,
-      "question": "During the Gigantomachy, the gods learned that they would never defeat the giants with out the aid",
+      "question": "During the Gigantomachy, the gods learned that they would never defeat the giants with out the aid of a mortal. Whom did Athena recruit?",
       "options": {
         "A": "Ixion",
         "B": "Heracles",
@@ -362,11 +423,13 @@
         "D": "Ericthoneus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 31,
-      "question": "When Leto was searching for a place to bear Apollo and Artemis, Zeus put the goddess into the care",
+      "question": "When Leto was searching for a place to bear Apollo and Artemis, Zeus put the goddess into the care of Poseidon, who circumvented Hera's ban that no land under the sun shall receive her, by covering what island with waves?",
       "options": {
         "A": "Anaphe",
         "B": "Ceos",
@@ -374,11 +437,13 @@
         "D": "Ortygia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 32,
-      "question": "Who was born because Heracles prayed to Zeus that his friend Telamon be given a brave son? Zeus",
+      "question": "Who was born because Heracles prayed to Zeus that his friend Telamon be given a brave son? Zeus sent his assent in the form of an eagle.",
       "options": {
         "A": "Ancaeus",
         "B": "Ajax",
@@ -386,22 +451,27 @@
         "D": "Aegialeus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 33,
-      "question": "What two boys were sons of Tyro by Poseidon, reared by horse-­‐herders, and became kings of Pylus",
+      "question": "What two boys were sons of Tyro by Poseidon, reared by horse-­‐herders, and became kings of Pylus and Iolcus?",
       "options": {
-        "A": "c. Zeetes and Calais",
+        "A": "Bias and Melampus",
         "B": "Neleus and Pelias",
+        "C": "Zeetes and Calais",
         "D": "Passalus and Acmon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 34,
-      "question": "What obscure Roman god's altar was discovered underground by Romulus? This god had a",
+      "question": "What obscure Roman god's altar was discovered underground by Romulus? This god had a connection with horses and was often worshiped together with Ops.",
       "options": {
         "A": "Veiovis",
         "B": "Picus",
@@ -409,6 +479,8 @@
         "D": "Virbius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -421,11 +493,13 @@
         "D": "Procris"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 36,
-      "question": "What river of the underworld, whose water was collected by Iris for sacred oaths, was the eldest",
+      "question": "What river of the underworld, whose water was collected by Iris for sacred oaths, was the eldest daughter of Oceanus and Tethys and the mother of Zelus, Nike, Cratus, and Bia?",
       "options": {
         "A": "Phlegethon",
         "B": "Styx",
@@ -433,11 +507,13 @@
         "D": "Acheron"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 37,
-      "question": "What King of the Edonians drove away Dionysis with an ox-­‐goad, was struck with madness in",
+      "question": "What King of the Edonians drove away Dionysis with an ox-­‐goad, was struck with madness in retaliation so that he hacked away his own feet believing them to be grape vines, and was bound by his own people to Mt. Pangaeus and trampled by horses in order to relieve the land's barrenness?",
       "options": {
         "A": "Hippocoon",
         "B": "Ampycus",
@@ -445,17 +521,22 @@
         "D": "Oeneus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
       "question": "What mystical animal which could fly and speak did Poseidon father on Theophane?",
       "options": {
-        "A": "c. Vixen of Teumessus",
+        "A": "Ram with golden fleece",
         "B": "Phaea the Crommyonian sow",
+        "C": "Vixen of Teumessus",
         "D": "Laelaps the hound"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -468,11 +549,13 @@
         "D": "Poseidon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 40,
-      "question": "What son of Poseidon was killed by Theseus at Cenchreae either by being torn apart when the hero",
+      "question": "What son of Poseidon was killed by Theseus at Cenchreae either by being torn apart when the hero tied him to two pine trees or when he was catapulted by a bent-­‐pine tree?",
       "options": {
         "A": "Sciron",
         "B": "Cercyon",
@@ -480,6 +563,8 @@
         "D": "Sinis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -492,11 +577,13 @@
         "D": "Bellona"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 42,
-      "question": "During hunting trip at what man's home in Parnassus—the same man who named Odysseus at",
+      "question": "During hunting trip at what man's home in Parnassus—the same man who named Odysseus at birth—did the king of Ithaca receive the wound on his thigh which later served to identify him?",
       "options": {
         "A": "Sisyphus",
         "B": "Autolycus",
@@ -504,11 +591,13 @@
         "D": "Cephalus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 43,
-      "question": "Although Ceres was the Roman goddess of the grain, which god presided over the act of sowing",
+      "question": "Although Ceres was the Roman goddess of the grain, which god presided over the act of sowing grain because it represented the beginning of the crop?",
       "options": {
         "A": "Bacchus",
         "B": "Janus",
@@ -516,11 +605,13 @@
         "D": "Mars"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 44,
-      "question": "What Titan ruled during a golden age in which men lived like gods and death was no more than a",
+      "question": "What Titan ruled during a golden age in which men lived like gods and death was no more than a sleep, then later became king of the Islands of the Blessed?",
       "options": {
         "A": "Cronus",
         "B": "Hyperion",
@@ -528,11 +619,13 @@
         "D": "Oceanus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 45,
-      "question": "Against what invaders from Crete, followers of Dionysus called the ‘Women of the Sea’ did Perseus",
+      "question": "Against what invaders from Crete, followers of Dionysus called the ‘Women of the Sea’ did Perseus fight and with whom he eventually reached a truce that allowed Dionysus to bury Ariadne in Argos?",
       "options": {
         "A": "Issedones",
         "B": "Mariandynians",
@@ -540,11 +633,13 @@
         "D": "Plotae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 46,
-      "question": "What Lesbian girl, daughter of Epopeus, after being raped by her father and hiding in the woods",
+      "question": "What Lesbian girl, daughter of Epopeus, after being raped by her father and hiding in the woods because of her shame, did Athena pity and change into an owl?",
       "options": {
         "A": "Asteria",
         "B": "Hilaeira",
@@ -552,11 +647,13 @@
         "D": "Nyctimene"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 47,
-      "question": "According to Vergil’s Aeneid, which of the following was NOT one of the heroes hidden in the Trojan",
+      "question": "According to Vergil’s Aeneid, which of the following was NOT one of the heroes hidden in the Trojan horse?",
       "options": {
         "A": "Ulysses",
         "B": "Diomedes",
@@ -564,11 +661,13 @@
         "D": "Pyrrhus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 48,
-      "question": "What woman, born because Aphrodite caused a goddess, Derceto, with a woman’s face and the",
+      "question": "What woman, born because Aphrodite caused a goddess, Derceto, with a woman’s face and the body of a fish to fall in love with a mortal, was rescued by doves, raised by shepherds, married the king’s advisor Onnes, then married King Ninus after Onnes killed himself, and became queen in her own right after Ninus died?",
       "options": {
         "A": "Semiramis",
         "B": "Rhoeo",
@@ -576,11 +675,13 @@
         "D": "Omphale"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 49,
-      "question": "What mortal was taught the lyre by Linus, supposedly taught Homer to sing, and foolishly",
+      "question": "What mortal was taught the lyre by Linus, supposedly taught Homer to sing, and foolishly challenged the Muses to a musical contest which he lost, and as a result, was struck blind and stripped of his musical talent?",
       "options": {
         "A": "Orpheus",
         "B": "Amphion",
@@ -588,11 +689,13 @@
         "D": "Demodocus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 50,
-      "question": "What nobleman exacted revenge on king Demiphon for the unjust death of his own daughters by",
+      "question": "What nobleman exacted revenge on king Demiphon for the unjust death of his own daughters by mixing the king’s daughters’ blood in a bowl with wine and serving it to the king, who when he realized what he had drunk, flung the bowl and the nobleman into the sea?",
       "options": {
         "A": "Mastusius",
         "B": "Icmalius",
@@ -600,6 +703,8 @@
         "D": "Lycoreus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     }
   ]

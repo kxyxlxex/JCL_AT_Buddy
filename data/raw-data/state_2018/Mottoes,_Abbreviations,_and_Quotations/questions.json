@@ -3,7 +3,8 @@
     "name": "Mottoes,_Abbreviations,_and_Quotations",
     "year": "state_2018",
     "subject": "Mottoes,_Abbreviations,_and_Quotations",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "it is not allowed"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,6 +31,8 @@
         "D": "a lapse of memory"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -40,6 +45,8 @@
         "D": "miscarriage of justice"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -52,6 +59,8 @@
         "D": "promptly"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -64,6 +73,8 @@
         "D": "vice versa"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -76,6 +87,8 @@
         "D": "per diem"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -88,6 +101,8 @@
         "D": "spiritus mundi"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -100,6 +115,8 @@
         "D": "Artes perdiste"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -112,6 +129,8 @@
         "D": "Qui nescit dissimulare nescit vivere"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -124,6 +143,8 @@
         "D": "merite"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -136,11 +157,13 @@
         "D": "quid nunc"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 12,
-      "question": "Which of the following phrases refers to taxation based upon an object’s worth?",
+      "question": "Which of the following phrases refers to taxation based upon an object’s worth? PMAQ - States 2018 - MOTTOES",
       "options": {
         "A": "a principio",
         "B": "ad hominem",
@@ -148,6 +171,8 @@
         "D": "ad valorem"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -160,6 +185,8 @@
         "D": "Massachusetts"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -172,6 +199,8 @@
         "D": "Chicago"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -184,6 +213,8 @@
         "D": "Geneva"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -196,6 +227,8 @@
         "D": "Idaho"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -208,6 +241,8 @@
         "D": "North Dakota"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -220,6 +255,8 @@
         "D": "New Mexico"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -232,6 +269,8 @@
         "D": "Newfoundland"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -244,6 +283,8 @@
         "D": "Jesuits"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -256,6 +297,8 @@
         "D": "Cambridge University"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -268,6 +311,8 @@
         "D": "Studiis et rebus honestis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -280,11 +325,13 @@
         "D": "Non sibi sed suis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 24,
-      "question": "Belize",
+      "question": "Belize ABBREVIATIONS",
       "options": {
         "A": "Pro mundi beneficio",
         "B": "Semper progrediens",
@@ -292,6 +339,8 @@
         "D": "Sub umbra floreo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -304,11 +353,13 @@
         "D": "year"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 26,
-      "question": "N.B.",
+      "question": "N.B. PMAQ - States 2018 -",
       "options": {
         "A": "note well",
         "B": "compare",
@@ -316,6 +367,8 @@
         "D": "the work cited"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -328,6 +381,8 @@
         "D": "only once"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -340,6 +395,8 @@
         "D": "sovereign ruler"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -352,6 +409,8 @@
         "D": "swallow"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -364,6 +423,8 @@
         "D": "p.n."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -376,6 +437,8 @@
         "D": "Welcome"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -388,6 +451,8 @@
         "D": "V.C."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -400,6 +465,8 @@
         "D": "in the left eye"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -412,6 +479,8 @@
         "D": "stat."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -424,6 +493,8 @@
         "D": "ol."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -436,6 +507,8 @@
         "D": "bronze"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -448,6 +521,8 @@
         "D": "female"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -460,11 +535,13 @@
         "D": "u.d."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 39,
-      "question": "Which does NOT belong with the others?",
+      "question": "Which does NOT belong with the others? QUOTATIONS",
       "options": {
         "A": "exc.",
         "B": "disp.",
@@ -472,6 +549,8 @@
         "D": "pinx."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -484,11 +563,13 @@
         "D": "Horace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 41,
-      "question": "Dux femina facti",
+      "question": "Dux femina facti PMAQ - States 2018 -",
       "options": {
         "A": "Vergil",
         "B": "Silius Italicus",
@@ -496,6 +577,8 @@
         "D": "Jerome"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -508,6 +591,8 @@
         "D": "Vergil"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -520,6 +605,8 @@
         "D": "Catullus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -532,6 +619,8 @@
         "D": "Catullus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -544,6 +633,8 @@
         "D": "Horace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -556,6 +647,8 @@
         "D": "Horace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -568,6 +661,8 @@
         "D": "Juvenal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -580,6 +675,8 @@
         "D": "Horace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -592,6 +689,8 @@
         "D": "Catullus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -604,6 +703,8 @@
         "D": "Seneca"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     }
   ]

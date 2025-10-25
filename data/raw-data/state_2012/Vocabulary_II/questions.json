@@ -3,7 +3,8 @@
     "name": "Vocabulary_II",
     "year": "state_2012",
     "subject": "Vocabulary_II",
-    "total_questions": 45
+    "total_questions": 45,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "go into"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -28,6 +31,8 @@
         "D": "destroy"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -40,6 +45,8 @@
         "D": "city"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -52,6 +59,8 @@
         "D": "want"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -64,6 +73,8 @@
         "D": "leave"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -76,6 +87,8 @@
         "D": "foolish"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -88,6 +101,8 @@
         "D": "troublesome"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -100,6 +115,8 @@
         "D": "close"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -112,6 +129,8 @@
         "D": "climb up"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -124,6 +143,8 @@
         "D": "sanction"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -136,6 +157,8 @@
         "D": "ram"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -148,6 +171,8 @@
         "D": "very much"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -160,11 +185,13 @@
         "D": "afterthought"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 14,
-      "question": "ius iurandum",
+      "question": "ius iurandum Part II. Choose the Latin word or phrase which best translates the given English words(s).",
       "options": {
         "A": "court",
         "B": "slaughter",
@@ -172,6 +199,8 @@
         "D": "oath"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -184,6 +213,8 @@
         "D": "quotiens"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -196,6 +227,8 @@
         "D": "praeficio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -208,6 +241,8 @@
         "D": "plurimus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -220,6 +255,8 @@
         "D": "ulterior"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -232,6 +269,8 @@
         "D": "nemo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -244,6 +283,8 @@
         "D": "accedo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -256,6 +297,8 @@
         "D": "autem"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -268,6 +311,8 @@
         "D": "vix"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -280,6 +325,8 @@
         "D": "scio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -292,6 +339,8 @@
         "D": "mereo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -304,6 +353,8 @@
         "D": "prenso"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -316,6 +367,8 @@
         "D": "lacesso"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -328,6 +381,8 @@
         "D": "gena"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -340,11 +395,13 @@
         "D": "spina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 29,
-      "question": "secretly",
+      "question": "secretly Part III. Choose the SYNONYM of the given Latin word.",
       "options": {
         "A": "acre",
         "B": "bis",
@@ -352,6 +409,8 @@
         "D": "dire"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -364,6 +423,8 @@
         "D": "sequor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -376,6 +437,8 @@
         "D": "iterum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -388,6 +451,8 @@
         "D": "patior"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -400,6 +465,8 @@
         "D": "celo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -412,11 +479,13 @@
         "D": "laboro"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 35,
-      "question": "orior",
+      "question": "orior Part IV. Choose the ANTONYM of the given Latin word.",
       "options": {
         "A": "sentio",
         "B": "simulo",
@@ -424,6 +493,8 @@
         "D": "surgo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -436,6 +507,8 @@
         "D": "credelitas"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -448,6 +521,8 @@
         "D": "aestus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -460,6 +535,8 @@
         "D": "laudo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -472,11 +549,13 @@
         "D": "morior"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 40,
-      "question": "rideo",
+      "question": "rideo Part V. Choose the word which does NOT belong by meaning.",
       "options": {
         "A": "iocor",
         "B": "fleo",
@@ -484,61 +563,78 @@
         "D": "prodo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 46,
       "question": "gubernatur : navis ::",
       "options": {
-        "A": "c. hora : dies",
+        "A": "vir : mulier",
         "B": "mus : feles",
+        "C": "hora : dies",
         "D": "agricola : carrus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 47,
       "question": "frumentum : panis ::",
       "options": {
-        "A": "c. malum : arbor",
+        "A": "vacca : bos",
         "B": "caro : holus",
+        "C": "malum : arbor",
         "D": "verba : fabula"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 48,
       "question": "dux : legio ::",
       "options": {
-        "A": "c. familia: pater familias",
+        "A": "civis : imperator",
         "B": "agricola : pugio",
+        "C": "familia: pater familias",
         "D": "consul : respublica"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 49,
       "question": "gramen : equus ::",
       "options": {
-        "A": "c. lac : infans",
+        "A": "piscis : aqua",
         "B": "apis : mel",
+        "C": "lac : infans",
         "D": "ovum : avis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 50,
       "question": "os : bibo ::",
       "options": {
-        "A": "c. spiro : pectus",
+        "A": "puto : caput",
         "B": "barba : collum",
+        "C": "spiro : pectus",
         "D": "pes : salto"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

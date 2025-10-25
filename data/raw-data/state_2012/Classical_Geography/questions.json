@@ -3,7 +3,8 @@
     "name": "Classical_Geography",
     "year": "state_2012",
     "subject": "Classical_Geography",
-    "total_questions": 50
+    "total_questions": 45,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Olynthus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Veii"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -40,6 +45,8 @@
         "D": "Salamis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -52,11 +59,13 @@
         "D": "Neapolis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 5,
-      "question": "Ephesus, where the famous temple of Artemis was located, is situated on which river?",
+      "question": "Ephesus, where the famous temple of Artemis was located, is situated on which river? N.B. Questions 6-­‐10 pertain to ancient places and their modern equivalents",
       "options": {
         "A": "Cayster",
         "B": "Meander",
@@ -64,6 +73,8 @@
         "D": "Granicus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -76,17 +87,22 @@
         "D": "Denmark"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 7,
       "question": "Which city is correctly paired with its earlier Greek name?",
       "options": {
-        "A": "c. Istanbul/Byzantium",
+        "A": "Carthago Nova/Massilia",
         "B": "Brundisium/Neptunia",
+        "C": "Istanbul/Byzantium",
         "D": "Narbo/Neopolis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -99,6 +115,8 @@
         "D": "Salonae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -111,11 +129,13 @@
         "D": "Hierosolymna"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 10,
-      "question": "Avaricum, which was besieged by Julius Caesar, is the present-­‐day",
+      "question": "Avaricum, which was besieged by Julius Caesar, is the present-­‐day N.B. Questions 11-­‐15 pertain to directional geography",
       "options": {
         "A": "Andtwerp",
         "B": "Blois",
@@ -123,6 +143,8 @@
         "D": "Bourges"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -135,6 +157,8 @@
         "D": "Adriatic Sea, Aegean Sea, Tyrrhenian Sea, Ionian Sea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -147,6 +171,8 @@
         "D": "Lilybaeum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -159,11 +185,13 @@
         "D": "west"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 14,
-      "question": "In which direction would you travel from Athens to visit the Mausoleum of Halicarnassus, one of the",
+      "question": "In which direction would you travel from Athens to visit the Mausoleum of Halicarnassus, one of the seven wonders of the ancient world?",
       "options": {
         "A": "northeast",
         "B": "southeast",
@@ -171,11 +199,13 @@
         "D": "northwest"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 15,
-      "question": "Which sequence is correct from south to north in Italy?",
+      "question": "Which sequence is correct from south to north in Italy? N.B. Questions 16-­‐20 pertain to provinces of the Roman Empire",
       "options": {
         "A": "Rhegium, Roma, Paestum, Arretium",
         "B": "Arretium, Roma, Paestum, Rhegium",
@@ -183,6 +213,8 @@
         "D": "Rhegium, Paestum, Roma, Arretium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -195,6 +227,8 @@
         "D": "Germania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -207,6 +241,8 @@
         "D": "Armenia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -219,6 +255,8 @@
         "D": "Pamphylia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -231,11 +269,13 @@
         "D": "Boeotia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 20,
-      "question": "Caesar was appointed governer of Illyricum in 58 BC. What modern country is in this region?",
+      "question": "Caesar was appointed governer of Illyricum in 58 BC. What modern country is in this region? N.B. Questions 21-­‐30 map of Ancient Greece (Map 1)",
       "options": {
         "A": "Slovenia",
         "B": "Poland",
@@ -243,17 +283,8 @@
         "D": "Switzerland"
       },
       "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 21,
-      "question": "Lemnos",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3 d."
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -266,6 +297,8 @@
         "D": "Crete"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -278,6 +311,8 @@
         "D": "Arcadia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -290,17 +325,8 @@
         "D": "Karystos"
       },
       "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
-      "question_number": 25,
-      "question": "Elis",
-      "options": {
-        "A": "9",
-        "B": "11",
-        "C": "17 d."
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -313,6 +339,8 @@
         "D": "Boeotia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -325,17 +353,8 @@
         "D": "Thebes"
       },
       "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
-      "question_number": 28,
-      "question": "Thermopylai",
-      "options": {
-        "A": "8",
-        "B": "9",
-        "C": "13 d."
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -348,18 +367,9 @@
         "D": "Mt. Pelion"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
-    },
-    {
-      "question_number": 30,
-      "question": "Troy",
-      "options": {
-        "A": "3",
-        "B": "5",
-        "C": "13 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
     },
     {
       "question_number": 31,
@@ -371,6 +381,8 @@
         "D": "Circus Maximus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -383,6 +395,8 @@
         "D": "Esquiline"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -395,83 +409,106 @@
         "D": "Viminal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 34,
       "question": "The two bridges connecting the island near number 7 are",
       "options": {
-        "A": "c. Sublician and Aurelian",
+        "A": "Cestian and Fabrician",
         "B": "Fabrician and Sublician",
+        "C": "Sublician and Aurelian",
         "D": "Aurelian and Aemilian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 35,
       "question": "Number",
       "options": {
-        "A": "c. Porta Lavernalis",
+        "A": "Mons Testaceus",
         "B": "Porticus Aemilia",
+        "C": "Porta Lavernalis",
         "D": "Horrea Galbana"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 36,
       "question": "Number",
       "options": {
-        "A": "c. Baths of Nero",
+        "A": "Circus of Gaius and Nero",
         "B": "Theater of Pompey",
+        "C": "Baths of Nero",
         "D": "Mausoleum of Hadrian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 37,
       "question": "Number 22 (insert in lower left corner)",
       "options": {
-        "A": "c. Forum of Augustus",
+        "A": "Forum of Julius Caesar",
         "B": "Forum of Trajan",
+        "C": "Forum of Augustus",
         "D": "Forum of Nerva"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 38,
       "question": "Number",
       "options": {
-        "A": "c. Baths of Caracalla",
+        "A": "Baths of Trajan",
         "B": "Baths of Diocletian",
+        "C": "Baths of Caracalla",
         "D": "Baths of Helen"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 39,
       "question": "Structure by letter F",
       "options": {
-        "A": "c. Castra Praetoria",
+        "A": "Circus Maximus",
         "B": "Mausoleum of Augustus",
+        "C": "Castra Praetoria",
         "D": "Theater of Marcellus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 40,
-      "question": "Number",
+      "question": "Number N.B. Questions 41-­‐50 map of Ancient Italy (Map 3)",
       "options": {
-        "A": "c. Temple of Juno Moneta",
+        "A": "Arch of Constantine",
         "B": "Mausoleum of Augustus",
+        "C": "Temple of Juno Moneta",
         "D": "Temple of Vesta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -484,6 +521,8 @@
         "D": "Sicily"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -496,6 +535,8 @@
         "D": "Arnus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -508,6 +549,8 @@
         "D": "Mt. Ecnomus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -520,6 +563,8 @@
         "D": "Picenum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -532,6 +577,8 @@
         "D": "Pyrenes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -544,6 +591,8 @@
         "D": "Cannae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -556,18 +605,9 @@
         "D": "Pyrenes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
-    },
-    {
-      "question_number": 48,
-      "question": "Pisa",
-      "options": {
-        "A": "7",
-        "B": "8",
-        "C": "9 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
     },
     {
       "question_number": 49,
@@ -579,17 +619,21 @@
         "D": "Arnus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 50,
-      "question": "Rome",
+      "question": "Rome Map 1 (for questions 21-­‐30) Map 2 (for questions 31-­‐40) Map 3 (for questions 41-­‐50)",
       "options": {
         "A": "7",
         "B": "8",
         "C": "9 d."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     }
   ]

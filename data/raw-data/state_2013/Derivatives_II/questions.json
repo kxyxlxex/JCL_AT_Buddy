@@ -3,7 +3,8 @@
     "name": "Derivatives_II",
     "year": "state_2013",
     "subject": "Derivatives_II",
-    "total_questions": 45
+    "total_questions": 43,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "dismantle"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,6 +31,8 @@
         "D": "foreign"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -40,6 +45,8 @@
         "D": "burdensome"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -52,6 +59,8 @@
         "D": "surprising"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -64,6 +73,8 @@
         "D": "swollen"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -76,6 +87,8 @@
         "D": "all-powerful"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -88,6 +101,8 @@
         "D": "upright"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -100,6 +115,8 @@
         "D": "clarified"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -112,11 +129,13 @@
         "D": "volatile"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 10,
-      "question": "The earthquake created undulations on the earth's surface that made the buildings very unsteady.",
+      "question": "The earthquake created undulations on the earth's surface that made the buildings very unsteady. Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "options": {
         "A": "explosions",
         "B": "burning",
@@ -124,6 +143,8 @@
         "D": "fluctuations"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -136,6 +157,8 @@
         "D": "juvenile"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -148,6 +171,8 @@
         "D": "cardinal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -160,6 +185,8 @@
         "D": "geriatric"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -172,6 +199,8 @@
         "D": "legend"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -184,6 +213,8 @@
         "D": "vernal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -196,6 +227,8 @@
         "D": "magnificent"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -208,6 +241,8 @@
         "D": "tremble"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -220,6 +255,8 @@
         "D": "parliament"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -232,29 +269,9 @@
         "D": "nocturnal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
-    },
-    {
-      "question_number": 20,
-      "question": "cado",
-      "options": {
-        "A": "casualty b.caesura",
-        "C": "cadet",
-        "D": "accede"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 21,
-      "question": "homicide",
-      "options": {
-        "A": "caedo",
-        "B": "cinis c.cado",
-        "D": "cibus"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
     },
     {
       "question_number": 22,
@@ -266,6 +283,8 @@
         "D": "peto"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -278,6 +297,8 @@
         "D": "soleo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -290,6 +311,8 @@
         "D": "catena"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -302,6 +325,8 @@
         "D": "caelum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -314,6 +339,8 @@
         "D": "somnus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -326,6 +353,8 @@
         "D": "tremo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -338,6 +367,8 @@
         "D": "planus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -350,11 +381,13 @@
         "D": "gaudeo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 30,
-      "question": "unconscious",
+      "question": "unconscious Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "options": {
         "A": "censeo",
         "B": "nosco",
@@ -362,6 +395,8 @@
         "D": "scelus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -374,6 +409,8 @@
         "D": "to lead"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -386,6 +423,8 @@
         "D": "speak"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -398,6 +437,8 @@
         "D": "twist"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -410,6 +451,8 @@
         "D": "turn"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -422,6 +465,8 @@
         "D": "follow"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -434,6 +479,8 @@
         "D": "take"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -446,6 +493,8 @@
         "D": "scatter"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -458,6 +507,8 @@
         "D": "hold"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -470,11 +521,13 @@
         "D": "safe"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 40,
-      "question": "adieu",
+      "question": "adieu Part V. For each of the following questions, select the word that does NOT have the same derivation as the others.",
       "options": {
         "A": "arrive",
         "B": "hear",
@@ -482,6 +535,8 @@
         "D": "god"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -494,6 +549,8 @@
         "D": "affix"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -506,6 +563,8 @@
         "D": "deluge"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -518,6 +577,8 @@
         "D": "charcoal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -530,6 +591,8 @@
         "D": "noble"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -542,6 +605,8 @@
         "D": "amenity"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

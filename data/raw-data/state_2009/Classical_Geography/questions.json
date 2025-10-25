@@ -3,7 +3,8 @@
     "name": "Classical_Geography",
     "year": "state_2009",
     "subject": "Classical_Geography",
-    "total_questions": 50
+    "total_questions": 49,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Cyrene"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Sardis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -40,6 +45,8 @@
         "D": "Germany"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -52,11 +59,13 @@
         "D": "Pistoria"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 5,
-      "question": "Hannibal attacked the city of ______________ in Spain, an act which led to war with Rome.",
+      "question": "Hannibal attacked the city of ______________ in Spain, an act which led to war with Rome. N.B. Questions 6-10 pertain to ancient places and their modern equivalents",
       "options": {
         "A": "Saguntum",
         "B": "Cremona",
@@ -64,6 +73,8 @@
         "D": "Cyzicus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -76,6 +87,8 @@
         "D": "Berlin"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -88,6 +101,8 @@
         "D": "Luxembourg"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -100,6 +115,8 @@
         "D": "Aelia Capitolina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -112,11 +129,13 @@
         "D": "England"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 10,
-      "question": "Gallia: France:: Lusitania::",
+      "question": "Gallia: France:: Lusitania:: N.B. Questions 11-15 refer to directional geography",
       "options": {
         "A": "Portugal",
         "B": "Morocco",
@@ -124,6 +143,8 @@
         "D": "Romania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -136,6 +157,8 @@
         "D": "Tiryns"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -148,6 +171,8 @@
         "D": "Tarraconensis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -160,6 +185,8 @@
         "D": "southwest"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -172,11 +199,13 @@
         "D": "east"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 15,
-      "question": "Which of these ancient Greek islands was farthest north?",
+      "question": "Which of these ancient Greek islands was farthest north? N.B. Questions 16-20 pertain to the provinces of the Roman Empire",
       "options": {
         "A": "Lemnos",
         "B": "Delos",
@@ -184,6 +213,8 @@
         "D": "Melos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -196,6 +227,8 @@
         "D": "Narbonensis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -208,6 +241,8 @@
         "D": "Pontus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -220,6 +255,8 @@
         "D": "Achaea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -232,11 +269,13 @@
         "D": "five"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 20,
-      "question": "Which province did NOT border the Pontus Euxinus?",
+      "question": "Which province did NOT border the Pontus Euxinus? N.B. For questions 21-30 please refer to the map of Italy located at the end of the test. Match the number on the map to the correct answer.",
       "options": {
         "A": "Thracia",
         "B": "Moesia",
@@ -244,6 +283,8 @@
         "D": "Galatia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -256,6 +297,8 @@
         "D": "Arpinum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -268,6 +311,8 @@
         "D": "Sulmo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -280,6 +325,8 @@
         "D": "Henna"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -292,6 +339,8 @@
         "D": "Brundisium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -304,6 +353,8 @@
         "D": "Ancona"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -316,6 +367,8 @@
         "D": "Fanum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -328,6 +381,8 @@
         "D": "Cures"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -340,6 +395,8 @@
         "D": "Aleria"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -352,11 +409,13 @@
         "D": "Gela"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 30,
-      "question": "Number",
+      "question": "Number N.B. For questions 31-40 please refer to the map of Greece at the end of the test. Match the number on the map to the correct answer.",
       "options": {
         "A": "Comum",
         "B": "Mediolanum",
@@ -364,6 +423,8 @@
         "D": "Tibur"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -376,6 +437,8 @@
         "D": "Olympia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -388,6 +451,8 @@
         "D": "Elis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -400,6 +465,8 @@
         "D": "Delos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -412,6 +479,8 @@
         "D": "Cyme"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -424,6 +493,8 @@
         "D": "Iolcos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -436,6 +507,8 @@
         "D": "Gomphoi"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -448,6 +521,8 @@
         "D": "Oreus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -460,6 +535,8 @@
         "D": "Cnidos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -472,11 +549,13 @@
         "D": "Argos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 40,
-      "question": "Number",
+      "question": "Number N.B. For questions 41-50 please refer to the attached map of Rome. Match the number on the map to the correct answer.",
       "options": {
         "A": "Philipi",
         "B": "Maronea",
@@ -484,6 +563,8 @@
         "D": "Torone"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -496,6 +577,8 @@
         "D": "Circus of Nero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -508,6 +591,8 @@
         "D": "Caracalla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -520,6 +605,8 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -532,6 +619,8 @@
         "D": "Palatine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -544,6 +633,8 @@
         "D": "Forum Nervae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -556,6 +647,8 @@
         "D": "Subura"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -568,6 +661,8 @@
         "D": "Forum Pacis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -580,22 +675,13 @@
         "D": "Baths of Titus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
-      "question_number": 49,
-      "question": "Which number on the map represents the Temple of Venus et Roma?",
-      "options": {
-        "A": "16",
-        "B": "12",
-        "C": "10 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
       "question_number": 50,
-      "question": "The structure labelled “14” was dedicated to",
+      "question": "The structure labelled “14” was dedicated to Map 1 – Ancient Italy and Sicily. Please use this map to complete questions 21-30. Map 2 – Ancient Greece and the Aegean. Please use this map to complete questions 31-40. Map 3 – City of Rome. Please use this map to complete questions 41-",
       "options": {
         "A": "Marcellus",
         "B": "Balbus",
@@ -603,6 +689,8 @@
         "D": "Augustus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     }
   ]

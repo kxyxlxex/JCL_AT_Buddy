@@ -3,7 +3,8 @@
     "name": "Mythology",
     "year": "state_2015",
     "subject": "Mythology",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Mt. Helicon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Nyx"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -40,11 +45,13 @@
         "D": "Daffodil"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 4,
-      "question": "After Jupiter flooded humanity, what early goddess of prophecy told Deucalion & Pyrrha",
+      "question": "After Jupiter flooded humanity, what early goddess of prophecy told Deucalion & Pyrrha to “throw the bones” of their mother?",
       "options": {
         "A": "Metis",
         "B": "Theia",
@@ -52,17 +59,22 @@
         "D": "Themis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 5,
       "question": "Which Titanic couple are the parents of three of the four winds?",
       "options": {
-        "A": "c. Crius & Eurybia",
+        "A": "Hyperion & Theia",
         "B": "Thaumas & Electra",
+        "C": "Crius & Eurybia",
         "D": "Eos & Astraios"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -75,11 +87,13 @@
         "D": "Mopsus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 7,
-      "question": "Speaking of tattling, who tattled to Pluto about Persephone eating the pomegranate",
+      "question": "Speaking of tattling, who tattled to Pluto about Persephone eating the pomegranate seeds and was turned into an owl as punishment?",
       "options": {
         "A": "Alpheus",
         "B": "Arethusa",
@@ -87,6 +101,8 @@
         "D": "Ascalaphus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -99,11 +115,13 @@
         "D": "Electra"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 9,
-      "question": "For Achilles having murded Diomedes’ cousin, Thersites, Diomedes dragged which",
+      "question": "For Achilles having murded Diomedes’ cousin, Thersites, Diomedes dragged which beautiful Amazonian queen behind his chariot?",
       "options": {
         "A": "Polyxena",
         "B": "Pyrrha",
@@ -111,11 +129,13 @@
         "D": "Polydora"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 10,
-      "question": "Life After The Iliad, Part One: Diomedes was exiled from Argos. He eventually ends up",
+      "question": "Life After The Iliad, Part One: Diomedes was exiled from Argos. He eventually ends up in Italy, marries a princess, and is deified after his death. What place was that?",
       "options": {
         "A": "Apulia",
         "B": "Praeneste",
@@ -123,6 +143,8 @@
         "D": "Tarentum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -135,11 +157,13 @@
         "D": "Euryale"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 12,
-      "question": "Against whom did Odysseus hold a grudge for endangering baby Telemachus and",
+      "question": "Against whom did Odysseus hold a grudge for endangering baby Telemachus and causing Odysseus to reveal he was, in fact, sane—dragging him into the Trojan War?",
       "options": {
         "A": "Daunus",
         "B": "Palamades",
@@ -147,11 +171,13 @@
         "D": "Orestes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 13,
-      "question": "Which son of Oedipus was supposed to share the throne of Thebes, but instead forced",
+      "question": "Which son of Oedipus was supposed to share the throne of Thebes, but instead forced his brother, Polynices, into exile?",
       "options": {
         "A": "Tydeus",
         "B": "Adrastus",
@@ -159,6 +185,8 @@
         "D": "Eteocles"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -171,11 +199,13 @@
         "D": "Pygmalion"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 15,
-      "question": "C.S.I.: Aegina—Peleus and his brother, Telemon, were forced to flee Aegina for",
+      "question": "C.S.I.: Aegina—Peleus and his brother, Telemon, were forced to flee Aegina for murdering their brother. Who was that unfortunate sibling?",
       "options": {
         "A": "Phocus",
         "B": "Haemon",
@@ -183,6 +213,8 @@
         "D": "Eurytion"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -195,6 +227,8 @@
         "D": "Tethys"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -207,6 +241,8 @@
         "D": "Medea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -219,11 +255,13 @@
         "D": "Sinis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 19,
-      "question": "This vain musician dared the Muses to a contest (hoping to seduce one of them); he",
+      "question": "This vain musician dared the Muses to a contest (hoping to seduce one of them); he was defeated, blinded, made unable to play lyre, and later tortured in the Underworld?",
       "options": {
         "A": "Leander",
         "B": "Melas",
@@ -231,11 +269,13 @@
         "D": "Thamyris"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 20,
-      "question": "What river god—and former enemy of Hercules—did Theseus meet up with on his return",
+      "question": "What river god—and former enemy of Hercules—did Theseus meet up with on his return from the Calydonian Boar Hunt?",
       "options": {
         "A": "Achelous",
         "B": "Scamander",
@@ -243,6 +283,8 @@
         "D": "Tiberinus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -255,6 +297,8 @@
         "D": "Pontus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -267,11 +311,13 @@
         "D": "Daphne"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 23,
-      "question": "Perseus rescued and married Andromeda, the princess of Aethiopia. Who was her father",
+      "question": "Perseus rescued and married Andromeda, the princess of Aethiopia. Who was her father who betrothed Andromeda to her rescuer?",
       "options": {
         "A": "Phineus",
         "B": "Cepheus",
@@ -279,6 +325,8 @@
         "D": "Leukippe"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -291,11 +339,13 @@
         "D": "Iolaus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 25,
-      "question": "It was at a wedding feast for Theseus’ friend that a fight between centaurs and Lapiths",
+      "question": "It was at a wedding feast for Theseus’ friend that a fight between centaurs and Lapiths became the Centauromachy. Who was that bridegroom-friend of Theseus?",
       "options": {
         "A": "Geras",
         "B": "Moros",
@@ -303,11 +353,13 @@
         "D": "Cilix"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 26,
-      "question": "Life After The Iliad, Pt. Two: Teucer became a servant of which Phoenician king—father",
+      "question": "Life After The Iliad, Pt. Two: Teucer became a servant of which Phoenician king—father of The Aeneid’s Dido—from whom he received dominion over the island of Cyprus?",
       "options": {
         "A": "Phoroneus",
         "B": "Belus",
@@ -315,11 +367,13 @@
         "D": "Palamades"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 27,
-      "question": "Which goddess is credited with turning a hunter into a stag, killing Niobe’s children,",
+      "question": "Which goddess is credited with turning a hunter into a stag, killing Niobe’s children, unleashing the Calydonian Boar, and helping her mother give birth to her brother?",
       "options": {
         "A": "Diana",
         "B": "Venus",
@@ -327,6 +381,8 @@
         "D": "Vesta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -339,6 +395,8 @@
         "D": "Mantineus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -351,11 +409,13 @@
         "D": "Iole"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 30,
-      "question": "Ignoring the natural order, who fell in love with her own brother, Caunus, forcing him",
+      "question": "Ignoring the natural order, who fell in love with her own brother, Caunus, forcing him into self-exile when her handmaiden delivered a love note to him?",
       "options": {
         "A": "Byblis",
         "B": "Tiphys",
@@ -363,11 +423,13 @@
         "D": "Oenone"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 31,
-      "question": "For having chopped down a tree sacred to Ceres, Famine caused whom to eventually",
+      "question": "For having chopped down a tree sacred to Ceres, Famine caused whom to eventually consume nearly everything in his kingdom—even himself?",
       "options": {
         "A": "Sabazius",
         "B": "Iobates",
@@ -375,6 +437,8 @@
         "D": "Limos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -387,11 +451,13 @@
         "D": "Lemnos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 33,
-      "question": "Known for being a master thief, what son of Mercury is also the one credited with",
+      "question": "Known for being a master thief, what son of Mercury is also the one credited with teaching a young Hercules how to wrestle?",
       "options": {
         "A": "Autolycus",
         "B": "Eurytus",
@@ -399,11 +465,13 @@
         "D": "Iphitus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 34,
-      "question": "Which god(dess) spread salve and made other efforts to preserve Hector’s body every",
+      "question": "Which god(dess) spread salve and made other efforts to preserve Hector’s body every day that Achilles abused it?",
       "options": {
         "A": "Iris",
         "B": "Hermes",
@@ -411,11 +479,13 @@
         "D": "Athena"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 35,
-      "question": "Who was the princess of Megara who betrayed her father, Nisus, by cutting of his purple",
+      "question": "Who was the princess of Megara who betrayed her father, Nisus, by cutting of his purple lock of hair (that granted him invincibility) and presenting it to Minos?",
       "options": {
         "A": "Iole",
         "B": "Scylla",
@@ -423,11 +493,13 @@
         "D": "Anticleia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 36,
-      "question": "Life After The Iliad, Pt. Three: Clytemnestra, along with her lover, murdered",
+      "question": "Life After The Iliad, Pt. Three: Clytemnestra, along with her lover, murdered Agamemnon soon after his return to Mycenae. Who was her lover and accomplice?",
       "options": {
         "A": "Andromache",
         "B": "Antinous",
@@ -435,11 +507,13 @@
         "D": "Aegisthus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 37,
-      "question": "C.S.I: Iolcus—At it again, Peleus is drawn into a love triangle between Iolcus’ king,",
+      "question": "C.S.I: Iolcus—At it again, Peleus is drawn into a love triangle between Iolcus’ king, Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus?",
       "options": {
         "A": "Anone",
         "B": "Ino",
@@ -447,22 +521,27 @@
         "D": "Iasion"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "3,200-YEAR-OLD SPOILER! At the close of The Iliad, Priam finally convinced Achilles to",
+      "question": "3,200-YEAR-OLD SPOILER! At the close of The Iliad, Priam finally convinced Achilles to hand over Hector’s body. How does the book end?",
       "options": {
-        "A": "c. Achilles gets shot in the heal",
+        "A": "Achaeans conquer Troy",
         "B": "Priam & Achilles embrace and cry",
+        "C": "Achilles gets shot in the heal",
         "D": "Priam declares the war over"
       },
       "type": "multiple_choice",
-      "correct_answer": ""
+      "section": null,
+      "section_context": null,
+      "correct_answer": "?"
     },
     {
       "question_number": 39,
-      "question": "When Io wandered into Egypt, she returned to human form and gave birth to what",
+      "question": "When Io wandered into Egypt, she returned to human form and gave birth to what progenitor of Egyptian royalty?",
       "options": {
         "A": "Aegyptus",
         "B": "Memphis",
@@ -470,11 +549,13 @@
         "D": "Dardanus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 40,
-      "question": "What woman was spirited away by Jupiter in the form of a bull and lends her name to a",
+      "question": "What woman was spirited away by Jupiter in the form of a bull and lends her name to a continent?",
       "options": {
         "A": "Antarctica",
         "B": "Asia",
@@ -482,11 +563,13 @@
         "D": "Europa"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 41,
-      "question": "Life After The Iliad, Pt. Four: receiving her comeuppance when Troy fell, which daughter",
+      "question": "Life After The Iliad, Pt. Four: receiving her comeuppance when Troy fell, which daughter of Priam tricked Achilles into revealing his weakness to her?",
       "options": {
         "A": "Polyxena",
         "B": "Astyanax",
@@ -494,6 +577,8 @@
         "D": "Cleopatra"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -506,11 +591,13 @@
         "D": "Demophon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 43,
-      "question": "Who was the Libyan giant whom Hercules defeated by lifting him off the earth (from",
+      "question": "Who was the Libyan giant whom Hercules defeated by lifting him off the earth (from whom he received his strength)?",
       "options": {
         "A": "Athamas",
         "B": "Eurymedon",
@@ -518,11 +605,13 @@
         "D": "Antaeus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 44,
-      "question": "C.S.I.: Corinth—What hero and future rider of Pegasus murdered a kinsman and",
+      "question": "C.S.I.: Corinth—What hero and future rider of Pegasus murdered a kinsman and therefore set out to atone for his crime?",
       "options": {
         "A": "Ceyx",
         "B": "Meleager",
@@ -530,11 +619,13 @@
         "D": "Asterion"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 45,
-      "question": "In the Gigantomachy, who was the only giant to survive…because Gaia turned him into",
+      "question": "In the Gigantomachy, who was the only giant to survive…because Gaia turned him into a dung beetle?",
       "options": {
         "A": "Otis",
         "B": "Philoctetes",
@@ -542,6 +633,8 @@
         "D": "Mimas"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -554,11 +647,13 @@
         "D": "Ganymede"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 47,
-      "question": "Atreus murdered his brother’s sons and fed them to him. Who was this uncle of the",
+      "question": "Atreus murdered his brother’s sons and fed them to him. Who was this uncle of the Atreidai who sired a son by his own daughter to get his revenge upon his brother?",
       "options": {
         "A": "Evander",
         "B": "Pleisthenes",
@@ -566,11 +661,13 @@
         "D": "Thyestes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 48,
-      "question": "Which Greek goddess is known for presiding over strategic warfare, handicrafts, and",
+      "question": "Which Greek goddess is known for presiding over strategic warfare, handicrafts, and wisdom?",
       "options": {
         "A": "Persephone",
         "B": "Athena",
@@ -578,11 +675,13 @@
         "D": "Demeter"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 49,
-      "question": "Life After The Iliad, Part Five: This aged king of Pylos shows up (even more aged) in",
+      "question": "Life After The Iliad, Part Five: This aged king of Pylos shows up (even more aged) in Homer’s Odyssey instructing Odysseus’ son, Telemachus?",
       "options": {
         "A": "Nestor",
         "B": "Idomeneus",
@@ -590,6 +689,8 @@
         "D": "Phoenix"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -602,6 +703,8 @@
         "D": "Laertes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

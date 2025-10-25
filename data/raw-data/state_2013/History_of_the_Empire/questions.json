@@ -3,18 +3,22 @@
     "name": "History_of_the_Empire",
     "year": "state_2013",
     "subject": "History_of_the_Empire",
-    "total_questions": 50
+    "total_questions": 47,
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
       "question": "Which of the following was not done by Constantine?",
       "options": {
-        "A": "c. created the Tetrarchy",
+        "A": "reunified Rome",
         "B": "built a new capital",
+        "C": "created the Tetrarchy",
         "D": "promoted tolerance of Christianity"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -27,11 +31,13 @@
         "D": "Nero Claudius Caesar Augustus Germanicus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 3,
-      "question": "The emperor Marcus Aurelius Septimius Bassianus Antoninus is likewise more commonly known by a",
+      "question": "The emperor Marcus Aurelius Septimius Bassianus Antoninus is likewise more commonly known by a nickname, his referring to the hooded tunic he brought into fashion.",
       "options": {
         "A": "Caracalla",
         "B": "Macrinus",
@@ -39,6 +45,8 @@
         "D": "Elagabalus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -51,18 +59,9 @@
         "D": "Cestius’ Bridge"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
-    },
-    {
-      "question_number": 5,
-      "question": "The Roman Empire reached its greatest size at the time of Trajan's death in:",
-      "options": {
-        "A": "107",
-        "B": "117",
-        "C": "118 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
     },
     {
       "question_number": 6,
@@ -74,6 +73,8 @@
         "D": "Petronius Maximus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -86,6 +87,8 @@
         "D": "Ostrogoths"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -98,6 +101,8 @@
         "D": "Five Good Emperors"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -110,6 +115,8 @@
         "D": "Titus'"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -122,6 +129,8 @@
         "D": "Burebistas"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -134,6 +143,8 @@
         "D": "retired to Salona"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -146,11 +157,13 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 13,
-      "question": "Which emperor, upon taking power, wrote a letter to the Jews of Alexandria declaring his toleration",
+      "question": "Which emperor, upon taking power, wrote a letter to the Jews of Alexandria declaring his toleration of their way of life?",
       "options": {
         "A": "Geta",
         "B": "Marcus Aurelius",
@@ -158,6 +171,8 @@
         "D": "Gordian I"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -170,6 +185,8 @@
         "D": "Gaius Cestius Gallus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -182,6 +199,8 @@
         "D": "Claudius II"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -194,11 +213,13 @@
         "D": "Septimius Severus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 17,
-      "question": "The senior fleet of the imperial navy, given barracks near the Colosseum where it assisted with the",
+      "question": "The senior fleet of the imperial navy, given barracks near the Colosseum where it assisted with the naumachia, was stationed in what town?",
       "options": {
         "A": "Brundisium",
         "B": "Messana",
@@ -206,6 +227,8 @@
         "D": "Misenum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -218,11 +241,13 @@
         "D": "Cispius Daelianus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 19,
-      "question": "Which emperor withdrew the Roman legions from Armenia and Assyria and established the eastern",
+      "question": "Which emperor withdrew the Roman legions from Armenia and Assyria and established the eastern border on the Euphrates River?",
       "options": {
         "A": "Hadrian",
         "B": "Elagabalus",
@@ -230,6 +255,8 @@
         "D": "Lucius Verus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -242,6 +269,8 @@
         "D": "plague"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -254,6 +283,8 @@
         "D": "Florian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -266,6 +297,8 @@
         "D": "Ostrogoths"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -278,11 +311,13 @@
         "D": "Mursa"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 24,
-      "question": "This man was Egypt’s first prefect; an elegist, friend of Augustus, and general who led an expedition",
+      "question": "This man was Egypt’s first prefect; an elegist, friend of Augustus, and general who led an expedition against the Ethiopians in 29 B.C.",
       "options": {
         "A": "Pollio",
         "B": "Gallus",
@@ -290,6 +325,8 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -302,6 +339,8 @@
         "D": "February"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -314,6 +353,8 @@
         "D": "imperium populi"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -326,18 +367,9 @@
         "D": "Commodus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
-    },
-    {
-      "question_number": 28,
-      "question": "The six-month siege after which Jerusalem was sacked ended in what year?",
-      "options": {
-        "A": "476",
-        "B": "106",
-        "C": "70 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
     },
     {
       "question_number": 29,
@@ -349,11 +381,13 @@
         "D": "Severus Alexander"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 30,
-      "question": "Angry ghosts of the people he threw off a nearby cliff are rumored to have pulled down Tiberius’",
+      "question": "Angry ghosts of the people he threw off a nearby cliff are rumored to have pulled down Tiberius’ statue from his villa in:",
       "options": {
         "A": "Tivoli",
         "B": "Baiae",
@@ -361,18 +395,9 @@
         "D": "Stabiae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
-    },
-    {
-      "question_number": 31,
-      "question": "The traditional date for the founding of the Principate is:",
-      "options": {
-        "A": "27 B.C.",
-        "B": "476",
-        "C": "753 B.C. d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
     },
     {
       "question_number": 32,
@@ -384,6 +409,8 @@
         "D": "Romulus Augustulus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -396,6 +423,8 @@
         "D": "Philip the Arab"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -408,6 +437,8 @@
         "D": "Verginius Rufus'"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -420,11 +451,13 @@
         "D": "Praetorian Guard"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 36,
-      "question": "Cassius Dio reports the dying words of this emperor were, “Vae, puto deus fio!” (Oh dear, I think I",
+      "question": "Cassius Dio reports the dying words of this emperor were, “Vae, puto deus fio!” (Oh dear, I think I am becoming a god!)",
       "options": {
         "A": "Nero",
         "B": "Caligula",
@@ -432,6 +465,8 @@
         "D": "Vitellius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -444,6 +479,8 @@
         "D": "Valerian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -456,6 +493,8 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -468,6 +507,8 @@
         "D": "Gaius Caesar"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -480,11 +521,13 @@
         "D": "Petilius Cerialus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 41,
-      "question": "Macrinus was defeated at the Battle of Antioch by the forces of Julia Maesa, a wealthy woman who",
+      "question": "Macrinus was defeated at the Battle of Antioch by the forces of Julia Maesa, a wealthy woman who paid the legions of Syria to recognize Elagabalus as emperor. What was Maesa's relationship to the Elagabalus?",
       "options": {
         "A": "mother",
         "B": "aunt",
@@ -492,6 +535,8 @@
         "D": "sister"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -504,6 +549,8 @@
         "D": "Julia Soaemias"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -516,22 +563,27 @@
         "D": "Capri"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 44,
       "question": "How did Marcus Didius Julianus, the second to rule in the year 193, gain power?",
       "options": {
-        "A": "c. elected by army",
+        "A": "overthrew his sucessor",
         "B": "paid for it",
+        "C": "elected by army",
         "D": "marched on Rome"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 45,
-      "question": "Which emperor was strangled to death in his bath at the order of his mistress but at the hands of his",
+      "question": "Which emperor was strangled to death in his bath at the order of his mistress but at the hands of his favorite wrestling partner, a professional athlete named Narcissus?",
       "options": {
         "A": "Commodus",
         "B": "Didius Julianus",
@@ -539,6 +591,8 @@
         "D": "Numerian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -551,6 +605,8 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -563,6 +619,8 @@
         "D": "Livia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -575,6 +633,8 @@
         "D": "Zeno"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -587,11 +647,13 @@
         "D": "Seneca Minor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 50,
-      "question": "What magister militum was responsible for the elevation of the young Valentinain II to the rank",
+      "question": "What magister militum was responsible for the elevation of the young Valentinain II to the rank co-Augustus?",
       "options": {
         "A": "Merobaudes",
         "B": "Allecteus",
@@ -599,6 +661,8 @@
         "D": "Argobast"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     }
   ]

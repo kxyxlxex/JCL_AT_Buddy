@@ -3,7 +3,8 @@
     "name": "Mottoes,_Abbreviations,_and_Quotations",
     "year": "state_2013",
     "subject": "Mottoes,_Abbreviations,_and_Quotations",
-    "total_questions": 50
+    "total_questions": 49,
+    "sections": []
   },
   "questions": [
     {
@@ -16,17 +17,22 @@
         "D": "capita"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 2,
       "question": "ab ovo usque ad mala",
       "options": {
-        "A": "c. quickly",
+        "A": "from start to finish",
         "B": "it is not allowed",
+        "C": "quickly",
         "D": "we learn from one example"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -39,6 +45,8 @@
         "D": "ad hoc"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -51,17 +59,22 @@
         "D": "everlasting"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 5,
       "question": "post partum",
       "options": {
-        "A": "c. after childbirth",
+        "A": "after a meal",
         "B": "part for the whole",
+        "C": "after childbirth",
         "D": "enacted after the fact"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -74,22 +87,27 @@
         "D": "ipso facto"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 7,
-      "question": "What Latin phrase is used to describe the college or university from which someone",
+      "question": "What Latin phrase is used to describe the college or university from which someone graduated?",
       "options": {
-        "A": "c. alma mater",
+        "A": "bonum commune",
         "B": "terra firma",
+        "C": "alma mater",
         "D": "alumnus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 8,
-      "question": "What Latin phrase would a proofreader use to cancel a change they made previously to a",
+      "question": "What Latin phrase would a proofreader use to cancel a change they made previously to a manuscript?",
       "options": {
         "A": "ex libris",
         "B": "post scriptum",
@@ -97,6 +115,8 @@
         "D": "verbatim"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -109,28 +129,36 @@
         "D": "mea culpa"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 10,
       "question": "Where would you find the phrase “summa cum laude”?",
       "options": {
-        "A": "c. a menu at a restaurant",
+        "A": "the title page of a book",
         "B": "a college diploma",
+        "C": "a menu at a restaurant",
         "D": "a prescription for medication"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 11,
       "question": "Which phrase means the same as the English expression “don’t judge a book by its cover”?",
       "options": {
-        "A": "c. fortuna favet fatuis",
+        "A": "ne fronti crede",
         "B": "in nuce",
+        "C": "fortuna favet fatuis",
         "D": "in diem vivere"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -143,11 +171,13 @@
         "D": "one thing at a time"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 13,
-      "question": "A statement in which the conclusion is completely unrelated to the first part of the statement",
+      "question": "A statement in which the conclusion is completely unrelated to the first part of the statement is a(n):",
       "options": {
         "A": "memento mori",
         "B": "ad hominem",
@@ -155,11 +185,13 @@
         "D": "non sequitur"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 14,
-      "question": "non compos ____________",
+      "question": "non compos ____________ Part II: Mottoes",
       "options": {
         "A": "patriae",
         "B": "rei",
@@ -167,6 +199,8 @@
         "D": "legis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -179,17 +213,22 @@
         "D": "U.S. Navy"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 16,
       "question": "Lux sit",
       "options": {
-        "A": "c. University of Washington",
+        "A": "University of New Mexico",
         "B": "Rollins College",
+        "C": "University of Washington",
         "D": "University of North Dakota"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -202,6 +241,8 @@
         "D": "U.S. Army"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -214,6 +255,8 @@
         "D": "Virtute et armis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -226,28 +269,36 @@
         "D": "University of Oregon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 20,
       "question": "Montani semper liberi",
       "options": {
-        "A": "c. Wyoming",
+        "A": "Colorado",
         "B": "West Virginia",
+        "C": "Wyoming",
         "D": "California"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 21,
       "question": "Iustitiaque omnibus",
       "options": {
-        "A": "c. Virginia",
+        "A": "District of Columbia",
         "B": "U.S. Marine Corps",
+        "C": "Virginia",
         "D": "Wyoming"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -260,6 +311,8 @@
         "D": "Georgetown"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -272,6 +325,8 @@
         "D": "Crescit eundo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -284,6 +339,8 @@
         "D": "Idaho"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -296,11 +353,13 @@
         "D": "Paris"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 26,
-      "question": "Dominus illuminatio mea",
+      "question": "Dominus illuminatio mea Part III: Abbreviations",
       "options": {
         "A": "Dartmouth",
         "B": "Oxford",
@@ -308,17 +367,22 @@
         "D": "Notre Dame"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 27,
       "question": "i.a.",
       "options": {
-        "A": "c. and also",
+        "A": "that is",
         "B": "and the rest",
+        "C": "and also",
         "D": "among other things"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -331,6 +395,8 @@
         "D": "Re"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -343,6 +409,8 @@
         "D": "which was to be done"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -355,17 +423,22 @@
         "D": "s.v."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 31,
       "question": "the course of life",
       "options": {
-        "A": "c. V.C.",
+        "A": "q.v.",
         "B": "C.V",
+        "C": "V.C.",
         "D": "vs."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -378,6 +451,8 @@
         "D": "see below"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -390,6 +465,8 @@
         "D": "died without children"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -402,6 +479,8 @@
         "D": "at pleasure"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -414,17 +493,22 @@
         "D": "A.D."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 36,
       "question": "h.s.",
       "options": {
-        "A": "c. donated without penalty",
+        "A": "see above",
         "B": "here lies buried",
+        "C": "donated without penalty",
         "D": "at bedtime"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -437,11 +521,13 @@
         "D": "compare"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "ult.",
+      "question": "ult. Part IV: Quotations",
       "options": {
         "A": "last month",
         "B": "as directed",
@@ -449,6 +535,8 @@
         "D": "and following"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -461,6 +549,8 @@
         "D": "Cato"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -473,6 +563,8 @@
         "D": "Ennius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -485,6 +577,8 @@
         "D": "Juvenal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -497,6 +591,8 @@
         "D": "Nero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -509,6 +605,8 @@
         "D": "Martial"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -521,6 +619,8 @@
         "D": "Cicero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -533,6 +633,8 @@
         "D": "Cicero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -545,6 +647,8 @@
         "D": "Silius Italicus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -557,6 +661,8 @@
         "D": "Seneca"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -569,18 +675,9 @@
         "D": "Vergil"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
-    },
-    {
-      "question_number": 49,
-      "question": "festina lente",
-      "options": {
-        "A": "Horace",
-        "B": "Plautus",
-        "C": "Augustus d.Tertullian"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
     },
     {
       "question_number": 50,
@@ -592,6 +689,8 @@
         "D": "Horace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

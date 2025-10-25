@@ -3,7 +3,8 @@
     "name": "Derivatives_II",
     "year": "state_2012",
     "subject": "Derivatives_II",
-    "total_questions": 45
+    "total_questions": 45,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "most"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,6 +31,8 @@
         "D": "perceptive"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -40,6 +45,8 @@
         "D": "stormy"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -52,6 +59,8 @@
         "D": "enormous"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -64,6 +73,8 @@
         "D": "insects"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -76,6 +87,8 @@
         "D": "praised"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -88,6 +101,8 @@
         "D": "go to sleep"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -100,6 +115,8 @@
         "D": "bridges"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -112,11 +129,13 @@
         "D": "shouting"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 10,
-      "question": "The water was very serene when we went canoeing.",
+      "question": "The water was very serene when we went canoeing. Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "options": {
         "A": "cloudy",
         "B": "disturbed",
@@ -124,6 +143,8 @@
         "D": "fast"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -136,6 +157,8 @@
         "D": "soluble"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -148,6 +171,8 @@
         "D": "spurn"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -160,6 +185,8 @@
         "D": "recipio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -172,6 +199,8 @@
         "D": "devilish"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -184,6 +213,8 @@
         "D": "president"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -196,6 +227,8 @@
         "D": "abrogate"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -208,6 +241,8 @@
         "D": "morning"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -220,6 +255,8 @@
         "D": "agree"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -232,11 +269,13 @@
         "D": "opaque"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 20,
-      "question": "cohors",
+      "question": "cohors Part III. For each of these questions, select the Latin word that is at the root of each given English word.",
       "options": {
         "A": "court",
         "B": "cordial",
@@ -244,6 +283,8 @@
         "D": "courtesy"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -256,6 +297,8 @@
         "D": "canis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -268,6 +311,8 @@
         "D": "caedo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -280,6 +325,8 @@
         "D": "eo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -292,6 +339,8 @@
         "D": "carrus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -304,6 +353,8 @@
         "D": "ius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -316,6 +367,8 @@
         "D": "area"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -328,6 +381,8 @@
         "D": "placeo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -340,6 +395,8 @@
         "D": "nego"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -352,11 +409,13 @@
         "D": "creo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 30,
-      "question": "sluice",
+      "question": "sluice Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "options": {
         "A": "clarus",
         "B": "claudo",
@@ -364,6 +423,8 @@
         "D": "colo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -376,6 +437,8 @@
         "D": "to hear"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -388,6 +451,8 @@
         "D": "low"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -400,6 +465,8 @@
         "D": "ill"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -412,6 +479,8 @@
         "D": "to come"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -424,6 +493,8 @@
         "D": "speech"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -436,6 +507,8 @@
         "D": "threshold"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -448,6 +521,8 @@
         "D": "pain"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -460,6 +535,8 @@
         "D": "hand"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -472,11 +549,13 @@
         "D": "smooth"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 40,
-      "question": "usufruct",
+      "question": "usufruct Part V. For each of the following questions, select the word that does NOT have the same derivation as the others.",
       "options": {
         "A": "to flow",
         "B": "sugar",
@@ -484,6 +563,8 @@
         "D": "fruit"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -496,6 +577,8 @@
         "D": "solvent"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -508,6 +591,8 @@
         "D": "innocent"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -520,6 +605,8 @@
         "D": "flavor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -532,6 +619,8 @@
         "D": "event"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -544,6 +633,8 @@
         "D": "demented"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

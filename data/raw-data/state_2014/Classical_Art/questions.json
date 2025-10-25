@@ -3,45 +3,55 @@
     "name": "Classical_Art",
     "year": "state_2014",
     "subject": "Classical_Art",
-    "total_questions": 50
+    "total_questions": 48,
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
       "question": "Identify the mythical scene.",
       "options": {
-        "A": "c. Diomedes battline Aeneas",
+        "A": "Achilles battling Hector",
         "B": "Achilles battling Penthesilea",
+        "C": "Diomedes battline Aeneas",
         "D": "Ajax battling Hector"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 2,
-      "question": "Identify the painter, famous for his black-figure vase-paintings with strong",
+      "question": "Identify the painter, famous for his black-figure vase-paintings with strong themes of tragedy and pathos. Image",
       "options": {
-        "A": "c. the Dipylon Master",
+        "A": "the Andokides painter",
         "B": "Euphronias",
+        "C": "the Dipylon Master",
         "D": "Exekias"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 3,
-      "question": "What part of the Parthenon did this low-relief sculpture belong?",
+      "question": "What part of the Parthenon did this low-relief sculpture belong? Image",
       "options": {
-        "A": "c. North Pediment",
+        "A": "South Metopes",
         "B": "the Frieze",
+        "C": "North Pediment",
         "D": "East Metopes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 4,
-      "question": "This painting commemorates riots that broke out in what city’s amphitheatre in",
+      "question": "This painting commemorates riots that broke out in what city’s amphitheatre in 59 AD after a gladiatorial fight with a rival city got out of hand? Image",
       "options": {
         "A": "Pompeii",
         "B": "Neapolis",
@@ -49,22 +59,27 @@
         "D": "Surrentum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 5,
-      "question": "While the image shows a husband and wife reclining on their marriage bed,",
+      "question": "While the image shows a husband and wife reclining on their marriage bed, what was the function of the object in the image?",
       "options": {
-        "A": "c. fertility votive",
+        "A": "apotropaic votive",
         "B": "religious dedication",
+        "C": "fertility votive",
         "D": "sarcophagus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 6,
-      "question": "What people created the object?",
+      "question": "What people created the object? Image",
       "options": {
         "A": "Samnites",
         "B": "Etruscans",
@@ -72,6 +87,8 @@
         "D": "Umbri"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -84,22 +101,27 @@
         "D": "Akrotiri"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 8,
-      "question": "What event preserved the wall painting",
+      "question": "What event preserved the wall painting Image",
       "options": {
-        "A": "c. volcanic eruption",
+        "A": "mudslide",
         "B": "palace fire",
+        "C": "volcanic eruption",
         "D": "collapse of the building into the ocean"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 9,
-      "question": "This structure, which formed the entrance to the Acropolis, is called the",
+      "question": "This structure, which formed the entrance to the Acropolis, is called the Image 2014 FJCL State Forum – Classical Art -",
       "options": {
         "A": "Propylaia",
         "B": "Parthenon",
@@ -107,11 +129,13 @@
         "D": "Kerameikos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 10,
-      "question": "This statue of Hermes and Dionysos is controversially attributed to which 4th",
+      "question": "This statue of Hermes and Dionysos is controversially attributed to which 4th century Athenian sculptor? Image",
       "options": {
         "A": "Skopas",
         "B": "Praxiteles",
@@ -119,43 +143,27 @@
         "D": "Kephisodotos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 11,
       "question": "What is the statue called?",
       "options": {
-        "A": "c. Hermes of Volterra",
+        "A": "Hermes of Arezzo",
         "B": "Apollo of Veii",
+        "C": "Hermes of Volterra",
         "D": "Apollo of Chiusi"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
-      "question_number": 12,
-      "question": "Where in the vicinity of an Etruscan temple would this statue have been",
-      "options": {
-        "A": "at the entrance",
-        "B": "inside",
-        "C": "on"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
-      "question_number": 13,
-      "question": "What battle is likely shown in this mosaic?",
-      "options": {
-        "A": "Battle of Granicus",
-        "B": "Battle of the Persian Gate c."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
-    },
-    {
       "question_number": 14,
-      "question": "To what style of Greek vase painting is this scene by the Dipylon Master",
+      "question": "To what style of Greek vase painting is this scene by the Dipylon Master attributed?",
       "options": {
         "A": "LHIII",
         "B": "Geometric",
@@ -163,11 +171,13 @@
         "D": "Black-Figure"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 15,
-      "question": "What traditional scene is being depicted?",
+      "question": "What traditional scene is being depicted? Image",
       "options": {
         "A": "prothesis",
         "B": "ekphora",
@@ -175,6 +185,8 @@
         "D": "psychopomp"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -187,11 +199,13 @@
         "D": "tablinum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 17,
-      "question": "In a traditional patrician house, what room is designated by the blue number",
+      "question": "In a traditional patrician house, what room is designated by the blue number 2? Image",
       "options": {
         "A": "atrium",
         "B": "vestibulum",
@@ -199,6 +213,8 @@
         "D": "tablinum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -211,22 +227,27 @@
         "D": "alai"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 19,
-      "question": "What does the central figure represent?",
+      "question": "What does the central figure represent? Image",
       "options": {
-        "A": "c. Janus",
+        "A": "patron god of the household",
         "B": "Vesta",
+        "C": "Janus",
         "D": "the spirit of the household"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 20,
-      "question": "Which emperor is honored by this column?",
+      "question": "Which emperor is honored by this column? 2014 FJCL State Forum – Classical Art -",
       "options": {
         "A": "Trajan",
         "B": "Augustus",
@@ -234,11 +255,13 @@
         "D": "Marcus Aurelius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 21,
-      "question": "What figure currently stands atop this column?",
+      "question": "What figure currently stands atop this column? Image",
       "options": {
         "A": "Jupiter",
         "B": "Trajan",
@@ -246,11 +269,13 @@
         "D": "St. Stephen"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 22,
-      "question": "This famous stoa in Athens, named for the paintings it held, is called the Stoa",
+      "question": "This famous stoa in Athens, named for the paintings it held, is called the Stoa ____________.",
       "options": {
         "A": "Chromatos",
         "B": "Aglaou",
@@ -258,22 +283,27 @@
         "D": "Poikile"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 23,
-      "question": "This stoa gave its name to ______________.",
+      "question": "This stoa gave its name to ______________. Image",
       "options": {
-        "A": "c. a school of mathematics",
+        "A": "a style of architecture",
         "B": "a school of philosophy",
+        "C": "a school of mathematics",
         "D": "a style of painting"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 24,
-      "question": "From what region does this famous bronze chimera come?",
+      "question": "From what region does this famous bronze chimera come? Image",
       "options": {
         "A": "Dalmatia",
         "B": "Ostia",
@@ -281,6 +311,8 @@
         "D": "Sicily"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -293,11 +325,13 @@
         "D": "Fourth Style"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 26,
-      "question": "What was NOT a feature of this wall painting style?",
+      "question": "What was NOT a feature of this wall painting style? Image",
       "options": {
         "A": "popular in the mid-1st century AD",
         "B": "strong architectural themes",
@@ -305,22 +339,27 @@
         "D": "rejection of a linear perspective"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 27,
       "question": "What is the name of this proto-Corinthian olpe?",
       "options": {
-        "A": "c. Eurymedon Vase",
+        "A": "Chigi vase",
         "B": "Revelers Vase",
+        "C": "Eurymedon Vase",
         "D": "Francois Vase"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 28,
-      "question": "What makes this olpe so famous?",
+      "question": "What makes this olpe so famous? Image",
       "options": {
         "A": "earliest use of multiple colors in a vase painting",
         "B": "earliest representation of a religious procession",
@@ -328,6 +367,8 @@
         "D": "earliest use of using multiple bands on a single vase to tell multiple stories"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -340,11 +381,13 @@
         "D": "Malia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 30,
-      "question": "What script is represented on the disc",
+      "question": "What script is represented on the disc 2014 FJCL State Forum – Classical Art - Image",
       "options": {
         "A": "Linear A",
         "B": "Linear B",
@@ -352,22 +395,27 @@
         "D": "Unknown"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 31,
-      "question": "What is this carved gem, commemorating the transfer of power from Augustus",
+      "question": "What is this carved gem, commemorating the transfer of power from Augustus to Tiberius, called?",
       "options": {
-        "A": "c. Gemma Caesarea",
+        "A": "Gemma Augustea",
         "B": "Gemma Romana",
+        "C": "Gemma Caesarea",
         "D": "Gemma Tiberii"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 32,
-      "question": "What material is the carved gem made from?",
+      "question": "What material is the carved gem made from? Image",
       "options": {
         "A": "Obsidian",
         "B": "Lapis Lazuli",
@@ -375,11 +423,13 @@
         "D": "Peridot"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 33,
-      "question": "To what Doric temple does this pediment belong?",
+      "question": "To what Doric temple does this pediment belong? Image",
       "options": {
         "A": "Temple of Aphaia at Aegina",
         "B": "Older Parthenon at the Acropolis",
@@ -387,22 +437,27 @@
         "D": "Temple of Artemis at Kerkyra"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 34,
       "question": "What is this image called?",
       "options": {
-        "A": "c. Ara Pacis",
+        "A": "Saepta Julia",
         "B": "Solarium Augusti",
+        "C": "Ara Pacis",
         "D": "Tropaeum Alpium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 35,
-      "question": "Where was the object located?",
+      "question": "Where was the object located? Image",
       "options": {
         "A": "Ostia",
         "B": "Capitoline Hill",
@@ -410,6 +465,8 @@
         "D": "Campus Martius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -422,17 +479,22 @@
         "D": "Aeolic"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 37,
-      "question": "When was it first introduced?",
+      "question": "When was it first introduced? Image",
       "options": {
-        "A": "c. early 5th Century BC",
+        "A": "late 7th Century BC",
         "B": "mid 6th Century BC",
+        "C": "early 5th Century BC",
         "D": "late 5th Century BC"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -445,33 +507,41 @@
         "D": "chryselephantine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 39,
-      "question": "The statues have been linked to what legend described in Herodotus?",
+      "question": "The statues have been linked to what legend described in Herodotus? Image",
       "options": {
-        "A": "c. Bertades and Ernios",
+        "A": "Harmodius and Aristogeiton",
         "B": "Kleobis and Biton",
+        "C": "Bertades and Ernios",
         "D": "Socrates and Alcibiades"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 40,
       "question": "What is this early Classical sculpture called?",
       "options": {
-        "A": "c. Artemision boy",
+        "A": "Antikythera Hermes",
         "B": "Charioteer of Delphi",
+        "C": "Artemision boy",
         "D": "Kritios boy"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 41,
-      "question": "This statue is the earliest example of what sculptural technique?",
+      "question": "This statue is the earliest example of what sculptural technique? 2014 FJCL State Forum – Classical Art - Image",
       "options": {
         "A": "repoussoir",
         "B": "contrapposto",
@@ -479,33 +549,41 @@
         "D": "effets de soir"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 42,
       "question": "What is this 1st century BC temple, located in Nîmes, France, called?",
       "options": {
-        "A": "c. Maison Carrée",
+        "A": "Arènes de Lutèce",
         "B": "Gisacum",
+        "C": "Maison Carrée",
         "D": "Gare de Nîmes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 43,
-      "question": "To whom was the temple dedicated?",
+      "question": "To whom was the temple dedicated? Image",
       "options": {
-        "A": "c. Gaius and Lucius Caesar",
+        "A": "Jupiter Optimus Maximus",
         "B": "Venus Genitor",
+        "C": "Gaius and Lucius Caesar",
         "D": "Caesar Augustus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 44,
-      "question": "What room in the Mycenaean palace at Pylos is represented in the image?",
+      "question": "What room in the Mycenaean palace at Pylos is represented in the image? Image",
       "options": {
         "A": "propylon",
         "B": "pronaos",
@@ -513,11 +591,13 @@
         "D": "megaron"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 45,
-      "question": "Why is this Etruscan statue’s association with the Romulus and Remus myth",
+      "question": "Why is this Etruscan statue’s association with the Romulus and Remus myth uncertain? Image",
       "options": {
         "A": "The suckling babes are not original to the statue.",
         "B": "Etruscans had a separate, unrelated myth about babes suckling a she-wolf.",
@@ -525,22 +605,27 @@
         "D": "The statue long predates the earliest accounts of Romulus and Remus."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 46,
-      "question": "Where does this 2nd century AD mosaic of centaurs battling wild beasts come",
+      "question": "Where does this 2nd century AD mosaic of centaurs battling wild beasts come from?",
       "options": {
-        "A": "c. Hadrian’s Bath",
+        "A": "Hadrian’s Library",
         "B": "Hadrian’s Villa",
+        "C": "Hadrian’s Bath",
         "D": "Hadrian’s Tree Fort"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 47,
-      "question": "Which 400 BC Greek artist is this mosaic likely copying?",
+      "question": "Which 400 BC Greek artist is this mosaic likely copying? Image",
       "options": {
         "A": "Micon",
         "B": "Euphranor",
@@ -548,17 +633,22 @@
         "D": "Androcydes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 48,
-      "question": "This bath complex, completed in 216 AD in Rome, was known as what?",
+      "question": "This bath complex, completed in 216 AD in Rome, was known as what? Image",
       "options": {
-        "A": "c. Baths of Caracalla",
+        "A": "Baths of Agrippa",
         "B": "Baths of Constantine",
+        "C": "Baths of Caracalla",
         "D": "Baths of Diocletian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -571,11 +661,13 @@
         "D": "Knossos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 50,
-      "question": "What do the griffins flanking the throne traditionally signify in contemporary",
+      "question": "What do the griffins flanking the throne traditionally signify in contemporary Near East cultures?",
       "options": {
         "A": "Supernatural authority",
         "B": "Autochthonous heritage",
@@ -583,6 +675,8 @@
         "D": "Matriarchal authority"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     }
   ]

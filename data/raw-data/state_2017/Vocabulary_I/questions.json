@@ -3,7 +3,8 @@
     "name": "Vocabulary_I",
     "year": "state_2017",
     "subject": "Vocabulary_I",
-    "total_questions": 46
+    "total_questions": 44,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "to close"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -28,6 +31,8 @@
         "D": "leg"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -40,6 +45,8 @@
         "D": "to enter"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -52,6 +59,8 @@
         "D": "daily"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -64,6 +73,8 @@
         "D": "to go"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -76,6 +87,8 @@
         "D": "arch"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -88,18 +101,9 @@
         "D": "to grasp"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
-    },
-    {
-      "question_number": 8,
-      "question": "cum",
-      "options": {
-        "A": "that",
-        "B": "before",
-        "C": "which d after"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
     },
     {
       "question_number": 9,
@@ -111,6 +115,8 @@
         "D": "scene"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -123,6 +129,8 @@
         "D": "force"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -135,6 +143,8 @@
         "D": "there"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -147,6 +157,8 @@
         "D": "powerful"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -159,6 +171,8 @@
         "D": "witch"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -171,11 +185,13 @@
         "D": "gold"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 15,
-      "question": "dare",
+      "question": "dare Part II) Chose the best Latin translation of the English word.",
       "options": {
         "A": "to dare",
         "B": "to do",
@@ -183,6 +199,8 @@
         "D": "stand"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -195,6 +213,8 @@
         "D": "servare"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -207,6 +227,8 @@
         "D": "tangere"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -219,6 +241,8 @@
         "D": "nauta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -231,6 +255,8 @@
         "D": "arbor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -243,6 +269,8 @@
         "D": "domus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -255,6 +283,8 @@
         "D": "cibus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -267,6 +297,8 @@
         "D": "ars"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -279,6 +311,8 @@
         "D": "pelagus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -291,6 +325,8 @@
         "D": "apparare"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -303,6 +339,8 @@
         "D": "fessus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -315,6 +353,8 @@
         "D": "labor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -327,6 +367,8 @@
         "D": "lectus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -339,6 +381,8 @@
         "D": "latus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -351,11 +395,13 @@
         "D": "celer"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 30,
-      "question": "slowly",
+      "question": "slowly Part III) Choose the synonym of the word given.",
       "options": {
         "A": "breve",
         "B": "fesse",
@@ -363,6 +409,8 @@
         "D": "longe"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -375,6 +423,8 @@
         "D": "latum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -387,6 +437,8 @@
         "D": "invenire"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -399,6 +451,8 @@
         "D": "ensis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -411,11 +465,13 @@
         "D": "ac"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 35,
-      "question": "parvus",
+      "question": "parvus Part IV) Choose the antonym of the word given.",
       "options": {
         "A": "medius",
         "B": "par",
@@ -423,6 +479,8 @@
         "D": "multum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -435,6 +493,8 @@
         "D": "lacrimare"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -447,6 +507,8 @@
         "D": "sub"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -459,6 +521,8 @@
         "D": "delere"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -471,11 +535,13 @@
         "D": "corpus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 40,
-      "question": "mors",
+      "question": "mors Part V) Choose the best word that completes the analogy.",
       "options": {
         "A": "vir",
         "B": "tempus",
@@ -483,6 +549,8 @@
         "D": "vita"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -495,6 +563,8 @@
         "D": "noster"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -507,6 +577,8 @@
         "D": "caput"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -519,6 +591,8 @@
         "D": "animus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -531,11 +605,13 @@
         "D": "dolere"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 45,
-      "question": "olim : semper :: ______ : omnis",
+      "question": "olim : semper :: ______ : omnis Part VI) Choose the word that is not like the others.",
       "options": {
         "A": "quid",
         "B": "brevis",
@@ -543,14 +619,9 @@
         "D": "aliquis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
-    },
-    {
-      "question_number": 50,
-      "question": "a. veritas b. mors c. fides d. flumen",
-      "options": {},
-      "type": "multiple_choice",
-      "correct_answer": "D"
     }
   ]
 }

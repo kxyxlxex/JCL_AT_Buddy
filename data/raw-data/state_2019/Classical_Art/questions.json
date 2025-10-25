@@ -3,12 +3,13 @@
     "name": "Classical_Art",
     "year": "state_2019",
     "subject": "Classical_Art",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "[Picture 1] Known in Rome today as the Castel Sant’ Angelo, this monument formerly served as a",
+      "question": "[Picture 1] Known in Rome today as the Castel Sant’ Angelo, this monument formerly served as a mausoleum and was built by the emperor _____.",
       "options": {
         "A": "Antoninus Pius",
         "B": "Augustus",
@@ -16,6 +17,8 @@
         "D": "Hadrian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -28,6 +31,8 @@
         "D": "krater"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -40,6 +45,8 @@
         "D": "to transport water from a spring or well"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -52,6 +59,8 @@
         "D": "Red Figure"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -64,6 +73,8 @@
         "D": "Critias Boy"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -76,6 +87,8 @@
         "D": "Praxiteles"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -88,6 +101,8 @@
         "D": "Early Roman Empire"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -100,6 +115,8 @@
         "D": "Ara Pacis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -112,11 +129,13 @@
         "D": "Lapiths vs. Centuars"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 10,
-      "question": "[Picture 4] Which mythological character is the primary focus in a frieze on the interior of the",
+      "question": "[Picture 4] Which mythological character is the primary focus in a frieze on the interior of the monument?",
       "options": {
         "A": "Telephus",
         "B": "Hercules",
@@ -124,6 +143,8 @@
         "D": "Perseus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -136,11 +157,13 @@
         "D": "Flavian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 12,
-      "question": "[Picture5] Where in Rome is the Fonseca Bust located?",
+      "question": "[Picture5] Where in Rome is the Fonseca Bust located? Classical Art - States 2019 -",
       "options": {
         "A": "Vatican Museum",
         "B": "Borghese Gallery",
@@ -148,6 +171,8 @@
         "D": "Villa Giulia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -160,6 +185,8 @@
         "D": "Malia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -172,6 +199,8 @@
         "D": "Linear A"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -184,6 +213,8 @@
         "D": "Ionic"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -196,6 +227,8 @@
         "D": "House of Menander"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -208,6 +241,8 @@
         "D": "Hermes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -220,6 +255,8 @@
         "D": "bident"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -232,6 +269,8 @@
         "D": "architrave"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -244,6 +283,8 @@
         "D": "capital"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -256,6 +297,8 @@
         "D": "stylobate"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -268,6 +311,8 @@
         "D": "Venus Victrix"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -280,6 +325,8 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -292,6 +339,8 @@
         "D": "fresco"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -304,6 +353,8 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -316,6 +367,8 @@
         "D": "Achilles and Patroclus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -328,11 +381,13 @@
         "D": "Akrotiri"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 28,
-      "question": "[Picture 14] On what does this scene appear?",
+      "question": "[Picture 14] On what does this scene appear? Classical Art - States 2019 -",
       "options": {
         "A": "altar frieze",
         "B": "pediment",
@@ -340,6 +395,8 @@
         "D": "sarcophagus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -352,6 +409,8 @@
         "D": "3rd cent. AD"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -364,6 +423,8 @@
         "D": "Marius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -376,6 +437,8 @@
         "D": "Vatican (Vatican City)"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -388,6 +451,8 @@
         "D": "Ashmolean Museum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -400,6 +465,8 @@
         "D": "Alexander of Macedon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -412,6 +479,8 @@
         "D": "faience"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -424,11 +493,13 @@
         "D": "Orientalizing"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 36,
-      "question": "Many Roman copies of Greek original sculptures have survived antiquity because they are made",
+      "question": "Many Roman copies of Greek original sculptures have survived antiquity because they are made of marble versus the originals being made of _____.",
       "options": {
         "A": "limestone",
         "B": "sandstone",
@@ -436,6 +507,8 @@
         "D": "bronze"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -448,6 +521,8 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -460,6 +535,8 @@
         "D": "Tigris"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -472,6 +549,8 @@
         "D": "architraves"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -484,6 +563,8 @@
         "D": "Temple of Zeus at Olympia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -496,11 +577,13 @@
         "D": "Carl Blegen"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 42,
-      "question": "Which of the following is the oldest?",
+      "question": "Which of the following is the oldest? Classical Art - States 2019 -",
       "options": {
         "A": "Francois Vase",
         "B": "Parthenon",
@@ -508,6 +591,8 @@
         "D": "Capitoline Wolf"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -520,6 +605,8 @@
         "D": "Domus Aurea (Rome)"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -532,6 +619,8 @@
         "D": "Commodus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -544,6 +633,8 @@
         "D": "Nice"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -556,6 +647,8 @@
         "D": "terracotta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -568,11 +661,13 @@
         "D": "griffins"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 48,
-      "question": "Which emperor completed the construction of the Basilica of Maxentius, Rome’s largest",
+      "question": "Which emperor completed the construction of the Basilica of Maxentius, Rome’s largest building?",
       "options": {
         "A": "Constans",
         "B": "Valerian",
@@ -580,6 +675,8 @@
         "D": "Galerius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -592,6 +689,8 @@
         "D": "Euphronios"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -604,6 +703,8 @@
         "D": "Tomb of the Blue Demons"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

@@ -3,7 +3,8 @@
     "name": "Mottoes,_Abbreviations,_and_Quotations",
     "year": "state_2015",
     "subject": "Mottoes,_Abbreviations,_and_Quotations",
-    "total_questions": 50
+    "total_questions": 49,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "in vacuo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,6 +31,8 @@
         "D": "per centum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -40,6 +45,8 @@
         "D": "res ipsa loquitur"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -52,7 +59,9 @@
         "D": "pecunia non olet"
       },
       "type": "multiple_choice",
-      "correct_answer": ""
+      "section": null,
+      "section_context": null,
+      "correct_answer": "?"
     },
     {
       "question_number": 5,
@@ -64,6 +73,8 @@
         "D": "asinus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -76,6 +87,8 @@
         "D": "terrae motus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -88,28 +101,36 @@
         "D": "digito"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 8,
       "question": "Time flies",
       "options": {
-        "A": "c. tempus abire tibi est",
+        "A": "tempus fugit",
         "B": "tempus edax rerum",
+        "C": "tempus abire tibi est",
         "D": "tempus ludendi"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 9,
       "question": "Which phrase means approximately the same thing as “quid pro quo”?",
       "options": {
-        "A": "c. alter idem",
+        "A": "primus inter pares",
         "B": "manus manum lavat",
+        "C": "alter idem",
         "D": "quid nunc"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -122,6 +143,8 @@
         "D": "pro merito"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -134,29 +157,23 @@
         "D": "sub dio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 12,
       "question": "What does “aut vincere aut mori” mean?",
       "options": {
-        "A": "c. change the way you do things",
+        "A": "hurry up and win",
         "B": "do or die",
+        "C": "change the way you do things",
         "D": "watch your step"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
-    },
-    {
-      "question_number": 13,
-      "question": "What does “ad Kalendas Graecas” mean?",
-      "options": {
-        "A": "b. at the stroke of twelve",
-        "B": "until the cows come home",
-        "D": "at year’s end"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
     },
     {
       "question_number": 14,
@@ -168,6 +185,8 @@
         "D": "Tennessee"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -180,6 +199,8 @@
         "D": "crescit eundo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -192,6 +213,8 @@
         "D": "Maine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -204,50 +227,64 @@
         "D": "West Virginia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 18,
-      "question": "What do the following college mottoes have in common?",
+      "question": "What do the following college mottoes have in common? Univ. of Colorado, Boston College, Smith College, West Virginia Univ.",
       "options": {
-        "A": "c. They are three words long.",
+        "A": "They contain the word “lux.”",
         "B": "They are Greek.",
+        "C": "They are three words long.",
         "D": "They all contain a verb."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 19,
       "question": "What is the motto for Stetson University?",
       "options": {
-        "A": "c. dei sub numine viget",
+        "A": "pro deo et veritate",
         "B": "deo volente",
+        "C": "dei sub numine viget",
         "D": "deo ac veritati"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 20,
       "question": "Which universities have the same motto?",
       "options": {
-        "A": "c. Washington/California",
+        "A": "North Dakota/North Carolina",
         "B": "Northeastern/ Pittsburgh",
+        "C": "Washington/California",
         "D": "Yale/Indiana"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 21,
       "question": "Which university has the motto \"religio doctrina civilitas prae omnibus virtus\" ?",
       "options": {
-        "A": "c. Northwestern",
+        "A": "Ohio State",
         "B": "Ohio University",
+        "C": "Northwestern",
         "D": "Notre Dame"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -260,6 +297,8 @@
         "D": "British Columbia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -272,28 +311,36 @@
         "D": "Nevada"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 24,
       "question": "What is the motto for the city of Paris?",
       "options": {
-        "A": "c. multis e gentibus vires",
+        "A": "domine dirige nos",
         "B": "munit haec et alter vincit",
+        "C": "multis e gentibus vires",
         "D": "fluctuat nec mergitur"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 25,
-      "question": "Which motto has been adopted by many U.S. labor unions?",
+      "question": "Which motto has been adopted by many U.S. labor unions? Part III : Abbreviations",
       "options": {
-        "A": "c. laborare est orare",
+        "A": "labor ipse voluptas",
         "B": "labor omnia vincit",
+        "C": "laborare est orare",
         "D": "labore et honore"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -306,6 +353,8 @@
         "D": "ad lib."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -318,6 +367,8 @@
         "D": "an engineer"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -330,6 +381,8 @@
         "D": "et ux."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -342,17 +395,22 @@
         "D": "copper"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 30,
       "question": "What does \"in lim.\" mean?",
       "options": {
-        "A": "c. at the end",
+        "A": "in the beginning",
         "B": "in the middle",
+        "C": "at the end",
         "D": "over and over"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -365,6 +423,8 @@
         "D": "at night"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -377,6 +437,8 @@
         "D": "through the ages"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -389,6 +451,8 @@
         "D": "q.i.d."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -401,6 +465,8 @@
         "D": "v.v."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -413,6 +479,8 @@
         "D": "A.U.C."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -425,6 +493,8 @@
         "D": "M.D."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -437,6 +507,8 @@
         "D": "p.c."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -449,22 +521,27 @@
         "D": "See you soon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 39,
       "question": "Where would you be if you saw the abbreviation dram. pers.?",
       "options": {
-        "A": "c. in a theater",
+        "A": "in a pharmacy",
         "B": "in a doctor’s office",
+        "C": "in a theater",
         "D": "in a stadium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 40,
-      "question": "What is the meaning of “ft”?",
+      "question": "What is the meaning of “ft”? Part IV: Quotations Give the author of the quotation.",
       "options": {
         "A": "he made",
         "B": "she will make",
@@ -472,6 +549,8 @@
         "D": "let it be done"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -484,6 +563,8 @@
         "D": "Augustus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -496,6 +577,8 @@
         "D": "Propertius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -508,6 +591,8 @@
         "D": "Cornelius Nepos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -520,17 +605,22 @@
         "D": "Catullus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 45,
       "question": "What famous words precede “quam minimum credula postero”?",
       "options": {
-        "A": "c. delenda est Carthago",
+        "A": "vae victis",
         "B": "carpe diem",
+        "C": "delenda est Carthago",
         "D": "tempus fugit"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -543,6 +633,8 @@
         "D": "Sallust"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -555,6 +647,8 @@
         "D": "Terence"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -567,6 +661,8 @@
         "D": "Augustus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -579,6 +675,8 @@
         "D": "Catullus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -591,6 +689,8 @@
         "D": "Commodus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

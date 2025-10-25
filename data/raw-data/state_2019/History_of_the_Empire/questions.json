@@ -3,7 +3,8 @@
     "name": "History_of_the_Empire",
     "year": "state_2019",
     "subject": "History_of_the_Empire",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
@@ -16,11 +17,13 @@
         "D": "Titus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 2,
-      "question": "The Roman Empire reached its greatest territorial extent under which of the Five Good",
+      "question": "The Roman Empire reached its greatest territorial extent under which of the Five Good Emperors?",
       "options": {
         "A": "Marcus Aurelius",
         "B": "Nerva",
@@ -28,6 +31,8 @@
         "D": "Hadrian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -40,6 +45,8 @@
         "D": "Theodosius II"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -52,6 +59,8 @@
         "D": "Constantius Chlorus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -64,6 +73,8 @@
         "D": "Nerva"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -76,6 +87,8 @@
         "D": "Augustus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -88,6 +101,8 @@
         "D": "Theodoric"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -100,6 +115,8 @@
         "D": "Commodus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -112,6 +129,8 @@
         "D": "Candace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -124,6 +143,8 @@
         "D": "Valentinian II"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -136,6 +157,8 @@
         "D": "Philip the Arab"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -148,6 +171,8 @@
         "D": "Lex Iulia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -160,11 +185,13 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 14,
-      "question": "Which of the following was NOT a wife of Claudius?",
+      "question": "Which of the following was NOT a wife of Claudius? History of the Empire - States 2019 -",
       "options": {
         "A": "Plautia Urgulanilla",
         "B": "Agrippina the Elder",
@@ -172,6 +199,8 @@
         "D": "Aelia Paetina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -184,6 +213,8 @@
         "D": "Thebes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -196,11 +227,13 @@
         "D": "Pallas"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 17,
-      "question": "Whom did Septimius Severus appoint as Caesar in order to focus his war effort against",
+      "question": "Whom did Septimius Severus appoint as Caesar in order to focus his war effort against Pescennius Niger?",
       "options": {
         "A": "Caracalla",
         "B": "Clodius Albinus",
@@ -208,6 +241,8 @@
         "D": "Geta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -220,6 +255,8 @@
         "D": "Aurelian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -232,6 +269,8 @@
         "D": "Valerian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -244,6 +283,8 @@
         "D": "Arabia Petraea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -256,6 +297,8 @@
         "D": "Elagabalus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -268,6 +311,8 @@
         "D": "Cassius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -280,6 +325,8 @@
         "D": "Vespasian’s"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -292,6 +339,8 @@
         "D": "Gaius Caesar’s"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -304,6 +353,8 @@
         "D": "Faustina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -316,6 +367,8 @@
         "D": "Adrianople"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -328,6 +381,8 @@
         "D": "Cunobelinus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -340,11 +395,13 @@
         "D": "161 AD"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 29,
-      "question": "Which two 3rd-century AD emperors have been credited for a major victory over a Gothic",
+      "question": "Which two 3rd-century AD emperors have been credited for a major victory over a Gothic coalition at the Battle of Naissus? History of the Empire - States 2019 -",
       "options": {
         "A": "Valerian / Gallienus",
         "B": "Gallienus / Claudius II",
@@ -352,6 +409,8 @@
         "D": "Claudius II / Aurelian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -364,6 +423,8 @@
         "D": "Carinus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -376,6 +437,8 @@
         "D": "Elagabalus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -388,6 +451,8 @@
         "D": "Nerva"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -400,6 +465,8 @@
         "D": "making the office of praefectus urbi permanent"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -412,6 +479,8 @@
         "D": "Constantine I"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -424,11 +493,13 @@
         "D": "Pertinax"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 36,
-      "question": "Aemilius Aemilianus’s victory at the Battle of Interamna in 253 AD led to the death of what",
+      "question": "Aemilius Aemilianus’s victory at the Battle of Interamna in 253 AD led to the death of what emperor?",
       "options": {
         "A": "Trebonianus Gallus",
         "B": "Decius",
@@ -436,6 +507,8 @@
         "D": "Aurelian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -448,6 +521,8 @@
         "D": "Theodosius II"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -460,11 +535,13 @@
         "D": "18 BC"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 39,
-      "question": "In whose court did Constantine serve at the start of the Second Tetrarchy",
+      "question": "In whose court did Constantine serve at the start of the Second Tetrarchy (late 305 – early 306 AD)?",
       "options": {
         "A": "Constantius I",
         "B": "Maximinus II",
@@ -472,11 +549,13 @@
         "D": "Severus Alexander"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 40,
-      "question": "What man was put to death for conspiring to install his grandson Cn. Pedianus Fuscus on the",
+      "question": "What man was put to death for conspiring to install his grandson Cn. Pedianus Fuscus on the throne in 136 AD?",
       "options": {
         "A": "Lusius Quietus",
         "B": "Ursus Servianus",
@@ -484,6 +563,8 @@
         "D": "Cornelius Palma"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -496,11 +577,13 @@
         "D": "Memmius Regulus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 42,
-      "question": "What deity, originally the agent of Ahura-Mazda, served as the counterpart to Ahriman but later",
+      "question": "What deity, originally the agent of Ahura-Mazda, served as the counterpart to Ahriman but later became the central deity of a Roman mystery cult? History of the Empire - States 2019 -",
       "options": {
         "A": "Cybele",
         "B": "Mithras",
@@ -508,11 +591,13 @@
         "D": "Sarapis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 43,
-      "question": "What governor of Pannonia did Gallienus defeat when the former rose as a pretender to the",
+      "question": "What governor of Pannonia did Gallienus defeat when the former rose as a pretender to the throne?",
       "options": {
         "A": "Regillianus",
         "B": "Macrianus",
@@ -520,6 +605,8 @@
         "D": "Saloninus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -532,11 +619,13 @@
         "D": "Both were mothers of emperors."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 45,
-      "question": "This lieutenant of Trajan crushed Jewish rebellions in Egypt and Cyrene, preventing further",
+      "question": "This lieutenant of Trajan crushed Jewish rebellions in Egypt and Cyrene, preventing further rebellion until that of Bar Kochba.",
       "options": {
         "A": "Q. Marcius Turbo",
         "B": "Avidius Cassius",
@@ -544,11 +633,13 @@
         "D": "C. Iulius Severus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 46,
-      "question": "Which emperor reorganized an Egyptian fleet as the classis Augusta Alexandrina to ensure the",
+      "question": "Which emperor reorganized an Egyptian fleet as the classis Augusta Alexandrina to ensure the safe and regular delivery of grain to Rome?",
       "options": {
         "A": "Vespasian",
         "B": "Trajan",
@@ -556,6 +647,8 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -568,11 +661,13 @@
         "D": "Pontifex Maximus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 48,
-      "question": "What man helped L. Domitius Domitianus assume the title of emperor in Alexandria before",
+      "question": "What man helped L. Domitius Domitianus assume the title of emperor in Alexandria before being crushed by Diocletian?",
       "options": {
         "A": "Achilleus",
         "B": "Gallicus",
@@ -580,6 +675,8 @@
         "D": "Asclepiodotus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -592,11 +689,13 @@
         "D": "Iulius Verus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 50,
-      "question": "What man led the assassins that beat Agrippina the Younger to death after her failed",
+      "question": "What man led the assassins that beat Agrippina the Younger to death after her failed assassination attempt on the Bay of Naples?",
       "options": {
         "A": "Sabinus",
         "B": "Narcissus",
@@ -604,6 +703,8 @@
         "D": "Anicetus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

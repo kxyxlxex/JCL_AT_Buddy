@@ -3,7 +3,8 @@
     "name": "Mottoes,_Abbreviations,_and_Quotations",
     "year": "state_2016",
     "subject": "Mottoes,_Abbreviations,_and_Quotations",
-    "total_questions": 48
+    "total_questions": 44,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "for the time being"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -28,6 +31,8 @@
         "D": "alma mater"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -40,6 +45,8 @@
         "D": "per se"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -52,18 +59,9 @@
         "D": "non sequitur"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
-    },
-    {
-      "question_number": 5,
-      "question": "in place",
-      "options": {
-        "A": "inter se b.in situ",
-        "C": "in loco parentis",
-        "D": "in re"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
     },
     {
       "question_number": 6,
@@ -75,18 +73,9 @@
         "D": "ab inconvenienti"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
-    },
-    {
-      "question_number": 7,
-      "question": "secretly",
-      "options": {
-        "A": "lingua franca",
-        "B": "post scriptum",
-        "C": "in vitro d.sub rosa"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
     },
     {
       "question_number": 8,
@@ -98,18 +87,9 @@
         "D": "habeas corpus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
-    },
-    {
-      "question_number": 9,
-      "question": "to a disgusting or ridiculous degree",
-      "options": {
-        "A": "ante bellum",
-        "B": "habeas corpus c.ad nauseam",
-        "D": "in toto"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
     },
     {
       "question_number": 10,
@@ -121,6 +101,8 @@
         "D": "yearly"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -133,6 +115,8 @@
         "D": "sine die"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -145,11 +129,13 @@
         "D": "lucre causa"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 13,
-      "question": "a formal acknowledgement of error",
+      "question": "a formal acknowledgement of error Part II: Mottoes",
       "options": {
         "A": "mea culpa",
         "B": "ex gratia",
@@ -157,6 +143,8 @@
         "D": "quid pro quo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -169,61 +157,78 @@
         "D": "San Francisco"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 15,
       "question": "Dartmouth",
       "options": {
-        "A": "c. Scientia sol mentis",
+        "A": "Vox clamantis in deserto",
         "B": "Terras irradiant",
+        "C": "Scientia sol mentis",
         "D": "Nil sine magno labore"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 16,
       "question": "Arizona",
       "options": {
-        "A": "c. Nil sine numine",
+        "A": "Regnat populus",
         "B": "Crescit eundo",
+        "C": "Nil sine numine",
         "D": "Ditat deus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 17,
       "question": "Lux et lex",
       "options": {
-        "A": "c. University of Washington",
+        "A": "Yale University",
         "B": "University of New Mexico",
+        "C": "University of Washington",
         "D": "University of North Dakota"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 18,
       "question": "palmam qui meruit ferat",
       "options": {
-        "A": "c. University of South Carolina",
+        "A": "University of North Carolina",
         "B": "Duke University",
+        "C": "University of South Carolina",
         "D": "Clemson University"
       },
       "type": "multiple_choice",
-      "correct_answer": ""
+      "section": null,
+      "section_context": null,
+      "correct_answer": "?"
     },
     {
       "question_number": 19,
       "question": "quis separabit?",
       "options": {
-        "A": "c. the Benedictines",
+        "A": "Order of St. Patrick",
         "B": "the Jesuits",
+        "C": "the Benedictines",
         "D": "Order of the Bath"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -236,61 +241,64 @@
         "D": "South Carolina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 21,
       "question": "the European Union",
       "options": {
-        "A": "c. non sibi sed omnibus",
+        "A": "ubi libertas, ibi patria",
         "B": "quo pax et gloria ducunt",
+        "C": "non sibi sed omnibus",
         "D": "in varietate concordia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 22,
       "question": "Veritas vos liberabit",
       "options": {
-        "A": "c. Universoty of Mississippi",
+        "A": "Amherst College",
         "B": "Johns Hopkins University",
+        "C": "Universoty of Mississippi",
         "D": "Harvard University"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 23,
       "question": "Panama",
       "options": {
-        "A": "c. confide et conquiesco",
+        "A": "quaere verum",
         "B": "lux venit ab alto",
+        "C": "confide et conquiesco",
         "D": "pro mundi beneficio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
-      "question_number": 24,
-      "question": "Labor omnia vincit",
-      "options": {
-        "A": "Idaho b.Oklahoma",
-        "C": "Wyoming",
-        "D": "Kansas"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
       "question_number": 25,
-      "question": "semper paratus",
+      "question": "semper paratus Part III: Abbreviations",
       "options": {
-        "A": "c. U.S. Air Force",
+        "A": "U.S. Marine Corps",
         "B": "U.S. Coast Guard",
+        "C": "U.S. Air Force",
         "D": "U.S. Army"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -303,6 +311,8 @@
         "D": "note well"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -315,6 +325,8 @@
         "D": "art"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -327,6 +339,8 @@
         "D": "neuter"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -339,6 +353,8 @@
         "D": "conversely"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -351,6 +367,8 @@
         "D": "year"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -363,18 +381,9 @@
         "D": "a pound"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
-    },
-    {
-      "question_number": 32,
-      "question": "Which of the following has the same meaning as the abbreviation “d.s.p.”?",
-      "options": {
-        "A": "ob.s.p.",
-        "B": "h.m.p.",
-        "C": "i.p.i d.r.i.p"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
     },
     {
       "question_number": 33,
@@ -386,6 +395,8 @@
         "D": "he/she drew it"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -398,6 +409,8 @@
         "D": "only once"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -410,11 +423,13 @@
         "D": "below"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 36,
-      "question": "The abbreviation “A.R.” would most likely be said when speaking of which",
+      "question": "The abbreviation “A.R.” would most likely be said when speaking of which person?",
       "options": {
         "A": "Queen Elizabeth",
         "B": "Steve Jobs",
@@ -422,17 +437,36 @@
         "D": "Taylor Swift"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 37,
       "question": "The abbreviation “c.f.” would most likely appear in _____",
       "options": {
-        "A": "c. an online blog",
+        "A": "a newspaper article",
         "B": "an academic journal",
+        "C": "an online blog",
         "D": "a work of fiction"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "When applying for a job, you might submit a _____",
+      "options": {
+        "A": "q.v",
+        "B": "C.V.",
+        "C": "a.h.v",
+        "D": "D.V."
+      },
+      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -445,18 +479,22 @@
         "D": "for example"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 40,
-      "question": "The abbreviation “fl.” refers to _____",
+      "question": "The abbreviation “fl.” refers to _____ Part IV: Quotations 41 ave atque vale",
       "options": {
         "A": "Propertius",
         "B": "Horace",
-        "D": "Catullus",
-        "C": "Ovid"
+        "C": "Ovid",
+        "D": "Catullus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -469,6 +507,8 @@
         "D": "Plautus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -481,6 +521,8 @@
         "D": "Juvenal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -493,6 +535,8 @@
         "D": "Augustus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -505,6 +549,8 @@
         "D": "St. Athanasius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -517,6 +563,8 @@
         "D": "Horace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -529,6 +577,8 @@
         "D": "Seneca"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -541,6 +591,8 @@
         "D": "Plautus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -553,6 +605,8 @@
         "D": "Horace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -565,6 +619,8 @@
         "D": "Livy"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

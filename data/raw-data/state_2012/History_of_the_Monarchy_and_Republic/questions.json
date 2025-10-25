@@ -3,7 +3,8 @@
     "name": "History_of_the_Monarchy_and_Republic",
     "year": "state_2012",
     "subject": "History_of_the_Monarchy_and_Republic",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Aquilonia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Servius Tullius’"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -40,6 +45,8 @@
         "D": "Brundisium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -52,17 +59,22 @@
         "D": "Parthia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 5,
       "question": "Which of these men won the spolia opima?",
       "options": {
-        "A": "c. Marcus Claudius Marcellus",
+        "A": "Aulus Postumius Albinus",
         "B": "Marcus Porcius Cato",
+        "C": "Marcus Claudius Marcellus",
         "D": "Marcus Livius Drusus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -75,6 +87,8 @@
         "D": "Gaius Duilius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -87,6 +101,8 @@
         "D": "Crassus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -99,11 +115,13 @@
         "D": "183 B.C."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 9,
-      "question": "At what early battle of the Second Punic War was Scipio (the future) Africanus said to have saved his",
+      "question": "At what early battle of the Second Punic War was Scipio (the future) Africanus said to have saved his father’s life?",
       "options": {
         "A": "Trebia River",
         "B": "Ticinus River",
@@ -111,6 +129,8 @@
         "D": "Cannae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -123,6 +143,8 @@
         "D": "Quaestor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -135,6 +157,8 @@
         "D": "Scipio Barbatus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -147,6 +171,8 @@
         "D": "Horatius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -159,6 +185,8 @@
         "D": "Porcia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -171,6 +199,8 @@
         "D": "Boii"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -183,6 +213,8 @@
         "D": "Lex Hortensia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -195,17 +227,22 @@
         "D": "Servius Tullius’"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 17,
-      "question": "Lake Vadimo was the site of two battles occurring during Rome’s conquest of Italy. The second of",
+      "question": "Lake Vadimo was the site of two battles occurring during Rome’s conquest of Italy. The second of these two battles occurred just prior to the Pyrrhic War. During what war did the first Battle of Lake Vadimo occur?",
       "options": {
-        "A": "c. Second Samnite War",
+        "A": "First Samnite War",
         "B": "Great Latin War",
+        "C": "Second Samnite War",
         "D": "Third Samnite War"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -218,11 +255,13 @@
         "D": "Mars"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 19,
-      "question": "Directly after what battle in 255 B.C., part of a successful rescue mission, was the Roman fleet",
+      "question": "Directly after what battle in 255 B.C., part of a successful rescue mission, was the Roman fleet caught up in a storm off Sicily and nearly wiped out?",
       "options": {
         "A": "Bagradas Valley",
         "B": "Tunis",
@@ -230,6 +269,8 @@
         "D": "Cape Adyis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -242,11 +283,13 @@
         "D": "Titus Manlius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 21,
-      "question": "What battle of the Third Macedonian War saw a Roman victory and the end of the Antigonid line",
+      "question": "What battle of the Third Macedonian War saw a Roman victory and the end of the Antigonid line which had begun almost two hundred years before with the death of Alexander the Great?",
       "options": {
         "A": "Pydna",
         "B": "Thermopylae",
@@ -254,11 +297,13 @@
         "D": "Magnesia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 22,
-      "question": "What guerilla leader in Lusitania led the resistance against Romans from 146-­‐141 B.C. before being",
+      "question": "What guerilla leader in Lusitania led the resistance against Romans from 146-­‐141 B.C. before being betrayed by his agents?",
       "options": {
         "A": "Vercingetorix",
         "B": "Viriathus",
@@ -266,6 +311,8 @@
         "D": "Minurus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -278,6 +325,8 @@
         "D": "240 B.C."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -290,6 +339,8 @@
         "D": "Tarquinius Superbus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -302,6 +353,8 @@
         "D": "May"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -314,6 +367,8 @@
         "D": "264 B.C."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -326,6 +381,8 @@
         "D": "Naples"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -338,11 +395,13 @@
         "D": "Titus Labienus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 29,
-      "question": "What law of 300 B.C. opened the priesthood up to plebeians, and increased the number of",
+      "question": "What law of 300 B.C. opened the priesthood up to plebeians, and increased the number of pontifices from five to nine?",
       "options": {
         "A": "Lex Valeria",
         "B": "Lex Ogulnia",
@@ -350,11 +409,13 @@
         "D": "Lex Hortensia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 30,
-      "question": "What plebeian tribune of 462 B.C. pushed for codified law in Rome, paving way for the Twelve",
+      "question": "What plebeian tribune of 462 B.C. pushed for codified law in Rome, paving way for the Twelve Tables?",
       "options": {
         "A": "Terentilius Harsa",
         "B": "Spurius Cassius",
@@ -362,6 +423,8 @@
         "D": "Aulus Postumius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -374,6 +437,8 @@
         "D": "Mantrap Wood"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -386,6 +451,8 @@
         "D": "Lugdunum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -398,6 +465,8 @@
         "D": "Ephesus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -410,28 +479,36 @@
         "D": "Julius Proculus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 35,
-      "question": "What Roman commander died at the Baetis River in the Guadalquivir province during the Second",
+      "question": "What Roman commander died at the Baetis River in the Guadalquivir province during the Second Punic War?",
       "options": {
-        "A": "c. Gnaeus Cornelius Scipio",
+        "A": "Publius Cornelius Scipio",
         "B": "Gaius Terrentius Varro",
+        "C": "Gnaeus Cornelius Scipio",
         "D": "Tiberius Sempronius Longus"
       },
       "type": "multiple_choice",
-      "correct_answer": ""
+      "section": null,
+      "section_context": null,
+      "correct_answer": "?"
     },
     {
       "question_number": 36,
       "question": "Who was elected in the place of Tarqunius Collatinus when he stepped down from the consulship?",
       "options": {
-        "A": "c. Aulus Postumius Albinus",
+        "A": "Publius Valerius Publicola",
         "B": "Spurius Lucretius Tricipitinus",
+        "C": "Aulus Postumius Albinus",
         "D": "Lucius Iunius Brutus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -444,6 +521,8 @@
         "D": "lex Titia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -456,6 +535,8 @@
         "D": "Tullus Hostilius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -468,6 +549,8 @@
         "D": "Tarquinius Superbus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -480,6 +563,8 @@
         "D": "Scipio Asiaticus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -492,11 +577,13 @@
         "D": "Lucullus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 42,
-      "question": "Where were a contigent of Gauls defeated by the Romans in 225 B.C. between the First and Second",
+      "question": "Where were a contigent of Gauls defeated by the Romans in 225 B.C. between the First and Second Punic wars?",
       "options": {
         "A": "Cape Telamon",
         "B": "Aquileia",
@@ -504,6 +591,8 @@
         "D": "Gulf of Otranto"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -516,6 +605,8 @@
         "D": "Tarpeia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -528,6 +619,8 @@
         "D": "Crassus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -540,6 +633,8 @@
         "D": "Athenion"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -552,6 +647,8 @@
         "D": "Gaul"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -564,6 +661,8 @@
         "D": "Ambiorix"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -576,6 +675,8 @@
         "D": "Ardea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -588,6 +689,8 @@
         "D": "Baecula"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -600,6 +703,8 @@
         "D": "Marius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

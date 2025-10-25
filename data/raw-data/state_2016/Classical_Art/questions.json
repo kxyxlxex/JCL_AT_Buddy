@@ -3,7 +3,8 @@
     "name": "Classical_Art",
     "year": "state_2016",
     "subject": "Classical_Art",
-    "total_questions": 50
+    "total_questions": 47,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Red-figure"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -28,17 +31,22 @@
         "D": "Kylix"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 3,
-      "question": "What is this cup called?",
+      "question": "What is this cup called? Image",
       "options": {
-        "A": "c. Eleusis Vase",
+        "A": "Dipylon Vase",
         "B": "Bronze Vase from Derveni",
+        "C": "Eleusis Vase",
         "D": "François Vase"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -51,51 +59,23 @@
         "D": "Fourth Style"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 5,
-      "question": "Where are these frescoes located?",
+      "question": "Where are these frescoes located? Image",
       "options": {
-        "A": "c. House of the Vetii",
+        "A": "Villa of Mysteries",
         "B": "Domus Aurea",
+        "C": "House of the Vetii",
         "D": "Villa of Agrippa Postumus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
-    },
-    {
-      "question_number": 6,
-      "question": "In this plan of a Greek temple, identify the pronaos.",
-      "options": {
-        "A": "1",
-        "B": "6",
-        "C": "4 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
-    },
-    {
-      "question_number": 7,
-      "question": "In this plan of a Greek temple, identify the peristyle.",
-      "options": {
-        "A": "5",
-        "B": "2",
-        "C": "8 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
-      "question_number": 8,
-      "question": "In this plan of a Greek temple, identify the room in which the statue of the god",
-      "options": {
-        "A": "5",
-        "B": "6",
-        "C": "3 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
     },
     {
       "question_number": 9,
@@ -107,11 +87,13 @@
         "D": "faience"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 10,
-      "question": "Where was this statue found?",
+      "question": "Where was this statue found? Image",
       "options": {
         "A": "Crete",
         "B": "Cyclades",
@@ -119,6 +101,8 @@
         "D": "Thebes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -131,11 +115,13 @@
         "D": "Hera"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 12,
-      "question": "Who among these oversaw this temple’s sculptural decorations?",
+      "question": "Who among these oversaw this temple’s sculptural decorations? Image",
       "options": {
         "A": "Iktinos",
         "B": "Phidias",
@@ -143,11 +129,13 @@
         "D": "Kallikrates"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 13,
-      "question": "This statue, called “Moschophoros,” or “Calf-Bearer,” exemplifies which period",
+      "question": "This statue, called “Moschophoros,” or “Calf-Bearer,” exemplifies which period of sculpture? Image",
       "options": {
         "A": "Cycladic",
         "B": "Archaic",
@@ -155,6 +143,8 @@
         "D": "Hellenistic"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -167,17 +157,22 @@
         "D": "Jason"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 15,
-      "question": "Where was this statue discovered?",
+      "question": "Where was this statue discovered? Image",
       "options": {
-        "A": "c. Hadrian’s Villa",
+        "A": "Roman Forum",
         "B": "Baths of Caracalla",
+        "C": "Hadrian’s Villa",
         "D": "Forum of Trajan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -190,11 +185,13 @@
         "D": "Brutus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 17,
-      "question": "What style does this bust exemplify?",
+      "question": "What style does this bust exemplify? Image",
       "options": {
         "A": "Idealism",
         "B": "Illusionism",
@@ -202,6 +199,8 @@
         "D": "Hellenism"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -214,6 +213,8 @@
         "D": "3rd c BC"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -226,11 +227,13 @@
         "D": "Apollo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 20,
-      "question": "What is this statue made of?",
+      "question": "What is this statue made of? Image",
       "options": {
         "A": "marble",
         "B": "bronze",
@@ -238,22 +241,27 @@
         "D": "wood"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 21,
       "question": "What is this temple called?",
       "options": {
-        "A": "c. Temple of Venus and Roma",
+        "A": "Temple of Vesta",
         "B": "Temple of Fortuna Virilis",
+        "C": "Temple of Venus and Roma",
         "D": "Temple of Jupiter Capitolinus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 22,
-      "question": "What do we call the scroll-like capitals on Ionic columns?",
+      "question": "What do we call the scroll-like capitals on Ionic columns? Image",
       "options": {
         "A": "Volutes",
         "B": "Acanthus",
@@ -261,11 +269,13 @@
         "D": "Flute"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 23,
-      "question": "This villa has been called the House of the Faun due to the statue that stood in",
+      "question": "This villa has been called the House of the Faun due to the statue that stood in which part of the house?",
       "options": {
         "A": "hortus",
         "B": "impluvium",
@@ -273,11 +283,13 @@
         "D": "triclinium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 24,
-      "question": "In what city was this villa located?",
+      "question": "In what city was this villa located? Image",
       "options": {
         "A": "Rome",
         "B": "Naples",
@@ -285,22 +297,27 @@
         "D": "Pompeii"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 25,
       "question": "This statue is an early example of:",
       "options": {
-        "A": "c. Contrapposto",
+        "A": "Kouros",
         "B": "Kore",
+        "C": "Contrapposto",
         "D": "Imperial portraiture"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 26,
-      "question": "Which of the following describes the sculptor’s technique for creating this piece?",
+      "question": "Which of the following describes the sculptor’s technique for creating this piece? Image",
       "options": {
         "A": "carving",
         "B": "hollow-casting",
@@ -308,6 +325,8 @@
         "D": "repousée"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -320,6 +339,8 @@
         "D": "Sisyphus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -332,11 +353,13 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 29,
-      "question": "Where is this villa located?",
+      "question": "Where is this villa located? Image",
       "options": {
         "A": "Rhodes",
         "B": "Sperlonga",
@@ -344,11 +367,13 @@
         "D": "Tarentum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 30,
-      "question": "What is the subject of this vase-painting?",
+      "question": "What is the subject of this vase-painting? The remaining questions are not related to images on the test.",
       "options": {
         "A": "Gigantomachy",
         "B": "Trojan War",
@@ -356,6 +381,8 @@
         "D": "Dacian Wars"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -368,17 +395,22 @@
         "D": "naos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 32,
       "question": "Which of the following monuments was not located in the Roman Forum?",
       "options": {
-        "A": "c. Temple of Divus Romulus",
+        "A": "Bascilica of Maxentius",
         "B": "Column of Antoninus Pius",
+        "C": "Temple of Divus Romulus",
         "D": "Arch of Constantine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -391,11 +423,13 @@
         "D": "Fourth Style"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 34,
-      "question": "Which Greek sculptor used mathematical formulas to write a treatise on how to",
+      "question": "Which Greek sculptor used mathematical formulas to write a treatise on how to create a perfectly proportioned statue?",
       "options": {
         "A": "Polydoros",
         "B": "Praxiteles",
@@ -403,11 +437,13 @@
         "D": "Polykleitos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 35,
-      "question": "The Roman Pantheon, a temple to “all the gods,” is topped by a dome. What is",
+      "question": "The Roman Pantheon, a temple to “all the gods,” is topped by a dome. What is the term for the circular opening at the apex of the dome?",
       "options": {
         "A": "auris",
         "B": "manus",
@@ -415,6 +451,8 @@
         "D": "nasus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -427,6 +465,8 @@
         "D": "Lord Elgin"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -439,6 +479,8 @@
         "D": "Composite"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -451,22 +493,27 @@
         "D": "Marcus Aurelius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 39,
       "question": "Which of the following was not a building on the Acropolis?",
       "options": {
-        "A": "c. Propylaia",
+        "A": "Erechtheion",
         "B": "Temple of Athena Nike",
+        "C": "Propylaia",
         "D": "Temple of Zeus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 40,
-      "question": "What is the term for a bronze “safety-pin”, which was often elaborately",
+      "question": "What is the term for a bronze “safety-pin”, which was often elaborately decorated?",
       "options": {
         "A": "inaures",
         "B": "anulus",
@@ -474,6 +521,8 @@
         "D": "cameo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -486,6 +535,8 @@
         "D": "Pathos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -498,17 +549,22 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 43,
-      "question": "Which of the following describes the process of removing all mention of a",
+      "question": "Which of the following describes the process of removing all mention of a dishonorable Roman citizen from public monuments?",
       "options": {
-        "A": "c. adlocutio",
+        "A": "damnatio memoriae",
         "B": "spoliation",
+        "C": "adlocutio",
         "D": "largitio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -521,17 +577,22 @@
         "D": "frieze"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 45,
       "question": "Which of the following housed the colossal statue of Constantine?",
       "options": {
-        "A": "c. Bascilica of Maxentius",
+        "A": "Temple of Antoninus and Faustina",
         "B": "Temple of Augustus and Livia",
+        "C": "Bascilica of Maxentius",
         "D": "Diocletian’s Palace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -544,6 +605,8 @@
         "D": "Red-figure"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -556,6 +619,8 @@
         "D": "Kantharos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -568,6 +633,8 @@
         "D": "Numidian Marble"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -580,6 +647,8 @@
         "D": "308 AD"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -592,6 +661,8 @@
         "D": "Lysippus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

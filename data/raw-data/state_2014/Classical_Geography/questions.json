@@ -3,7 +3,8 @@
     "name": "Classical_Geography",
     "year": "state_2014",
     "subject": "Classical_Geography",
-    "total_questions": 50
+    "total_questions": 35,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Praeneste"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Tomis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -40,6 +45,8 @@
         "D": "Romania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -52,11 +59,13 @@
         "D": "Cyprus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 5,
-      "question": "All of the following cities are south of Mt. Olympus except:",
+      "question": "All of the following cities are south of Mt. Olympus except: N.B. Questions 6-10 pertain to ancient places and their modern equivalents",
       "options": {
         "A": "Pydna",
         "B": "Eleusis",
@@ -64,6 +73,8 @@
         "D": "Naupactus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -76,6 +87,8 @@
         "D": "Denmark"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -88,6 +101,8 @@
         "D": "Cartagena"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -100,6 +115,8 @@
         "D": "Salonae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -112,11 +129,13 @@
         "D": "Machareus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 10,
-      "question": "The ancient city of Tingis was located in modern _________.",
+      "question": "The ancient city of Tingis was located in modern _________. N.B. Questions 11-15 pertain to directional geography",
       "options": {
         "A": "Libya",
         "B": "Morocco",
@@ -124,6 +143,8 @@
         "D": "Egypt"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -136,6 +157,8 @@
         "D": "Galatia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -148,6 +171,8 @@
         "D": "West"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -160,6 +185,8 @@
         "D": "West"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -172,11 +199,13 @@
         "D": "Cyzicus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 15,
-      "question": "Which sequence is correct in the city of Rome from West to East:",
+      "question": "Which sequence is correct in the city of Rome from West to East: N.B. Questions 16-20 pertain to provinces of the Roman Empire",
       "options": {
         "A": "Pantheon, Aventine Hill, Forum Romanum, Castra Praetoria",
         "B": "Circus of Nero, Forum Romanum, Horologium, Pyramid of Cestus",
@@ -184,6 +213,8 @@
         "D": "Imperial Rostra, Aventine Hill, Circus Maximus, Baths of Caracalla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -196,6 +227,8 @@
         "D": "Dalmatia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -208,6 +241,8 @@
         "D": "Cyrenaica"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -220,6 +255,8 @@
         "D": "Lugdunensis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -232,11 +269,13 @@
         "D": "Dacia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 20,
-      "question": "Which of the following provinces did NOT border Moesia?",
+      "question": "Which of the following provinces did NOT border Moesia? N.B. Questions 21-30 map of Roman Empire (Map 1)",
       "options": {
         "A": "Cappadocia",
         "B": "Thrace",
@@ -244,17 +283,22 @@
         "D": "Dalmatia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 21,
       "question": "Number",
       "options": {
-        "A": "c. Malta",
+        "A": "Balearic Islands",
         "B": "Aegates Islands",
+        "C": "Malta",
         "D": "Pithecusae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -267,6 +311,8 @@
         "D": "Knossos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -279,6 +325,8 @@
         "D": "Caesaraugusta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -291,73 +339,9 @@
         "D": "Tarentum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
-    },
-    {
-      "question_number": 25,
-      "question": "Cordoba",
-      "options": {
-        "A": "19",
-        "B": "22",
-        "C": "21 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 26,
-      "question": "Syracuse",
-      "options": {
-        "A": "3",
-        "B": "11",
-        "C": "10 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 27,
-      "question": "Constantinople",
-      "options": {
-        "A": "30",
-        "B": "14",
-        "C": "22 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
-      "question_number": 28,
-      "question": "Londinium",
-      "options": {
-        "A": "8",
-        "B": "5",
-        "C": "7 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
-    },
-    {
-      "question_number": 29,
-      "question": "Burdigala",
-      "options": {
-        "A": "16",
-        "B": "18",
-        "C": "17 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
-      "question_number": 30,
-      "question": "Arretium",
-      "options": {
-        "A": "12",
-        "B": "31",
-        "C": "16 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
     },
     {
       "question_number": 31,
@@ -369,6 +353,8 @@
         "D": "Asturica"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -381,6 +367,8 @@
         "D": "Carystus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -393,6 +381,8 @@
         "D": "Thebes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -405,6 +395,8 @@
         "D": "Thessalonica"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -417,94 +409,50 @@
         "D": "Delos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
-    },
-    {
-      "question_number": 36,
-      "question": "Argos",
-      "options": {
-        "A": "2",
-        "B": "3",
-        "C": "8 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
-      "question_number": 37,
-      "question": "Olympia",
-      "options": {
-        "A": "4",
-        "B": "5",
-        "C": "2 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 38,
-      "question": "Iolcus",
-      "options": {
-        "A": "15",
-        "B": "12",
-        "C": "18 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 39,
-      "question": "Andros",
-      "options": {
-        "A": "29",
-        "B": "30",
-        "C": "31 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 40,
-      "question": "Lemnos",
-      "options": {
-        "A": "21",
-        "B": "7",
-        "C": "19 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
     },
     {
       "question_number": 41,
       "question": "Number",
       "options": {
-        "A": "c. Arch of Constantine",
+        "A": "Arch of Titus",
         "B": "Arch of Septimius Severus",
+        "C": "Arch of Constantine",
         "D": "Arch of Augustus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 42,
       "question": "Number",
       "options": {
-        "A": "c. Tabularium",
+        "A": "Curia",
         "B": "Temple of Concord",
+        "C": "Tabularium",
         "D": "Rostra"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 43,
       "question": "Number",
       "options": {
-        "A": "c. Temple of Janus",
+        "A": "Temple of Venus et Roma",
         "B": "Temple of Concord",
+        "C": "Temple of Janus",
         "D": "Temple of Titus and Vespasian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -517,72 +465,35 @@
         "D": "Via Casina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 45,
       "question": "Number",
       "options": {
-        "A": "c. Temple of Castor",
+        "A": "Temple of Concord",
         "B": "Temple of Vesta",
+        "C": "Temple of Castor",
         "D": "Temple of Hercules Victor"
       },
       "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
-      "question_number": 46,
-      "question": "Basilica Sempronia",
-      "options": {
-        "A": "5",
-        "B": "6",
-        "C": "3 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
-      "question_number": 47,
-      "question": "Temple of Antoninus and Faustina",
-      "options": {
-        "A": "11",
-        "B": "2",
-        "C": "15 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
-      "question_number": 48,
-      "question": "Tabularium",
-      "options": {
-        "A": "8",
-        "B": "9",
-        "C": "3 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
-    },
-    {
-      "question_number": 49,
-      "question": "Regia",
-      "options": {
-        "A": "10",
-        "B": "11",
-        "C": "12 d."
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 50,
-      "question": "Temple of Castor",
+      "question": "Temple of Castor Map 1 (for questions 21-30) Map 2 (for questions 31-40) Map 3 (for questions 41-50)",
       "options": {
         "A": "6",
         "B": "12",
         "C": "4 d."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     }
   ]

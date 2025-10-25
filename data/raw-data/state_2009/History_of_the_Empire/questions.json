@@ -3,7 +3,8 @@
     "name": "History_of_the_Empire",
     "year": "state_2009",
     "subject": "History_of_the_Empire",
-    "total_questions": 50
+    "total_questions": 47,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Otho"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,28 +31,36 @@
         "D": "The Nature of Things"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 3,
       "question": "What reforms were made law under the Lex Iulia issued by Augustus?",
       "options": {
-        "A": "c. limiting marriage between classes",
+        "A": "encourage birth of children",
         "B": "punishment of adultery",
+        "C": "limiting marriage between classes",
         "D": "all of the above"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 4,
       "question": "What is the sequence of emperors in “the year of the four emperors” in 69 CE?",
       "options": {
-        "A": "c. Otho, Galba, Vitellius, Vespasian",
+        "A": "Galba, Otho, Vitellius, Vespasian",
         "B": "Galba, Vitellius, Otho, Vespasian",
+        "C": "Otho, Galba, Vitellius, Vespasian",
         "D": "Vitellius, Galba, Otho, Vespasian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -62,17 +73,22 @@
         "D": "Tascia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 6,
       "question": "Which Roman general lost three legions at the Battle of Teutoburg Forrest?",
       "options": {
-        "A": "c. P. Quintilian Varus",
+        "A": "P. Quinctilius Varus",
         "B": "P. Quintus Varo",
+        "C": "P. Quintilian Varus",
         "D": "P. Ovidius Naso"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -85,6 +101,8 @@
         "D": "Titus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -97,6 +115,8 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -109,6 +129,8 @@
         "D": "Didius Julianus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -121,6 +143,8 @@
         "D": "Septimius Severus, Carcalla, Macrinus, Elagalbus, Alexander Serverus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -133,6 +157,8 @@
         "D": "294 CE"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -145,6 +171,8 @@
         "D": "Majorianus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -157,6 +185,8 @@
         "D": "Geta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -169,6 +199,8 @@
         "D": "Artabasdos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -181,6 +213,8 @@
         "D": "Theodosian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -193,6 +227,8 @@
         "D": "410 CE"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -205,6 +241,8 @@
         "D": "Mariamne"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -217,6 +255,8 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -229,6 +269,8 @@
         "D": "Caracalla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -241,6 +283,8 @@
         "D": "Antonine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -253,6 +297,8 @@
         "D": "Berenike"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -265,17 +311,22 @@
         "D": "Flavius Silva"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 23,
       "question": "How did Commodus die?",
       "options": {
-        "A": "c. He died from old-age",
+        "A": "He was poisoned then strangled",
         "B": "He died playing “gladiator”",
+        "C": "He died from old-age",
         "D": "He was decapitated"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -288,20 +339,13 @@
         "D": "Basil"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
-      "question_number": 25,
-      "question": "What commander of the legions of the Upper Rhine conspired to replace Caligula with a senator",
-      "options": {
-        "C": "Iulius Classicus"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
       "question_number": 26,
-      "question": "Who was Galba’s freedman advisor who brought word that the Senate had appointed him",
+      "question": "Who was Galba’s freedman advisor who brought word that the Senate had appointed him emperor?",
       "options": {
         "A": "Laco",
         "B": "Icelus",
@@ -309,6 +353,8 @@
         "D": "Vezinas"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -321,17 +367,22 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 28,
       "question": "Which law granted Roman citizenship to all those living in free provinces?",
       "options": {
-        "A": "c. Lex Vatinia",
+        "A": "Lex Papia Poppea",
         "B": "Lex Iulia",
+        "C": "Lex Vatinia",
         "D": "Constitutio Antoniniana"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -344,6 +395,8 @@
         "D": "Nero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -356,6 +409,8 @@
         "D": "Immae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -368,16 +423,9 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
-    },
-    {
-      "question_number": 32,
-      "question": "Who proposed to the Senate that",
-      "options": {
-        "C": "Maecenas d. Munatius Plancus"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
     },
     {
       "question_number": 33,
@@ -389,6 +437,8 @@
         "D": "Aulus Caecina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -401,6 +451,8 @@
         "D": "Corsica"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -413,6 +465,8 @@
         "D": "Q. Marcius Turbo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -425,6 +479,8 @@
         "D": "Aper"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -437,6 +493,8 @@
         "D": "Julia Soaemias"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -449,6 +507,8 @@
         "D": "Theodora"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -461,6 +521,8 @@
         "D": "Petronius Secundus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -473,6 +535,8 @@
         "D": "Diocletian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -485,6 +549,8 @@
         "D": "Statius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -497,6 +563,8 @@
         "D": "Camulodunum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -509,6 +577,8 @@
         "D": "Maximinus Daia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -521,6 +591,8 @@
         "D": "Ricimer"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -533,6 +605,8 @@
         "D": "16 BCE"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -545,6 +619,8 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -557,11 +633,13 @@
         "D": "Antonia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 48,
-      "question": "Who was the Roman general who waged an inconclusive guerrilla style offensive against the",
+      "question": "Who was the Roman general who waged an inconclusive guerrilla style offensive against the Numidian prince Tacfarinas in 22?",
       "options": {
         "A": "Dollabella",
         "B": "Iunius Blaesus",
@@ -569,16 +647,9 @@
         "D": "Vitelleus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
-    },
-    {
-      "question_number": 49,
-      "question": "Which general conquered Mauretania under Claudius?",
-      "options": {
-        "A": "Plautius c. Flavius Vespasianus d. Suetonius Paulinus"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
     },
     {
       "question_number": 50,
@@ -590,6 +661,8 @@
         "D": "378 CE"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

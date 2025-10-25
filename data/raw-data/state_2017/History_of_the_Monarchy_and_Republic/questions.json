@@ -3,12 +3,13 @@
     "name": "History_of_the_Monarchy_and_Republic",
     "year": "state_2017",
     "subject": "History_of_the_Monarchy_and_Republic",
-    "total_questions": 50
+    "total_questions": 43,
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "Choose the best possible answer. Where do Marc Antony and Octavian defeat Brutus and Cassius in 42?",
+      "question": "Where do Marc Antony and Octavian defeat Brutus and Cassius in 42?",
       "options": {
         "A": "Mutina",
         "B": "Philippi",
@@ -16,11 +17,13 @@
         "D": "Amphipolis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 2,
-      "question": "Choose the best possible answer. What law gave Pompey the command against the Mediterranean piracy?",
+      "question": "What law gave Pompey the command against the Mediterranean piracy?",
       "options": {
         "A": "Lex Papia",
         "B": "Lex Iulia",
@@ -28,11 +31,13 @@
         "D": "Lex Gabinia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 3,
-      "question": "Choose the best possible answer. Which temple was built to celebrate the end of Class Struggle between the",
+      "question": "Which temple was built to celebrate the end of Class Struggle between the patricians and plebeians?",
       "options": {
         "A": "Peace",
         "B": "Concord",
@@ -40,22 +45,27 @@
         "D": "Jupiter Stator"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 4,
-      "question": "Choose the best possible answer. Which event led to the Social War?",
+      "question": "Which event led to the Social War?",
       "options": {
-        "A": "b. the passing of the Lex Iulia",
+        "A": "the annexation of Pompeii",
         "C": "the assassination of M. Livius Drusus",
+        "B": "the passing of the Lex Iulia",
         "D": "a great fire in Samnium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 5,
-      "question": "Choose the best possible answer. What kingdom did Attalus III bequeath to Rome in 133?",
+      "question": "What kingdom did Attalus III bequeath to Rome in 133?",
       "options": {
         "A": "Bithynia",
         "B": "Galatia",
@@ -63,11 +73,13 @@
         "D": "Pergamum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 6,
-      "question": "Choose the best possible answer. Who massacred 80,000 Romans and Italians in Pontus in 88?",
+      "question": "Who massacred 80,000 Romans and Italians in Pontus in 88?",
       "options": {
         "A": "Archelaus",
         "B": "Mithridates",
@@ -75,22 +87,13 @@
         "D": "Nicomedes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
-      "question_number": 7,
-      "question": "Choose the best possible answer. How many total number of Servile Wars was fought between 135-71?",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
       "question_number": 8,
-      "question": "Choose the best possible answer. On whom did Carthage declare war in 151?",
+      "question": "On whom did Carthage declare war in 151?",
       "options": {
         "A": "Masinissa",
         "B": "Massiva",
@@ -98,11 +101,13 @@
         "D": "Gala"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 9,
-      "question": "Choose the best possible answer. Who defeated Marcellus during his siege of Syracuse by his creative inventions?",
+      "question": "Who defeated Marcellus during his siege of Syracuse by his creative inventions?",
       "options": {
         "A": "Archimedes",
         "B": "Thales",
@@ -110,11 +115,13 @@
         "D": "Hieronymus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 10,
-      "question": "Choose the best possible answer. What battle resulted with a Roman surrender during the 2nd Samnite War?",
+      "question": "What battle resulted with a Roman surrender during the 2nd Samnite War?",
       "options": {
         "A": "Caudine Forks",
         "B": "Lautulae",
@@ -122,22 +129,27 @@
         "D": "Tarracina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 11,
-      "question": "Choose the best possible answer. What office was created from the 1st Plebeian Secession?",
+      "question": "What office was created from the 1st Plebeian Secession?",
       "options": {
-        "A": "b. Tribunus Aerarii",
+        "A": "Tribunus Plebis",
         "C": "Tribunus Militum",
+        "B": "Tribunus Aerarii",
         "D": "Tribunus Celerum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 12,
-      "question": "Choose the best possible answer. What is another name for the office of Magister Populi?",
+      "question": "What is another name for the office of Magister Populi?",
       "options": {
         "A": "Imperator",
         "B": "Censor",
@@ -145,23 +157,13 @@
         "D": "Dictator"
       },
       "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 13,
-      "question": "Choose the best possible answer. Who was co-consul with Cicero in 63?",
-      "options": {
-        "A": "P. Cornelius Lentulus c.",
-        "D": "Iunius Silanus",
-        "B": "L. Iulius Caesar d.",
-        "C": "Antonius Hybrida"
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 14,
-      "question": "Choose the best possible answer. Where did Marius defeat the Cimbri in 101?",
+      "question": "Where did Marius defeat the Cimbri in 101?",
       "options": {
         "A": "Aquae Sextiae",
         "B": "Vercellae",
@@ -169,22 +171,13 @@
         "D": "Massilia"
       },
       "type": "multiple_choice",
-      "correct_answer": "C"
-    },
-    {
-      "question_number": 15,
-      "question": "Choose the best possible answer. What Roman displayed legendary rectitude and incorruptibility to Pyrrhus?",
-      "options": {
-        "A": "Ap. Claudius Caecus",
-        "C": "Fabricius Luscinus",
-        "B": "P. Cornelius Rufinus d."
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 16,
-      "question": "Choose the best possible answer. What office did Appius Claudius hold when he built the Via Appia in 312?",
+      "question": "What office did Appius Claudius hold when he built the Via Appia in 312?",
       "options": {
         "A": "censor",
         "B": "aedile",
@@ -192,11 +185,13 @@
         "D": "quaestor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 17,
-      "question": "Choose the best possible answer. What city did the dictator Camillus capture in 396?",
+      "question": "What city did the dictator Camillus capture in 396?",
       "options": {
         "A": "Caere",
         "B": "Populonia",
@@ -204,11 +199,13 @@
         "D": "Veii"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 18,
-      "question": "Choose the best possible answer. What king is said to have built the Pons Sublicius?",
+      "question": "What king is said to have built the Pons Sublicius?",
       "options": {
         "A": "Romulus",
         "B": "Numa Pompilius",
@@ -216,11 +213,13 @@
         "D": "Ancus Marcius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 19,
-      "question": "Choose the best possible answer. Who actually raised Romulus and Remus to adults?",
+      "question": "Who actually raised Romulus and Remus to adults?",
       "options": {
         "A": "Rhea Silvia",
         "B": "Hersilia",
@@ -228,11 +227,13 @@
         "D": "Lupa"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 20,
-      "question": "Choose the best possible answer. What king fought Rome from 280-275?",
+      "question": "What king fought Rome from 280-275?",
       "options": {
         "A": "Pyrrhus",
         "B": "Glaucias",
@@ -240,11 +241,13 @@
         "D": "Ptolemy Ceraunus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 21,
-      "question": "Choose the best possible answer. Whom does Octavian deny the right to dedicate the spolia opima in 29?",
+      "question": "Whom does Octavian deny the right to dedicate the spolia opima in 29?",
       "options": {
         "A": "Agrippa",
         "B": "Crassus",
@@ -252,11 +255,13 @@
         "D": "Ahenobarbus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 22,
-      "question": "Choose the best possible answer. What Sueban king did Caesar defeat at the Battle of Vosges in 58?",
+      "question": "What Sueban king did Caesar defeat at the Battle of Vosges in 58?",
       "options": {
         "A": "Vercingetorix",
         "B": "Divico",
@@ -264,11 +269,13 @@
         "D": "Orgetorix"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 23,
-      "question": "Choose the best possible answer. Who created the Acta Diurna, the world’s 1st daily newspaper?",
+      "question": "Who created the Acta Diurna, the world’s 1st daily newspaper?",
       "options": {
         "A": "Cicero",
         "B": "Crassus",
@@ -276,11 +283,13 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 24,
-      "question": "Choose the best possible answer. Who assassinated Sertorius in 72?",
+      "question": "Who assassinated Sertorius in 72?",
       "options": {
         "A": "Perperna",
         "B": "Pompey",
@@ -288,11 +297,13 @@
         "D": "Calvinus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 25,
-      "question": "Choose the best possible answer. Who restored Ptolemy Auletes to the throne of Egypt in 55?",
+      "question": "Who restored Ptolemy Auletes to the throne of Egypt in 55?",
       "options": {
         "A": "Caesar",
         "B": "Gabinius",
@@ -300,11 +311,13 @@
         "D": "Pompey"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 26,
-      "question": "Choose the best possible answer. Whose agrarian law did Caecilus Metellus Numidicus refuse to swear in 100?",
+      "question": "Whose agrarian law did Caecilus Metellus Numidicus refuse to swear in 100?",
       "options": {
         "A": "Memmius",
         "B": "Servilius Glaucia",
@@ -312,11 +325,13 @@
         "D": "Saturninus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 27,
-      "question": "Choose the best possible answer. Where did Jugurtha receive great stature from Scipio Aemilianus in 133?",
+      "question": "Where did Jugurtha receive great stature from Scipio Aemilianus in 133?",
       "options": {
         "A": "Cirta",
         "B": "Rome",
@@ -324,22 +339,27 @@
         "D": "Mauretania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 28,
-      "question": "Choose the best possible answer. What proconsul in Gaul in 120 completed the defeat of the Allobroges?",
+      "question": "What proconsul in Gaul in 120 completed the defeat of the Allobroges?",
       "options": {
-        "A": "b. Q. Caecilius Metelus",
+        "A": "Q. Fabius Maximus",
         "C": "M. Aemilius Scaurus",
+        "B": "Q. Caecilius Metelus",
         "D": "Sextius Calvinus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 29,
-      "question": "Choose the best possible answer. What Lusitanian commander was successful from 144-139 against Rome?",
+      "question": "What Lusitanian commander was successful from 144-139 against Rome?",
       "options": {
         "A": "Sertorius",
         "B": "Viriathus",
@@ -347,11 +367,13 @@
         "D": "Minurus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 30,
-      "question": "Choose the best possible answer. Who proposed acceptance to the Roman terms for the surrender of Carthage",
+      "question": "Who proposed acceptance to the Roman terms for the surrender of Carthage after the Battle of Zama?",
       "options": {
         "A": "Hasdrubal",
         "B": "Himilco",
@@ -359,33 +381,27 @@
         "D": "Hampsicora"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 31,
-      "question": "Choose the best possible answer. What ended the 1st Macedonian War formally in 205?",
+      "question": "What ended the 1st Macedonian War formally in 205?",
       "options": {
-        "A": "b. Peace of Phoenice",
+        "A": "death of Marcellus",
         "C": "pact between Philip V and Aetolia",
+        "B": "Peace of Phoenice",
         "D": "defeat of Hasdrubal at the Metaurus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
-      "question_number": 32,
-      "question": "Choose the best possible answer. What Roman general stayed behind in Spain after Hannibal reached the Alps?",
-      "options": {
-        "A": "Cn. Cornelius Scipio",
-        "C": "Flaminius Nepos",
-        "B": "Cn. Servilius Geminus d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
       "question_number": 33,
-      "question": "Choose the best possible answer. After what victory was Regulus able to invade Carthage in 256?",
+      "question": "After what victory was Regulus able to invade Carthage in 256?",
       "options": {
         "A": "Ecnomus",
         "B": "Panormus",
@@ -393,11 +409,13 @@
         "D": "Mylae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 34,
-      "question": "Choose the best possible answer. After what victory was the 1st major Roman fleet constructed?",
+      "question": "After what victory was the 1st major Roman fleet constructed?",
       "options": {
         "A": "Syracuse",
         "B": "Agrigentum",
@@ -405,11 +423,13 @@
         "D": "Mylae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 35,
-      "question": "Choose the best possible answer. Who originally hired the Mamertines as mercenaries?",
+      "question": "Who originally hired the Mamertines as mercenaries?",
       "options": {
         "A": "Hanno",
         "B": "Ophellas",
@@ -417,22 +437,13 @@
         "D": "Agathocles"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
-      "question_number": 36,
-      "question": "Choose the best possible answer. Who sponsored the law in 287 made all plebiscita binding on all citizens?",
-      "options": {
-        "A": "Quintus Hortensius",
-        "C": "Licinius Stolo",
-        "B": "Lucius Genucius d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
       "question_number": 37,
-      "question": "Choose the best possible answer. Whom did Rome intervene to rescue in the 1st Samnite War?",
+      "question": "Whom did Rome intervene to rescue in the 1st Samnite War?",
       "options": {
         "A": "Capua",
         "B": "Naples",
@@ -440,22 +451,27 @@
         "D": "Venusia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 38,
-      "question": "Choose the best possible answer. Which law effected the replacement of consuls with military tribunes and",
+      "question": "Which law effected the replacement of consuls with military tribunes and allowed plebians to marry patricians?",
       "options": {
-        "A": "b. Lex Licinia-Sextia",
+        "A": "Lex Icilia",
         "C": "Lex Hortensia",
+        "B": "Lex Licinia-Sextia",
         "D": "Lex Canuleia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 39,
-      "question": "Choose the best possible answer. What was the capital city of Lars Porsenna?",
+      "question": "What was the capital city of Lars Porsenna?",
       "options": {
         "A": "Perugia",
         "B": "Caere",
@@ -463,11 +479,13 @@
         "D": "Volaterrae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 40,
-      "question": "Choose the best possible answer. Where did Marc Antony first meet and form an alliance with Cleopatra?",
+      "question": "Where did Marc Antony first meet and form an alliance with Cleopatra?",
       "options": {
         "A": "Tarsus",
         "B": "Ephesus",
@@ -475,11 +493,13 @@
         "D": "Alexandria"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 41,
-      "question": "Choose the best possible answer. Who led the Parthians when Crassus was killed in 53?",
+      "question": "Who led the Parthians when Crassus was killed in 53?",
       "options": {
         "A": "Orodes II",
         "B": "Artavasdes",
@@ -487,11 +507,13 @@
         "D": "Surena"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 42,
-      "question": "Choose the best possible answer. Whom does Caesar install as king in Britain in his invasion of 52?",
+      "question": "Whom does Caesar install as king in Britain in his invasion of 52?",
       "options": {
         "A": "Mandubracius",
         "B": "Segovax",
@@ -499,11 +521,13 @@
         "D": "Cassivellaunus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 43,
-      "question": "Choose the best possible answer. As Sulla besieged Athens in 87, whom did Sulla order to raise a fleet?",
+      "question": "As Sulla besieged Athens in 87, whom did Sulla order to raise a fleet?",
       "options": {
         "A": "Pompey",
         "B": "Lucullus",
@@ -511,11 +535,13 @@
         "D": "Aemilius Lepidus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 44,
-      "question": "Choose the best possible answer. After the death of Marc Antony in 30, who raised all of his children?",
+      "question": "After the death of Marc Antony in 30, who raised all of his children?",
       "options": {
         "A": "Antonia",
         "B": "Fulvia",
@@ -523,11 +549,13 @@
         "D": "Livia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 45,
-      "question": "Choose the best possible answer. What tribe opposed Hannibal’s march through the Alps?",
+      "question": "What tribe opposed Hannibal’s march through the Alps?",
       "options": {
         "A": "Allobroges",
         "B": "Germani",
@@ -535,61 +563,50 @@
         "D": "Sequani"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
-      "question_number": 46,
-      "question": "Choose the best possible answer. Although the Dictator Mamercus was granted a triumph, who claimed the",
-      "options": {
-        "A": "Cornelius Cossus",
-        "C": "S. Antius",
-        "B": "M. Claudius Marcellus d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
       "question_number": 47,
-      "question": "Choose the best possible answer. What Sabine chief in 460 occupied the citadel of the Capitol in Rome?",
+      "question": "What Sabine chief in 460 occupied the citadel of the Capitol in Rome?",
       "options": {
-        "A": "b. Pontius Telesinus",
+        "A": "Attus Clausus",
         "C": "Gellius Egnatius",
+        "B": "Pontius Telesinus",
         "D": "Appius Herdonius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 48,
-      "question": "Choose the best possible answer. According to Livy, who succeeded L. Tarquinius Collatinus?",
+      "question": "According to Livy, who succeeded L. Tarquinius Collatinus?",
       "options": {
-        "A": "b. M. Horatius Pulvillus",
+        "A": "P. Valerius Poplicola",
         "C": "S. Lucretius Tricipitinus",
+        "B": "M. Horatius Pulvillus",
         "D": "P. Postumius Tubertus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
-      "question_number": 49,
-      "question": "Choose the best possible answer. According to Livy, who first explained the deification of Romulus to the people?",
-      "options": {
-        "A": "Numa Pompilius",
-        "B": "M. Valerius",
-        "C": "Cluilius"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
       "question_number": 50,
-      "question": "Choose the best possible answer. According to Livy, what was the 1st act of Romulus as king?",
+      "question": "According to Livy, what was the 1st act of Romulus as king?",
       "options": {
-        "A": "b. increase the population",
+        "A": "create the Senate",
         "C": "build the Temple of Jupiter Stator",
+        "B": "increase the population",
         "D": "fortify the Palatine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     }
   ]

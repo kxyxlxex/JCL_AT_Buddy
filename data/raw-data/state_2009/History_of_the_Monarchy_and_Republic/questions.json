@@ -3,7 +3,8 @@
     "name": "History_of_the_Monarchy_and_Republic",
     "year": "state_2009",
     "subject": "History_of_the_Monarchy_and_Republic",
-    "total_questions": 50
+    "total_questions": 42,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Tarquinius Priscus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -40,11 +45,13 @@
         "D": "Marius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 4,
-      "question": "The Roman consuls Claudius Nero and Livius Salinator were victorious over Hannibal’s brother",
+      "question": "The Roman consuls Claudius Nero and Livius Salinator were victorious over Hannibal’s brother Hasdrubal at what battle in 207?",
       "options": {
         "A": "Zama",
         "B": "Metaurus River",
@@ -52,6 +59,8 @@
         "D": "Baecula"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -64,6 +73,8 @@
         "D": "Aegates Islands"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -76,6 +87,8 @@
         "D": "Verginia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -88,6 +101,8 @@
         "D": "Munda"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -100,6 +115,8 @@
         "D": "Beneventum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -112,6 +129,8 @@
         "D": "Curio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -124,6 +143,8 @@
         "D": "Gaius Gracchus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -136,17 +157,22 @@
         "D": "Phillip V"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 12,
-      "question": "The 5th century leader _____________ was assassinated for proposing laws which would distribute",
+      "question": "The 5th century leader _____________ was assassinated for proposing laws which would distribute free grain to the poor.",
       "options": {
-        "A": "c. L. Minucius",
+        "A": "Coriolanus",
         "B": "Spurius Cassius",
+        "C": "L. Minucius",
         "D": "Appius Claudius Caudex"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -159,6 +185,8 @@
         "D": "Arausio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -171,17 +199,22 @@
         "D": "Sp. Lucretius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 15,
       "question": "What law of 287 made plebiscita binding upon the whole community of Roman citizens?",
       "options": {
-        "A": "c. lex Valeria",
+        "A": "lex Hortensia",
         "B": "leges Liciniae Sextiae",
+        "C": "lex Valeria",
         "D": "lex Canuleia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -194,6 +227,8 @@
         "D": "Ecnomus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -206,6 +241,8 @@
         "D": "Sulla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -218,11 +255,13 @@
         "D": "Vercellae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 19,
-      "question": "The sacred geese of Juno startled __________ who saved Rome from the Gauls and earned the",
+      "question": "The sacred geese of Juno startled __________ who saved Rome from the Gauls and earned the cognomen Capitolinus.",
       "options": {
         "A": "T. Hermenius",
         "B": "P. Cornelius",
@@ -230,6 +269,8 @@
         "D": "Q. Caecilius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -242,6 +283,8 @@
         "D": "Cornelius Dollabella"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -254,6 +297,8 @@
         "D": "Nemean"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -266,17 +311,8 @@
         "D": "Saguntum"
       },
       "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 23,
-      "question": "Which general, known as the “Sword of Rome,” sacked Syracuse in 211?",
-      "options": {
-        "A": "Fulvius Flaccus",
-        "B": "Q. Fabius Maximus c.",
-        "C": "Flaminius d. M. Claudius Marcellus"
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -289,6 +325,8 @@
         "D": "L. Hirtuleius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -301,18 +339,9 @@
         "D": "lex Titia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
-    },
-    {
-      "question_number": 26,
-      "question": "Against which man was the first Senatus Consultum Ultimum directed?",
-      "options": {
-        "A": "Marius",
-        "B": "Cinna c.",
-        "C": "Gracchus d. Catiline"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
     },
     {
       "question_number": 27,
@@ -324,17 +353,22 @@
         "D": "Cassius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 28,
       "question": "Which of these generals was victorious at the battle of Magnesia in 189?",
       "options": {
-        "A": "c. M’. Acilius Glabrio",
+        "A": "L. Cornelius Scipio",
         "B": "P. Cornelius Scipio Aemilianus",
+        "C": "M’. Acilius Glabrio",
         "D": "T. Quinctius Flamininus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -347,26 +381,8 @@
         "D": "Tarquinius Priscus"
       },
       "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
-      "question_number": 30,
-      "question": "What tribune’s death precipitated the outbreak of the Social War?",
-      "options": {
-        "A": "Livius Drusus’",
-        "B": "Saturninus’",
-        "C": "Vatinius’"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 31,
-      "question": "Which of Antony’s lieutenants captured Jerusalem from the Parthians in 37 and installed Herod as",
-      "options": {
-        "C": "Asinius Pollio d. P. Ventidius"
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -379,17 +395,22 @@
         "D": "Antium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 33,
-      "question": "The first occurance of prorogatio, or a prolonged imperium, took place in 326 B.C. when",
+      "question": "The first occurance of prorogatio, or a prolonged imperium, took place in 326 B.C. when ___________ laid seige to Neapolis.",
       "options": {
-        "A": "c. Appius Claudius Caecus",
+        "A": "Q. Publilius Philo",
         "B": "Q. Marcius Rex",
+        "C": "Appius Claudius Caecus",
         "D": "L. Cornelius Scipio Barbatus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -402,6 +423,8 @@
         "D": "Licinius Crassus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -414,6 +437,8 @@
         "D": "Aristonicus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -426,27 +451,9 @@
         "D": "Cleopatra"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
-    },
-    {
-      "question_number": 37,
-      "question": "In 200 the consul _____________ called for the Comitia Centuriata to declare war on Phillip II.",
-      "options": {
-        "A": "M. Porcius Cato",
-        "B": "M. Valerius Messala",
-        "C": "Terrentius Varro d. P. Sulpicius Galba"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 38,
-      "question": "What tribune did the Senate order Marius to apprehend because of his use of mob violence?",
-      "options": {
-        "C": "Gracchus b. Saturninus c. Sulpicius Rufus d. Clodius Pulcher"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
     },
     {
       "question_number": 39,
@@ -458,6 +465,8 @@
         "D": "Salvius’"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -470,6 +479,8 @@
         "D": "Aesernia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -482,17 +493,22 @@
         "D": "Jugurtha"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 42,
       "question": "Who was the victorious general at the battle of Lake Regillus in 496?",
       "options": {
-        "A": "c. Valerius Publicola",
+        "A": "Papirius Cursor",
         "B": "Postumius Albinus",
+        "C": "Valerius Publicola",
         "D": "Appius Claudius Caudex"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -505,33 +521,41 @@
         "D": "Sosigenes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 44,
       "question": "Which general sacked Corinth in 146?",
       "options": {
-        "A": "c. M. Licinius Crassus",
+        "A": "Scipio Aemilianus",
         "B": "Metellus Macedonicus",
+        "C": "M. Licinius Crassus",
         "D": "L. Mummius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 45,
       "question": "Which city did Pompey capture in 64 to effectively end the last Mithridatic War?",
       "options": {
-        "A": "c. Antioch",
+        "A": "Jerusalem",
         "B": "Panticipaeum",
+        "C": "Antioch",
         "D": "Nicopolis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 46,
-      "question": "The palace of Tullus Hostilius on the __________ hill was struck by lightning after the king",
+      "question": "The palace of Tullus Hostilius on the __________ hill was struck by lightning after the king misperformed a ceremony to Jupiter Elicius.",
       "options": {
         "A": "Palatine",
         "B": "Capitoline",
@@ -539,39 +563,22 @@
         "D": "Caelian"
       },
       "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
-      "question_number": 47,
-      "question": "Which of these men was the first plebeian to become censor?",
-      "options": {
-        "C": "Marcius Rutilus b. L. Licinius Stolo",
-        "A": "c. L. Manlius Torquatus",
-        "D": "L. Sextius"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
-      "question_number": 48,
-      "question": "After Octavian marched on Rome in 43, who served as his co-consul?",
-      "options": {
-        "A": "Hirtius d. Asinius Pollio",
-        "B": "Q. Pedius c."
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 49,
-      "question": "Where was",
+      "question": "Where was C. Triarius defeated by Mithridates in 67?",
       "options": {
-        "C": "Zela",
         "A": "Tigranocerta",
         "B": "Cabira",
+        "C": "Zela",
         "D": "Cyzicus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -584,6 +591,8 @@
         "D": "Cyprus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

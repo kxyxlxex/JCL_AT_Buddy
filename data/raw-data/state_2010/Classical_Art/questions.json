@@ -3,7 +3,8 @@
     "name": "Classical_Art",
     "year": "state_2010",
     "subject": "Classical_Art",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
@@ -16,22 +17,27 @@
         "D": "Knossos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 2,
       "question": "Which of the following is not considered a work of Minoan Art?",
       "options": {
-        "A": "c. Snake Goddess",
+        "A": "Cycladic Figurines",
         "B": "Toreador Fresco",
+        "C": "Snake Goddess",
         "D": "Hagia Triada Sarcophagus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 3,
-      "question": "What technique of architecture did the Myceneans use to build the dome of the “Treasury of",
+      "question": "What technique of architecture did the Myceneans use to build the dome of the “Treasury of Atreus”?",
       "options": {
         "A": "Block and lintel",
         "B": "concrete",
@@ -39,11 +45,13 @@
         "D": "Cyclopean masonry"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 4,
-      "question": "The golden Vaphio cups, which are sometimes considered to be a creation of Minoan artists, has",
+      "question": "The golden Vaphio cups, which are sometimes considered to be a creation of Minoan artists, has what subject running around the outside surface?",
       "options": {
         "A": "a lion hunt",
         "B": "a bull hunt",
@@ -51,6 +59,8 @@
         "D": "departure for a war"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -63,6 +73,8 @@
         "D": "Ictinus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -75,6 +87,8 @@
         "D": "Geometric, Black figure, Red Figure, White Ground"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -87,11 +101,13 @@
         "D": "Smooth and rounded features, nude, calm expression, tilted hips"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 8,
-      "question": "What order of architecture had a column that sat directly on the stylobate, with tryglyphs and",
+      "question": "What order of architecture had a column that sat directly on the stylobate, with tryglyphs and metopes in the entablature above the column?",
       "options": {
         "A": "Composite",
         "B": "Corinthian",
@@ -99,22 +115,27 @@
         "D": "Ionic"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 9,
       "question": "What is the subject of the metopes on the Temple of Zeus at Olympia?",
       "options": {
-        "A": "c. The battle of Lapiths and Centaurs",
+        "A": "Chariot race of Pelops and Oenomaus",
         "B": "Labors of Heracles",
+        "C": "The battle of Lapiths and Centaurs",
         "D": "Titanomachy"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 10,
-      "question": "The famous Discobolos (Discus-thrower), though only known from Roman copies, was originally",
+      "question": "The famous Discobolos (Discus-thrower), though only known from Roman copies, was originally made by which Greek sculptor?",
       "options": {
         "A": "Myron",
         "B": "Libon",
@@ -122,22 +143,27 @@
         "D": "Isocrates"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 11,
       "question": "Which of the buildings on the Athenian Acropolis was built first?",
       "options": {
-        "A": "c. Erechthion",
+        "A": "Parthenon",
         "B": "Propylaea",
+        "C": "Erechthion",
         "D": "Temple of Athena Nike"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 12,
-      "question": "Which 4th century BC sculptor was known for the shallow S curve of his standing figures most",
+      "question": "Which 4th century BC sculptor was known for the shallow S curve of his standing figures most famously seen in the copies of the Cnidian Aphrodite?",
       "options": {
         "A": "Lysippos",
         "B": "Praxiteles",
@@ -145,28 +171,36 @@
         "D": "Scopas"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 13,
-      "question": "The Roman Alexander mosaic from the ______ in Pompeii is thought to be a copy of an earlier",
+      "question": "The Roman Alexander mosaic from the ______ in Pompeii is thought to be a copy of an earlier Greek painting that depicts the turning point of the Battle of Issus.",
       "options": {
-        "A": "c. House of the Silver Wedding",
+        "A": "House of the Vettii",
         "B": "House of the Tragic Poet",
+        "C": "House of the Silver Wedding",
         "D": "House of the Faun"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 14,
       "question": "The Gigantomachy was shown in sculpture on which of these?",
       "options": {
-        "A": "c. the Altar of Zeus at Pergamum",
+        "A": "the pediment of the Siphnian Treasury",
         "B": "the Parthenon’s north metopes",
+        "C": "the Altar of Zeus at Pergamum",
         "D": "both B and C"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -179,6 +213,8 @@
         "D": "Maxentius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -191,17 +227,22 @@
         "D": "Vespasian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 17,
       "question": "The Decumanus Maximus was a hallmark of what aspect of Roman art and architecture?",
       "options": {
-        "A": "c. sculptural proportions",
+        "A": "vaulting systems",
         "B": "temple construction",
+        "C": "sculptural proportions",
         "D": "city planning"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -214,6 +255,8 @@
         "D": "Maxentius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -226,22 +269,27 @@
         "D": "Septimius Severus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 20,
-      "question": "Julius Caesar started and Augustus completed the building of the Forum Iulium. What building",
+      "question": "Julius Caesar started and Augustus completed the building of the Forum Iulium. What building dominated the northern end of this forum?",
       "options": {
-        "A": "c. Temple of Mars Ultor",
+        "A": "Temple of the Divine Julius",
         "B": "Temple of Venus Genetrix",
+        "C": "Temple of Mars Ultor",
         "D": "Temple of Peace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 21,
-      "question": "A tomb chamber carved out of the rock to resemble the rooms of a house and containing a",
+      "question": "A tomb chamber carved out of the rock to resemble the rooms of a house and containing a terracotta sarcophagus showing the husband and wife reclining together is most likely one made by which people?",
       "options": {
         "A": "Romans",
         "B": "Greeks",
@@ -249,11 +297,13 @@
         "D": "Minoans"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 22,
-      "question": "Which emperor built a triple gated triumphal arch in the Roman Forum itself, which still stands",
+      "question": "Which emperor built a triple gated triumphal arch in the Roman Forum itself, which still stands today next to the Senate house?",
       "options": {
         "A": "Septimius Severus",
         "B": "Marcus Aurelius",
@@ -261,6 +311,8 @@
         "D": "Titus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -273,22 +325,27 @@
         "D": "terracotta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 24,
       "question": "What was placed in the base to Trajan’s Column?",
       "options": {
-        "A": "c. bullion from captured in war",
+        "A": "a golden funerary urn",
         "B": "military records from his campaigns",
+        "C": "bullion from captured in war",
         "D": "A and B"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 25,
-      "question": "Which of the following is NOT one of the artists credited with the statue of Laocoon ?",
+      "question": "Which of the following is NOT one of the artists credited with the statue of Laocoon ? Questions #26-29 refer to Slide #1.",
       "options": {
         "A": "Hagesandros",
         "B": "Alcamenes",
@@ -296,17 +353,22 @@
         "D": "Athanodorus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 26,
       "question": "What is the usual name given to this building?",
       "options": {
-        "A": "c. Temple of Hestia",
+        "A": "Temple of the Artemis",
         "B": "Temple of Athena Pronaia",
+        "C": "Temple of Hestia",
         "D": "Hera II Temple"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -319,28 +381,36 @@
         "D": "100 AD"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 28,
       "question": "What style(s) of columns decorated this temple?",
       "options": {
-        "A": "c. Doric, Ionic and Corinthian",
+        "A": "Doric",
         "B": "Doric and Ionic",
+        "C": "Doric, Ionic and Corinthian",
         "D": "Doric and Corinthian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 29,
-      "question": "Who was the architect of this building?",
+      "question": "Who was the architect of this building? Questions #30-32 refer to Slide #2.",
       "options": {
-        "A": "c. Ictinus",
+        "A": "Theodorus of Phocaea",
         "B": "Apollophanes",
+        "C": "Ictinus",
         "D": "Athandorus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -353,6 +423,8 @@
         "D": "Sub Mycenean"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -365,11 +437,13 @@
         "D": "perfume"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 32,
-      "question": "At which games would a man have won this amphora?",
+      "question": "At which games would a man have won this amphora? Questions #33-35 refer to Slide #3.",
       "options": {
         "A": "Nemean",
         "B": "Panathenaic",
@@ -377,6 +451,8 @@
         "D": "Isthmian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -389,6 +465,8 @@
         "D": "Berlin Kore"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -401,11 +479,13 @@
         "D": "Archaic"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 35,
-      "question": "What date could be assigned to this statue?",
+      "question": "What date could be assigned to this statue? Questions #36-40 refer to Slide #4.",
       "options": {
         "A": "620 BC",
         "B": "540 BC",
@@ -413,6 +493,8 @@
         "D": "420 BC"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -425,6 +507,8 @@
         "D": "Tuscan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -437,33 +521,41 @@
         "D": "Argos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
       "question": "Who started the building of this structure?",
       "options": {
-        "A": "c. Attalus III of Pergamum",
+        "A": "Pyrrhus",
         "B": "Antiochus IV of Syria",
+        "C": "Attalus III of Pergamum",
         "D": "Sulla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 39,
       "question": "Which architect’s designs were used to build this structure?",
       "options": {
-        "A": "c. Sostratus of Cnidus",
+        "A": "Cossutius",
         "B": "Hippodamus of Miletus",
+        "C": "Sostratus of Cnidus",
         "D": "Mnesicles"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 40,
-      "question": "During which emperor’s reign was it completed?",
+      "question": "During which emperor’s reign was it completed? Questions #41-42 refer to Slide #5.",
       "options": {
         "A": "Augustus",
         "B": "Claudius",
@@ -471,6 +563,8 @@
         "D": "Diocletian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -483,11 +577,13 @@
         "D": "White Ground"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 42,
-      "question": "Which painter is credited with this pot?",
+      "question": "Which painter is credited with this pot? Questions #43-44 refer to Slide #6.",
       "options": {
         "A": "Niobid Painter",
         "B": "Euphronius",
@@ -495,28 +591,36 @@
         "D": "Achilles Painter"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 43,
       "question": "From which building was this frieze taken?",
       "options": {
-        "A": "c. Temple of Artemis at Miletus",
+        "A": "Treasury of the Athenians",
         "B": "Parthenon",
+        "C": "Temple of Artemis at Miletus",
         "D": "Temple of Delian Apollo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 44,
-      "question": "What does this scene show?",
+      "question": "What does this scene show? Questions #45-47 refer to Slide #7.",
       "options": {
-        "A": "c. Battle of the Greeks and the Amazons",
+        "A": "The horse race at Delphi",
         "B": "Part of the Panathenaic procession",
+        "C": "Battle of the Greeks and the Amazons",
         "D": "The theft of the horses of Rhesus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -529,22 +633,27 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 46,
       "question": "Where was this statue found?",
       "options": {
-        "A": "c. In the Baths of Trajan",
+        "A": "Colline Gate in Rome",
         "B": "On a triumphal arch in Beneventum",
+        "C": "In the Baths of Trajan",
         "D": "In a villa belonging to Livia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 47,
-      "question": "What does the central image of the breastplate show?",
+      "question": "What does the central image of the breastplate show? Questions #48 refer to Slide #8.",
       "options": {
         "A": "Return of the legionary standards lost by Crassus",
         "B": "Recovery of the legionary standards of Varus",
@@ -552,11 +661,13 @@
         "D": "Capture of Decebalus by Trajan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 48,
-      "question": "The netlike pattern to the concrete work seen here was known as what?",
+      "question": "The netlike pattern to the concrete work seen here was known as what? Questions #49-50 refer to Slide #9.",
       "options": {
         "A": "opus incertum",
         "B": "opus laterum",
@@ -564,17 +675,22 @@
         "D": "opus trabeata"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 49,
       "question": "What title is generally given to this work?",
       "options": {
-        "A": "c. Quadra Columna de Imperio",
+        "A": "The Tetrarchs",
         "B": "Caesars and Augusti",
+        "C": "Quadra Columna de Imperio",
         "D": "Lapis Niger"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -587,6 +703,8 @@
         "D": "porphyry"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

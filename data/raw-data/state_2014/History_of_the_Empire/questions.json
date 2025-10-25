@@ -3,12 +3,13 @@
     "name": "History_of_the_Empire",
     "year": "state_2014",
     "subject": "History_of_the_Empire",
-    "total_questions": 50
+    "total_questions": 46,
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "Which emperor fell in love with Berenice but conceded to public opinion and did",
+      "question": "Which emperor fell in love with Berenice but conceded to public opinion and did not marry her?",
       "options": {
         "A": "Titus",
         "B": "Commodus",
@@ -16,17 +17,22 @@
         "D": "Julian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 2,
-      "question": "Because he was childless, Nerva adopted Trajan. Before this time, an emperor",
+      "question": "Because he was childless, Nerva adopted Trajan. Before this time, an emperor had not adopted his successor since when?",
       "options": {
-        "A": "c. Domitian adopting Titus",
+        "A": "Augustus adopting Tiberius",
         "B": "Claudius adopting Nero",
+        "C": "Domitian adopting Titus",
         "D": "Tiberius adopting Caligula"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -39,6 +45,8 @@
         "D": "Julia Soaemias, mother of Severus Alexander"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -51,11 +59,13 @@
         "D": "Syria"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 5,
-      "question": "Which Praetorian Prefect under Hadrian was responsible for executing the \"Four",
+      "question": "Which Praetorian Prefect under Hadrian was responsible for executing the \"Four Consulars\"?",
       "options": {
         "A": "Attianus",
         "B": "Turbo",
@@ -63,6 +73,8 @@
         "D": "Secundus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -75,29 +87,9 @@
         "D": "Vespasian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
-    },
-    {
-      "question_number": 7,
-      "question": "When did Gaiseric, the Vandal leader who in 429 led his people into Africa, sack",
-      "options": {
-        "A": "472",
-        "B": "440",
-        "C": "430 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
-      "question_number": 8,
-      "question": "In what year did Cleander appoint himself Praetorian prefect along with two",
-      "options": {
-        "A": "189",
-        "B": "118",
-        "C": "185 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
     },
     {
       "question_number": 9,
@@ -109,11 +101,13 @@
         "D": "Decius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 10,
-      "question": "Who was appointed in 308 at the Conference of Caruntum to replace the co-",
+      "question": "Who was appointed in 308 at the Conference of Caruntum to replace the co- Augustus, Flavius Valerius Severus?",
       "options": {
         "A": "Maxentius",
         "B": "Licinius",
@@ -121,28 +115,36 @@
         "D": "Maximian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 11,
       "question": "The mother of Nero Caesar, Drusus Caesar, and Julia Drusilla was",
       "options": {
-        "A": "c. Antonia Minor",
+        "A": "Agrippina the Younger",
         "B": "Agrippina the Elder",
+        "C": "Antonia Minor",
         "D": "Livia Drusilla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 12,
-      "question": "At which 293 battle did Asclepiodotus defeat Allectus and re-establish Roman",
+      "question": "At which 293 battle did Asclepiodotus defeat Allectus and re-establish Roman rule in Britain?",
       "options": {
-        "A": "c. Camulodunum",
+        "A": "Mons Graupius",
         "B": "Londinium",
+        "C": "Camulodunum",
         "D": "Silchester"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -155,6 +157,8 @@
         "D": "He was selected by the Senate."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -167,6 +171,8 @@
         "D": "Delos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -179,11 +185,13 @@
         "D": "Cassius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 16,
-      "question": "Which of Valerian’s sons was perhaps more successful in his writing of poetry",
+      "question": "Which of Valerian’s sons was perhaps more successful in his writing of poetry than in his governing of the empire?",
       "options": {
         "A": "Aurelian",
         "B": "Gallienus",
@@ -191,6 +199,8 @@
         "D": "Tetricus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -203,11 +213,13 @@
         "D": "Theodosius II"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 18,
-      "question": "Septimius Severus secured his throne in 197 by defeating the forces of Clodius",
+      "question": "Septimius Severus secured his throne in 197 by defeating the forces of Clodius Albinus at what battle?",
       "options": {
         "A": "Interamna",
         "B": "Lugdunum",
@@ -215,6 +227,8 @@
         "D": "Mediolanum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -227,6 +241,8 @@
         "D": "The beginning of the Tetrarchy, Battle of Milvian Bridge, Edict of Milan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -239,6 +255,8 @@
         "D": "Carnuntum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -251,11 +269,13 @@
         "D": "Balbinus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 22,
-      "question": "When Valentinian I came to power in 364 and realized he could not rule alone,",
+      "question": "When Valentinian I came to power in 364 and realized he could not rule alone, whom did he appoint as co-emperor?",
       "options": {
         "A": "Valens",
         "B": "Valerian",
@@ -263,18 +283,9 @@
         "D": "Lucius Verus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
-    },
-    {
-      "question_number": 23,
-      "question": "Subtract the number of Flavian emperors from the number of good emperors.",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
     },
     {
       "question_number": 24,
@@ -286,6 +297,8 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -298,11 +311,13 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 26,
-      "question": "Who was Theodosius II’s sister who held the true power in Rome, even though",
+      "question": "Who was Theodosius II’s sister who held the true power in Rome, even though he was their father’s successor?",
       "options": {
         "A": "Aelia",
         "B": "Pulcheria",
@@ -310,6 +325,8 @@
         "D": "Honoria"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -322,11 +339,13 @@
         "D": "Vindobona"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 28,
-      "question": "Which emperor promised not to sentence a senator to death unless the Senate",
+      "question": "Which emperor promised not to sentence a senator to death unless the Senate itself condemned him?",
       "options": {
         "A": "Augustus",
         "B": "Marcus Aurelius",
@@ -334,6 +353,8 @@
         "D": "Nerva"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -346,11 +367,13 @@
         "D": "Spain"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 30,
-      "question": "Which emperor maintained the censorship for financial reasons and recruited",
+      "question": "Which emperor maintained the censorship for financial reasons and recruited many new members, both Italian and provincial, to the Senate?",
       "options": {
         "A": "Caligula",
         "B": "Trajan",
@@ -358,11 +381,13 @@
         "D": "Vespasian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 31,
-      "question": "While Augustus ruled Rome from 27 B.C. until A.D. 14, he allowed others to",
+      "question": "While Augustus ruled Rome from 27 B.C. until A.D. 14, he allowed others to hold the consulship during his principate. What famous figure was consul in 1?",
       "options": {
         "A": "Tiberius",
         "B": "Germanicus",
@@ -370,6 +395,8 @@
         "D": "Drusus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -382,6 +409,8 @@
         "D": "Vitellius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -394,6 +423,8 @@
         "D": "Agrippa Postumus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -406,6 +437,8 @@
         "D": "Nero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -418,6 +451,8 @@
         "D": "Moesia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -430,33 +465,27 @@
         "D": "Nero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 37,
       "question": "Who captured the Druidic stronghold Mona (Anglesey) in 59?",
       "options": {
-        "A": "c. Aulus Plautinus",
+        "A": "Ostorius Scapula",
         "B": "Suetonius Paulinus",
+        "C": "Aulus Plautinus",
         "D": "Flavius Vespasianus"
       },
       "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
-      "question_number": 38,
-      "question": "What emperor divided the Roman empire into 12 dioces?",
-      "options": {
-        "A": "Marcus Aurelius",
-        "B": "Diocletian",
-        "C": "Constantine I d.Septimius Severus"
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 39,
-      "question": "Who of the following was NOT among the prominent victims of the Pisonian",
+      "question": "Who of the following was NOT among the prominent victims of the Pisonian conspiracy?",
       "options": {
         "A": "Petronius",
         "B": "Lucan",
@@ -464,6 +493,8 @@
         "D": "Seneca the Younger"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -476,22 +507,27 @@
         "D": "Geta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 41,
       "question": "Which emperors were involved in a war with the king of Dacia?",
       "options": {
-        "A": "c. Vespasian & Domitian",
+        "A": "Domitian & Trajan",
         "B": "Vespasian & Hadrian",
+        "C": "Vespasian & Domitian",
         "D": "Trajan & Hadrian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 42,
-      "question": "Under Valens, the Romans were overwhelmingly defeated by the Goths in what",
+      "question": "Under Valens, the Romans were overwhelmingly defeated by the Goths in what battle?",
       "options": {
         "A": "Nicopolis",
         "B": "Frigidus River",
@@ -499,6 +535,8 @@
         "D": "Adrianople"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -511,6 +549,8 @@
         "D": "Vespasian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -523,28 +563,36 @@
         "D": "Burrus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 45,
       "question": "What emperor ended the Olympic games, not to be resumed until 1896?",
       "options": {
-        "A": "c. Honorius",
+        "A": "Constantine",
         "B": "Romulus Augustulus",
+        "C": "Honorius",
         "D": "Theodosius I"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 46,
       "question": "Caenis : Vespasian ::",
       "options": {
-        "A": "b. Helena : Constantine",
+        "A": "Messalina : Claudius",
         "C": "Caesonia : Caligula",
+        "B": "Helena : Constantine",
         "D": "Marcia : Commodus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -557,6 +605,8 @@
         "D": "He suffered a seizure on the battlefield."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -569,11 +619,13 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 49,
-      "question": "Which emperor initially focused on strengthening the frontiers, particularly",
+      "question": "Which emperor initially focused on strengthening the frontiers, particularly those along the Rhine, but eventually was most active in the confiscation of property and execution of dissenters?",
       "options": {
         "A": "Caracalla",
         "B": "Domitian",
@@ -581,17 +633,22 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 50,
-      "question": "One of Septimius Severus’ early acts was presenting which of his possible rivals",
+      "question": "One of Septimius Severus’ early acts was presenting which of his possible rivals with the title Caesar?",
       "options": {
-        "A": "c. Didius Julianus",
+        "A": "Pescennius Niger",
         "B": "Clodius Albinus",
+        "C": "Didius Julianus",
         "D": "Helvius Pertinax"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

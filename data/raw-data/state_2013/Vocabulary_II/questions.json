@@ -3,7 +3,8 @@
     "name": "Vocabulary_II",
     "year": "state_2013",
     "subject": "Vocabulary_II",
-    "total_questions": 45
+    "total_questions": 45,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "disagreeable"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,6 +31,8 @@
         "D": "attend to"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -40,6 +45,8 @@
         "D": "forbid"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -52,6 +59,8 @@
         "D": "school"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -64,6 +73,8 @@
         "D": "protection"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -76,6 +87,8 @@
         "D": "forgive"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -88,6 +101,8 @@
         "D": "color"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -100,6 +115,8 @@
         "D": "be angry"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -112,6 +129,8 @@
         "D": "forbidden"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -124,6 +143,8 @@
         "D": "prosper"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -136,6 +157,8 @@
         "D": "bring"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -148,6 +171,8 @@
         "D": "plea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -160,6 +185,8 @@
         "D": "cover"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -172,11 +199,13 @@
         "D": "lost"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 15,
-      "question": "vallēs",
+      "question": "vallēs Part II. Choose the Latin word or phrase which best translates the given English words(s).",
       "options": {
         "A": "wall",
         "B": "valley",
@@ -184,6 +213,8 @@
         "D": "stake"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -196,6 +227,8 @@
         "D": "sponte"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -208,6 +241,8 @@
         "D": "oportet"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -220,6 +255,8 @@
         "D": "mollis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -232,6 +269,8 @@
         "D": "aurora"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -244,6 +283,8 @@
         "D": "quīdam"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -256,6 +297,8 @@
         "D": "micō"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -268,6 +311,8 @@
         "D": "concitus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -280,6 +325,8 @@
         "D": "expōnō"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -292,6 +339,8 @@
         "D": "velut"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -304,6 +353,8 @@
         "D": "molior"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -316,6 +367,8 @@
         "D": "āleāris"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -328,6 +381,8 @@
         "D": "olim"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -340,6 +395,8 @@
         "D": "supplicō"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -352,11 +409,13 @@
         "D": "recumbō"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 30,
-      "question": "to take possession",
+      "question": "to take possession Part III. Choose the SYNONYM of the given Latin word.",
       "options": {
         "A": "nancīscor",
         "B": "pōtō",
@@ -364,6 +423,8 @@
         "D": "sciscitor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -376,6 +437,8 @@
         "D": "plāga"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -388,6 +451,8 @@
         "D": "observō"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -400,6 +465,8 @@
         "D": "incipiō"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -412,11 +479,13 @@
         "D": "deficiō"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 35,
-      "question": "consuētūdō",
+      "question": "consuētūdō Part IV. Choose the ANTONYM of the given Latin word.",
       "options": {
         "A": "mors",
         "B": "suāsiō",
@@ -424,6 +493,8 @@
         "D": "statua"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -436,6 +507,8 @@
         "D": "serviō"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -448,6 +521,8 @@
         "D": "piger"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -460,6 +535,8 @@
         "D": "febris"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -472,11 +549,13 @@
         "D": "tenuō"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 40,
-      "question": "callidus",
+      "question": "callidus Part V. Choose the word which does NOT belong by meaning.",
       "options": {
         "A": "frīgidus",
         "B": "fessus",
@@ -484,61 +563,78 @@
         "D": "foedus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 46,
       "question": "poēta : recitō ::",
       "options": {
-        "A": "c. venia : parcō",
+        "A": "deus : veneror",
         "B": "tectum : aedificō",
+        "C": "venia : parcō",
         "D": "praecō : nūntiō"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 47,
       "question": "moenia : urbs ::",
       "options": {
-        "A": "c. agger : fossa",
+        "A": "pariēs : oppidum",
         "B": "vallum : castra",
+        "C": "agger : fossa",
         "D": "pōns : rīvus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 48,
       "question": "sagittae : pharetra ::",
       "options": {
-        "A": "c. lectīcus : via",
+        "A": "librī : scrīnium",
         "B": "fluctūs : mare",
+        "C": "lectīcus : via",
         "D": "carbasus : nāvis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 49,
       "question": "laurus : arbor ::",
       "options": {
-        "A": "c. caepa : holus",
+        "A": "malum : fīcus",
         "B": "radīx : flōs",
+        "C": "caepa : holus",
         "D": "grāmen : humus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 50,
       "question": "rōstrum : volucris ::",
       "options": {
-        "A": "c. vacca : pecus",
+        "A": "fulmen : caelum",
         "B": "ungula : equus",
+        "C": "vacca : pecus",
         "D": "sōl : astrum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

@@ -3,7 +3,8 @@
     "name": "Mythology",
     "year": "state_2013",
     "subject": "Mythology",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Leda"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,6 +31,8 @@
         "D": "The plague on Aegina destroyed the population."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -40,6 +45,8 @@
         "D": "Moirae."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -52,6 +59,8 @@
         "D": "Theseus."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -64,6 +73,8 @@
         "D": "Aquilo."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -76,17 +87,22 @@
         "D": "Paris"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 7,
       "question": "The Cyclops Polyphemus ate",
       "options": {
-        "A": "c. his rival for the love of Galatea.",
+        "A": "some of Odysseus’ men.",
         "B": "some of Aeneas’ men.",
+        "C": "his rival for the love of Galatea.",
         "D": "all of these."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -99,6 +115,8 @@
         "D": "Deianira."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -111,6 +129,8 @@
         "D": "Icarus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -123,6 +143,8 @@
         "D": "Aegeus."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -135,6 +157,8 @@
         "D": "the ram."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -147,6 +171,8 @@
         "D": "Helen"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -159,6 +185,8 @@
         "D": "Jupiter"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -171,11 +199,13 @@
         "D": "Tantalus."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 15,
-      "question": "What son of Oenomaeus dressed as a girl to win the friendship of Daphne, but was killed after the girls",
+      "question": "What son of Oenomaeus dressed as a girl to win the friendship of Daphne, but was killed after the girls stripped him to swim and discovered his ruse?",
       "options": {
         "A": "Iphis",
         "B": "Leucippus",
@@ -183,6 +213,8 @@
         "D": "Vertumnus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -195,6 +227,8 @@
         "D": "Eriphyle."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -207,11 +241,13 @@
         "D": "Neoptolemus."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 18,
-      "question": "When Hector attacked the Greek ships after the withdrawal of Achilles, they were saved primarily by the",
+      "question": "When Hector attacked the Greek ships after the withdrawal of Achilles, they were saved primarily by the efforts of",
       "options": {
         "A": "Meneleus",
         "B": "Ajax the Greater",
@@ -219,17 +255,22 @@
         "D": "Idomeneus."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 19,
       "question": "When the spy, Dolon, was captured, he gave the Greeks important information about",
       "options": {
-        "A": "c. the arrival of King Rhesus.",
+        "A": "the defection of Palamedes.",
         "B": "the alliance with the Amazons.",
+        "C": "the arrival of King Rhesus.",
         "D": "the food situation in Troy."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -242,6 +283,8 @@
         "D": "Metharme"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -254,6 +297,8 @@
         "D": "Glaucus."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -266,6 +311,8 @@
         "D": "Charybdis."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -278,6 +325,8 @@
         "D": "Laestrygoinans, Polyphemus, Lotus Eaters, Circe, Calypso."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -290,6 +339,8 @@
         "D": "trumpeter."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -302,11 +353,13 @@
         "D": "Salamacis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 26,
-      "question": "In Egypt, Hercules defeated _______________, who killed all strangers to his land because of an oracle",
+      "question": "In Egypt, Hercules defeated _______________, who killed all strangers to his land because of an oracle which said that this was the only way to keep the land free from famine.",
       "options": {
         "A": "Antaeus",
         "B": "Busiris",
@@ -314,6 +367,8 @@
         "D": "Anubis."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -326,6 +381,8 @@
         "D": "Demonassa"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -338,11 +395,13 @@
         "D": "Andromeda"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 29,
-      "question": "What king, a son of the river god Strymon and one of the muses, after being thrown into the river by his",
+      "question": "What king, a son of the river god Strymon and one of the muses, after being thrown into the river by his mother, was raised by water nymphs, fought in the Trojan War, and became an ocular spirit after his death?",
       "options": {
         "A": "Eumolpus",
         "B": "Mastusius",
@@ -350,6 +409,8 @@
         "D": "Oeagrus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -362,6 +423,8 @@
         "D": "belt of Hippolyta."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -374,6 +437,8 @@
         "D": "Minos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -386,11 +451,13 @@
         "D": "Aegeus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 33,
-      "question": "What king of Epeirus became proverbial for his cruelty for blinding his own daughter, locking her in a",
+      "question": "What king of Epeirus became proverbial for his cruelty for blinding his own daughter, locking her in a dungeon, and forcing her to grind grains of bronze?",
       "options": {
         "A": "Cynortas",
         "B": "Echetus.",
@@ -398,6 +465,8 @@
         "D": "Sthenelus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -410,11 +479,13 @@
         "D": "Dictys"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 35,
-      "question": "The hero Bellerophon was sent away by King Iobates because Iobates’ wife, ___________, had accused",
+      "question": "The hero Bellerophon was sent away by King Iobates because Iobates’ wife, ___________, had accused him of attacking her.",
       "options": {
         "A": "Phaedra",
         "B": "Sthenoboea",
@@ -422,11 +493,13 @@
         "D": "Dirce"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 36,
-      "question": "Acamas and Demophon rescued their grandmother, ________,who had been carried off to Troy to serve",
+      "question": "Acamas and Demophon rescued their grandmother, ________,who had been carried off to Troy to serve Helen.",
       "options": {
         "A": "Ino",
         "B": "Alcmene",
@@ -434,6 +507,8 @@
         "D": "Hecale"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -446,6 +521,8 @@
         "D": "Ceres"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -458,6 +535,8 @@
         "D": "the Oracle at Delos."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -470,6 +549,8 @@
         "D": "Theseus."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -482,11 +563,13 @@
         "D": "the Nereids."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 41,
-      "question": "When Dionysus was kidnapped by pirates, the only member of the crew to oppose the idea of selling him",
+      "question": "When Dionysus was kidnapped by pirates, the only member of the crew to oppose the idea of selling him as a slave was",
       "options": {
         "A": "Acoetes.",
         "B": "Elpenor.",
@@ -494,6 +577,8 @@
         "D": "Palinurus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -506,11 +591,13 @@
         "D": "Iarbas."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 43,
-      "question": "What man, the first demagogue, stirred up the people of Athens against Theseus while he was detained in",
+      "question": "What man, the first demagogue, stirred up the people of Athens against Theseus while he was detained in Hades, induced Castor and Polydeuces to invade to recover their sister, and expelled Theseus upon his return?",
       "options": {
         "A": "Menestheus",
         "B": "Polypemon",
@@ -518,11 +605,13 @@
         "D": "Areius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 44,
-      "question": "What youth loved the sea nymph Argyra, died of heartbreak after she tired of him, and was turned into a",
+      "question": "What youth loved the sea nymph Argyra, died of heartbreak after she tired of him, and was turned into a river by Aphrodite, only to continue to pine for Argyra, so that the goddess gave him the second gift of forgetfulness?",
       "options": {
         "A": "Selemnus",
         "B": "Thonis",
@@ -530,6 +619,8 @@
         "D": "Lycormas"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -542,6 +633,8 @@
         "D": "Ianthe"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -554,11 +647,13 @@
         "D": "Eos."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 47,
-      "question": "The Greek king who lived for three generations by the gift of Apollo because Apollo gave him the years",
+      "question": "The Greek king who lived for three generations by the gift of Apollo because Apollo gave him the years that he had stolen from the sons of Niobe, his grandmother, was",
       "options": {
         "A": "Tithonus.",
         "B": "Nestor.",
@@ -566,6 +661,8 @@
         "D": "Admetus."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -578,6 +675,8 @@
         "D": "because he was a relative of the queen, Pasiphae."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -590,17 +689,22 @@
         "D": "Ajax the Greater."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 50,
-      "question": "At the beginning of the Trojan War, the Greeks sent _______ and ________ to demand that the Trojans",
+      "question": "At the beginning of the Trojan War, the Greeks sent _______ and ________ to demand that the Trojans return Helen.",
       "options": {
-        "A": "c. Diomedes and Agamemnon.",
+        "A": "Odysseus and Diomedes.",
         "B": "Odysseus and Meneleus",
+        "C": "Diomedes and Agamemnon.",
         "D": "Meneleus and Agamemnon."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

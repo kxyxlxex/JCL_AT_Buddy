@@ -3,7 +3,8 @@
     "name": "Classical_Art",
     "year": "state_2009",
     "subject": "Classical_Art",
-    "total_questions": 50
+    "total_questions": 49,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "The Warren Cup"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -28,17 +31,22 @@
         "D": "Minoan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 3,
       "question": "Who is the painter of this vessel?",
       "options": {
-        "A": "c. Exekias",
+        "A": "The Berlin Painter",
         "B": "The Antokides Painter",
+        "C": "Exekias",
         "D": "Euphronius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -51,11 +59,13 @@
         "D": "krater"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 5,
-      "question": "The painter has diminished the dimensions of portions of the figures to portray a correct spatial",
+      "question": "The painter has diminished the dimensions of portions of the figures to portray a correct spatial relationship. What is this effect called?",
       "options": {
         "A": "repoussoir",
         "B": "foreshortening",
@@ -63,33 +73,41 @@
         "D": "reverse perspective"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 6,
       "question": "These two statues come from the pediments of what temple?",
       "options": {
-        "A": "c. Temple of Hera at Paestum",
+        "A": "Temple of Aphaia at Aegina",
         "B": "Temple of Concordia at Acragas",
+        "C": "Temple of Hera at Paestum",
         "D": "Temple of Zeus at Olympia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 7,
       "question": "Identify the pair depicted by these statues.",
       "options": {
-        "A": "c. Hippias and Hipparchus",
+        "A": "Castor and Pollux",
         "B": "Harmodius and Aristogeiton",
+        "C": "Hippias and Hipparchus",
         "D": "Cleobis and Biton"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 8,
-      "question": "What battle of mythology does this statue group from the west pediment of the Temple of Zeus at",
+      "question": "What battle of mythology does this statue group from the west pediment of the Temple of Zeus at Olympia depict?",
       "options": {
         "A": "Gigantomachy",
         "B": "Titanomachy",
@@ -97,17 +115,22 @@
         "D": "Amazonomachy"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 9,
       "question": "The creation of this statue group was built to be a reference to what contemporaneous conflict?",
       "options": {
-        "A": "c. The Persian Wars",
+        "A": "The Peloponnesian War",
         "B": "The Sacred War",
+        "C": "The Persian Wars",
         "D": "The Messenian War"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -120,6 +143,8 @@
         "D": "Athena Nike"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -132,6 +157,8 @@
         "D": "bronze and ivory"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -144,6 +171,8 @@
         "D": "Phidias"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -156,6 +185,8 @@
         "D": "pediment"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -168,6 +199,8 @@
         "D": "fascia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -180,11 +213,13 @@
         "D": "epistylium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 16,
-      "question": "Name this sculpture, whose original bronze does not survive, but which lives on through many",
+      "question": "Name this sculpture, whose original bronze does not survive, but which lives on through many marble copies.",
       "options": {
         "A": "Discobolus",
         "B": "Diadumenos",
@@ -192,6 +227,8 @@
         "D": "Discophoros"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -204,6 +241,8 @@
         "D": "Polykleitos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -216,6 +255,8 @@
         "D": "Symmetria"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -228,6 +269,8 @@
         "D": "secco"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -240,6 +283,8 @@
         "D": "metal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -252,6 +297,8 @@
         "D": "Epidauros"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -264,11 +311,13 @@
         "D": "cavea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 23,
-      "question": "Who was the political patron who commissioned the building indicated as “1” in this reconstruction",
+      "question": "Who was the political patron who commissioned the building indicated as “1” in this reconstruction of the Athenian Acropolis?",
       "options": {
         "A": "Themistocles",
         "B": "Pericles",
@@ -276,22 +325,27 @@
         "D": "Alcibiades"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 24,
       "question": "What structure is indicated as “2”?",
       "options": {
-        "A": "c. Chaikotheke",
+        "A": "Temple of Athena Nike",
         "B": "Propylaia",
+        "C": "Chaikotheke",
         "D": "Erechtheion"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 25,
-      "question": "This Greek writer of the 2nd century AD wrote the Description of Greece, within which many useful",
+      "question": "This Greek writer of the 2nd century AD wrote the Description of Greece, within which many useful descriptions of ancient art and architecture can be found.",
       "options": {
         "A": "Agaclytus",
         "B": "Pausanias",
@@ -299,6 +353,8 @@
         "D": "Dionysius Periegetes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -311,17 +367,22 @@
         "D": "Delos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 27,
       "question": "These statues mark a transition between what two artistic eras?",
       "options": {
-        "A": "c. Bronze Age and Geometric",
+        "A": "Geometric and Archaic",
         "B": "Classical and Hellenistic",
+        "C": "Bronze Age and Geometric",
         "D": "Archaic and Classical"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -334,6 +395,8 @@
         "D": "Saxum Atrum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -346,11 +409,13 @@
         "D": "Tarquinia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 30,
-      "question": "What is the more common name for this low-value Roman bronze coin also called a teruncius",
+      "question": "What is the more common name for this low-value Roman bronze coin also called a teruncius (evidenced by the three raised circles) which regularly depicted Hercules on the front and a ship's prow on the back?",
       "options": {
         "A": "quadrans",
         "B": "triens",
@@ -358,6 +423,8 @@
         "D": "semis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -370,6 +437,8 @@
         "D": "incuse"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -382,17 +451,22 @@
         "D": "opus mixtum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 33,
       "question": "Where can this fresco be found?",
       "options": {
-        "A": "c. Tomb of Hunting and Fishing",
+        "A": "Tomb of the Triclinium",
         "B": "Tomb of the Diver",
+        "C": "Tomb of Hunting and Fishing",
         "D": "Tomb of the Augurs"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -405,28 +479,22 @@
         "D": "repousse"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
-    },
-    {
-      "question_number": 35,
-      "question": "What Roman emperor is the subject?",
-      "options": {
-        "A": "Antoninus Pius",
-        "B": "Tiberius",
-        "C": "Augustus"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
     },
     {
       "question_number": 36,
       "question": "Identify this structure.",
       "options": {
-        "A": "c. Mausoleum of Hadrian",
+        "A": "Mausoleum of Augustus",
         "B": "Tomb of Caecilia Metella",
+        "C": "Mausoleum of Hadrian",
         "D": "Tomb of Cestius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -439,6 +507,8 @@
         "D": "Via Flaminia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -451,28 +521,36 @@
         "D": "Perseus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 39,
       "question": "Which Hercules of classical art is this?",
       "options": {
-        "A": "c. Capitoline Hercules",
+        "A": "Lansdowne Hercules",
         "B": "Nemi Hercules",
+        "C": "Capitoline Hercules",
         "D": "Famese Hercules"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 40,
       "question": "It now stands in the Museo Nazionale di Napoli, but where was this piece originally housed?",
       "options": {
-        "A": "c. the Septa Julia",
+        "A": "the Baths of Caracalla",
         "B": "Trajan’s Forum",
+        "C": "the Septa Julia",
         "D": "the Domus Aurea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -485,6 +563,8 @@
         "D": "classicism"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -497,6 +577,8 @@
         "D": "Greek Classical"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -509,28 +591,36 @@
         "D": "4th"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 44,
       "question": "What famous art historian articulated the concept of the four Pompeian Styles?",
       "options": {
-        "A": "c. August Mau",
+        "A": "M. I. Rostovtzeff",
         "B": "Johann Joachim Winckelmann",
+        "C": "August Mau",
         "D": "John Beazley"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 45,
       "question": "To which Pompeian house does this belong?",
       "options": {
-        "A": "c. House of Neptune and Amphitrite",
+        "A": "Villa of the Mysteries",
         "B": "House of the Vettii",
+        "C": "House of Neptune and Amphitrite",
         "D": "House of the Faun"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -543,17 +633,22 @@
         "D": "Julia Drusi Caesaris"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 47,
       "question": "On which monument does this decursio appear?",
       "options": {
-        "A": "c. Arch of Septimius Severus",
+        "A": "Column of Trajan",
         "B": "Column of Antoninus Pius",
+        "C": "Arch of Septimius Severus",
         "D": "Arch of Constantine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -566,11 +661,13 @@
         "D": "aedicula"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 49,
-      "question": "What term do art historians employ to represent works of art like this mosaic, which calls for",
+      "question": "What term do art historians employ to represent works of art like this mosaic, which calls for humility?",
       "options": {
         "A": "memento mori",
         "B": "nunc est bibendum",
@@ -578,11 +675,13 @@
         "D": "ubi sunt"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 50,
-      "question": "This Roman writer (seen in this 19th-century portrait, since none of him survive from antiquity) of",
+      "question": "This Roman writer (seen in this 19th-century portrait, since none of him survive from antiquity) of the 1st century AD wrote the Natural History, which features a compilation of information from various ancient art historians--the only such extant work.",
       "options": {
         "A": "Tacitus",
         "B": "Frontinus",
@@ -590,6 +689,8 @@
         "D": "Pliny the Elder"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

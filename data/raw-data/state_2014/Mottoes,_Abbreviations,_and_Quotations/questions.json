@@ -3,7 +3,8 @@
     "name": "Mottoes,_Abbreviations,_and_Quotations",
     "year": "state_2014",
     "subject": "Mottoes,_Abbreviations,_and_Quotations",
-    "total_questions": 50
+    "total_questions": 48,
+    "sections": []
   },
   "questions": [
     {
@@ -16,17 +17,22 @@
         "D": "facta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 2,
       "question": "in situ",
       "options": {
-        "A": "c. promptly",
+        "A": "notably",
         "B": "the situation",
+        "C": "promptly",
         "D": "in its natural place"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -39,6 +45,8 @@
         "D": "sine die"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -51,17 +59,22 @@
         "D": "per factum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 5,
       "question": "cave canem",
       "options": {
-        "A": "c. beware of evil",
+        "A": "beware of the dog",
         "B": "don't pet the dog",
+        "C": "beware of evil",
         "D": "don't walk the dog"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -74,61 +87,78 @@
         "D": "amicus curiae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 7,
       "question": "I reformated my paper and submitted it ___________.",
       "options": {
-        "A": "c. de iure",
+        "A": "mutatis mutandis",
         "B": "pari passu",
+        "C": "de iure",
         "D": "mens rea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 8,
-      "question": "Your pencil and scantron would be considered a(an) ___________ for completing",
+      "question": "Your pencil and scantron would be considered a(an) ___________ for completing this test.",
       "options": {
-        "A": "c. ne plus ultra",
+        "A": "non sequitur",
         "B": "sine qua non",
+        "C": "ne plus ultra",
         "D": "quid pro quo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 9,
-      "question": "My father sometimes makes outragous statements such as he invented the",
+      "question": "My father sometimes makes outragous statements such as he invented the question mark. Therefore, I take what he says ___________.",
       "options": {
-        "A": "c. cum grano salis",
+        "A": "persona non grata",
         "B": "me iudice",
+        "C": "cum grano salis",
         "D": "in toto"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 10,
       "question": "ultima Thule",
       "options": {
-        "A": "c. the last piece",
+        "A": "the end of the world",
         "B": "the final remark",
+        "C": "the last piece",
         "D": "war"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 11,
       "question": "ne plus ________",
       "options": {
-        "A": "c. supremum",
+        "A": "minimum",
         "B": "numine",
+        "C": "supremum",
         "D": "ultra"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -141,6 +171,8 @@
         "D": "ex libro"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -153,11 +185,13 @@
         "D": "summo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 14,
-      "question": "urbi et ____________",
+      "question": "urbi et ____________ Part II: Mottoes",
       "options": {
         "A": "patriae",
         "B": "orbi",
@@ -165,6 +199,8 @@
         "D": "mundo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -177,17 +213,22 @@
         "D": "Regnat Populus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 16,
       "question": "Lux Hominum Vita",
       "options": {
-        "A": "c. University of Washington",
+        "A": "University of New Mexico",
         "B": "Rollins College",
+        "C": "University of Washington",
         "D": "University of North Dakota"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -200,28 +241,36 @@
         "D": "King Arthur"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 18,
       "question": "New York University",
       "options": {
-        "A": "c. Perstare et praestare",
+        "A": "Eruditio et religio",
         "B": "Studiis et Rebus Honestis",
+        "C": "Perstare et praestare",
         "D": "In lumine tuo videbimus lumen"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 19,
       "question": "Crescite et Multiplicamini",
       "options": {
-        "A": "c. Hunter College",
+        "A": "Baylor University",
         "B": "Maryland",
+        "C": "Hunter College",
         "D": "University of Toledo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -234,17 +283,22 @@
         "D": "U. of Chicago"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 21,
       "question": "Scientia Sol Mentis",
       "options": {
-        "A": "c. U. of Virginia",
+        "A": "Austin Pea",
         "B": "Delaware College",
+        "C": "U. of Virginia",
         "D": "Boston College"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -257,6 +311,8 @@
         "D": "Emory"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -269,6 +325,8 @@
         "D": "Crescit eundo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -281,6 +339,8 @@
         "D": "Florence"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -293,11 +353,13 @@
         "D": "U. of Utah"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 26,
-      "question": "Deo gratiam habeamus",
+      "question": "Deo gratiam habeamus Part III: Abbreviations",
       "options": {
         "A": "Alabama",
         "B": "Kentucky",
@@ -305,6 +367,8 @@
         "D": "Tennessee"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -317,6 +381,8 @@
         "D": "after the day"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -329,6 +395,8 @@
         "D": "q.l."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -341,6 +409,8 @@
         "D": "n.d."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -353,6 +423,8 @@
         "D": "v.s."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -365,17 +437,22 @@
         "D": "compare"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 32,
       "question": "op. cit.",
       "options": {
-        "A": "c. in the work cited",
+        "A": "in operation",
         "B": "note well",
+        "C": "in the work cited",
         "D": "no citation"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -388,6 +465,8 @@
         "D": "I.H.S."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -400,6 +479,8 @@
         "D": "before the morning"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -412,6 +493,8 @@
         "D": "p.m."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -424,6 +507,8 @@
         "D": "n.b."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -436,11 +521,13 @@
         "D": "cum temp."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "J.D.",
+      "question": "J.D. Part IV: Quotations",
       "options": {
         "A": "a doctor",
         "B": "a teacher",
@@ -448,6 +535,8 @@
         "D": "a preacher"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -460,6 +549,8 @@
         "D": "Cato"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -472,18 +563,9 @@
         "D": "Suetonius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
-    },
-    {
-      "question_number": 41,
-      "question": "inter arma leges silent",
-      "options": {
-        "A": "Pliny the Younger",
-        "B": "Cicero",
-        "C": "Sallust . Juvenal"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
     },
     {
       "question_number": 42,
@@ -495,6 +577,8 @@
         "D": "Nero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -507,6 +591,8 @@
         "D": "Seneca Minor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -519,6 +605,8 @@
         "D": "Cicero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -531,6 +619,8 @@
         "D": "Cicero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -543,6 +633,8 @@
         "D": "Silius Italicus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -555,6 +647,8 @@
         "D": "Seneca"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -567,18 +661,9 @@
         "D": "Syrus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
-    },
-    {
-      "question_number": 49,
-      "question": "acta est fabula",
-      "options": {
-        "A": "Horace",
-        "B": "Plautus",
-        "C": "Augustus d.Tertullian"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
     },
     {
       "question_number": 50,
@@ -590,6 +675,8 @@
         "D": "Horace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

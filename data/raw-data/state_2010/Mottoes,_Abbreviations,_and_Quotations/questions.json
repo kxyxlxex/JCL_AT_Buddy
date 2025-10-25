@@ -3,7 +3,8 @@
     "name": "Mottoes,_Abbreviations,_and_Quotations",
     "year": "state_2010",
     "subject": "Mottoes,_Abbreviations,_and_Quotations",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "a beginning of time"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -28,6 +31,8 @@
         "D": "in malos cornu"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -40,6 +45,8 @@
         "D": "by the money"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -52,6 +59,8 @@
         "D": "festina lente"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -64,6 +73,8 @@
         "D": "unsolicited"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -76,17 +87,22 @@
         "D": "per stirpes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 7,
       "question": "Banished/exiled",
       "options": {
-        "A": "c. nascitur non fit",
+        "A": "aqua et igni interdictus",
         "B": "emeritus",
+        "C": "nascitur non fit",
         "D": "de pilo pendet"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -99,6 +115,8 @@
         "D": "recommendation"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -111,17 +129,22 @@
         "D": "unaided"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 10,
       "question": "Sententia iudicum",
       "options": {
-        "A": "c. the right of the accused",
+        "A": "spirit of the law",
         "B": "finding of the jury",
+        "C": "the right of the accused",
         "D": "miscarriage of justice"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -134,11 +157,13 @@
         "D": "horae subsicivae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 12,
-      "question": "Nec caput nec pedes",
+      "question": "Nec caput nec pedes Part II. Mottoes",
       "options": {
         "A": "in confusion",
         "B": "in person",
@@ -146,6 +171,8 @@
         "D": "in absence of"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -158,6 +185,8 @@
         "D": "ars artium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -170,39 +199,50 @@
         "D": "Chicago"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 15,
       "question": "West Virginia",
       "options": {
-        "A": "c. Sic semper tyrannis",
+        "A": "Montani semper liberi",
         "B": "Qui transtulit sustinet",
+        "C": "Sic semper tyrannis",
         "D": "Crescit eundo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 16,
       "question": "This motto is the motto of a state and one of the major universities in that state.",
       "options": {
-        "A": "c. Veritas vos liberabit",
+        "A": "Virtute et armis",
         "B": "Esto perpetua",
+        "C": "Veritas vos liberabit",
         "D": "Qui transtulit sustinet"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 17,
       "question": "Trinity College",
       "options": {
-        "A": "c. In Deo speramus",
+        "A": "Nil sine magno labore",
         "B": "Pro ecclesia et patria",
+        "C": "In Deo speramus",
         "D": "Regnat populus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -215,11 +255,13 @@
         "D": "Veritas"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 19,
-      "question": "Which of these are mottoes of the state of South Carolina: I. Animis opibusque parati, II. Crescite et",
+      "question": "Which of these are mottoes of the state of South Carolina: I. Animis opibusque parati, II. Crescite et multiplicamini, III. Dum spiro, spero",
       "options": {
         "A": "I and II",
         "B": "I and III",
@@ -227,28 +269,36 @@
         "D": "I, II, and III"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 20,
       "question": "Cambridge University",
       "options": {
-        "A": "c. Hinc lucem et pocula sacra",
+        "A": "Non ministrari sed ministrare",
         "B": "Deo ac veritati",
+        "C": "Hinc lucem et pocula sacra",
         "D": "Dominus illuminatio mea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 21,
       "question": "Kings and Queens of England",
       "options": {
-        "A": "c. In hoc signo vinces",
+        "A": "Defensor Fidei",
         "B": "Nemo me impune lacessit",
+        "C": "In hoc signo vinces",
         "D": "Ego sum civitas"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -261,17 +311,22 @@
         "D": "MIT"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 23,
       "question": "Hic et ubique terrarium",
       "options": {
-        "A": "c. University of Berlin",
+        "A": "University of Madrid",
         "B": "University of Vienna",
+        "C": "University of Berlin",
         "D": "University of Paris"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -284,11 +339,13 @@
         "D": "Massachusetts"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 25,
-      "question": "The U.S. Public Library System",
+      "question": "The U.S. Public Library System Part III. Abbreviations",
       "options": {
         "A": "in libris bonis",
         "B": "in libris libertas",
@@ -296,6 +353,8 @@
         "D": "Libri in civitatem"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -308,6 +367,8 @@
         "D": "on equal terms"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -320,6 +381,8 @@
         "D": "L.S."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -332,6 +395,8 @@
         "D": "c.a.v."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -344,6 +409,8 @@
         "D": "vincet"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -356,6 +423,8 @@
         "D": "a powder"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -368,6 +437,8 @@
         "D": "the same as"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -380,6 +451,8 @@
         "D": "copper"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -392,6 +465,8 @@
         "D": "d.s.p."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -404,6 +479,8 @@
         "D": "n.p."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -416,6 +493,8 @@
         "D": "in both eyes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -428,11 +507,13 @@
         "D": "1/"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 37,
-      "question": "and his wife as well",
+      "question": "and his wife as well Part IV. Quotations",
       "options": {
         "A": "et seq.",
         "B": "et al.",
@@ -440,6 +521,8 @@
         "D": "ead."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -452,6 +535,8 @@
         "D": "Tibullus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -464,6 +549,8 @@
         "D": "St. Gregory the Great"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -476,6 +563,8 @@
         "D": "Seneca the Elder"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -488,6 +577,8 @@
         "D": "Martial"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -500,6 +591,8 @@
         "D": "Seneca"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -512,6 +605,8 @@
         "D": "Tacitus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -524,6 +619,8 @@
         "D": "Horace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -536,6 +633,8 @@
         "D": "Seneca the Younger"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -548,6 +647,8 @@
         "D": "Vergil"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -560,6 +661,8 @@
         "D": "Cornelius Nepos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -572,6 +675,8 @@
         "D": "Vespasian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -584,6 +689,8 @@
         "D": "Titus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -596,6 +703,8 @@
         "D": "Non amo te, Sabidi"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     }
   ]

@@ -3,18 +3,22 @@
     "name": "Classical_Art",
     "year": "state_2015",
     "subject": "Classical_Art",
-    "total_questions": 49
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "This relief is from which monument in the Roman forum?",
+      "question": "This relief is from which monument in the Roman forum? Image",
       "options": {
-        "A": "c. Arch of Septimius Severus",
+        "A": "Arch of Titus",
         "B": "Arch of Constantine",
+        "C": "Arch of Septimius Severus",
         "D": "Arch of Tiberius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -27,11 +31,13 @@
         "D": "Dying Gaul"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 3,
-      "question": "Which artist originally sculpted this work?",
+      "question": "Which artist originally sculpted this work? Image",
       "options": {
         "A": "Myron",
         "B": "Polykleitos",
@@ -39,6 +45,8 @@
         "D": "Phidias"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -51,11 +59,13 @@
         "D": "skyphos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 5,
-      "question": "What mythological creature is depicted on this cup?",
+      "question": "What mythological creature is depicted on this cup? Image",
       "options": {
         "A": "Satyr",
         "B": "Gorgon",
@@ -63,22 +73,27 @@
         "D": "Cyclops"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 6,
       "question": "This porch is a famous feature of which structure, located on the Acropolis?",
       "options": {
-        "A": "c. Erechtheion",
+        "A": "Temple of Athena Nike",
         "B": "Parthenon",
+        "C": "Erechtheion",
         "D": "Propylaea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 7,
-      "question": "What type of columns are these?",
+      "question": "What type of columns are these? Image",
       "options": {
         "A": "Doric",
         "B": "Ionic",
@@ -86,11 +101,13 @@
         "D": "Caryatid"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 8,
-      "question": "This column was built to honor which emperor?",
+      "question": "This column was built to honor which emperor? Image",
       "options": {
         "A": "Antoninus Pius",
         "B": "Titus",
@@ -98,6 +115,8 @@
         "D": "Theodosius I"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -110,17 +129,22 @@
         "D": "encaustic"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 10,
-      "question": "Who are the combatants in the image?",
+      "question": "Who are the combatants in the image? Image",
       "options": {
-        "A": "c. Hasdrubal and L. Metellus",
+        "A": "Regulus and the Carthaginians",
         "B": "Pyrrhus and Manius Curius",
+        "C": "Hasdrubal and L. Metellus",
         "D": "Alexander the Great and Darius III"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -133,11 +157,13 @@
         "D": "Caligula"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 12,
-      "question": "This emperor enjoyed dressing as which mythological hero?",
+      "question": "This emperor enjoyed dressing as which mythological hero? Image",
       "options": {
         "A": "Theseus",
         "B": "Meleager",
@@ -145,11 +171,13 @@
         "D": "Perseus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 13,
-      "question": "This late imperial portrait of the Four Tetrarchs is made of which of the following",
+      "question": "This late imperial portrait of the Four Tetrarchs is made of which of the following materials?",
       "options": {
         "A": "porphyry",
         "B": "marble",
@@ -157,11 +185,13 @@
         "D": "granite"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 14,
-      "question": "This material comes from:",
+      "question": "This material comes from: Image",
       "options": {
         "A": "Rome",
         "B": "Greece",
@@ -169,11 +199,13 @@
         "D": "Egypt"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 15,
-      "question": "This statue, called The Dying Gaul, comes from what period of Greek art?",
+      "question": "This statue, called The Dying Gaul, comes from what period of Greek art? Image",
       "options": {
         "A": "Geometric",
         "B": "Archaic",
@@ -181,6 +213,8 @@
         "D": "Hellenistic"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -193,7 +227,23 @@
         "D": "Circus Maximus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
+    },
+    {
+      "question_number": 17,
+      "question": "Many of the reliefs on this arch were removed from previous monuments. What is this practice called? Image",
+      "options": {
+        "A": "damnatio memoriae",
+        "B": "spoliation",
+        "C": "adlocutio",
+        "D": "largitio"
+      },
+      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
+      "correct_answer": "B"
     },
     {
       "question_number": 18,
@@ -205,22 +255,27 @@
         "D": "White-ground"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 19,
       "question": "The two figures depicted are:",
       "options": {
-        "A": "c. Herakles and Theseus",
+        "A": "Achilles and Ajax",
         "B": "Perseus and Polydectes",
+        "C": "Herakles and Theseus",
         "D": "Dionysus and Midas"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 20,
-      "question": "Which vase painter signed this work?",
+      "question": "Which vase painter signed this work? Image",
       "options": {
         "A": "Euthymides",
         "B": "Kleitias",
@@ -228,6 +283,8 @@
         "D": "Exekias"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -240,6 +297,8 @@
         "D": "atrium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -252,11 +311,13 @@
         "D": "peristylium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 23,
-      "question": "In this plan of a Roman villa, identify the area labeled 3.",
+      "question": "In this plan of a Roman villa, identify the area labeled 3. Image",
       "options": {
         "A": "triclinium",
         "B": "culina",
@@ -264,6 +325,8 @@
         "D": "exedra"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -276,17 +339,22 @@
         "D": "4th c AD"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 25,
-      "question": "What scene is shown in the upper-leftmost panel of the sarcophagus?",
+      "question": "What scene is shown in the upper-leftmost panel of the sarcophagus? Image",
       "options": {
-        "A": "c. Sacrifice of Isaac",
+        "A": "Miracle of the Loaves and Fishes",
         "B": "Jesus Entering Jerusalem",
+        "C": "Sacrifice of Isaac",
         "D": "Daniel in the Lion’s Den"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -299,11 +367,13 @@
         "D": "Temple of Antoninus and Faustina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 27,
-      "question": "Under which emperor was this structure built?",
+      "question": "Under which emperor was this structure built? Image",
       "options": {
         "A": "Hadrian",
         "B": "Marcus Aurelius",
@@ -311,22 +381,27 @@
         "D": "Nerva"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 28,
       "question": "These paintings are found on the walls of:",
       "options": {
-        "A": "c. the House of the Vettii",
+        "A": "the House of Menander",
         "B": "the Villa of Mysteries",
+        "C": "the House of the Vettii",
         "D": "the Villa at Boscotrecase"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 29,
-      "question": "What style do these paintings represent?",
+      "question": "What style do these paintings represent? Image",
       "options": {
         "A": "First Style",
         "B": "Second Style",
@@ -334,11 +409,13 @@
         "D": "Fourth Style"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 30,
-      "question": "This sculpture is an example of:",
+      "question": "This sculpture is an example of: The remaining questions are not related to images on the test",
       "options": {
         "A": "Kouros",
         "B": "S-curve",
@@ -346,6 +423,8 @@
         "D": "Kore"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -358,6 +437,8 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -370,6 +451,8 @@
         "D": "hammering"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -382,6 +465,8 @@
         "D": "Hellenistic"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -394,6 +479,8 @@
         "D": "Caracalla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -406,6 +493,8 @@
         "D": "Phidias"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -418,6 +507,8 @@
         "D": "Apoxyomenos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -430,6 +521,8 @@
         "D": "Athena Nike"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -442,6 +535,8 @@
         "D": "faience"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -454,6 +549,8 @@
         "D": "Elgin"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -466,6 +563,8 @@
         "D": "Euphronios"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -478,6 +577,8 @@
         "D": "stylobate"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -490,6 +591,8 @@
         "D": "metope"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -502,22 +605,27 @@
         "D": "dentils"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 44,
       "question": "Roman portraiture is most significant for its:",
       "options": {
-        "A": "c. pathos",
+        "A": "idealized figures",
         "B": "veristic portrayal",
+        "C": "pathos",
         "D": "stoicism"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 45,
-      "question": "A famous Etruscan terracotta statue to which god is located in Rome at the Villa",
+      "question": "A famous Etruscan terracotta statue to which god is located in Rome at the Villa Giulia?",
       "options": {
         "A": "Jupiter",
         "B": "Apollo",
@@ -525,28 +633,36 @@
         "D": "Mars"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 46,
       "question": "The term “composite columns” refers to combination of which two orders?",
       "options": {
-        "A": "c. Ionic and Corinthian",
+        "A": "Doric and Ionic",
         "B": "Doric and Corinthian",
+        "C": "Ionic and Corinthian",
         "D": "Doric and Caryatid"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 47,
-      "question": "Which structure on the Campus Martius has a panel which represents Tellus, the",
+      "question": "Which structure on the Campus Martius has a panel which represents Tellus, the goddess of earth?",
       "options": {
-        "A": "c. Baths of Agrippa",
+        "A": "Mausoleum of Augustus",
         "B": "Ara Pacis Augustae",
+        "C": "Baths of Agrippa",
         "D": "Pantheon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -559,11 +675,13 @@
         "D": "Aventine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 49,
-      "question": "Which of the following Imperial statues is known for the complex iconographic",
+      "question": "Which of the following Imperial statues is known for the complex iconographic program featured on its armor?",
       "options": {
         "A": "Equestrian Statue of Marcus Aurelius",
         "B": "Domitian as Emperor",
@@ -571,17 +689,22 @@
         "D": "Augustus of Prima Porta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 50,
       "question": "What did a kylix hold?",
       "options": {
-        "A": "c. water for religious ceremonies",
+        "A": "oil",
         "B": "drinking water",
+        "C": "water for religious ceremonies",
         "D": "wine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

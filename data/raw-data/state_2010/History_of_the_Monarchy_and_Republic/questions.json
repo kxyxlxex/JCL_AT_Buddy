@@ -3,7 +3,8 @@
     "name": "History_of_the_Monarchy_and_Republic",
     "year": "state_2010",
     "subject": "History_of_the_Monarchy_and_Republic",
-    "total_questions": 50
+    "total_questions": 42,
+    "sections": []
   },
   "questions": [
     {
@@ -16,11 +17,13 @@
         "D": "Servius Tullius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 2,
-      "question": "Who so impressed the Falerii in 394 BC by his handling of a treacherous teacher that they",
+      "question": "Who so impressed the Falerii in 394 BC by his handling of a treacherous teacher that they surrendered immediately to Rome?",
       "options": {
         "A": "M. Furius Camillus",
         "B": "L. Cornelius Scipio",
@@ -28,6 +31,8 @@
         "D": "App. Claudius Caecus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -40,6 +45,8 @@
         "D": "Genua"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -52,39 +59,22 @@
         "D": "Naples"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
-    },
-    {
-      "question_number": 5,
-      "question": "In 263 BC, which Roman commander defeated Hiero II in Sicily?",
-      "options": {
-        "A": "App. Claudius Caudex",
-        "B": "M. Atilius Regulus",
-        "C": "Duilius"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
-      "question_number": 6,
-      "question": "Whom did Tiberius Sempronius Longus join at the Trebia River in 218 BC against Hannibal?",
-      "options": {
-        "A": "M. Claudius Marcellus",
-        "B": "Q. Fabius Maximus",
-        "C": "Flaminius d. P. Cornelius Scipio"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
     },
     {
       "question_number": 7,
       "question": "Which of these was the strongest opponent of Cato's words, \"Carthago delenda est\"?",
       "options": {
-        "A": "c. T. Quinctius Flamininus",
+        "A": "M'. Acilius Glabrio",
         "B": "L. Aemilius Paullus",
+        "C": "T. Quinctius Flamininus",
         "D": "P. Cornelius Scipio Nasica"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -97,27 +87,22 @@
         "D": "Sardinia"
       },
       "type": "multiple_choice",
-      "correct_answer": "C"
-    },
-    {
-      "question_number": 9,
-      "question": "In 110 BC, who was the immediate successor to Sp. Postumius Albinus in the war against Jugurtha?",
-      "options": {
-        "A": "Postumius Albinus b. Q. Caecilius Metellus Numidicus",
-        "C": "Marius d. L. Cornelius Sulla"
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 10,
       "question": "In 68 BC, who defeated a group of pirates by conquering Crete?",
       "options": {
-        "A": "c. Cn. Calpurnius Piso",
+        "A": "M. Antonius",
         "B": "Cn. Pompeius Strabo Magnus",
+        "C": "Cn. Calpurnius Piso",
         "D": "Q. Caecilus Metellus Pius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -130,6 +115,8 @@
         "D": "Manilia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -142,18 +129,9 @@
         "D": "He delivered the Philippic orations against him"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
-    },
-    {
-      "question_number": 13,
-      "question": "In an agreement in 39 BC, who was given Sicily, Sardinia, Corsica, and the southern part of Greece?",
-      "options": {
-        "A": "c. M. Antonius",
-        "C": "Iulius Caesar Octavianus",
-        "D": "Sext. Pompeius Strabo"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
     },
     {
       "question_number": 14,
@@ -165,33 +143,41 @@
         "D": "Tarquinius Superbus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 15,
-      "question": "During the beginning of the Republic, who destroyed his palatial house so that he would not be",
+      "question": "During the beginning of the Republic, who destroyed his palatial house so that he would not be compared to L. Tarquinius Superbus?",
       "options": {
-        "A": "c. M. Horatius Cocles",
+        "A": "L. Tarquinius Collatinus",
         "B": "L. Iunius Brutus",
+        "C": "M. Horatius Cocles",
         "D": "P. Valerius Poplicola"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 16,
       "question": "In 390 BC, under whose leadership did the Gauls become the first hostile people to occupy Rome?",
       "options": {
-        "A": "c. Vosges",
+        "A": "Dionysius of Clusium",
         "B": "Brennus",
+        "C": "Vosges",
         "D": "Cavarinus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 17,
-      "question": "After the death of Alexander the Great, the Asiatic portion of his empire, including Syria, Babylonia,",
+      "question": "After the death of Alexander the Great, the Asiatic portion of his empire, including Syria, Babylonia, and the Eastern regions fell under whose control?",
       "options": {
         "A": "Antiochus",
         "B": "Ptolemy",
@@ -199,6 +185,8 @@
         "D": "Mithridates"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -211,17 +199,22 @@
         "D": "Syracuse"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 19,
       "question": "Who was the immediate successor of Hamilcar Barca after Hamilcar’s death in 228 BC?",
       "options": {
-        "A": "c. Hannibal",
+        "A": "Hiero",
         "B": "Hasdrubal the Fair (Hamilcar’s son-in-law)",
+        "C": "Hannibal",
         "D": "Hasdrubal (Hamilcar’s son)"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -234,6 +227,8 @@
         "D": "Pydna"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -246,11 +241,13 @@
         "D": "Judaeans"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 22,
-      "question": "Who was indicted on a charge that he had encouraged M. Livius Drusus in his sympathy for the",
+      "question": "Who was indicted on a charge that he had encouraged M. Livius Drusus in his sympathy for the Italian social cause?",
       "options": {
         "A": "Q. Servilius Caepio",
         "B": "P. Rutilius Rufus",
@@ -258,6 +255,8 @@
         "D": "M. Aemilius Scaurus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -270,17 +269,22 @@
         "D": "Sentinum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 24,
       "question": "In 77 BC, who was in control of Spain?",
       "options": {
-        "A": "c. M. Aemilius Lepidus",
+        "A": "Q. Sertorius",
         "B": "Cn. Pompeius Strabo Magnus",
+        "C": "M. Aemilius Lepidus",
         "D": "L. Licinius Lucullus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -293,6 +297,8 @@
         "D": "Edessa"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -305,6 +311,8 @@
         "D": "Utica"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -317,6 +325,8 @@
         "D": "Elis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -329,22 +339,27 @@
         "D": "Corioli"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 29,
       "question": "In 350 BC, who were the only two peoples who represented dangers to Rome?",
       "options": {
-        "A": "c. Gauls and Samnites",
+        "A": "Etruscans and Germans",
         "B": "Syracusans and Carthaginians",
+        "C": "Gauls and Samnites",
         "D": "Macedonians and Epirotes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 30,
-      "question": "After the Roman victory at Sentinum in 295 BC, what tribe took no further part in the Samnite",
+      "question": "After the Roman victory at Sentinum in 295 BC, what tribe took no further part in the Samnite Wars?",
       "options": {
         "A": "Hispanians",
         "B": "Gauls",
@@ -352,22 +367,13 @@
         "D": "Carthaginians"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
-      "question_number": 31,
-      "question": "What Roman made the first invasion of Africa during the First Carthaginian War?",
-      "options": {
-        "A": "P. Claudius Pulcher",
-        "B": "M. Atilius Regulus",
-        "C": "Lutatius Catulus"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
       "question_number": 32,
-      "question": "What city never fell during wars against both Pyrrhus and Rome, but was ceded to Rome as a",
+      "question": "What city never fell during wars against both Pyrrhus and Rome, but was ceded to Rome as a provision of the peace treaty at the end of the First Punic War?",
       "options": {
         "A": "Agrigentum",
         "B": "Lilybaeum",
@@ -375,11 +381,13 @@
         "D": "Panormus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 33,
-      "question": "In 197 BC, after succeeding his father Attalus of Pergamum, who begged Flamininus to order",
+      "question": "In 197 BC, after succeeding his father Attalus of Pergamum, who begged Flamininus to order Antiochus out of Asia Minor?",
       "options": {
         "A": "Attalus II",
         "B": "Eumenes II",
@@ -387,11 +395,13 @@
         "D": "Ptolemy II"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 34,
-      "question": "What leader was finally defeated in 148 BC by Q. Caecilius Metellus to end the Fourth Macedonian",
+      "question": "What leader was finally defeated in 148 BC by Q. Caecilius Metellus to end the Fourth Macedonian War?",
       "options": {
         "A": "Andriscus",
         "B": "Demetrius Soter",
@@ -399,29 +409,9 @@
         "D": "Syphax"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
-    },
-    {
-      "question_number": 35,
-      "question": "Which of these men was NOT a supporter of Ti. Sempronius Gracchus during his first tribunate?",
-      "options": {
-        "A": "Ap. Claudius Pulcher",
-        "B": "P. Licinius Crassus",
-        "C": "Porcius Cato"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
-      "question_number": 36,
-      "question": "Against whom was the Senatus Consultum Ultimum first used?",
-      "options": {
-        "A": "c. Jugurtha",
-        "C": "Sempronius Gracchus",
-        "D": "L. Saturninus"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
     },
     {
       "question_number": 37,
@@ -433,17 +423,22 @@
         "D": "Massilia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
       "question": "Which of these events in the life of Clodius happened in 62 BC?",
       "options": {
-        "A": "c. He was tried by Cicero",
+        "A": "He ran for the office of tribunus plebis",
         "B": "He violated the rites of the Bona Dea festival",
+        "C": "He was tried by Cicero",
         "D": "He was kidnapped by Cilician pirates"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -456,33 +451,27 @@
         "D": "Cyrus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
-      "question_number": 40,
-      "question": "What consul of 495 BC helped push the plebeians to secede due to his strict enforcement of harsh",
-      "options": {
-        "C": "Marcius Coriolanus b. Menenius Agrippa",
-        "A": "c. L. Quinctius Cincinnatus",
-        "D": "Appius Claudius"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
       "question_number": 41,
-      "question": "The Samnites were able to focus their full attention on Rome after the defeat of what other enemy",
+      "question": "The Samnites were able to focus their full attention on Rome after the defeat of what other enemy in 326 BC?",
       "options": {
-        "A": "c. Alexander the Great",
+        "A": "Alexander of Epirus",
         "B": "Philip II of Macedon",
+        "C": "Alexander the Great",
         "D": "Pyrrhus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 42,
-      "question": "After his victory at Heraclea, what ambassador and friend did Pyrrhus send to negotiate a peace",
+      "question": "After his victory at Heraclea, what ambassador and friend did Pyrrhus send to negotiate a peace settlement?",
       "options": {
         "A": "Cineas",
         "B": "Agathocles",
@@ -490,6 +479,8 @@
         "D": "Phineas"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -502,11 +493,13 @@
         "D": "Zacynthos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 44,
-      "question": "What city reneged on an alliance with Rome after it was weakened by the Gauls in 390 BC before",
+      "question": "What city reneged on an alliance with Rome after it was weakened by the Gauls in 390 BC before being pacified and defeated by Cincinnatus?",
       "options": {
         "A": "Praeneste",
         "B": "Corioli",
@@ -514,6 +507,8 @@
         "D": "Arpinum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -526,6 +521,8 @@
         "D": "Lucania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -538,17 +535,22 @@
         "D": "Arausio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 47,
-      "question": "Who, resenting the small war bonus he was given because of his avarice, tried to block L. Aemilius",
+      "question": "Who, resenting the small war bonus he was given because of his avarice, tried to block L. Aemilius Paullus' triumph in 167 BC?",
       "options": {
-        "A": "c. Serv. Sulpicius Galba",
+        "A": "M. Porcius Cato",
         "B": "P. Cornelius Scipio Aemilianus",
+        "C": "Serv. Sulpicius Galba",
         "D": "Cn. Servilius Caepio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -561,18 +563,22 @@
         "D": "Leges Liciniae Sextiae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 49,
-      "question": "Spartacus made an agreement with Cilician pirates to do which of these?",
+      "question": "Spartacus made an agreement with Cilician pirates to do which of these? C. Iulius Caesar",
       "options": {
         "A": "assassinate M. Licinius Crassus",
         "B": "hinder the advancement of Cn. Pompeius Strabo Magnus",
-        "C": "Iulius Caesar",
+        "C": "transport his men to Sicily",
         "D": "kidnap"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -585,6 +591,8 @@
         "D": "Tacfarinas"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     }
   ]

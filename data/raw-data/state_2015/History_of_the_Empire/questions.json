@@ -3,12 +3,13 @@
     "name": "History_of_the_Empire",
     "year": "state_2015",
     "subject": "History_of_the_Empire",
-    "total_questions": 50
+    "total_questions": 46,
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "Which emperor granted full Roman citizenship to all freeborn people in the",
+      "question": "Which emperor granted full Roman citizenship to all freeborn people in the empire?",
       "options": {
         "A": "Caracalla",
         "B": "Diocletian",
@@ -16,6 +17,8 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -28,11 +31,13 @@
         "D": "Galerius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 3,
-      "question": "During the tetrarchy, the junior partners in the Eastern and Western Empires",
+      "question": "During the tetrarchy, the junior partners in the Eastern and Western Empires were known as",
       "options": {
         "A": "Augusti",
         "B": "Caesares",
@@ -40,6 +45,8 @@
         "D": "Praefecti"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -52,17 +59,8 @@
         "D": "Decius"
       },
       "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
-      "question_number": 5,
-      "question": "The Council of Nicaea took place in _________ in modern-day Turkey.",
-      "options": {
-        "A": "315",
-        "B": "324",
-        "C": "337 d."
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -75,6 +73,8 @@
         "D": "Pollentia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -87,39 +87,50 @@
         "D": "Vercingetorix"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 8,
       "question": "For what building project was Aurelian most known?",
       "options": {
-        "A": "c. his villa in Tivoli",
+        "A": "city walls",
         "B": "the Domus Aurea",
+        "C": "his villa in Tivoli",
         "D": "the Circus Maximus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 9,
       "question": "After the death of Theodosius, the Roman Empire was divided between",
       "options": {
-        "A": "c. Maximian and Gratianus",
+        "A": "Theodosius II and Honorius",
         "B": "Honorius and Arcadius",
+        "C": "Maximian and Gratianus",
         "D": "Stilicho and Arcadius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 10,
       "question": "Which of the following pairs of emperors had been married to the same woman?",
       "options": {
-        "A": "c. Aemilian and Valerian",
+        "A": "Maximinus I and Gordian I",
         "B": "Pupienus and Balbinus",
+        "C": "Aemilian and Valerian",
         "D": "Nero and Otho"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -132,6 +143,8 @@
         "D": "Pertinax"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -144,6 +157,8 @@
         "D": "Africa"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -156,11 +171,13 @@
         "D": "Philip the Arab"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 14,
-      "question": "Who was Constantine the Great’s father?",
+      "question": "Who was Constantine the Great’s father? Chlorus",
       "options": {
         "A": "Severus II",
         "B": "Galerius",
@@ -168,6 +185,8 @@
         "D": "Constantius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -180,17 +199,22 @@
         "D": "31 B.C."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 16,
       "question": "Which of the following did Augustus institute to facilitate mail service?",
       "options": {
-        "A": "c. Lex Poetelia",
+        "A": "cursus honorum",
         "B": "Lex Ogulnia",
+        "C": "Lex Poetelia",
         "D": "cursus publicus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -203,6 +227,8 @@
         "D": "Jupiter"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -215,6 +241,8 @@
         "D": "Milan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -227,6 +255,8 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -239,6 +269,8 @@
         "D": "Armenius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -251,11 +283,13 @@
         "D": "Vespasian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 22,
-      "question": "Which emperor was called the Restitutor Orbis for helping to end the Crisis of",
+      "question": "Which emperor was called the Restitutor Orbis for helping to end the Crisis of the Third Century?",
       "options": {
         "A": "Augustus",
         "B": "Constantine",
@@ -263,11 +297,13 @@
         "D": "Aurelian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 23,
-      "question": "Who, having been given control of the eastern half of the empire by Valentinian I,",
+      "question": "Who, having been given control of the eastern half of the empire by Valentinian I, was called the Last True Roman?",
       "options": {
         "A": "Valens",
         "B": "Jovian",
@@ -275,6 +311,8 @@
         "D": "Vetranio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -287,6 +325,8 @@
         "D": "Dacia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -299,11 +339,13 @@
         "D": "Vespasian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 26,
-      "question": "Who was the only Augustus ruling between 235 and 285 who was not",
+      "question": "Who was the only Augustus ruling between 235 and 285 who was not murdered?",
       "options": {
         "A": "Hostilianus",
         "B": "Aurelian",
@@ -311,6 +353,8 @@
         "D": "Claudius Gothicus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -323,28 +367,36 @@
         "D": "grandson"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 28,
-      "question": "What law enacted in the year 9 modified the original provisions of the Lex Iulia",
+      "question": "What law enacted in the year 9 modified the original provisions of the Lex Iulia of 19 B.C., regarding adultery and celibacy in order to promote marriage?",
       "options": {
-        "A": "c. Lex Papia Poppaea",
+        "A": "Lex Fufia",
         "B": "Lex Iunia Norbana",
+        "C": "Lex Papia Poppaea",
         "D": "Lex Aelia Sentia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 29,
-      "question": "In addition to Clodius Albinus, which emperor who held power in 193 was not",
+      "question": "In addition to Clodius Albinus, which emperor who held power in 193 was not accepted by the Senate?",
       "options": {
-        "A": "c. Didius Julianus",
+        "A": "Pertinax",
         "B": "Septimius Severus",
+        "C": "Didius Julianus",
         "D": "Pescennius Niger"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -357,17 +409,8 @@
         "D": "Petronius"
       },
       "type": "multiple_choice",
-      "correct_answer": "C"
-    },
-    {
-      "question_number": 31,
-      "question": "In what year did Aurelian defeat Zenobia of Palmyra?",
-      "options": {
-        "A": "260",
-        "B": "268",
-        "C": "272 d."
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -380,6 +423,8 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -392,39 +437,36 @@
         "D": "Justinian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 34,
       "question": "Who defeated the Caledonians at the Battle of Mons Graupius?",
       "options": {
-        "A": "c. Sallustius Lucullus",
+        "A": "Cn. Iulius Agricola",
         "B": "Calgacus",
+        "C": "Sallustius Lucullus",
         "D": "Lucius Antonius Saturninus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
-      "question_number": 35,
-      "question": "In what year was the Edictum de pretiis, which fixed wages and prices, issued?",
-      "options": {
-        "A": "299",
-        "B": "302",
-        "C": "305 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
       "question_number": 36,
-      "question": "After the assassination of Pertinax in 193, for how much per member of the",
+      "question": "After the assassination of Pertinax in 193, for how much per member of the Praetorian Guard was the throne auctioned?",
       "options": {
-        "A": "c. 18,000 sesterces",
+        "A": "8,000 sesterces",
         "B": "14,000 sesterces",
+        "C": "18,000 sesterces",
         "D": "25,000 sesterces"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -437,6 +479,8 @@
         "D": "Magnus Maximus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -449,11 +493,13 @@
         "D": "Juba I"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 39,
-      "question": "Who was the only emperor not to carry the name Caesar before the Severan",
+      "question": "Who was the only emperor not to carry the name Caesar before the Severan Dynasty?",
       "options": {
         "A": "Hadrian",
         "B": "Vitellius",
@@ -461,6 +507,8 @@
         "D": "Commodus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -473,11 +521,13 @@
         "D": "Vespasian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 41,
-      "question": "Starting in the second century, the Senate would honor new emperors with the",
+      "question": "Starting in the second century, the Senate would honor new emperors with the wish, “Better than Augustus and luckier than",
       "options": {
         "A": "Nerva",
         "B": "Trajan",
@@ -485,33 +535,27 @@
         "D": "Antoninus Pius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 42,
       "question": "During what span was the the Augustan Age?",
       "options": {
-        "A": "c. A.D. 14 – A.D. 68",
+        "A": "27 B.C. – A.D. 14",
         "B": "27 B.C. – A.D.",
+        "C": "A.D. 14 – A.D. 68",
         "D": "A.D. 69 – A.D."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
-      "question_number": 43,
-      "question": "In what year was Alaric’s third and final siege of Rome?",
-      "options": {
-        "A": "403",
-        "B": "407",
-        "C": "409 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
       "question_number": 44,
-      "question": "Which emperor forced multiple famous authors, including his former tutor Seneca",
+      "question": "Which emperor forced multiple famous authors, including his former tutor Seneca the Younger, to kill themselves for their involvement in the Pisonian Conspiracy?",
       "options": {
         "A": "Caligula",
         "B": "Tiberius",
@@ -519,6 +563,8 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -531,17 +577,22 @@
         "D": "Maxentius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 46,
       "question": "Where were Trajan’s ashes buried?",
       "options": {
-        "A": "c. Trajan’s column",
+        "A": "the Arch of Titus",
         "B": "the Mausoleum of Augustus",
+        "C": "Trajan’s column",
         "D": "the Basilica Ulpia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -554,6 +605,8 @@
         "D": "Vitellius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -566,17 +619,22 @@
         "D": "Valentinian I"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 49,
       "question": "Which empress was carried away after the Vandals sacked Rome in 455?",
       "options": {
-        "A": "c. Galla Placidia",
+        "A": "Aelia Pulcheria",
         "B": "Licinia Eudoxa",
+        "C": "Galla Placidia",
         "D": "Aelia Eudocia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -589,6 +647,8 @@
         "D": "inhaled fumes from a stove"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

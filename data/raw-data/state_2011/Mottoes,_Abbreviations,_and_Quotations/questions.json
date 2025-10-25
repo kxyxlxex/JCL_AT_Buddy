@@ -3,29 +3,36 @@
     "name": "Mottoes,_Abbreviations,_and_Quotations",
     "year": "state_2011",
     "subject": "Mottoes,_Abbreviations,_and_Quotations",
-    "total_questions": 50
+    "total_questions": 49,
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
       "question": "in situ",
       "options": {
-        "A": "c. caught red handed",
+        "A": "in its original position",
         "B": "in the matter (of)",
+        "C": "caught red handed",
         "D": "into the middle of things"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 2,
       "question": "the diploma of an outstanding student",
       "options": {
-        "A": "c. emeritus",
+        "A": "summa cum laude",
         "B": "dramatis personae",
+        "C": "emeritus",
         "D": "alumus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -38,6 +45,8 @@
         "D": "habeas corpus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -50,6 +59,8 @@
         "D": "lapsus calami"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -62,6 +73,8 @@
         "D": "loci"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -74,17 +87,22 @@
         "D": "pons asinorum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 7,
       "question": "modus vivendi",
       "options": {
-        "A": "c. way of living",
+        "A": "method of operating",
         "B": "mode of doing",
+        "C": "way of living",
         "D": "method of fighting"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -97,6 +115,8 @@
         "D": "with merit"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -109,17 +129,22 @@
         "D": "after things"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 10,
       "question": "I would never entrust an important task to one who is (a) __________________.",
       "options": {
-        "A": "c. mens sana in corpore sano",
+        "A": "nil desperandum",
         "B": "nemo est supra leges",
+        "C": "mens sana in corpore sano",
         "D": "non compos mentis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -132,6 +157,8 @@
         "D": "placebo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -144,6 +171,8 @@
         "D": "ipso facto"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -156,11 +185,13 @@
         "D": "legalis homo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 14,
-      "question": "supernatural intervention",
+      "question": "supernatural intervention Part II: Mottoes",
       "options": {
         "A": "deo volente",
         "B": "soli deo gratia",
@@ -168,6 +199,8 @@
         "D": "deus ex machina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -180,6 +213,8 @@
         "D": "Oregon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -192,6 +227,8 @@
         "D": "sua sponte"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -204,6 +241,8 @@
         "D": "perstare et praestare"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -216,6 +255,8 @@
         "D": "Yale"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -228,6 +269,8 @@
         "D": "Connecticut"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -240,17 +283,22 @@
         "D": "California"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 21,
       "question": "sapientia et doctrina",
       "options": {
-        "A": "c. Davidson College",
+        "A": "Fordham University",
         "B": "Tufts University",
+        "C": "Davidson College",
         "D": "Emory University"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -263,6 +311,8 @@
         "D": "District of Columbia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -275,6 +325,8 @@
         "D": "United Kingdom"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -287,6 +339,8 @@
         "D": "Chicago"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -299,11 +353,13 @@
         "D": "The European Union"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 26,
-      "question": "lux et veritas, the motto of Yale, is also the motto of ___________.",
+      "question": "lux et veritas, the motto of Yale, is also the motto of ___________. Part III: Abbreviations",
       "options": {
         "A": "Stanford",
         "B": "Missouri",
@@ -311,6 +367,8 @@
         "D": "Duke"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -323,6 +381,8 @@
         "D": "viz."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -335,6 +395,8 @@
         "D": "B.A."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -347,6 +409,8 @@
         "D": "that is"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -359,17 +423,22 @@
         "D": "among others"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 31,
       "question": "A.D.",
       "options": {
-        "A": "c. in the year of our Lord",
+        "A": "right ear",
         "B": "by the grace of God",
+        "C": "in the year of our Lord",
         "D": "Doctor of Arts"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -382,6 +451,8 @@
         "D": "three times a day"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -394,6 +465,8 @@
         "D": "Q.D."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -406,6 +479,8 @@
         "D": "cochl."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -418,6 +493,8 @@
         "D": "vs."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -430,6 +507,8 @@
         "D": "D.V."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -442,11 +521,13 @@
         "D": "o.m."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "pro tem.",
+      "question": "pro tem. Part IV: Quotations",
       "options": {
         "A": "at the right time",
         "B": "for the time being",
@@ -454,6 +535,8 @@
         "D": "in no time"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -466,6 +549,8 @@
         "D": "Propertius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -478,6 +563,8 @@
         "D": "Plautus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -490,6 +577,8 @@
         "D": "Apuleius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -502,6 +591,8 @@
         "D": "Cato"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -514,6 +605,8 @@
         "D": "Juvenal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -526,6 +619,8 @@
         "D": "Vergil"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -538,6 +633,8 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -550,6 +647,8 @@
         "D": "Statius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -562,6 +661,8 @@
         "D": "Silius Italicus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -574,18 +675,9 @@
         "D": "Vergil"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
-    },
-    {
-      "question_number": 49,
-      "question": "nunc est bibendum",
-      "options": {
-        "A": "Horace",
-        "B": "Gallus",
-        "C": "Propertius d.Tertullian"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
     },
     {
       "question_number": 50,
@@ -597,6 +689,8 @@
         "D": "Grotius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     }
   ]

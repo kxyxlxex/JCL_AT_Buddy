@@ -3,7 +3,8 @@
     "name": "Mythology",
     "year": "state_2018",
     "subject": "Mythology",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Hestia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Proserpina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -40,6 +45,8 @@
         "D": "earthquakes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -52,6 +59,8 @@
         "D": "Arachne"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -64,6 +73,8 @@
         "D": "Persephone"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -76,6 +87,8 @@
         "D": "Pyramus and Thisbe"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -88,6 +101,8 @@
         "D": "Athens"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -100,6 +115,8 @@
         "D": "Minos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -112,6 +129,8 @@
         "D": "encouraged Perseus to trick Thetis."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -124,6 +143,8 @@
         "D": "Crete"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -136,6 +157,8 @@
         "D": "vulture"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -148,11 +171,13 @@
         "D": "Aegina and Jupiter"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 13,
-      "question": "The gods who visited Baucis and Philemon disguised as beggars were ______.",
+      "question": "The gods who visited Baucis and Philemon disguised as beggars were ______. Mythology - States 2018 -",
       "options": {
         "A": "Zeus and Hermes",
         "B": "Artemis and Apollo",
@@ -160,6 +185,8 @@
         "D": "Ares and Hades"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -172,6 +199,8 @@
         "D": "Ares"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -184,6 +213,8 @@
         "D": "Vesta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -196,6 +227,8 @@
         "D": "Polydectes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -208,6 +241,8 @@
         "D": "lion, goat, and snake"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -220,6 +255,8 @@
         "D": "Perseus goes on his quest to kill Medusa."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -232,6 +269,8 @@
         "D": "wailing"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -244,6 +283,8 @@
         "D": "Fates"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -256,6 +297,8 @@
         "D": "Apollo bragging about how he punished Midas."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -268,6 +311,8 @@
         "D": "rolling a boulder up a hill."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -280,6 +325,8 @@
         "D": "Echo and Narcissus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -292,6 +339,8 @@
         "D": "Charybdis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -304,11 +353,13 @@
         "D": "Polyxena"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 26,
-      "question": "Odysseus lived with ______ for seven years before she helped him build a raft to leave her island.",
+      "question": "Odysseus lived with ______ for seven years before she helped him build a raft to leave her island. Mythology - States 2018 -",
       "options": {
         "A": "Circe",
         "B": "Calypso",
@@ -316,6 +367,8 @@
         "D": "Nausicaa"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -328,6 +381,8 @@
         "D": "Fighting men who grew from dragon teeth."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -340,6 +395,8 @@
         "D": "Iron"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -352,6 +409,8 @@
         "D": "Astyanax"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -364,6 +423,8 @@
         "D": "dog"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -376,6 +437,8 @@
         "D": "Heracles"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -388,6 +451,8 @@
         "D": "Hydra"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -400,6 +465,8 @@
         "D": "cupbearers to the gods."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -412,6 +479,8 @@
         "D": "Tisiphone"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -424,6 +493,8 @@
         "D": "Tiryns"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -436,6 +507,8 @@
         "D": "Castor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -448,6 +521,8 @@
         "D": "hymns"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -460,11 +535,13 @@
         "D": "Hippolyta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 39,
-      "question": "Neptune, with his helpers Triton and ______, saved the Trojan ships from being completely",
+      "question": "Neptune, with his helpers Triton and ______, saved the Trojan ships from being completely destroyed in Book 1 of the Aeneid.",
       "options": {
         "A": "Amphitrite",
         "B": "Camilla",
@@ -472,11 +549,13 @@
         "D": "Thetis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 40,
-      "question": "In the Iliad, which two soldiers traded armor instead of fighting?",
+      "question": "In the Iliad, which two soldiers traded armor instead of fighting? Mythology - States 2018 -",
       "options": {
         "A": "Odysseus and Rhesus",
         "B": "Glaucus and Diomedes",
@@ -484,6 +563,8 @@
         "D": "Idomeneus and Helenus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -496,11 +577,13 @@
         "D": "Pygmalion"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 42,
-      "question": "To what king of Argos did Polynices come to seek advice on how to convince Amphiaraus to join",
+      "question": "To what king of Argos did Polynices come to seek advice on how to convince Amphiaraus to join the Seven Against Thebes?",
       "options": {
         "A": "Anaxagorus",
         "B": "Adrastus",
@@ -508,6 +591,8 @@
         "D": "Iphis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -520,6 +605,8 @@
         "D": "They gave Perseus a helmet of invisibility."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -532,6 +619,8 @@
         "D": "Astraeus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -544,11 +633,13 @@
         "D": "Ajax slaughtering a flock of sheep"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 46,
-      "question": "______ and his brother Ialmenus were both suitors of Helen, Argonauts, and leaders of the forces",
+      "question": "______ and his brother Ialmenus were both suitors of Helen, Argonauts, and leaders of the forces of Orchomenus in the Trojan War.",
       "options": {
         "A": "Podalirius",
         "B": "Amphimachus",
@@ -556,6 +647,8 @@
         "D": "Euphemus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -568,6 +661,8 @@
         "D": "Deiphobus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -580,11 +675,13 @@
         "D": "Syracuse"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 49,
-      "question": "Which youth, beloved of Apollo, became unconsolably sad when he accidentally killed his own",
+      "question": "Which youth, beloved of Apollo, became unconsolably sad when he accidentally killed his own pet stag?",
       "options": {
         "A": "Iamus",
         "B": "Phorbas",
@@ -592,11 +689,13 @@
         "D": "Cyparissus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 50,
-      "question": "______ grew jealous of Triptolemus and killed one of the snakes that pulled his winged chariot.",
+      "question": "______ grew jealous of Triptolemus and killed one of the snakes that pulled his winged chariot. Never fear! Demeter gave Triptolemus a spare snake.",
       "options": {
         "A": "Thaumas",
         "B": "Eumelus",
@@ -604,6 +703,8 @@
         "D": "Carnabon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

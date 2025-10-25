@@ -3,7 +3,8 @@
     "name": "Mottoes,_Abbreviations,_and_Quotations",
     "year": "state_2009",
     "subject": "Mottoes,_Abbreviations,_and_Quotations",
-    "total_questions": 50
+    "total_questions": 49,
+    "sections": []
   },
   "questions": [
     {
@@ -16,28 +17,36 @@
         "D": "doctor's office"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 2,
       "question": "sine ___________",
       "options": {
-        "A": "c. causa",
+        "A": "pecunia",
         "B": "facto",
+        "C": "causa",
         "D": "die"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 3,
       "question": "Which phrase would encourage someone to take life by the horns?",
       "options": {
-        "A": "c. in vino veritas",
+        "A": "cogito ergo sum",
         "B": "fortes fortuna iuvat",
+        "C": "in vino veritas",
         "D": "rara avis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -50,6 +59,8 @@
         "D": "easily angered"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -62,17 +73,22 @@
         "D": "morti"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 6,
       "question": "Rex non potest peccare most closely corresponds to",
       "options": {
-        "A": "c. poor decision-making",
+        "A": "nepotism",
         "B": "waiting your turn",
+        "C": "poor decision-making",
         "D": "infallibility of a monarch"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -85,6 +101,8 @@
         "D": "lex omnibus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -97,6 +115,8 @@
         "D": "the Prince of Monaco"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -109,6 +129,8 @@
         "D": "an exchange"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -121,17 +143,22 @@
         "D": "nostrum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 11,
       "question": "How might you label a person who spills the punch bowl all over the carpet at your party?",
       "options": {
-        "A": "c. persona aurea",
+        "A": "persona non dives",
         "B": "persona inferna",
+        "C": "persona aurea",
         "D": "persona non grata"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -144,11 +171,13 @@
         "D": "brave"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 13,
-      "question": "Quo __________? This is the question asked of Jesus by Saint Peter.",
+      "question": "Quo __________? This is the question asked of Jesus by Saint Peter. Part II. Mottoes",
       "options": {
         "A": "mittis",
         "B": "ducis",
@@ -156,6 +185,8 @@
         "D": "regis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -168,17 +199,22 @@
         "D": "Ireland"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 15,
       "question": "Which college's mottoes has more than three words?",
       "options": {
-        "A": "c. University of Michigan",
+        "A": "Florida State University",
         "B": "City College of New York",
+        "C": "University of Michigan",
         "D": "Tulane University"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -191,6 +227,8 @@
         "D": "Washington"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -203,17 +241,22 @@
         "D": "Minnesota"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 18,
       "question": "The Latin word for “cross” is used in the motto of",
       "options": {
-        "A": "c. Catholic University of America",
+        "A": "Trinity College",
         "B": "Notre Dame University",
+        "C": "Catholic University of America",
         "D": "Franciscan University of Steubenville"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -226,6 +269,8 @@
         "D": "Switzerland"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -238,28 +283,36 @@
         "D": "Coast Guard"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 21,
       "question": "Which is not a motto of the “Carolina” states?",
       "options": {
-        "A": "c. Animis opibusque parati",
+        "A": "Crescit eundo",
         "B": "Esse quam videri",
+        "C": "Animis opibusque parati",
         "D": "Dum spiro spero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 22,
       "question": "Crescat scienta, vita excolatur",
       "options": {
-        "A": "c. University of Mississippi",
+        "A": "University of Chicago",
         "B": "University of North Dakota",
+        "C": "University of Mississippi",
         "D": "Fordham University"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -272,6 +325,8 @@
         "D": "Madrid"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -284,6 +339,8 @@
         "D": "Michigan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -296,6 +353,8 @@
         "D": "Maryland"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -308,11 +367,13 @@
         "D": "cedant arma togae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 27,
-      "question": "Which Roman emperor’s personal motto, according to Suetonius, was “oderint dum metuant”?",
+      "question": "Which Roman emperor’s personal motto, according to Suetonius, was “oderint dum metuant”? Part III. Abbreviations",
       "options": {
         "A": "Augustus",
         "B": "Caligula",
@@ -320,6 +381,8 @@
         "D": "Vespasian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -332,6 +395,8 @@
         "D": "p.r."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -344,17 +409,22 @@
         "D": "dentist"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 30,
       "question": "q.e.d.",
       "options": {
-        "A": "c. consult the necessary authority",
+        "A": "the required proof has been given",
         "B": "the quota has been reached",
+        "C": "consult the necessary authority",
         "D": "seek additional input"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -367,6 +437,8 @@
         "D": "ob."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -379,6 +451,8 @@
         "D": "cap."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -391,6 +465,8 @@
         "D": "q.v."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -403,6 +479,8 @@
         "D": "Ag"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -415,6 +493,8 @@
         "D": "f.s."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -427,6 +507,8 @@
         "D": "by the grace of God"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -439,11 +521,13 @@
         "D": "ag."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "in the year of our Lord",
+      "question": "in the year of our Lord Part IV. Quotations",
       "options": {
         "A": "I.H.S.",
         "B": "A.D.",
@@ -451,6 +535,8 @@
         "D": "I.D."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -463,6 +549,8 @@
         "D": "Nero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -475,6 +563,8 @@
         "D": "Vergil"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -487,6 +577,8 @@
         "D": "Ovid"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -499,6 +591,8 @@
         "D": "Jerome"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -511,6 +605,8 @@
         "D": "Catullus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -523,6 +619,8 @@
         "D": "Tacitus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -535,6 +633,8 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -547,6 +647,8 @@
         "D": "Juvenal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -559,39 +661,35 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 48,
       "question": "Which quote relates to privacy rights and abuse of power concerns?",
       "options": {
-        "A": "c. Nemo liber est qui corpori servit.",
+        "A": "O Tempora! O Mores!",
         "B": "Timeo Danaos et dona ferentes.",
+        "C": "Nemo liber est qui corpori servit.",
         "D": "Quis custodiet ipsos custodes?"
       },
       "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
-      "question_number": 49,
-      "question": "Take the number of words in the motto of Massachusetts, multiply by the number implied in the",
-      "options": {
-        "A": "4",
-        "B": "6",
-        "C": "12 d."
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 50,
-      "question": "Take the number of words in the motto of the University of Vermont, add the number of words in",
+      "question": "Take the number of words in the motto of the University of Vermont, add the number of words in the motto of the city of London, multiply by the number of words in the motto of Kansas, add the number of words in the motto of the University of Missouri, and divide by the number of letters in the abbreviation which means “rest in peace”. What do you get?",
       "options": {
         "A": "14",
         "B": "1",
         "C": "18 d."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

@@ -3,7 +3,8 @@
     "name": "Classical_Geography",
     "year": "state_2017",
     "subject": "Classical_Geography",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Ancona"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Aquileia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -40,6 +45,8 @@
         "D": "Sicily"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -52,11 +59,13 @@
         "D": "Romania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 5,
-      "question": "The other ancient name of Siscia is ___.",
+      "question": "The other ancient name of Siscia is ___. N.B. Questions 6-10 pertain to ancient places and their modern equivalents.",
       "options": {
         "A": "Pannonia",
         "B": "Segestica",
@@ -64,6 +73,8 @@
         "D": "Sisak"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -76,6 +87,8 @@
         "D": "Slovakia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -88,6 +101,8 @@
         "D": "Po"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -100,6 +115,8 @@
         "D": "Lusitania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -112,11 +129,13 @@
         "D": "Egypt"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 10,
-      "question": "The city of Tripoli was called ___ by the Romans.",
+      "question": "The city of Tripoli was called ___ by the Romans. N.B. Questions 11-15 pertain to directional geography.",
       "options": {
         "A": "Sabratha",
         "B": "Lepis Magna",
@@ -124,6 +143,8 @@
         "D": "Hippo Reglus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -136,6 +157,8 @@
         "D": "Mysia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -148,6 +171,8 @@
         "D": "west"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -160,6 +185,8 @@
         "D": "Thracia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -172,11 +199,13 @@
         "D": "west"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 15,
-      "question": "Which of these cities is the farthest northwest?",
+      "question": "Which of these cities is the farthest northwest? N.B. Questions 16-20 pertain to provinces of the Roman Empire.",
       "options": {
         "A": "Corinth",
         "B": "Nicaea",
@@ -184,6 +213,8 @@
         "D": "Tomis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -196,6 +227,8 @@
         "D": "Epirus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -208,6 +241,8 @@
         "D": "Cilicia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -220,6 +255,8 @@
         "D": "Pontus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -232,11 +269,13 @@
         "D": "Aquitania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 20,
-      "question": "In which province was the city of Palmyra be found?",
+      "question": "In which province was the city of Palmyra be found? N.B. Questions 21-30 refer to Map 1: Ancient Rome",
       "options": {
         "A": "Judaea",
         "B": "Arabia Petraea",
@@ -244,6 +283,8 @@
         "D": "Syria"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -256,17 +297,22 @@
         "D": "Subura"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 22,
       "question": "Which of the following would be located in Number 5?",
       "options": {
-        "A": "b. Aventine Hill",
+        "A": "Baths of Caracalla",
         "C": "Mons Testaceus",
+        "B": "Aventine Hill",
         "D": "Porticus Aemilia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -279,17 +325,22 @@
         "D": "Pomerium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 24,
       "question": "Which of the following would be located in Number 12?",
       "options": {
-        "A": "b. Temple of Apollo Sosianus",
+        "A": "Palace of Augustus",
         "C": "Mausoleum of Augustus",
+        "B": "Temple of Apollo Sosianus",
         "D": "Stadium of Domitian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -302,6 +353,8 @@
         "D": "Ara Pacis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -314,6 +367,8 @@
         "D": "Number"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -326,6 +381,8 @@
         "D": "Number"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -338,6 +395,8 @@
         "D": "Number"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -350,17 +409,22 @@
         "D": "Number"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 30,
-      "question": "Which of the following is NOT found near Number 9?",
+      "question": "Which of the following is NOT found near Number 9? N.B. Questions 31-40 refer to Map 2: Ancient Middle East",
       "options": {
-        "A": "b. Theatre of Pompey",
+        "A": "Baths of Agrippa",
         "C": "Bath of Nero",
+        "B": "Theatre of Pompey",
         "D": "Bath of Titus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -373,6 +437,8 @@
         "D": "Lycia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -385,6 +451,8 @@
         "D": "Epirus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -397,6 +465,8 @@
         "D": "Dacia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -409,6 +479,8 @@
         "D": "Gaza"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -421,6 +493,8 @@
         "D": "Judaea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -433,6 +507,8 @@
         "D": "Number"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -445,6 +521,8 @@
         "D": "Number"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -457,6 +535,8 @@
         "D": "Number"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -469,11 +549,13 @@
         "D": "Number"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 40,
-      "question": "Which city is NOT found in Number 15?",
+      "question": "Which city is NOT found in Number 15? N.B. Questions 41-50 refer to Map 3: The Roman Empire",
       "options": {
         "A": "Halicarnassus",
         "B": "Smynra",
@@ -481,6 +563,8 @@
         "D": "Thapsus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -493,6 +577,8 @@
         "D": "Raetia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -505,6 +591,8 @@
         "D": "Baetica"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -517,6 +605,8 @@
         "D": "Ionian Sea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -529,6 +619,8 @@
         "D": "Bithynia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -541,6 +633,8 @@
         "D": "Belgica"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -553,6 +647,8 @@
         "D": "Number"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -565,6 +661,8 @@
         "D": "Number"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -577,6 +675,8 @@
         "D": "Number"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -589,11 +689,13 @@
         "D": "Avaricum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 50,
-      "question": "Which of the following cities is found in Number 18?",
+      "question": "Which of the following cities is found in Number 18? Geography Maps Map #1:Ancient Rome - City Map #2: Ancient Middle East Map #3: Ancient Rome – Empire",
       "options": {
         "A": "Burdigala",
         "B": "Lemonum",
@@ -601,6 +703,8 @@
         "D": "Lutetia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     }
   ]

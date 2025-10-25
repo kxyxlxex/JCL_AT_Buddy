@@ -3,12 +3,13 @@
     "name": "Mottoes,_Abbreviations,_and_Quotations",
     "year": "state_2017",
     "subject": "Mottoes,_Abbreviations,_and_Quotations",
-    "total_questions": 49
+    "total_questions": 48,
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "Choose the best possible answer. When she messed up her speech midway, she decided to start _______.",
+      "question": "When she messed up her speech midway, she decided to start _______.",
       "options": {
         "A": "ab initio",
         "B": "ab intergro",
@@ -16,11 +17,13 @@
         "D": "ab intra"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 2,
-      "question": "Choose the best possible answer. ad unguem",
+      "question": "ad unguem",
       "options": {
         "A": "average",
         "B": "perfectly",
@@ -28,11 +31,13 @@
         "D": "rough"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 3,
-      "question": "Choose the best possible answer. Prince Charming fell in love with Cinderella _______.",
+      "question": "Prince Charming fell in love with Cinderella _______.",
       "options": {
         "A": "prima luce",
         "B": "prima facie",
@@ -40,11 +45,13 @@
         "D": "de facto"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 4,
-      "question": "Choose the best possible answer. Let the buyer beware",
+      "question": "Let the buyer beware",
       "options": {
         "A": "habeas corpus",
         "B": "cave canem",
@@ -52,11 +59,13 @@
         "D": "per se"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 5,
-      "question": "Choose the best possible answer. An empty threat",
+      "question": "An empty threat",
       "options": {
         "A": "ab absurdo",
         "B": "caetera desunt",
@@ -64,11 +73,13 @@
         "D": "ex novo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 6,
-      "question": "Choose the best possible answer. There’s always that one guy who has to add something of nonsense, who",
+      "question": "There’s always that one guy who has to add something of nonsense, who is called ______.",
       "options": {
         "A": "vox populi",
         "B": "vox clamantis",
@@ -76,11 +87,13 @@
         "D": "vox nihil"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 7,
-      "question": "Choose the best possible answer. a constant companion",
+      "question": "a constant companion",
       "options": {
         "A": "alma mater",
         "B": "vade mecum",
@@ -88,11 +101,13 @@
         "D": "per se"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 8,
-      "question": "Choose the best possible answer. Ad invicem",
+      "question": "Ad invicem",
       "options": {
         "A": "from below",
         "B": "from judgment",
@@ -100,11 +115,13 @@
         "D": "reciprocal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 9,
-      "question": "Choose the best possible answer. After the continent America was discovered, every major European",
+      "question": "After the continent America was discovered, every major European country thought of it as ______.",
       "options": {
         "A": "res nullius",
         "B": "res publica",
@@ -112,11 +129,13 @@
         "D": "terra firma"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 10,
-      "question": "Choose the best possible answer. Immediately",
+      "question": "Immediately",
       "options": {
         "A": "stante pede",
         "B": "festina lente",
@@ -124,22 +143,27 @@
         "D": "ex post"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 11,
-      "question": "Choose the best possible answer. In a debate, Sheila tries to prove that the opposition is wrong by ____.",
+      "question": "In a debate, Sheila tries to prove that the opposition is wrong by ____.",
       "options": {
-        "A": "b. res judicata",
+        "A": "reductio ad infinitum",
         "C": "ratio decidendi",
+        "B": "res judicata",
         "D": "reductio ad absurdum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 12,
-      "question": "Choose the best possible answer. dicto simpliciter",
+      "question": "dicto simpliciter",
       "options": {
         "A": "as stated",
         "B": "word is bond",
@@ -147,11 +171,13 @@
         "D": "a maxim"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 13,
-      "question": "Choose the best possible answer. Occam’s Razor is also called a lex _____.",
+      "question": "Occam’s Razor is also called a lex _____. Part 2 – Mottoes",
       "options": {
         "A": "ferenda",
         "B": "paciferat",
@@ -159,11 +185,13 @@
         "D": "in casu"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 14,
-      "question": "Choose the best possible answer. Both Rollins Colege and Angelo State University share the same Latin",
+      "question": "Both Rollins Colege and Angelo State University share the same Latin motto. What is it? Match the motto with the state, city, university or group.",
       "options": {
         "A": "Lux esto",
         "B": "Fiat lux",
@@ -171,44 +199,55 @@
         "D": "Sit Lux"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 15,
-      "question": "Choose the best possible answer. Veritas et Virtus",
+      "question": "Veritas et Virtus",
       "options": {
-        "A": "b. Mississippi College",
+        "A": "Methodist University",
         "C": "John Hopkins University",
+        "B": "Mississippi College",
         "D": "University of Pittsburgh"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 16,
-      "question": "Choose the best possible answer. Washington, District of Columbia",
+      "question": "Washington, District of Columbia",
       "options": {
-        "A": "b. Excelsior!",
+        "A": "Justitita omnibus",
         "C": "Labor omnia vincit.",
+        "B": "Excelsior!",
         "D": "Salus et opus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 17,
-      "question": "Choose the best possible answer. Superbia in proelio",
+      "question": "Superbia in proelio",
       "options": {
-        "A": "b. AC Milan Football",
+        "A": "Chelsea Football Club",
         "C": "Paralympic Games",
+        "B": "AC Milan Football",
         "D": "Manchester City Football Club"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 18,
-      "question": "Choose the best possible answer. Ad astra per aspera",
+      "question": "Ad astra per aspera",
       "options": {
         "A": "Maine",
         "B": "Oklahoma",
@@ -216,22 +255,27 @@
         "D": "Idaho"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 19,
-      "question": "Choose the best possible answer. Quaecumque sunt vera",
+      "question": "Quaecumque sunt vera",
       "options": {
-        "A": "b. Northwestern University",
+        "A": "Northeastern University",
         "C": "University of Richmond",
+        "B": "Northwestern University",
         "D": "Southwestern University"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 20,
-      "question": "Choose the best possible answer. Domine dirige nos",
+      "question": "Domine dirige nos",
       "options": {
         "A": "Paris",
         "B": "Edinburgh",
@@ -239,22 +283,27 @@
         "D": "London"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 21,
-      "question": "Choose the best possible answer. Tria Juncta in uno",
+      "question": "Tria Juncta in uno",
       "options": {
-        "A": "b. The Benedictines",
+        "A": "Order of the Garter",
         "C": "Order of the Bath",
+        "B": "The Benedictines",
         "D": "Order of St. Sylvester"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 22,
-      "question": "Choose the best possible answer. Qui transtulit sustinet",
+      "question": "Qui transtulit sustinet",
       "options": {
         "A": "Connecticut",
         "B": "Delaware",
@@ -262,11 +311,13 @@
         "D": "Oregon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 23,
-      "question": "Choose the best possible answer. Sicut patribus sit deus nobis",
+      "question": "Sicut patribus sit deus nobis",
       "options": {
         "A": "Grand Rapids",
         "B": "Chicago",
@@ -274,55 +325,69 @@
         "D": "Baltimore"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 24,
-      "question": "Choose the best possible answer. Omnia pro patria",
+      "question": "Omnia pro patria",
       "options": {
-        "A": "b. Mount Olive College",
+        "A": "University of Nevada Las Vegas",
         "C": "Niagara University",
+        "B": "Mount Olive College",
         "D": "University of Minnesota"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 25,
-      "question": "Choose the best possible answer. What is the Latin motto of Belize?",
+      "question": "What is the Latin motto of Belize? Part 3 – Abbreviations",
       "options": {
-        "A": "b. Pergo et perago",
+        "A": "Sub umbra floreo",
         "C": "Semper pro grediens",
+        "B": "Pergo et perago",
         "D": "pro mundi beneficio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 26,
-      "question": "Choose the best possible answer. Who currently has the title “F.D.”?",
+      "question": "Who currently has the title “F.D.”?",
       "options": {
-        "A": "b. Ban Ki-moon",
+        "A": "Chief Justice Roberts",
         "C": "Pope Francis",
+        "B": "Ban Ki-moon",
         "D": "Queen Elizabeth II"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 27,
-      "question": "Choose the best possible answer. s.p.d.",
+      "question": "s.p.d.",
       "options": {
-        "A": "b. wishing you good health",
+        "A": "go away",
         "C": "special police department",
+        "B": "wishing you good health",
         "D": "sending condolences"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 28,
-      "question": "Choose the best possible answer. If someone has “r.” and dates following their name, those dates refer to",
+      "question": "If someone has “r.” and dates following their name, those dates refer to the person’s ____.",
       "options": {
         "A": "life and death",
         "B": "being famous",
@@ -330,11 +395,13 @@
         "D": "reign"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 29,
-      "question": "Choose the best possible answer. Medicine markes “c.c.” would need to be taken",
+      "question": "Medicine markes “c.c.” would need to be taken",
       "options": {
         "A": "with water",
         "B": "next morning",
@@ -342,11 +409,13 @@
         "D": "with food"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 30,
-      "question": "Choose the best possible answer. N.I.A. would designate the end of a ____.",
+      "question": "N.I.A. would designate the end of a ____.",
       "options": {
         "A": "presentation",
         "B": "prayer",
@@ -354,23 +423,13 @@
         "D": "article"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
-      "question_number": 31,
-      "question": "Choose the best possible answer. Ibid. is the same was what other abbreviation?",
-      "options": {
-        "A": "N.B.",
-        "B": "i.a.",
-        "C": "pro per.",
-        "D": "op. cit."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
-    },
-    {
       "question_number": 32,
-      "question": "Choose the best possible answer. “u.s.” best means ____.",
+      "question": "“u.s.” best means ____.",
       "options": {
         "A": "last month",
         "B": "see above",
@@ -378,22 +437,27 @@
         "D": "as above"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 33,
-      "question": "Choose the best possible answer. Medicine labeled “hor. tert.” needs to be taken",
+      "question": "Medicine labeled “hor. tert.” needs to be taken",
       "options": {
-        "A": "b. at intermediate hours",
+        "A": "every third hour",
         "C": "at patient’s bedtime",
+        "B": "at intermediate hours",
         "D": "hours spelled with a letter “t”"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 34,
-      "question": "Choose the best possible answer. “Sc.” Would introduce a type of _____ for the reader.",
+      "question": "“Sc.” Would introduce a type of _____ for the reader.",
       "options": {
         "A": "equivalence",
         "B": "clarification",
@@ -401,22 +465,27 @@
         "D": "reference"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 35,
-      "question": "Choose the best possible answer. “S.V.B.E.E.V.” would typically have been found",
+      "question": "“S.V.B.E.E.V.” would typically have been found",
       "options": {
-        "A": "b. Roman military orders",
+        "A": "Roman’s tombstone",
         "C": "start of a Roman’s letter",
+        "B": "Roman military orders",
         "D": "Augustus’s political decrees"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 36,
-      "question": "Choose the best possible answer. Which of the following abbreviations does NOT have the same general",
+      "question": "Which of the following abbreviations does NOT have the same general meaning?",
       "options": {
         "A": "ead.",
         "B": "id.",
@@ -424,11 +493,13 @@
         "D": "i.a."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 37,
-      "question": "Choose the best possible answer. Which of the following abbreviations has to do with a degree in law?",
+      "question": "Which of the following abbreviations has to do with a degree in law?",
       "options": {
         "A": "D.D.",
         "B": "O.D.",
@@ -436,11 +507,13 @@
         "D": "D.M.D."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "Choose the best possible answer. Which of the following abbreviations has nothing to do with prescriptions?",
+      "question": "Which of the following abbreviations has nothing to do with prescriptions? Part 4 – Quotations Give the author attributed with the given quotation.",
       "options": {
         "A": "Q.D.",
         "B": "stat.",
@@ -448,11 +521,13 @@
         "D": "s.i.d."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 39,
-      "question": "Choose the best possible answer. Puri sermonis amator",
+      "question": "Puri sermonis amator",
       "options": {
         "A": "Julius Caesar",
         "B": "Terentius",
@@ -460,11 +535,13 @@
         "D": "Suetonius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 40,
-      "question": "Choose the best possible answer. Dum excusare credis, accusas",
+      "question": "Dum excusare credis, accusas",
       "options": {
         "A": "St. Jerome",
         "B": "St. Augustine",
@@ -472,11 +549,13 @@
         "D": "St. Paul"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 41,
-      "question": "Choose the best possible answer. Gladiator in arena consilium capit",
+      "question": "Gladiator in arena consilium capit",
       "options": {
         "A": "Quintilian",
         "B": "Marcus Aurelius",
@@ -484,11 +563,13 @@
         "D": "Seneca"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 42,
-      "question": "Choose the best possible answer. Liberae sunt nostrae cogitationes",
+      "question": "Liberae sunt nostrae cogitationes",
       "options": {
         "A": "Pliny (elder)",
         "B": "Sallust",
@@ -496,11 +577,13 @@
         "D": "Cicero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 43,
-      "question": "Choose the best possible answer. In oculis animus habitat",
+      "question": "In oculis animus habitat",
       "options": {
         "A": "Lucretius",
         "B": "Pliny (Elder)",
@@ -508,11 +591,13 @@
         "D": "Terence"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 44,
-      "question": "Choose the best possible answer. Vincite virtute vera",
+      "question": "Vincite virtute vera",
       "options": {
         "A": "Plautus",
         "B": "Terence",
@@ -520,11 +605,13 @@
         "D": "Ennius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 45,
-      "question": "Choose the best possible answer. Stat magni nominis umbra",
+      "question": "Stat magni nominis umbra 46 . Lasciva est nobis pagina, vita proba.",
       "options": {
         "A": "Martial",
         "B": "Ennius",
@@ -532,11 +619,13 @@
         "D": "Juvenal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 47,
-      "question": "Choose the best possible answer. Difficile est longum subito deponere amorem.",
+      "question": "Difficile est longum subito deponere amorem.",
       "options": {
         "A": "Horace",
         "B": "Tibullus",
@@ -544,11 +633,13 @@
         "D": "Ovid"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 48,
-      "question": "Choose the best possible answer. Sunt superis sua iura",
+      "question": "Sunt superis sua iura",
       "options": {
         "A": "Petronius",
         "B": "Apelius",
@@ -556,11 +647,13 @@
         "D": "Ovid"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 49,
-      "question": "Choose the best possible answer. Aequam memento rebus in arduis servare mentem.",
+      "question": "Aequam memento rebus in arduis servare mentem.",
       "options": {
         "A": "Horace",
         "B": "Petronius",
@@ -568,11 +661,13 @@
         "D": "Varro"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 50,
-      "question": "Choose the best possible answer. Arrectis auribus adsto.",
+      "question": "Arrectis auribus adsto.",
       "options": {
         "A": "Ovid",
         "B": "Vergil",
@@ -580,6 +675,8 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     }
   ]

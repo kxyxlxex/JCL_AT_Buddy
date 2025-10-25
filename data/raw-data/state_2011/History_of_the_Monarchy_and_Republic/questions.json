@@ -3,7 +3,8 @@
     "name": "History_of_the_Monarchy_and_Republic",
     "year": "state_2011",
     "subject": "History_of_the_Monarchy_and_Republic",
-    "total_questions": 50
+    "total_questions": 43,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Tarquinius Priscus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -40,6 +45,8 @@
         "D": "Marius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -52,6 +59,8 @@
         "D": "Numa Pompilius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -64,6 +73,8 @@
         "D": "Aegates Islands"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -76,6 +87,8 @@
         "D": "Julius Caesar"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -88,6 +101,8 @@
         "D": "Munda"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -100,6 +115,8 @@
         "D": "Beneventum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -112,6 +129,8 @@
         "D": "Lex Poetelia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -124,6 +143,8 @@
         "D": "Scipio Africanus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -136,18 +157,9 @@
         "D": "Phillip V"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
-    },
-    {
-      "question_number": 12,
-      "question": "Which Roman general fell into Hannibal’s trap at Lake Trasimene?",
-      "options": {
-        "A": "Sempronius Longus",
-        "B": "P. Cornelius Scipio",
-        "C": "Flaminius"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "C"
     },
     {
       "question_number": 13,
@@ -159,6 +171,8 @@
         "D": "Tarquinius Superbus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -171,6 +185,8 @@
         "D": "Regulus’"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -183,6 +199,8 @@
         "D": "Lex Hortensia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -195,6 +213,8 @@
         "D": "Ecnomus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -207,18 +227,9 @@
         "D": "Sulla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
-    },
-    {
-      "question_number": 18,
-      "question": "In what year did Rome accomplish its final subjugation of the Latin League?",
-      "options": {
-        "A": "496",
-        "B": "458",
-        "C": "400 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
     },
     {
       "question_number": 19,
@@ -230,6 +241,8 @@
         "D": "Spartikos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -242,6 +255,8 @@
         "D": "Side"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -254,22 +269,27 @@
         "D": "Flamininus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 22,
       "question": "Which of Rome’s first two consuls had his own sons put to death for conspiring against him?",
       "options": {
-        "A": "c. Valerius Publicola",
+        "A": "L. Junius Brutus",
         "B": "L. Tarquinius Collatinus",
+        "C": "Valerius Publicola",
         "D": "Sp. Lucretius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 23,
-      "question": "What kind of sacred animals in the temple of Juno once alerted the Romans to an attack by the",
+      "question": "What kind of sacred animals in the temple of Juno once alerted the Romans to an attack by the Gauls?",
       "options": {
         "A": "geese",
         "B": "chickens",
@@ -277,6 +297,8 @@
         "D": "cows"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -289,6 +311,8 @@
         "D": "Cornelius Sulla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -301,6 +325,8 @@
         "D": "Sentinum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -313,6 +339,8 @@
         "D": "Cleopatra"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -325,16 +353,9 @@
         "D": "Servius Tullius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
-    },
-    {
-      "question_number": 28,
-      "question": "Which of the following was NOT an original member of Tiberius Gracchus’ land commission?",
-      "options": {
-        "C": "Gracchus b. Mucius Scaevola c. Tiberius Gracchus d. Appius Claudius"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
     },
     {
       "question_number": 29,
@@ -346,6 +367,8 @@
         "D": "Lucumo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -358,6 +381,8 @@
         "D": "Jugurtha"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -370,11 +395,13 @@
         "D": "Virodomarus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 32,
-      "question": "What Lusitanian guerilla commander, defeated by the Romans, is considered to be the first national",
+      "question": "What Lusitanian guerilla commander, defeated by the Romans, is considered to be the first national hero of Portugal?",
       "options": {
         "A": "Syphax",
         "B": "Vercingetorix",
@@ -382,6 +409,8 @@
         "D": "Viriathus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -394,11 +423,13 @@
         "D": "Greek colony"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 34,
-      "question": "The first Roman to have his imperium extended beyond his term as consul in order to lay siege",
+      "question": "The first Roman to have his imperium extended beyond his term as consul in order to lay siege to Naples in 326 was",
       "options": {
         "A": "Fabius Rullianus",
         "B": "Publilius Philo",
@@ -406,6 +437,8 @@
         "D": "Titus Lartius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -418,6 +451,8 @@
         "D": "Sex. Peducaeus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -430,6 +465,8 @@
         "D": "Ancona"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -442,6 +479,8 @@
         "D": "Ambiorix"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -454,18 +493,9 @@
         "D": "L. Caesar"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
-    },
-    {
-      "question_number": 39,
-      "question": "Which tribune became the second victim of a Senatus Consultum Ultimum in 100?",
-      "options": {
-        "A": "Glaucia",
-        "B": "Memmius c.",
-        "C": "Gracchus d. Saturninus"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
     },
     {
       "question_number": 40,
@@ -477,11 +507,13 @@
         "D": "Metellus Macedonicus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 41,
-      "question": "Which Roman bravely inspired the Senate to fight on against Carthage even though it meant that he",
+      "question": "Which Roman bravely inspired the Senate to fight on against Carthage even though it meant that he would have to return to the enemy and face certain death?",
       "options": {
         "A": "Scaevola",
         "B": "Poplicola",
@@ -489,6 +521,8 @@
         "D": "Regulus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -501,22 +535,13 @@
         "D": "Bibracte"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
-      "question_number": 43,
-      "question": "What consul’s fleet was defeated by pirates near Ostia in 68?",
-      "options": {
-        "A": "L. Cassius Longinus",
-        "B": "M. Antonius Creticus",
-        "C": "Antonius Hybrida d. Q. Marcius Rex"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
       "question_number": 44,
-      "question": "Which Roman admiral defeated Eudamus at Myonesus, the last notable Roman naval victory over",
+      "question": "Which Roman admiral defeated Eudamus at Myonesus, the last notable Roman naval victory over a foreign enemy?",
       "options": {
         "A": "L. Scipio",
         "B": "Acilius Glabrio",
@@ -524,11 +549,13 @@
         "D": "Valerius Messala"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 45,
-      "question": "Where did Scipio Barbatus receive a crushing defeat at the hands of the Samnites and Gauls in",
+      "question": "Where did Scipio Barbatus receive a crushing defeat at the hands of the Samnites and Gauls in the Third Samnite War?",
       "options": {
         "A": "Camerinum",
         "B": "Aquilonia",
@@ -536,16 +563,9 @@
         "D": "Lucania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
-    },
-    {
-      "question_number": 46,
-      "question": "Which Roman general quelled the slave rebellion led by Eunus and Cleon in Sicily in 132?",
-      "options": {
-        "C": "Laelius b. Piso Frugi c. M’ Aquilius d. Metellus Numidicus"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
     },
     {
       "question_number": 47,
@@ -557,18 +577,9 @@
         "D": "praetor peregrinus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
-    },
-    {
-      "question_number": 48,
-      "question": "How many wives did Pompey the Great have?",
-      "options": {
-        "A": "2",
-        "B": "3",
-        "C": "4 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
     },
     {
       "question_number": 49,
@@ -580,11 +591,13 @@
         "D": "Galatia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 50,
-      "question": "Which Roman commander was sent with a fleet to Apollonia in 214 B.C. to combat Phillip V in what",
+      "question": "Which Roman commander was sent with a fleet to Apollonia in 214 B.C. to combat Phillip V in what became known as the First Macedonian War?",
       "options": {
         "A": "Fabius Maximus",
         "B": "Valerius Laevinus",
@@ -592,6 +605,8 @@
         "D": "Appius Claudius Caudex"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     }
   ]

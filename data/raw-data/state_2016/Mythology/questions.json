@@ -3,7 +3,8 @@
     "name": "Mythology",
     "year": "state_2016",
     "subject": "Mythology",
-    "total_questions": 50
+    "total_questions": 49,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Apollo."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -28,11 +31,13 @@
         "D": "Hades"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 3,
-      "question": "The god who persuaded Hephaestus to return to Olympus and release Hera from",
+      "question": "The god who persuaded Hephaestus to return to Olympus and release Hera from the golden chair he’d made for her was",
       "options": {
         "A": "Aphrodite",
         "B": "Hermes",
@@ -40,6 +45,8 @@
         "D": "Athena"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -52,6 +59,8 @@
         "D": "Hera"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -64,6 +73,8 @@
         "D": "Anteros."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -76,6 +87,8 @@
         "D": "roads"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -88,6 +101,8 @@
         "D": "Vulcan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -100,6 +115,8 @@
         "D": "Janus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -112,6 +129,8 @@
         "D": "Graces"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -124,6 +143,8 @@
         "D": "Cocytus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -136,11 +157,13 @@
         "D": "Iron"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 12,
-      "question": "In the war between Zeus and the Titans, the Olympians fought from Mt.",
+      "question": "In the war between Zeus and the Titans, the Olympians fought from Mt. Olympus and the Titans fought from Mt. ________.",
       "options": {
         "A": "Pelion",
         "B": "Ossa",
@@ -148,11 +171,13 @@
         "D": "Parnassus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 13,
-      "question": "Because Lycaon had served Zeus the flesh of the Molossian hostages, Zeus",
+      "question": "Because Lycaon had served Zeus the flesh of the Molossian hostages, Zeus turned him into a _______________.",
       "options": {
         "A": "jackel",
         "B": "wolf",
@@ -160,11 +185,13 @@
         "D": "rat"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 14,
-      "question": "In the war with the giants, the giant Ephialtes was killed by ______ with the",
+      "question": "In the war with the giants, the giant Ephialtes was killed by ______ with the help of Heracles.",
       "options": {
         "A": "Athena",
         "B": "Hera",
@@ -172,6 +199,8 @@
         "D": "Hephaestus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -184,6 +213,8 @@
         "D": "Xanthos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -196,6 +227,8 @@
         "D": "Adrastus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -208,6 +241,8 @@
         "D": "Hermes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -220,6 +255,8 @@
         "D": "stealing the winged horse, Pegasus."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -232,11 +269,13 @@
         "D": "Phineus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 20,
-      "question": "The mother of the Cercopes had warned her sons about him by telling them to",
+      "question": "The mother of the Cercopes had warned her sons about him by telling them to “beware the _______________.”",
       "options": {
         "A": "lion man",
         "B": "club man",
@@ -244,6 +283,8 @@
         "D": "scarred man"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -256,6 +297,8 @@
         "D": "Eurytion"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -268,17 +311,22 @@
         "D": "Eteocles"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 23,
       "question": "Aegeus tried to get rid of Theseus by sending him to kill _______.",
       "options": {
-        "A": "c. the Sow of Crommyron",
+        "A": "the Calydonian boar",
         "B": "the Marathonian bull",
+        "C": "the Sow of Crommyron",
         "D": "the Minotaur"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -291,6 +339,8 @@
         "D": "he killed his uncles when they attacked him."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -303,11 +353,13 @@
         "D": "Jason"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 26,
-      "question": "Adonis was born from a myrrh tree into which his mother _____ had been",
+      "question": "Adonis was born from a myrrh tree into which his mother _____ had been changed when fleeing from her father.",
       "options": {
         "A": "Scylla",
         "B": "Iole",
@@ -315,11 +367,13 @@
         "D": "Clytie"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 27,
-      "question": "After avenging the murder of her son Polydorus, Hecuba was changed into a",
+      "question": "After avenging the murder of her son Polydorus, Hecuba was changed into a ____.",
       "options": {
         "A": "tree",
         "B": "dog",
@@ -327,6 +381,8 @@
         "D": "rock"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -339,6 +395,8 @@
         "D": "Callisto"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -351,6 +409,8 @@
         "D": "a peacock"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -363,11 +423,13 @@
         "D": "Dido"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 31,
-      "question": "The Greek who led the defense of the Greek ships against Hector’s onslaught",
+      "question": "The Greek who led the defense of the Greek ships against Hector’s onslaught after Achilles withdrew from the Trojan War was ______.",
       "options": {
         "A": "Patroclus",
         "B": "Diomedes",
@@ -375,11 +437,13 @@
         "D": "Agamemnon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 32,
-      "question": "Achilles withdrew from the flighting at Troy after his concubine, _____, was",
+      "question": "Achilles withdrew from the flighting at Troy after his concubine, _____, was taken from him.",
       "options": {
         "A": "Tecmessa",
         "B": "Briseis",
@@ -387,11 +451,13 @@
         "D": "Anticleia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 33,
-      "question": "Achilles was saved by the god _______ when he was attacked by the",
+      "question": "Achilles was saved by the god _______ when he was attacked by the Scamander River which favored the Trojans.",
       "options": {
         "A": "Poseidon",
         "B": "Apollo",
@@ -399,17 +465,22 @@
         "D": "Hephaestus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 34,
       "question": "Aeneas was told to “seek your ancient mother” by ________.",
       "options": {
-        "A": "c. the oracle of Apollo on Claros",
+        "A": "the oracle of Apollo on Delos.",
         "B": "the Penates",
+        "C": "the oracle of Apollo on Claros",
         "D": "Helenus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -422,6 +493,8 @@
         "D": "Acastus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -434,11 +507,13 @@
         "D": "Therseites"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 37,
-      "question": "The wandering islands which crushed unwary sailors and which the Argo",
+      "question": "The wandering islands which crushed unwary sailors and which the Argo escaped with the help of the nereids were the _______.",
       "options": {
         "A": "Cyclades",
         "B": "Symplegades",
@@ -446,6 +521,8 @@
         "D": "Planctae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -458,6 +535,8 @@
         "D": "Antiope"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -470,11 +549,13 @@
         "D": "Aeaea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 40,
-      "question": "The member of Odysseus’ crew who died when he accidentally fell from Circe’s",
+      "question": "The member of Odysseus’ crew who died when he accidentally fell from Circe’s roof was ____________.",
       "options": {
         "A": "Eumaeus",
         "B": "Elpenor",
@@ -482,22 +563,13 @@
         "D": "Eurymachos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
-      "question_number": 41,
-      "question": "The number of men lost by Odysseus in the cave of the Cyclops was ___.",
-      "options": {
-        "A": "2",
-        "B": "3",
-        "C": "5 d."
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
       "question_number": 42,
-      "question": "The companion of Odysseus who urged his men to slaughter the cattle of",
+      "question": "The companion of Odysseus who urged his men to slaughter the cattle of Helios was ______.",
       "options": {
         "A": "Antinoos",
         "B": "Mentor",
@@ -505,6 +577,8 @@
         "D": "Eurmachos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -517,11 +591,13 @@
         "D": "Leodes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 44,
-      "question": "In his quest to marry Hippodamia, Pelops was aided by _____, who gave him a",
+      "question": "In his quest to marry Hippodamia, Pelops was aided by _____, who gave him a golden chariot with winged horses.",
       "options": {
         "A": "Hermes",
         "B": "Poseidon",
@@ -529,11 +605,13 @@
         "D": "Apollo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 45,
-      "question": "The wife of Atreus who stole a golden ram from him and gave it to his brother",
+      "question": "The wife of Atreus who stole a golden ram from him and gave it to his brother Thyestes was ______.",
       "options": {
         "A": "Pelopeia",
         "B": "Sterope",
@@ -541,6 +619,8 @@
         "D": "Nicippe"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -553,11 +633,13 @@
         "D": "Cyclopes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 47,
-      "question": "The Theban queen who was dragged to death by a bull for her mistreatment of",
+      "question": "The Theban queen who was dragged to death by a bull for her mistreatment of Antiope was _____.",
       "options": {
         "A": "Dirce",
         "B": "Ino",
@@ -565,6 +647,8 @@
         "D": "Harmonia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -577,11 +661,13 @@
         "D": "Cecrops"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 49,
-      "question": "Orestes was aided in his theft of the statue of Artemis from the Taurians by",
+      "question": "Orestes was aided in his theft of the statue of Artemis from the Taurians by _____.",
       "options": {
         "A": "Pylades",
         "B": "Neoptolemus",
@@ -589,6 +675,8 @@
         "D": "Hermione"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -601,6 +689,8 @@
         "D": "Colonos."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

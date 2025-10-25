@@ -3,12 +3,13 @@
     "name": "Mottoes,_Abbreviations,_and_Quotations",
     "year": "state_2019",
     "subject": "Mottoes,_Abbreviations,_and_Quotations",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "One could say that the god Mercury was destined to be god of thieves as his life of banditry",
+      "question": "One could say that the god Mercury was destined to be god of thieves as his life of banditry started _____.",
       "options": {
         "A": "ab intra",
         "B": "ab hinc",
@@ -16,6 +17,8 @@
         "D": "ab initio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -28,6 +31,8 @@
         "D": "pollice verso"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -40,6 +45,8 @@
         "D": "to marry"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -52,6 +59,8 @@
         "D": "graffiti"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -64,6 +73,8 @@
         "D": "magnum opus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -76,6 +87,8 @@
         "D": "res judicata"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -88,6 +101,8 @@
         "D": "ne quid nimis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -100,6 +115,8 @@
         "D": "in absentia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -112,6 +129,8 @@
         "D": "perfection"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -124,6 +143,8 @@
         "D": "What do you give?"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -136,6 +157,8 @@
         "D": "mos maiorum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -148,11 +171,13 @@
         "D": "post mortem"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 13,
-      "question": "After landing from her skydiving adventure, Julia was very happy to be on _____.",
+      "question": "After landing from her skydiving adventure, Julia was very happy to be on _____. Mottoes - States 2019 - MOTTOES",
       "options": {
         "A": "tabula rasa",
         "B": "terra irradiant",
@@ -160,6 +185,8 @@
         "D": "terra nova"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -172,6 +199,8 @@
         "D": "US Navy"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -184,6 +213,8 @@
         "D": "Canada"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -196,6 +227,8 @@
         "D": "Order of the Arrow"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -208,6 +241,8 @@
         "D": "Xavier’s School for Gifted Children"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -220,6 +255,8 @@
         "D": "New Zealand"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -232,6 +269,8 @@
         "D": "Columbia University"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -244,6 +283,8 @@
         "D": "Duke University"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -256,6 +297,8 @@
         "D": "Stetson University"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -268,6 +311,8 @@
         "D": "United Nations"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -280,6 +325,8 @@
         "D": "France"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -292,11 +339,13 @@
         "D": "Nike Shoes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 25,
-      "question": "Veritas Vos Liberabit",
+      "question": "Veritas Vos Liberabit Mottoes - States 2019 - QUOTATIONS",
       "options": {
         "A": "Trinity College",
         "B": "Harvard University",
@@ -304,6 +353,8 @@
         "D": "Dartmouth College"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -316,6 +367,8 @@
         "D": "Martial"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -328,6 +381,8 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -340,6 +395,8 @@
         "D": "Petronius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -352,6 +409,8 @@
         "D": "Brutus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -364,6 +423,8 @@
         "D": "Cicero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -376,6 +437,8 @@
         "D": "Petronius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -388,6 +451,8 @@
         "D": "Varro"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -400,6 +465,8 @@
         "D": "Propertius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -412,6 +479,8 @@
         "D": "Sallust"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -424,6 +493,8 @@
         "D": "Livy"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -436,6 +507,8 @@
         "D": "Ovid"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -448,11 +521,13 @@
         "D": "Augustus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 38,
-      "question": "Quot homines, tot sententiae",
+      "question": "Quot homines, tot sententiae ABBREVIATIONS",
       "options": {
         "A": "Plautus",
         "B": "Seneca the Younger",
@@ -460,11 +535,13 @@
         "D": "Lucretius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 39,
-      "question": "Instead of a trial by jury, some cases are tried “tr. mil.” Meaning this.",
+      "question": "Instead of a trial by jury, some cases are tried “tr. mil.” Meaning this. Mottoes - States 2019 -",
       "options": {
         "A": "socially condemned",
         "B": "arbitration",
@@ -472,6 +549,8 @@
         "D": "military tribunal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -484,6 +563,8 @@
         "D": "ibid."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -496,6 +577,8 @@
         "D": "o.d."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -508,11 +591,13 @@
         "D": "q.s."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 43,
-      "question": "If the President of the United States attended a function with the First Lady, they it can be",
+      "question": "If the President of the United States attended a function with the First Lady, they it can be written that he attended _____.",
       "options": {
         "A": "et seq.",
         "B": "c.",
@@ -520,11 +605,13 @@
         "D": "et ux."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 44,
-      "question": "When your due date for your project is today and you forgot to turn it in, you probably rush to",
+      "question": "When your due date for your project is today and you forgot to turn it in, you probably rush to finish it _____.",
       "options": {
         "A": "ult.",
         "B": "inst.",
@@ -532,6 +619,8 @@
         "D": "stat."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -544,11 +633,13 @@
         "C": "Medicine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 46,
-      "question": "If it is unknown when a person lived or died, but the times in which they were best",
+      "question": "If it is unknown when a person lived or died, but the times in which they were best known/active are, then the abbreviation used would be _____.",
       "options": {
         "A": "r.",
         "B": "r.i.p.",
@@ -556,6 +647,8 @@
         "D": "c.v."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -568,6 +661,8 @@
         "D": "ca."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -580,6 +675,8 @@
         "D": "BC"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -592,6 +689,8 @@
         "D": "artificial intelligence"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -604,6 +703,8 @@
         "D": "dies without children"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

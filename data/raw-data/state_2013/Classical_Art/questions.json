@@ -3,7 +3,8 @@
     "name": "Classical_Art",
     "year": "state_2013",
     "subject": "Classical_Art",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "the Parthenon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,11 +31,13 @@
         "D": "Antoninus Pius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 3,
-      "question": "Image 1: According to the inscription over the porch, an earlier version of this building was built",
+      "question": "Image 1: According to the inscription over the porch, an earlier version of this building was built during the reign of…",
       "options": {
         "A": "Julius Caesar",
         "B": "Nero",
@@ -40,6 +45,8 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -52,17 +59,22 @@
         "D": "Myron"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 5,
       "question": "Image 2: The figures in this work are usually identified as…",
       "options": {
-        "A": "c. Peleus and Achilles",
+        "A": "Zeus and Ganymede",
         "B": "Hermes and Dionysus",
+        "C": "Peleus and Achilles",
         "D": "Aeneas and Ascanius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -75,6 +87,8 @@
         "D": "Mycenaean"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -87,6 +101,8 @@
         "D": "Amphorae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -99,6 +115,8 @@
         "D": "Pompeiian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -111,17 +129,22 @@
         "D": "Dylos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 10,
       "question": "Image 5: Shows a front view of the…",
       "options": {
-        "A": "c. Altar of Zeus",
+        "A": "Altar of Aphrodite",
         "B": "Altar of the 12 Gods",
+        "C": "Altar of Zeus",
         "D": "Altar of Peace"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -134,17 +157,22 @@
         "D": "Caligula"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 12,
       "question": "Image 6: Shows an example of the",
       "options": {
-        "A": "c. 3rd Pompeiian style",
+        "A": "1st Pompeiian style",
         "B": "2nd Pompeiian style",
+        "C": "3rd Pompeiian style",
         "D": "4th Pompeiian style"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -157,6 +185,8 @@
         "D": "Ionic Order"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -169,6 +199,8 @@
         "D": "Tholos Temple"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -181,6 +213,8 @@
         "D": "Hephaestus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -193,6 +227,8 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -205,22 +241,27 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 18,
       "question": "Image 9: The scene depicted on the breastplate is believed to illustrate..",
       "options": {
-        "A": "c. The surrender of Lepidus",
+        "A": "The defeat of Brutus’s army",
         "B": "The surrender of Marc Anthony’s Fleet",
+        "C": "The surrender of Lepidus",
         "D": "The return of standards lost to the Parthians"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 19,
-      "question": "Image 10: Found off the island of Samothrace, this beautiful sculpture is believed to depict the",
+      "question": "Image 10: Found off the island of Samothrace, this beautiful sculpture is believed to depict the goddess…",
       "options": {
         "A": "Aphrodite",
         "B": "Nike",
@@ -228,6 +269,8 @@
         "D": "Artemis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -240,6 +283,8 @@
         "D": "Archaic Style"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -252,17 +297,22 @@
         "D": "Erechtheion"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 22,
       "question": "Image 11: This temple was primarily dedicated to..",
       "options": {
-        "A": "c. Poseidon and Athena",
+        "A": "Zeus and Hera",
         "B": "Apollo and Artemis",
+        "C": "Poseidon and Athena",
         "D": "Aphrodite and Ares"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -275,6 +325,8 @@
         "D": "the Graces"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -287,6 +339,8 @@
         "D": "circus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -299,17 +353,22 @@
         "D": "Titus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 26,
       "question": "Image 12: Name the three architectural orders used in this structure in ascending order.",
       "options": {
-        "A": "c. Corinthian, Tuscan, Ionic",
+        "A": "Tuscan, Ionic, Corinthian",
         "B": "Ionic, Corinthian, Tuscan",
+        "C": "Corinthian, Tuscan, Ionic",
         "D": "Tuscan, Corinthian, Ionic"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -322,6 +381,8 @@
         "D": "Bilingual"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -334,17 +395,22 @@
         "D": "The Niobid Painter"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 29,
-      "question": "Image 14: What famous archaeologist, when he discovered this beautiful gold mask, is reported to",
+      "question": "Image 14: What famous archaeologist, when he discovered this beautiful gold mask, is reported to have said “I have looked upon the face of Agamemnon”?",
       "options": {
-        "A": "c. Heinrich Schliemann",
+        "A": "Sir Arthur Evans",
         "B": "Spiridon Marinatos",
+        "C": "Heinrich Schliemann",
         "D": "Carl Blegen"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -357,22 +423,27 @@
         "D": "Pylos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 31,
       "question": "The Francois Vase, painted by Kleitias, depicts the wedding of ____________.",
       "options": {
-        "A": "c. Peleus & Thetis",
+        "A": "Cadmus & Harmonia",
         "B": "Perithuous & Hippodamia",
+        "C": "Peleus & Thetis",
         "D": "Jason & Medea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 32,
-      "question": "Name the Emperor who commissioned the building of an Imperial Forum in Rome that included a",
+      "question": "Name the Emperor who commissioned the building of an Imperial Forum in Rome that included a market building several stories high and a commemorative column?",
       "options": {
         "A": "Trajan",
         "B": "Nerva",
@@ -380,17 +451,22 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 33,
       "question": "The famous bronze statue commonly referred to as “The Capitoline Wolf” alludes to…",
       "options": {
-        "A": "c. the overthrow of the last kings of the Monarchy",
+        "A": "the establishment of the Lupercalia festival",
         "B": "the founding of Rome",
+        "C": "the overthrow of the last kings of the Monarchy",
         "D": "the death of Julius Caesar"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -403,11 +479,13 @@
         "D": "Kallikrates"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 35,
-      "question": "Roman wall construction made up of diamond shaped bricks set in cement at a 45 degree angle so",
+      "question": "Roman wall construction made up of diamond shaped bricks set in cement at a 45 degree angle so as to create a diagonal pattern is called…",
       "options": {
         "A": "opus incertum",
         "B": "opus signinum",
@@ -415,17 +493,22 @@
         "D": "opus reticulatum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 36,
       "question": "Which of the following sites was NOT preserved due to the eruption of Mt. Vesuvius in 79 A.D.?",
       "options": {
-        "A": "c. House of the Faun",
+        "A": "Villa Jovis",
         "B": "Villa of the Mysteries",
+        "C": "House of the Faun",
         "D": "House of the Surgeon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -438,17 +521,22 @@
         "D": "a statue of a clothed female standing upright facing forward"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
       "question": "In the Forum Romanum in Rome, the temple with only three columns still standing is …",
       "options": {
-        "A": "c. The Temple of the Divine Julius",
+        "A": "The Temple of Castor and Pollux",
         "B": "The Temple of Jupiter Optimus Maximus",
+        "C": "The Temple of the Divine Julius",
         "D": "The Temple of Mars Ultor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -461,6 +549,8 @@
         "D": "Diadoumenos"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -473,6 +563,8 @@
         "D": "the top step of a building leading to the front entrance"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -485,11 +577,13 @@
         "D": "pozzolano"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 42,
-      "question": "The great Temple of Zeus in Athens was first planned in the late 6th century B.C. as a __________",
+      "question": "The great Temple of Zeus in Athens was first planned in the late 6th century B.C. as a __________ temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
       "options": {
         "A": "Doric ...Ionic",
         "B": "Doric...Corinthian",
@@ -497,6 +591,8 @@
         "D": "Tuscan…Ionic"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -509,22 +605,27 @@
         "D": "4, 3, 2,"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 44,
       "question": "Which Triumphal Arch stands directly adjacent to the Colosseum?",
       "options": {
-        "A": "c. The Arch of Constantine",
+        "A": "The Arch of Titus",
         "B": "The Arch of Septimius Severus",
+        "C": "The Arch of Constantine",
         "D": "The Arch Hadrian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 45,
-      "question": "This emperor was often depicted in art wearing a beard. He played a major role in making beards",
+      "question": "This emperor was often depicted in art wearing a beard. He played a major role in making beards fashionable again among the Roman Aristocracy.",
       "options": {
         "A": "Hadrian",
         "B": "Trajan",
@@ -532,6 +633,8 @@
         "D": "Antoninus Pius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -544,11 +647,13 @@
         "D": "4, 1, 2,"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 47,
-      "question": "What is the name of the tiny pieces made of stone, glass or terracotta used in making Roman",
+      "question": "What is the name of the tiny pieces made of stone, glass or terracotta used in making Roman mosaics?",
       "options": {
         "A": "oxides",
         "B": "pastels",
@@ -556,6 +661,8 @@
         "D": "pebbles"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -568,6 +675,8 @@
         "D": "4, 1, 2,"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -580,11 +689,13 @@
         "D": "barracks"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 50,
-      "question": "In Roman architecture, these buildings functioned primarily as a courthouse, and were later",
+      "question": "In Roman architecture, these buildings functioned primarily as a courthouse, and were later adapted for use as early Christian churches.",
       "options": {
         "A": "thermae",
         "B": "insulae",
@@ -592,6 +703,8 @@
         "D": "basilicae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

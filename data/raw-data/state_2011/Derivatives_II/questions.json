@@ -3,7 +3,8 @@
     "name": "Derivatives_II",
     "year": "state_2011",
     "subject": "Derivatives_II",
-    "total_questions": 45
+    "total_questions": 45,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "allergenic"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -28,6 +31,8 @@
         "D": "enough"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -40,6 +45,8 @@
         "D": "mendacious"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -52,6 +59,8 @@
         "D": "indifferent to"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -64,6 +73,8 @@
         "D": "biting"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -76,6 +87,8 @@
         "D": "endangered"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -88,6 +101,8 @@
         "D": "delicious"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -100,6 +115,8 @@
         "D": "growling"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -112,11 +129,13 @@
         "D": "native"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 10,
-      "question": "A hostel by definition is a place that expects which kind of people?",
+      "question": "A hostel by definition is a place that expects which kind of people? Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "options": {
         "A": "youths",
         "B": "guests",
@@ -124,6 +143,8 @@
         "D": "foreign"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -136,6 +157,8 @@
         "D": "impenetrable"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -148,6 +171,8 @@
         "D": "plenipotentiary"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -160,6 +185,8 @@
         "D": "humble"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -172,6 +199,8 @@
         "D": "joist"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -184,6 +213,8 @@
         "D": "equilibrium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -196,6 +227,8 @@
         "D": "molasses"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -208,6 +241,8 @@
         "D": "molecule"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -220,6 +255,8 @@
         "D": "verge"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -232,11 +269,13 @@
         "D": "rear"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 20,
-      "question": "salio",
+      "question": "salio Part III. For each of these questions, select the Latin word that is at the root of each given English word.",
       "options": {
         "A": "exult",
         "B": "salicylic",
@@ -244,6 +283,8 @@
         "D": "sagacity"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -256,6 +297,8 @@
         "D": "amo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -268,6 +311,8 @@
         "D": "quatio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -280,6 +325,8 @@
         "D": "cerno"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -292,6 +339,8 @@
         "D": "tres"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -304,6 +353,8 @@
         "D": "granum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -316,6 +367,8 @@
         "D": "holus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -328,6 +381,8 @@
         "D": "verna"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -340,6 +395,8 @@
         "D": "bulla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -352,11 +409,13 @@
         "D": "libo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 30,
-      "question": "frail",
+      "question": "frail Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "options": {
         "A": "fallo",
         "B": "frango",
@@ -364,6 +423,8 @@
         "D": "fretus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -376,6 +437,8 @@
         "D": "to obtain"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -388,6 +451,8 @@
         "D": "to sing"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -400,6 +465,8 @@
         "D": "to sell"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -412,6 +479,8 @@
         "D": "to teach"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -424,6 +493,8 @@
         "D": "to cook"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -436,6 +507,8 @@
         "D": "to kill"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -448,6 +521,8 @@
         "D": "power"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -460,6 +535,8 @@
         "D": "to carry"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -472,11 +549,13 @@
         "D": "flesh"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 40,
-      "question": "barber",
+      "question": "barber Part V. For each of the following questions, select the word that does NOT have the same derivation as the others.",
       "options": {
         "A": "beard",
         "B": "untidy",
@@ -484,6 +563,8 @@
         "D": "to fight"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -496,6 +577,8 @@
         "D": "desuetude"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -508,6 +591,8 @@
         "D": "meretricious"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -520,6 +605,8 @@
         "D": "menu"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -532,6 +619,8 @@
         "D": "renegade"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -544,6 +633,8 @@
         "D": "oblique"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

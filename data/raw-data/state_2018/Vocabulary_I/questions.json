@@ -3,12 +3,13 @@
     "name": "Vocabulary_I",
     "year": "state_2018",
     "subject": "Vocabulary_I",
-    "total_questions": 50
+    "total_questions": 45,
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "Choose the best English meaning for the following Latin words and phrases. debeo",
+      "question": "debeo",
       "options": {
         "A": "teach",
         "B": "show",
@@ -16,11 +17,13 @@
         "D": "owe"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 2,
-      "question": "Choose the best English meaning for the following Latin words and phrases. ager",
+      "question": "ager",
       "options": {
         "A": "field",
         "B": "friend",
@@ -28,11 +31,13 @@
         "D": "tree"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 3,
-      "question": "Choose the best English meaning for the following Latin words and phrases. filius",
+      "question": "filius",
       "options": {
         "A": "son",
         "B": "end",
@@ -40,11 +45,13 @@
         "D": "story"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 4,
-      "question": "Choose the best English meaning for the following Latin words and phrases. rex",
+      "question": "rex",
       "options": {
         "A": "thing",
         "B": "peace",
@@ -52,11 +59,13 @@
         "D": "law"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 5,
-      "question": "Choose the best English meaning for the following Latin words and phrases. dico",
+      "question": "dico",
       "options": {
         "A": "carry",
         "B": "lead",
@@ -64,11 +73,13 @@
         "D": "make"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 6,
-      "question": "Choose the best English meaning for the following Latin words and phrases. pugno",
+      "question": "pugno",
       "options": {
         "A": "prepare",
         "B": "carry",
@@ -76,11 +87,13 @@
         "D": "fight"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 7,
-      "question": "Choose the best English meaning for the following Latin words and phrases. auris",
+      "question": "auris",
       "options": {
         "A": "gold",
         "B": "breeze",
@@ -88,11 +101,13 @@
         "D": "ear"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 8,
-      "question": "Choose the best English meaning for the following Latin words and phrases. tardus",
+      "question": "tardus",
       "options": {
         "A": "swift",
         "B": "late",
@@ -100,11 +115,13 @@
         "D": "twisted"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 9,
-      "question": "Choose the best English meaning for the following Latin words and phrases. iacio",
+      "question": "iacio",
       "options": {
         "A": "wash",
         "B": "throw",
@@ -112,11 +129,13 @@
         "D": "lie"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 10,
-      "question": "Choose the best English meaning for the following Latin words and phrases. custos",
+      "question": "custos",
       "options": {
         "A": "cook",
         "B": "care",
@@ -124,11 +143,13 @@
         "D": "guard"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 11,
-      "question": "Choose the best English meaning for the following Latin words and phrases. rapio",
+      "question": "rapio",
       "options": {
         "A": "break",
         "B": "flow",
@@ -136,11 +157,13 @@
         "D": "fight"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 12,
-      "question": "Choose the best English meaning for the following Latin words and phrases. caedes",
+      "question": "caedes",
       "options": {
         "A": "slaughter",
         "B": "unmarried",
@@ -148,11 +171,13 @@
         "D": "blindness"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 13,
-      "question": "Choose the best English meaning for the following Latin words and phrases. ubique",
+      "question": "ubique",
       "options": {
         "A": "whence",
         "B": "someone",
@@ -160,11 +185,13 @@
         "D": "and"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 14,
-      "question": "Choose the best English meaning for the following Latin words and phrases. cista",
+      "question": "cista",
       "options": {
         "A": "chest",
         "B": "cart",
@@ -172,11 +199,13 @@
         "D": "citizen"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 15,
-      "question": "Choose the best English meaning for the following Latin words and phrases. frustra",
+      "question": "frustra Vocabulary I - States 2018 - Choose the best Latin meaning for the following English words and phrases.",
       "options": {
         "A": "angry",
         "B": "in vain",
@@ -184,11 +213,13 @@
         "D": "perhaps"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 16,
-      "question": "Choose the best Latin meaning for the following English words and phrases. have",
+      "question": "have",
       "options": {
         "A": "rogo",
         "B": "habeo",
@@ -196,11 +227,13 @@
         "D": "habito"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 17,
-      "question": "Choose the best Latin meaning for the following English words and phrases. sail",
+      "question": "sail",
       "options": {
         "A": "saluto",
         "B": "narro",
@@ -208,11 +241,13 @@
         "D": "navigo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 18,
-      "question": "Choose the best Latin meaning for the following English words and phrases. love",
+      "question": "love",
       "options": {
         "A": "ambulo",
         "B": "amo",
@@ -220,11 +255,13 @@
         "D": "cupio"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 19,
-      "question": "Choose the best Latin meaning for the following English words and phrases. lazy",
+      "question": "lazy",
       "options": {
         "A": "imperitus",
         "B": "piger",
@@ -232,11 +269,13 @@
         "D": "faustus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 20,
-      "question": "Choose the best Latin meaning for the following English words and phrases. city",
+      "question": "city",
       "options": {
         "A": "cibus",
         "B": "urbs",
@@ -244,11 +283,13 @@
         "D": "civis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 21,
-      "question": "Choose the best Latin meaning for the following English words and phrases. battle line",
+      "question": "battle line",
       "options": {
         "A": "obses",
         "B": "vinculum",
@@ -256,11 +297,13 @@
         "D": "acies"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 22,
-      "question": "Choose the best Latin meaning for the following English words and phrases. strong",
+      "question": "strong",
       "options": {
         "A": "fortis",
         "B": "crudelis",
@@ -268,11 +311,13 @@
         "D": "celer"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 23,
-      "question": "Choose the best Latin meaning for the following English words and phrases. immediately",
+      "question": "immediately",
       "options": {
         "A": "tamen",
         "B": "prope",
@@ -280,11 +325,13 @@
         "D": "statim"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 24,
-      "question": "Choose the best Latin meaning for the following English words and phrases. ally",
+      "question": "ally",
       "options": {
         "A": "socius",
         "B": "hostis",
@@ -292,11 +339,13 @@
         "D": "hospes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 25,
-      "question": "Choose the best Latin meaning for the following English words and phrases. break",
+      "question": "break",
       "options": {
         "A": "plaudo",
         "B": "pulso",
@@ -304,11 +353,13 @@
         "D": "tango"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 26,
-      "question": "Choose the best Latin meaning for the following English words and phrases. shade",
+      "question": "shade",
       "options": {
         "A": "umbra",
         "B": "hortus",
@@ -316,11 +367,13 @@
         "D": "arbor"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 27,
-      "question": "Choose the best Latin meaning for the following English words and phrases. unharmed",
+      "question": "unharmed",
       "options": {
         "A": "infirmus",
         "B": "inusitatus",
@@ -328,11 +381,13 @@
         "D": "invitus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 28,
-      "question": "Choose the best Latin meaning for the following English words and phrases. restore",
+      "question": "restore",
       "options": {
         "A": "redeo",
         "B": "recuso",
@@ -340,11 +395,13 @@
         "D": "rideo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 29,
-      "question": "Choose the best Latin meaning for the following English words and phrases. arrogant",
+      "question": "arrogant",
       "options": {
         "A": "liberalis",
         "B": "insolens",
@@ -352,11 +409,13 @@
         "D": "ruber"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 30,
-      "question": "Choose the best Latin meaning for the following English words and phrases. horn",
+      "question": "horn Vocabulary I - States 2018 - Choose the best SYNONYM for the following Latin words and phrases.",
       "options": {
         "A": "corona",
         "B": "honor",
@@ -364,11 +423,13 @@
         "D": "cornu"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 31,
-      "question": "Choose the best SYNONYM for the following Latin words and phrases. facio",
+      "question": "facio",
       "options": {
         "A": "fero",
         "B": "specto",
@@ -376,11 +437,13 @@
         "D": "gero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 32,
-      "question": "Choose the best SYNONYM for the following Latin words and phrases. ludus",
+      "question": "ludus",
       "options": {
         "A": "honor",
         "B": "locus",
@@ -388,11 +451,13 @@
         "D": "signum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 33,
-      "question": "Choose the best SYNONYM for the following Latin words and phrases. pereo",
+      "question": "pereo",
       "options": {
         "A": "morior",
         "B": "intro",
@@ -400,11 +465,13 @@
         "D": "impero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 34,
-      "question": "Choose the best SYNONYM for the following Latin words and phrases. candidus",
+      "question": "candidus",
       "options": {
         "A": "aureus",
         "B": "albus",
@@ -412,11 +479,13 @@
         "D": "niger"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 35,
-      "question": "Choose the best SYNONYM for the following Latin words and phrases. iam",
+      "question": "iam Choose the best ANTONYM for the following Latin words and phrases.",
       "options": {
         "A": "nunc",
         "B": "tum",
@@ -424,11 +493,13 @@
         "D": "saepe"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 36,
-      "question": "Choose the best ANTONYM for the following Latin words and phrases. vir",
+      "question": "vir",
       "options": {
         "A": "femina",
         "B": "pax",
@@ -436,11 +507,13 @@
         "D": "fortuna"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 37,
-      "question": "Choose the best ANTONYM for the following Latin words and phrases. moveo",
+      "question": "moveo",
       "options": {
         "A": "mitto",
         "B": "muto",
@@ -448,11 +521,13 @@
         "D": "moneo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "Choose the best ANTONYM for the following Latin words and phrases. Salve!",
+      "question": "Salve!",
       "options": {
         "A": "Minime!",
         "B": "Ecce!",
@@ -460,11 +535,13 @@
         "D": "Vale!"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 39,
-      "question": "Choose the best ANTONYM for the following Latin words and phrases. vacuus",
+      "question": "vacuus",
       "options": {
         "A": "longus",
         "B": "parvus",
@@ -472,11 +549,13 @@
         "D": "plenus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 40,
-      "question": "Choose the best ANTONYM for the following Latin words and phrases. careo",
+      "question": "careo Vocabulary I - States 2018 - Complete the anology.",
       "options": {
         "A": "caedo",
         "B": "cedo",
@@ -484,11 +563,13 @@
         "D": "habeo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 41,
-      "question": "Complete the anology. hora : dies :: dies :",
+      "question": "hora : dies :: dies :",
       "options": {
         "A": "annus",
         "B": "amicus",
@@ -496,11 +577,13 @@
         "D": "animal"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 42,
-      "question": "Complete the anology. sto : sedeo :: do :",
+      "question": "sto : sedeo :: do :",
       "options": {
         "A": "curo",
         "B": "iacio",
@@ -508,11 +591,13 @@
         "D": "traho"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 43,
-      "question": "Complete the anology. brachium : manus :: crus :",
+      "question": "brachium : manus :: crus :",
       "options": {
         "A": "pollex",
         "B": "digitus",
@@ -520,11 +605,13 @@
         "D": "pes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 44,
-      "question": "Complete the anology. laetus : felix :: miser :",
+      "question": "laetus : felix :: miser :",
       "options": {
         "A": "terribilis",
         "B": "tristis",
@@ -532,71 +619,13 @@
         "D": "tardus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 45,
-      "question": "Complete the anology. optimus : pessimus :: proximus :",
-      "options": {
-        "A": "minimus",
-        "B": "primus",
-        "C": "maximus",
-        "D": "ultimus"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
-      "question_number": 46,
-      "question": "Choose the word or phrase that does NOT belong by meaning.",
-      "options": {
-        "A": "canis",
-        "B": "lupus",
-        "C": "equus",
-        "D": "aquila"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
-      "question_number": 47,
-      "question": "Choose the word or phrase that does NOT belong by meaning.",
-      "options": {
-        "A": "salio",
-        "B": "audio",
-        "C": "video",
-        "D": "tango"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 48,
-      "question": "Choose the word or phrase that does NOT belong by meaning.",
-      "options": {
-        "A": "aestas",
-        "B": "verus",
-        "C": "autumnus",
-        "D": "hiems"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "B"
-    },
-    {
-      "question_number": 49,
-      "question": "Choose the word or phrase that does NOT belong by meaning.",
-      "options": {
-        "A": "mane",
-        "B": "cras",
-        "C": "hodie",
-        "D": "heri"
-      },
-      "type": "multiple_choice",
-      "correct_answer": "A"
-    },
-    {
-      "question_number": 50,
-      "question": "Choose the word or phrase that does NOT belong by meaning.",
+      "question": "optimus : pessimus :: proximus : Choose the word or phrase that does NOT belong by meaning. 46. 47. 48. 49. 50.",
       "options": {
         "A": "prasinus",
         "B": "venetus",
@@ -604,6 +633,8 @@
         "D": "caecus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]

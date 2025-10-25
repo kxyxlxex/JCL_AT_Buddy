@@ -3,12 +3,13 @@
     "name": "History_of_the_Empire",
     "year": "state_2011",
     "subject": "History_of_the_Empire",
-    "total_questions": 50
+    "total_questions": 49,
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "Which praetorian prefect of Nero worked with Seneca the Younger to ensure stability for the first",
+      "question": "Which praetorian prefect of Nero worked with Seneca the Younger to ensure stability for the first years of the young emperor’s reign?",
       "options": {
         "A": "Burrus",
         "B": "Sabinus",
@@ -16,6 +17,8 @@
         "D": "Plautus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Marcus Aurelius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -40,22 +45,27 @@
         "D": "Carus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 4,
       "question": "Put the following emperors in order from shortest rule to longest rule.",
       "options": {
-        "A": "c. Otho, Galba, Vitellius, Vespasian",
+        "A": "Galba, Otho, Vitellius, Vespasian",
         "B": "Galba, Vitellius, Otho, Vespasian",
+        "C": "Otho, Galba, Vitellius, Vespasian",
         "D": "Vitellius, Galba, Otho, Vespasian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 5,
-      "question": "What Praetorian Prefect and maternal cousin of Septimius Severus was given great power by the",
+      "question": "What Praetorian Prefect and maternal cousin of Septimius Severus was given great power by the emperor but was later killed because Caracalla loathed his daughter?",
       "options": {
         "A": "Perseus",
         "B": "Planius",
@@ -63,17 +73,22 @@
         "D": "Pacuvius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 6,
       "question": "Which Roman general lost three legions at the Battle of Teutoburg Forrest?",
       "options": {
-        "A": "c. L. Aemilius Paullus",
+        "A": "P. Quinctilius Varus",
         "B": "P. Cornelius Dollabella",
+        "C": "L. Aemilius Paullus",
         "D": "P. Ovidius Naso"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -86,6 +101,8 @@
         "D": "Marcus Agrippa"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -98,6 +115,8 @@
         "D": "Timesitheus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -110,11 +129,13 @@
         "D": "Nerva"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 10,
-      "question": "What emperor ruled for one year with his brother before being killed by him in front of their",
+      "question": "What emperor ruled for one year with his brother before being killed by him in front of their mother?",
       "options": {
         "A": "Jovian",
         "B": "Macrinus",
@@ -122,6 +143,8 @@
         "D": "Geta"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -134,6 +157,8 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -146,6 +171,8 @@
         "D": "Majorianus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -158,11 +185,13 @@
         "D": "Lepanto"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 14,
-      "question": "Which emperor defeated Maxentius at the Milvian Bridge in 312 and strongly promoted Christianity",
+      "question": "Which emperor defeated Maxentius at the Milvian Bridge in 312 and strongly promoted Christianity throughout the empire?",
       "options": {
         "A": "Vespasian",
         "B": "Constantine",
@@ -170,6 +199,8 @@
         "D": "Theodosius I"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -182,6 +213,8 @@
         "D": "Theodosian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -194,6 +227,8 @@
         "D": "Constantius III"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -206,17 +241,22 @@
         "D": "Vipsania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 18,
       "question": "Who was the mother of the emperor Nero?",
       "options": {
-        "A": "c. Livia Drusilla",
+        "A": "Agripina the Elder",
         "B": "Agrippina the Younger",
+        "C": "Livia Drusilla",
         "D": "Poppaea Sabina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -229,6 +269,8 @@
         "D": "Narcissus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -241,6 +283,8 @@
         "D": "Julian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -253,6 +297,8 @@
         "D": "Valens"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -265,6 +311,8 @@
         "D": "Hadrian’s"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -277,6 +325,8 @@
         "D": "Manthus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -289,15 +339,8 @@
         "D": "Basil"
       },
       "type": "multiple_choice",
-      "correct_answer": "D"
-    },
-    {
-      "question_number": 25,
-      "question": "What commander of the legions of the Upper Rhine conspired to replace Caligula with a senator",
-      "options": {
-        "C": "Iulius Classicus"
-      },
-      "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -310,6 +353,8 @@
         "D": "Phillip the Arab"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -322,6 +367,8 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -334,6 +381,8 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -346,6 +395,8 @@
         "D": "Sulpicianus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -358,11 +409,13 @@
         "D": "Immae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 31,
-      "question": "Which emperor was responsible for heavy prosecution of the Christians during his rule from 249-­‐",
+      "question": "Which emperor was responsible for heavy prosecution of the Christians during his rule from 249-­‐ 251?",
       "options": {
         "A": "Vespasian",
         "B": "Gallerius",
@@ -370,6 +423,8 @@
         "D": "Decius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -382,11 +437,13 @@
         "D": "Romulus Augustulus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 33,
-      "question": "Which man was largely responsible for securing Vespasian’s rule in Italy with his victory at the",
+      "question": "Which man was largely responsible for securing Vespasian’s rule in Italy with his victory at the Second Battle of Bedriacum in 69 A.D.?",
       "options": {
         "A": "Antonius Primus",
         "B": "Fabius Valens",
@@ -394,11 +451,13 @@
         "D": "Aulus Caecina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 34,
-      "question": "On what island did Tiberius spend a part of his life during the reign of Augustus before he became",
+      "question": "On what island did Tiberius spend a part of his life during the reign of Augustus before he became emperor?",
       "options": {
         "A": "Malta",
         "B": "Capri",
@@ -406,6 +465,8 @@
         "D": "Rhodes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -418,6 +479,8 @@
         "D": "Hadrian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -430,6 +493,8 @@
         "D": "Maxentius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -442,6 +507,8 @@
         "D": "Julia Soaemias"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -454,11 +521,13 @@
         "D": "Theodora"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 39,
-      "question": "Which Roman general under the Flavians was largely responsible for the Conquest of England and",
+      "question": "Which Roman general under the Flavians was largely responsible for the Conquest of England and Scotland and served as Governor of Britain in 77?",
       "options": {
         "A": "Tettius Iulianus",
         "B": "Cn. Iulius Agricola",
@@ -466,6 +535,8 @@
         "D": "Petronius Secundus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -478,6 +549,8 @@
         "D": "Domitian’s"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -490,6 +563,8 @@
         "D": "Nerva"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -502,6 +577,8 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -514,11 +591,13 @@
         "D": "Constantius Chlorus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 44,
-      "question": "What Burgundian Prince and nephew of the “emperor maker” Ricimer received similar powers and",
+      "question": "What Burgundian Prince and nephew of the “emperor maker” Ricimer received similar powers and was responsible for the elevation of Glycerius to the throne in 473 A.D.?",
       "options": {
         "A": "Godegisel",
         "B": "Chilperic II",
@@ -526,6 +605,8 @@
         "D": "Gundobad"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -538,6 +619,8 @@
         "D": "Fuscus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -550,6 +633,8 @@
         "D": "Tiberius’"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -562,6 +647,8 @@
         "D": "Urgulanilla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -574,11 +661,13 @@
         "D": "Harmodius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 49,
-      "question": "Although Romulus Augustulus is traditionally the last Western Roman Emperor, his predecessor",
+      "question": "Although Romulus Augustulus is traditionally the last Western Roman Emperor, his predecessor __________ is considered by some historians to be the last because he ruled in Dalmatia until 480.",
       "options": {
         "A": "Majorian",
         "B": "Severus III",
@@ -586,6 +675,8 @@
         "D": "Avictus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -598,6 +689,8 @@
         "D": "Aemilius Aemilianus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

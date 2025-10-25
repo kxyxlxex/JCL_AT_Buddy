@@ -3,7 +3,8 @@
     "name": "History_of_the_Monarchy_and_Republic",
     "year": "state_2018",
     "subject": "History_of_the_Monarchy_and_Republic",
-    "total_questions": 44
+    "total_questions": 44,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Massalia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Comitia Curiata"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -40,6 +45,8 @@
         "D": "Marcus Livius Drusus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -52,11 +59,13 @@
         "D": "Numa Pompilius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 5,
-      "question": "Elected tribune in 133, who fought for allotments of public land which the Republic acquired in",
+      "question": "Elected tribune in 133, who fought for allotments of public land which the Republic acquired in the Second Punic War?",
       "options": {
         "A": "Metellus Macedonius",
         "B": "Scipio Nasica",
@@ -64,11 +73,13 @@
         "D": "Gaius Gracchus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 6,
-      "question": "Along with",
+      "question": "Along with support of Caesar and Crassus?",
       "options": {
         "C": "M. Tullius Cicero",
         "A": "L. Licinius Lucullus",
@@ -76,6 +87,8 @@
         "D": "Cn. Pompeius Magnus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -88,6 +101,8 @@
         "D": "Mantua"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -100,6 +115,8 @@
         "D": "Nola"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -112,11 +129,13 @@
         "D": "Sabines"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 10,
-      "question": "Although Pompey took credit for quelling Spartacus’ rebellion, who actually conducted the bulk",
+      "question": "Although Pompey took credit for quelling Spartacus’ rebellion, who actually conducted the bulk of the action against the army of slaves?",
       "options": {
         "A": "Cornelius Scipio Africanus",
         "B": "Marcus Licinius Crassus",
@@ -124,11 +143,13 @@
         "D": "Gaius Julius Caesar"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 11,
-      "question": "A crown of flames adorned the youthful sleeping head of which future Roman king?",
+      "question": "A crown of flames adorned the youthful sleeping head of which future Roman king? History of the Monarchy and Republic - States 2018 -",
       "options": {
         "A": "Tullus Hostilius",
         "B": "Romulus",
@@ -136,6 +157,8 @@
         "D": "Servius Tullius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -148,6 +171,8 @@
         "D": "Cannae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -160,11 +185,13 @@
         "D": "Lucius Quinctius Cincinnatus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 16,
-      "question": "Hasdrubal the Fair of Carthage signed a treaty stating that Carthage would not expand north",
+      "question": "Hasdrubal the Fair of Carthage signed a treaty stating that Carthage would not expand north past what river?",
       "options": {
         "A": "Ebro",
         "B": "Tagus",
@@ -172,6 +199,8 @@
         "D": "Segura"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -184,6 +213,8 @@
         "D": "Brennus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -196,6 +227,8 @@
         "D": "Vetluna"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -208,6 +241,8 @@
         "D": "Lucius Cornelius Sulla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -220,6 +255,8 @@
         "D": "Vercellae"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -232,6 +269,8 @@
         "D": "Etruscans"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -244,6 +283,8 @@
         "D": "Zama"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -256,11 +297,13 @@
         "D": "Marcus Marcellus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 25,
-      "question": "What year did the Battle of Carrhae take place?",
+      "question": "What year did the Battle of Carrhae take place? History of the Monarchy and Republic - States 2018 -",
       "options": {
         "A": "Agathocles of Syracuse",
         "B": "Hamilcar Barca",
@@ -268,6 +311,8 @@
         "D": "Hanno the Great"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -280,6 +325,8 @@
         "D": "Lake Trasimene"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -292,11 +339,13 @@
         "D": "Numa Pompilius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 29,
-      "question": "Which Roman convinced Bocchus to change sides and kidnap Jugurtha, thus ending a conflict in",
+      "question": "Which Roman convinced Bocchus to change sides and kidnap Jugurtha, thus ending a conflict in Africa?",
       "options": {
         "A": "Lucius Cornelius Sulla",
         "B": "Gaius Marius",
@@ -304,6 +353,8 @@
         "D": "Quintus Caecilius Metellus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -316,11 +367,13 @@
         "D": "Tarraco"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 31,
-      "question": "Which Roman statesman in 55 introduced his candidacy for the consulship by stating he would",
+      "question": "Which Roman statesman in 55 introduced his candidacy for the consulship by stating he would recall Caesar from Gaul?",
       "options": {
         "A": "T. Annius Milo",
         "B": "L. Domitius Ahenobarbus",
@@ -328,6 +381,8 @@
         "D": "Ap. Claudius Pulcher"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -340,11 +395,13 @@
         "D": "Lex Hortensia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 33,
-      "question": "Which war was brought about by the establishment of a colony at Fragellae (328) and the siege",
+      "question": "Which war was brought about by the establishment of a colony at Fragellae (328) and the siege of Naples (327)?",
       "options": {
         "A": "Mantua",
         "B": "Third Samnite",
@@ -352,6 +409,8 @@
         "D": "RomePyrrhic War"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -364,6 +423,8 @@
         "D": "Drepana"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -376,6 +437,8 @@
         "D": "Lake Trasimene"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -388,6 +451,8 @@
         "D": "Second Samnite War"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -400,6 +465,8 @@
         "D": "Lex Cincia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -412,11 +479,13 @@
         "D": "Lex Cornelia de Maiestate"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 39,
-      "question": "What rogue Roman statesman did Pompey fight against in Spain between 76 and 71?",
+      "question": "What rogue Roman statesman did Pompey fight against in Spain between 76 and 71? History of the Monarchy and Republic - States 2018 -",
       "options": {
         "A": "Quintus Sertorius",
         "B": "Gnaeus Papirius Carbo",
@@ -424,11 +493,13 @@
         "D": "Marcus Licinius Crassus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 40,
-      "question": "After the Second Punic War, Carthage was forced to accept _______ as the legitimate Numidian",
+      "question": "After the Second Punic War, Carthage was forced to accept _______ as the legitimate Numidian king.",
       "options": {
         "A": "Micipsa",
         "B": "Masinissa",
@@ -436,6 +507,8 @@
         "D": "Oezalces"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -448,6 +521,8 @@
         "D": "Publius Clodius Pulcher"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -460,6 +535,8 @@
         "D": "Gnaeus Papirius Carbo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -472,11 +549,13 @@
         "D": "Chalcedon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 45,
-      "question": "Viriathus spared what consul after outmaneuvering him in 141 in exchange for a favorable",
+      "question": "Viriathus spared what consul after outmaneuvering him in 141 in exchange for a favorable peace treaty?",
       "options": {
         "A": "Fabius Maximus Servilianus",
         "B": "L. Licinius Lucullus",
@@ -484,11 +563,13 @@
         "D": "Servius Sulpicius Galba"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 46,
-      "question": "Which Roman general argued that grain should only be distributed if pro-plebeian legislation",
+      "question": "Which Roman general argued that grain should only be distributed if pro-plebeian legislation were reversed?",
       "options": {
         "A": "Spurius Nautius Rutilus",
         "B": "Aulus Sempronius",
@@ -496,6 +577,8 @@
         "D": "Gaius Marcius Coriolanus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -508,11 +591,13 @@
         "D": "Clusium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 49,
-      "question": "In 49 Caesar, heading east to face Pompey, appointed what son of a rebel leader to take charge",
+      "question": "In 49 Caesar, heading east to face Pompey, appointed what son of a rebel leader to take charge of the affairs of the city of Rome?",
       "options": {
         "A": "P. Clodius",
         "B": "Curio",
@@ -520,11 +605,13 @@
         "D": "Lepidus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 50,
-      "question": "Who harshly prosecuted followers of Tiberius Gracchus while consul in 132, went into self-",
+      "question": "Who harshly prosecuted followers of Tiberius Gracchus while consul in 132, went into self- imposed exile when targeted by Gaius Gracchus, and returned to Rome after Gaius’s death?",
       "options": {
         "A": "Popillius Laenas",
         "B": "Lucius Opimius",
@@ -532,6 +619,8 @@
         "D": "Livius Drusus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     }
   ]

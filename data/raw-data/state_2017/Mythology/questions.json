@@ -3,12 +3,17 @@
     "name": "Mythology",
     "year": "state_2017",
     "subject": "Mythology",
-    "total_questions": 49
+    "total_questions": 50,
+    "sections": [
+      "Part 2) Choose the best possible answer.",
+      "Part 1) Match the mythological entities with their other name",
+      "Part 3) For 46-50 given the person/creature killed give its killer."
+    ]
   },
   "questions": [
     {
-      "question_number": 2,
-      "question": "Alcides",
+      "question_number": 1,
+      "question": "Part 1) Match the mythological entities with their other name Zagreus",
       "options": {
         "A": "Apollo",
         "B": "Hermes",
@@ -16,11 +21,27 @@
         "D": "Heracles"
       },
       "type": "multiple_choice",
+      "section": "Part 1) Match the mythological entities with their other name",
+      "section_context": "Part 1) Match the mythological entities with their other name",
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "Part 1) Match the mythological entities with their other name Alcides",
+      "options": {
+        "A": "Apollo",
+        "B": "Hermes",
+        "C": "Dionysus",
+        "D": "Heracles"
+      },
+      "type": "multiple_choice",
+      "section": "Part 1) Match the mythological entities with their other name",
+      "section_context": "Part 1) Match the mythological entities with their other name",
       "correct_answer": "B"
     },
     {
       "question_number": 3,
-      "question": "Indiges",
+      "question": "Part 1) Match the mythological entities with their other name Indiges",
       "options": {
         "A": "Ascanius",
         "B": "Picus",
@@ -28,11 +49,13 @@
         "D": "Aeneas"
       },
       "type": "multiple_choice",
+      "section": "Part 1) Match the mythological entities with their other name",
+      "section_context": "Part 1) Match the mythological entities with their other name",
       "correct_answer": "C"
     },
     {
       "question_number": 4,
-      "question": "Achilles",
+      "question": "Part 1) Match the mythological entities with their other name Achilles",
       "options": {
         "A": "Ligyron",
         "B": "Asterius",
@@ -40,11 +63,13 @@
         "D": "Polypemon"
       },
       "type": "multiple_choice",
+      "section": "Part 1) Match the mythological entities with their other name",
+      "section_context": "Part 1) Match the mythological entities with their other name",
       "correct_answer": "D"
     },
     {
       "question_number": 5,
-      "question": "Priam",
+      "question": "Part 1) Match the mythological entities with their other name Priam",
       "options": {
         "A": "Ligyron",
         "B": "Asterius",
@@ -52,11 +77,13 @@
         "D": "Polypemon"
       },
       "type": "multiple_choice",
+      "section": "Part 1) Match the mythological entities with their other name",
+      "section_context": "Part 1) Match the mythological entities with their other name",
       "correct_answer": "B"
     },
     {
       "question_number": 6,
-      "question": "What daughter of Agenor was kidnapped by Zeus in the form of a bull?",
+      "question": "Part 2) Choose the best possible answer. What daughter of Agenor was kidnapped by Zeus in the form of a bull?",
       "options": {
         "A": "Io",
         "B": "Europa",
@@ -64,11 +91,13 @@
         "D": "Leda"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 7,
-      "question": "The prow of the Argo was made from a sacred oak from what oracle of Zeus?",
+      "question": "Part 2) Choose the best possible answer. The prow of the Argo was made from a sacred oak from what oracle of Zeus?",
       "options": {
         "A": "Olympia",
         "B": "Siwa",
@@ -76,11 +105,13 @@
         "D": "Lydia"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 8,
-      "question": "What brigand was known for feeding people to a man-eating turtle while he had",
+      "question": "Part 2) Choose the best possible answer. What brigand was known for feeding people to a man-eating turtle while he had them wash his feet?",
       "options": {
         "A": "Sciron",
         "B": "Sinis",
@@ -88,11 +119,13 @@
         "D": "Procrustes"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 9,
-      "question": "Eurydice died when she stepped on a snake while fleeing what son of Apollo?",
+      "question": "Part 2) Choose the best possible answer. Eurydice died when she stepped on a snake while fleeing what son of Apollo?",
       "options": {
         "A": "Philammon",
         "B": "Eleuther",
@@ -100,11 +133,13 @@
         "D": "Aristaeus"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 10,
-      "question": "Andromeda was engaged to her uncle when she married Perseus. What was",
+      "question": "Part 2) Choose the best possible answer. Andromeda was engaged to her uncle when she married Perseus. What was her uncle’s name?",
       "options": {
         "A": "Perses",
         "B": "Cepheus",
@@ -112,11 +147,13 @@
         "D": "Belus"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 11,
-      "question": "Who was the first of the Greeks to leap ashore at Troy and thus the first to die?",
+      "question": "Part 2) Choose the best possible answer. Who was the first of the Greeks to leap ashore at Troy and thus the first to die?",
       "options": {
         "A": "Podarces",
         "B": "Iphiclus",
@@ -124,11 +161,13 @@
         "D": "Protesilaus"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 12,
-      "question": "Which of the following was NOT the child of a Titan?",
+      "question": "Part 2) Choose the best possible answer. Which of the following was NOT the child of a Titan?",
       "options": {
         "A": "Chiron",
         "B": "Cecrops",
@@ -136,11 +175,13 @@
         "D": "Pyrrha"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 13,
-      "question": "Who won the throne of Mycenae by causing the sun to reverse its path in the",
+      "question": "Part 2) Choose the best possible answer. Who won the throne of Mycenae by causing the sun to reverse its path in the sky?",
       "options": {
         "A": "Atreus",
         "B": "Thyestes",
@@ -148,11 +189,13 @@
         "D": "Pleisthenes"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 14,
-      "question": "Who purified Medea and Jason of the murder of Apsyrtus?",
+      "question": "Part 2) Choose the best possible answer. Who purified Medea and Jason of the murder of Apsyrtus?",
       "options": {
         "A": "Calypso",
         "B": "Hecate",
@@ -160,11 +203,13 @@
         "D": "Amphitrite"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 15,
-      "question": "According to Ovid, into what were the daughters of Oeneus changed after the",
+      "question": "Part 2) Choose the best possible answer. According to Ovid, into what were the daughters of Oeneus changed after the death of Meleager?",
       "options": {
         "A": "hoopoes",
         "B": "bats",
@@ -172,11 +217,13 @@
         "D": "frogs"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 16,
-      "question": "What son of Poseidon and Thoosa loved the nymph Galatea?",
+      "question": "Part 2) Choose the best possible answer. What son of Poseidon and Thoosa loved the nymph Galatea?",
       "options": {
         "A": "Busiris",
         "B": "Polyphemus",
@@ -184,11 +231,13 @@
         "D": "Orion"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 17,
-      "question": "Thebes was named after the wife of which of its kings?",
+      "question": "Part 2) Choose the best possible answer. Thebes was named after the wife of which of its kings?",
       "options": {
         "A": "Polydorus",
         "B": "Lycus",
@@ -196,11 +245,13 @@
         "D": "Zethus"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 18,
-      "question": "Where was the first place Aeneas and his men sailed after leaving Troy?",
+      "question": "Part 2) Choose the best possible answer. Where was the first place Aeneas and his men sailed after leaving Troy?",
       "options": {
         "A": "Crete",
         "B": "Thrace",
@@ -208,11 +259,13 @@
         "D": "Strophades"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 19,
-      "question": "Which of the following was not a child of Typhaon and Echidna?",
+      "question": "Part 2) Choose the best possible answer. Which of the following was not a child of Typhaon and Echidna?",
       "options": {
         "A": "Medusa",
         "B": "Orthus",
@@ -220,11 +273,13 @@
         "D": "Cerberus"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 20,
-      "question": "When the gods fled to Egypt to escape Typhon, which was not an animal one of",
+      "question": "Part 2) Choose the best possible answer. When the gods fled to Egypt to escape Typhon, which was not an animal one of them transformed into?",
       "options": {
         "A": "ram",
         "B": "ibis",
@@ -232,11 +287,13 @@
         "D": "hippo"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 21,
-      "question": "According to Hesiod, who was married to the Grace Aglaea?",
+      "question": "Part 2) Choose the best possible answer. According to Hesiod, who was married to the Grace Aglaea?",
       "options": {
         "A": "Hermes",
         "B": "Poseidon",
@@ -244,11 +301,13 @@
         "D": "Hephaestus"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 22,
-      "question": "Who fought both as one of the Epigoni and at Troy, and wounded both Ares and",
+      "question": "Part 2) Choose the best possible answer. Who fought both as one of the Epigoni and at Troy, and wounded both Ares and Aphrodite in the Trojan War?",
       "options": {
         "A": "Alcmeon",
         "B": "Protesilaus",
@@ -256,11 +315,13 @@
         "D": "Aegialeus"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 23,
-      "question": "Who was the only one of the Seven Against Thebes to survive, thanks in part to",
+      "question": "Part 2) Choose the best possible answer. Who was the only one of the Seven Against Thebes to survive, thanks in part to his magic horse, Arion?",
       "options": {
         "A": "Parthenopaeus",
         "B": "Amphiaraus",
@@ -268,11 +329,13 @@
         "D": "Hippomedon"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 24,
-      "question": "What name was shared by the following characters from mythology: a son of",
+      "question": "Part 2) Choose the best possible answer. What name was shared by the following characters from mythology: a son of Antenor who fought in the Trojan War, Andromeda’s fiancée according to some sources, the father of Argus Panoptes, and the father of Cadmus.",
       "options": {
         "A": "Creon",
         "B": "Agenor",
@@ -280,11 +343,13 @@
         "D": "Sthenelus"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 25,
-      "question": "What drunken companion of Dionysus did Midas protect and entertain when he",
+      "question": "Part 2) Choose the best possible answer. What drunken companion of Dionysus did Midas protect and entertain when he was separated from the god?",
       "options": {
         "A": "Icarius",
         "B": "Silenus",
@@ -292,11 +357,13 @@
         "D": "Oenopion"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 26,
-      "question": "What wife of Neleus was the only daughter of Niobe to survive Apollo and",
+      "question": "Part 2) Choose the best possible answer. What wife of Neleus was the only daughter of Niobe to survive Apollo and Artemis’ slaughter?",
       "options": {
         "A": "Chione",
         "B": "Chryse",
@@ -304,11 +371,13 @@
         "D": "Chloris"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 27,
-      "question": "What muse was the mother of Orpheus?",
+      "question": "Part 2) Choose the best possible answer. What muse was the mother of Orpheus?",
       "options": {
         "A": "Melpomene",
         "B": "Calliope",
@@ -316,11 +385,13 @@
         "D": "Urania"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 28,
-      "question": "Who was Paris’ first wife, who refused to heal him after he was wounded in the",
+      "question": "Part 2) Choose the best possible answer. Who was Paris’ first wife, who refused to heal him after he was wounded in the Trojan War?",
       "options": {
         "A": "Oenone",
         "B": "Hecuba",
@@ -328,11 +399,13 @@
         "D": "Glauce"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 29,
-      "question": "Into what did Latona change the Lycian peasants who refused to let her drink",
+      "question": "Part 2) Choose the best possible answer. Into what did Latona change the Lycian peasants who refused to let her drink water when she was being pursued by Python?",
       "options": {
         "A": "trees",
         "B": "gnats",
@@ -340,11 +413,13 @@
         "D": "birds"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 30,
-      "question": "Who was the Phaeacian princess who rescued the shipwrecked Odysseus?",
+      "question": "Part 2) Choose the best possible answer. Who was the Phaeacian princess who rescued the shipwrecked Odysseus?",
       "options": {
         "A": "Arete",
         "B": "Nausicaa",
@@ -352,11 +427,13 @@
         "D": "Periboea"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 31,
-      "question": "The Areopagus was named because Ares was prosecuted there for the murder",
+      "question": "Part 2) Choose the best possible answer. The Areopagus was named because Ares was prosecuted there for the murder of what son of Poseidon?",
       "options": {
         "A": "Euphemus",
         "B": "Butes",
@@ -364,11 +441,13 @@
         "D": "Eryx"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 32,
-      "question": "Which of the following did NOT win a prize at an event at Anchises’ funeral",
+      "question": "Part 2) Choose the best possible answer. Which of the following did NOT win a prize at an event at Anchises’ funeral games in book V of the Aeneid?",
       "options": {
         "A": "Cloanthus",
         "B": "Euryalus",
@@ -376,11 +455,13 @@
         "D": "Eurytion"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 33,
-      "question": "Which of the following did NOT win an event at Patroclus’ funeral games in book",
+      "question": "Part 2) Choose the best possible answer. Which of the following did NOT win an event at Patroclus’ funeral games in book XXIII of the Iliad?",
       "options": {
         "A": "Eumelus",
         "B": "Epeus",
@@ -388,22 +469,27 @@
         "D": "Meriones"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 34,
-      "question": "What pair of brothers either died of exhaustion while chasing the harpies away",
+      "question": "Part 2) Choose the best possible answer. What pair of brothers either died of exhaustion while chasing the harpies away from King Phineus or were killed by Heracles after he found out they convinced the Argonauts to leave him?",
       "options": {
-        "A": "b. Passalus and Acmon",
+        "A": "Idas and Lynceus",
         "C": "Zetes and Calaias",
+        "B": "Passalus and Acmon",
         "D": "Ampion and Zethus"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 35,
-      "question": "Who accidentally killed his wife, Procris, with an infallible spear because he",
+      "question": "Part 2) Choose the best possible answer. Who accidentally killed his wife, Procris, with an infallible spear because he mistakenly thought she was a wild animal?",
       "options": {
         "A": "Pandion",
         "B": "Cephalus",
@@ -411,11 +497,13 @@
         "D": "Erechtheus"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 36,
-      "question": "What member of Odysseus’ crew did Aeneas save from the island of the",
+      "question": "Part 2) Choose the best possible answer. What member of Odysseus’ crew did Aeneas save from the island of the Cyclopes in the Aeneid?",
       "options": {
         "A": "Elpenor",
         "B": "Eurylochus",
@@ -423,11 +511,13 @@
         "D": "Achaemenides"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 37,
-      "question": "During the sack of Troy, who angered Athena by defiling Cassandra in the",
+      "question": "Part 2) Choose the best possible answer. During the sack of Troy, who angered Athena by defiling Cassandra in the goddess’s temple?",
       "options": {
         "A": "Ajax the Greater",
         "B": "Teucer",
@@ -435,11 +525,13 @@
         "D": "Neoptolemus"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 38,
-      "question": "Which of the Argonauts ran so fast he could run across water?",
+      "question": "Part 2) Choose the best possible answer. Which of the Argonauts ran so fast he could run across water?",
       "options": {
         "A": "Euphemus",
         "B": "Iphiclus",
@@ -447,11 +539,13 @@
         "D": "Mopsus"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 39,
-      "question": "Who was NOT one of Turnus’ allies in his war against Aeneas?",
+      "question": "Part 2) Choose the best possible answer. Who was NOT one of Turnus’ allies in his war against Aeneas?",
       "options": {
         "A": "Aventinus",
         "B": "Theron",
@@ -459,11 +553,13 @@
         "D": "Mezentius"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 40,
-      "question": "Who was turned into the sea goddess Leucothea after she jumped into the sea",
+      "question": "Part 2) Choose the best possible answer. Who was turned into the sea goddess Leucothea after she jumped into the sea with her son, Melicertes?",
       "options": {
         "A": "Semele",
         "B": "Ino",
@@ -471,11 +567,13 @@
         "D": "Autonoe"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 41,
-      "question": "Who was the father of Callisto who was changed into a wolf because he fed",
+      "question": "Part 2) Choose the best possible answer. Who was the father of Callisto who was changed into a wolf because he fed Zeus human flesh?",
       "options": {
         "A": "Lycurgus",
         "B": "Lycus",
@@ -483,11 +581,13 @@
         "D": "Lycaon"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 42,
-      "question": "What Greek hero carried off Helen to be his bride because he wanted to marry",
+      "question": "Part 2) Choose the best possible answer. What Greek hero carried off Helen to be his bride because he wanted to marry a daughter of Zeus?",
       "options": {
         "A": "Menelaus",
         "B": "Peirithous",
@@ -495,11 +595,13 @@
         "D": "Alexandros"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 43,
-      "question": "Who tricked Odysseus into proving his sanity, thus making the Ithacan fit for",
+      "question": "Part 2) Choose the best possible answer. Who tricked Odysseus into proving his sanity, thus making the Ithacan fit for service in the Trojan War?",
       "options": {
         "A": "Ajax the Lesser",
         "B": "Sinon",
@@ -507,11 +609,13 @@
         "D": "Cinyras"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 44,
-      "question": "Who was the mother of the god Pan?",
+      "question": "Part 2) Choose the best possible answer. Who was the mother of the god Pan?",
       "options": {
         "A": "Polymele",
         "B": "Clytie",
@@ -519,11 +623,13 @@
         "D": "Penelope"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 45,
-      "question": "According to Homer, who is the mother of Aphrodite?",
+      "question": "Part 2) Choose the best possible answer. According to Homer, who is the mother of Aphrodite?",
       "options": {
         "A": "Dione",
         "B": "Rhea",
@@ -531,11 +637,13 @@
         "D": "Nyx"
       },
       "type": "multiple_choice",
+      "section": "Part 2) Choose the best possible answer.",
+      "section_context": "Part 2) Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 46,
-      "question": "Medusa",
+      "question": "Part 3) For 46-50 given the person/creature killed give its killer. Medusa",
       "options": {
         "A": "Theseus",
         "B": "Perseus",
@@ -543,11 +651,13 @@
         "D": "Odysseus"
       },
       "type": "multiple_choice",
+      "section": "Part 3) For 46-50 given the person/creature killed give its killer.",
+      "section_context": "Part 3) For 46-50 given the person/creature killed give its killer.",
       "correct_answer": "A"
     },
     {
       "question_number": 47,
-      "question": "Otus",
+      "question": "Part 3) For 46-50 given the person/creature killed give its killer. Otus",
       "options": {
         "A": "Zeus",
         "B": "Heracles",
@@ -555,11 +665,13 @@
         "D": "Ephialtes"
       },
       "type": "multiple_choice",
+      "section": "Part 3) For 46-50 given the person/creature killed give its killer.",
+      "section_context": "Part 3) For 46-50 given the person/creature killed give its killer.",
       "correct_answer": "C"
     },
     {
       "question_number": 48,
-      "question": "Mimas",
+      "question": "Part 3) For 46-50 given the person/creature killed give its killer. Mimas",
       "options": {
         "A": "Hephaestus",
         "B": "the Fates",
@@ -567,11 +679,13 @@
         "D": "Athena"
       },
       "type": "multiple_choice",
+      "section": "Part 3) For 46-50 given the person/creature killed give its killer.",
+      "section_context": "Part 3) For 46-50 given the person/creature killed give its killer.",
       "correct_answer": "B"
     },
     {
       "question_number": 49,
-      "question": "Phaea",
+      "question": "Part 3) For 46-50 given the person/creature killed give its killer. Phaea",
       "options": {
         "A": "Theseus",
         "B": "Perseus",
@@ -579,11 +693,13 @@
         "D": "Odysseus"
       },
       "type": "multiple_choice",
+      "section": "Part 3) For 46-50 given the person/creature killed give its killer.",
+      "section_context": "Part 3) For 46-50 given the person/creature killed give its killer.",
       "correct_answer": "B"
     },
     {
       "question_number": 50,
-      "question": "Neleus",
+      "question": "Part 3) For 46-50 given the person/creature killed give its killer. Neleus",
       "options": {
         "A": "Theseus",
         "B": "Perseus",
@@ -591,6 +707,8 @@
         "D": "Odysseus"
       },
       "type": "multiple_choice",
+      "section": "Part 3) For 46-50 given the person/creature killed give its killer.",
+      "section_context": "Part 3) For 46-50 given the person/creature killed give its killer.",
       "correct_answer": "A"
     }
   ]

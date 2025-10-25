@@ -3,7 +3,8 @@
     "name": "Classical_Geography",
     "year": "state_2011",
     "subject": "Classical_Geography",
-    "total_questions": 56
+    "total_questions": 56,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Messana"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,6 +31,8 @@
         "D": "Londinium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -40,6 +45,8 @@
         "D": "Tyrrhenian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -52,11 +59,13 @@
         "D": "Asia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 5,
-      "question": "Which river actually flows through the ancient city of Athens?",
+      "question": "Which river actually flows through the ancient city of Athens? N.B. Questions 6-­‐10 pertain to ancient places and their modern equivalents",
       "options": {
         "A": "Cephisus",
         "B": "Tempe",
@@ -64,6 +73,8 @@
         "D": "Ilisus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -76,6 +87,8 @@
         "D": "Mauritania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -88,6 +101,8 @@
         "D": "Camulodunum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -100,6 +115,8 @@
         "D": "Corcyra"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -112,11 +129,13 @@
         "D": "Tusculum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 10,
-      "question": "The ancient town of Lutetia is now",
+      "question": "The ancient town of Lutetia is now N.B. Questions 11-­‐15 pertain to directional geography",
       "options": {
         "A": "London",
         "B": "Paris",
@@ -124,6 +143,8 @@
         "D": "Lyon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -136,6 +157,8 @@
         "D": "Aegina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -148,6 +171,8 @@
         "D": "Mutina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -160,6 +185,8 @@
         "D": "East"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -172,22 +199,27 @@
         "D": "Northeast"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 15,
-      "question": "On a busy day, Hermes began in Arcadia, flew first to Acarnia, then to Boeotia and finally to Mount",
+      "question": "On a busy day, Hermes began in Arcadia, flew first to Acarnia, then to Boeotia and finally to Mount Ida in Mysia. Which directions would he fly and in what order? N.B. Questions 16-­‐20 pertain to provinces of the Roman Empire",
       "options": {
-        "A": "c. North -­‐ Northwest -­‐ Northeast",
+        "A": "Northwest -­‐ East -­‐ Northeast",
         "B": "East -­‐ North -­‐ South",
+        "C": "North -­‐ Northwest -­‐ Northeast",
         "D": "South -­‐ East -­‐ North"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 16,
-      "question": "Augustus exiled the poet Ovid to the city of Tomi on the Black Sea. In which province was Tomi",
+      "question": "Augustus exiled the poet Ovid to the city of Tomi on the Black Sea. In which province was Tomi located?",
       "options": {
         "A": "Thracia",
         "B": "Dacia",
@@ -195,6 +227,8 @@
         "D": "Dalmatica"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -207,6 +241,8 @@
         "D": "Mauretania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -219,11 +255,13 @@
         "D": "Lugdunensis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 19,
-      "question": "In the time of Trajan, Greece was divided into three provinces. Which contained the famous cities",
+      "question": "In the time of Trajan, Greece was divided into three provinces. Which contained the famous cities of Athens, Sparta and Corinth?",
       "options": {
         "A": "Epirus",
         "B": "Macedonia",
@@ -231,11 +269,13 @@
         "D": "Laconia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 20,
-      "question": "The Euphrates River served as the eastern boundary of the province of",
+      "question": "The Euphrates River served as the eastern boundary of the province of N.B. Questions 21-­‐30 map of the Roman Empire",
       "options": {
         "A": "Armenia",
         "B": "Syria",
@@ -243,6 +283,8 @@
         "D": "Mesopotamia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -255,6 +297,8 @@
         "D": "Cyrene"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -267,6 +311,8 @@
         "D": "Halicarnassus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -279,6 +325,8 @@
         "D": "Calydon"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -291,6 +339,8 @@
         "D": "Arsinoe"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -303,6 +353,8 @@
         "D": "Tingis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -315,6 +367,8 @@
         "D": "Cyprus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -327,6 +381,8 @@
         "D": "Pergamum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -339,6 +395,8 @@
         "D": "Icarian Sea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -351,11 +409,13 @@
         "D": "Lusitania"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 30,
-      "question": "Number",
+      "question": "Number N.B. Questions 31-­‐40 map of Rome",
       "options": {
         "A": "Calleva",
         "B": "Isca",
@@ -363,17 +423,22 @@
         "D": "Deva"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 31,
       "question": "Letter A",
       "options": {
-        "A": "c. Mausoleum of Hadrian",
+        "A": "Mausoleum of Augustus",
         "B": "Temple of Fortuna Virilis",
+        "C": "Mausoleum of Hadrian",
         "D": "Saepta Julia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -386,17 +451,22 @@
         "D": "Asinaria"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 33,
       "question": "Letter C",
       "options": {
-        "A": "c. Castra Praetoriana",
+        "A": "Baths of Trajan",
         "B": "Baths of Agrippa",
+        "C": "Castra Praetoriana",
         "D": "Castrensian Amphitheatre"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -409,6 +479,8 @@
         "D": "Alexander Severus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -421,6 +493,8 @@
         "D": "Portuensis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -433,6 +507,8 @@
         "D": "Nero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -445,6 +521,8 @@
         "D": "Esquiline"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -457,28 +535,36 @@
         "D": "Janiculan"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 39,
       "question": "The two bridges to the right of letter I are",
       "options": {
-        "A": "c. Sublician and Aurelian",
+        "A": "Cestian and Fabrician",
         "B": "Fabrician and Sublician",
+        "C": "Sublician and Aurelian",
         "D": "Aurelian and Aemilian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 40,
-      "question": "Which of the following buildings is NOT built on the hill marked letter K?",
+      "question": "Which of the following buildings is NOT built on the hill marked letter K? N.B. Questions 41-­‐50 map of Italy",
       "options": {
-        "A": "c. Temple of Jupiter Optimus Maximus",
+        "A": "Temple of Juno Moneta",
         "B": "Temple of Mars Ultor",
+        "C": "Temple of Jupiter Optimus Maximus",
         "D": "Tabularium"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -491,6 +577,8 @@
         "D": "Bedriacum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -503,6 +591,8 @@
         "D": "Aquileia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -515,6 +605,8 @@
         "D": "Sulmo"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -527,6 +619,8 @@
         "D": "Asculum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -539,6 +633,8 @@
         "D": "Picenum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -551,6 +647,8 @@
         "D": "Caralis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -563,6 +661,8 @@
         "D": "Paestum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -575,6 +675,8 @@
         "D": "Utica"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -587,11 +689,13 @@
         "D": "Catana"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 50,
-      "question": "Number",
+      "question": "Number Map of the Mediterranean Map of Rome Map of Italy, Sicily, Corica, & Sardinia Extra questions",
       "options": {
         "A": "Heraclea",
         "B": "Posidonia",
@@ -599,6 +703,8 @@
         "D": "Croton"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -611,6 +717,8 @@
         "D": "Mantua"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -623,6 +731,8 @@
         "D": "France"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -635,28 +745,36 @@
         "D": "Circus Flaminius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 4,
       "question": "(On map of Rome) Letter L",
       "options": {
-        "A": "c. Baths of Diocletian",
+        "A": "Baths of Caracalla",
         "B": "Baths of Trajan",
+        "C": "Baths of Diocletian",
         "D": "Baths of Nero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 5,
       "question": "(On map of Italy) Number 10 is",
       "options": {
-        "A": "c. Henna.",
+        "A": "Mount Aetna.",
         "B": "Mount Vesuvius.",
+        "C": "Henna.",
         "D": "Rhegium."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -669,6 +787,8 @@
         "D": "Calabria."
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     }
   ]

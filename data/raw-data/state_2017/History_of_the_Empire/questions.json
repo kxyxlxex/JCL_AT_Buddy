@@ -3,7 +3,8 @@
     "name": "History_of_the_Empire",
     "year": "state_2017",
     "subject": "History_of_the_Empire",
-    "total_questions": 50
+    "total_questions": 50,
+    "sections": []
   },
   "questions": [
     {
@@ -16,6 +17,8 @@
         "D": "Vindex"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -28,11 +31,13 @@
         "D": "Valerian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 3,
-      "question": "How was Ataulf, who led the Visigoths into Gaul in 412 A.D., related to his",
+      "question": "How was Ataulf, who led the Visigoths into Gaul in 412 A.D., related to his predecessor Alaric?",
       "options": {
         "A": "brother-in-law",
         "B": "son-in-law",
@@ -40,17 +45,22 @@
         "D": "son"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 4,
       "question": "What office did Augustus assume in 12 B.C.?",
       "options": {
-        "A": "c. Pater Patriae",
+        "A": "Princeps Civitatis",
         "B": "Praefectus Urbi",
+        "C": "Pater Patriae",
         "D": "Pontifex Maximus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -63,6 +73,8 @@
         "D": "Chrysopolis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -75,11 +87,13 @@
         "D": "Galba"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 7,
-      "question": "At the fall of the Western Roman Empire, we know that Odoacer/Odovacar",
+      "question": "At the fall of the Western Roman Empire, we know that Odoacer/Odovacar deposed Romulus Augustulus, but who was the emperor in the east?",
       "options": {
         "A": "Marcian",
         "B": "Zeno",
@@ -87,6 +101,8 @@
         "D": "Anastasius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -99,6 +115,8 @@
         "D": "Julia Mamaea"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -111,11 +129,13 @@
         "D": "Carus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 10,
-      "question": "As the first emperor who claimed divinity during his life, Caligula ordered a legate",
+      "question": "As the first emperor who claimed divinity during his life, Caligula ordered a legate Petronius to set up his statue where?",
       "options": {
         "A": "in the temple of Jupiter Optimus Maximus",
         "B": "on the Acropolis near the Parthenon",
@@ -123,11 +143,13 @@
         "D": "in the center of the Forum Romanum"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 11,
-      "question": "What “ignoble son of a noble father” had himself depicted with Hercules’ emblems",
+      "question": "What “ignoble son of a noble father” had himself depicted with Hercules’ emblems of a club and lion’s skin and appeared frequently in the arena as a hunter of wild beasts or gladiator?",
       "options": {
         "A": "Justinian",
         "B": "Commodus",
@@ -135,6 +157,8 @@
         "D": "Pertinax"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -147,6 +171,8 @@
         "D": "Antinoopolis"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -159,11 +185,13 @@
         "D": "Capri"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 14,
-      "question": "What wife of an emperor was particularly active in promoting the cult of Cybele",
+      "question": "What wife of an emperor was particularly active in promoting the cult of Cybele and was deified immediately after her death, ca. 140 A.D.?",
       "options": {
         "A": "Vibia Sabina",
         "B": "Plotina",
@@ -171,6 +199,8 @@
         "D": "Bruttia Crispina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -183,6 +213,8 @@
         "D": "mandatory military service for non-Romans"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -195,6 +227,8 @@
         "D": "Numidians"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -207,11 +241,13 @@
         "D": "Papinianus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 18,
-      "question": "Who was the early martyr of the Christian Church who completely overturned the",
+      "question": "Who was the early martyr of the Christian Church who completely overturned the existing male-dominated social and political order at Carthage in 203 A.D.?",
       "options": {
         "A": "Agnes",
         "B": "Perpetua",
@@ -219,11 +255,13 @@
         "D": "Blandina"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 19,
-      "question": "Which emperor is primarily responsible for building the Pantheon, even though he",
+      "question": "Which emperor is primarily responsible for building the Pantheon, even though he preserved the conventional façade and Agrippa’s dedicatory inscription?",
       "options": {
         "A": "Marcus Aurelius",
         "B": "Hadrian",
@@ -231,22 +269,27 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 20,
       "question": "Who was the first wife of the emperor Claudius?",
       "options": {
-        "A": "c. Valeria Messalina",
+        "A": "Agrippina the Younger",
         "B": "Aelia Paetina",
+        "C": "Valeria Messalina",
         "D": "Plautia Urgulanilla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 21,
-      "question": "Who was one of the most important freedwomen in Roman history, who served",
+      "question": "Who was one of the most important freedwomen in Roman history, who served both Claudius and Nero and became Vespasian’s mistress until his marriage?",
       "options": {
         "A": "Antonia Caenis",
         "B": "Claudia Acte",
@@ -254,6 +297,8 @@
         "D": "Flavia Domitilla"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
@@ -266,11 +311,13 @@
         "D": "immediate loss of privileges for Christians of higher classes"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 23,
-      "question": "Who was Constantine’s mother whose conversion to Christianity has been",
+      "question": "Who was Constantine’s mother whose conversion to Christianity has been distorted by the biases of Christian boosters and pagan distractors?",
       "options": {
         "A": "Fausta",
         "B": "Helena",
@@ -278,11 +325,13 @@
         "D": "Eutropia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 24,
-      "question": "What German was the virtual ruler of the western Empire from 456 A.D. until his",
+      "question": "What German was the virtual ruler of the western Empire from 456 A.D. until his death in 472 A.D.?",
       "options": {
         "A": "Aetius",
         "B": "Majorian",
@@ -290,6 +339,8 @@
         "D": "Glycerius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -302,6 +353,8 @@
         "D": "Iceni"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
@@ -314,11 +367,13 @@
         "D": "Nerva"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 27,
-      "question": "In 73 A.D., what sheer rock fortress was taken by the Romans after a six-month",
+      "question": "In 73 A.D., what sheer rock fortress was taken by the Romans after a six-month siege and the construction of a large earthern ramp?",
       "options": {
         "A": "Herodium",
         "B": "Masada",
@@ -326,11 +381,13 @@
         "D": "Jerusalem"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 28,
-      "question": "Three catastrophes marred the brief reign of Titus: the violent eruption of",
+      "question": "Three catastrophes marred the brief reign of Titus: the violent eruption of Vesuvius and subsequent destruction of Herculaneum, Stabiae and Pompeii; a great fire in Rome which raged for three days; and…",
       "options": {
         "A": "a plague descended on Campania",
         "B": "a massive rebellion by the people of Judaea",
@@ -338,6 +395,8 @@
         "D": "a significant military loss at the hands of a Sarmatian tribe"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -350,11 +409,13 @@
         "D": "Parthamaspates"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 30,
-      "question": "What province did Pescennius Niger govern prior to his revolt against Didius",
+      "question": "What province did Pescennius Niger govern prior to his revolt against Didius Julianus and Septimius Severus?",
       "options": {
         "A": "Cilicia",
         "B": "Syria",
@@ -362,22 +423,27 @@
         "D": "Pisidia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
       "question_number": 31,
-      "question": "Who was the first princeps to reach the throne without prior membership in the",
+      "question": "Who was the first princeps to reach the throne without prior membership in the Senate?",
       "options": {
-        "A": "c. Macrinus",
+        "A": "Severus Alexander",
         "B": "Caracalla",
+        "C": "Macrinus",
         "D": "Lucius Verus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 32,
-      "question": "At what battle did Constantine order the chi and rho to be placed upon the shields",
+      "question": "At what battle did Constantine order the chi and rho to be placed upon the shields of his soldiers?",
       "options": {
         "A": "Edessa",
         "B": "Mons Seleucus",
@@ -385,6 +451,8 @@
         "D": "Milvian Bridge"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -397,6 +465,8 @@
         "D": "Rome"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -409,22 +479,27 @@
         "D": "Franks"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 35,
       "question": "Against what bishop of Constantinople did the Augusta Eudoxia conspire?",
       "options": {
-        "A": "c. Gaudentius of Brescia",
+        "A": "John Chrysostom",
         "B": "Theophilus",
+        "C": "Gaudentius of Brescia",
         "D": "Proclus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 36,
-      "question": "Augustus personally led the fight against the Cantabrians and Asturians around",
+      "question": "Augustus personally led the fight against the Cantabrians and Asturians around BC in what location?",
       "options": {
         "A": "Armenia",
         "B": "Illyricum",
@@ -432,6 +507,8 @@
         "D": "Macedonia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -444,11 +521,13 @@
         "D": "Livia"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 38,
-      "question": "Which emperor affronted the Senate by becoming the first to hold the office of",
+      "question": "Which emperor affronted the Senate by becoming the first to hold the office of censor and purging that body of some old members?",
       "options": {
         "A": "Augustus",
         "B": "Tiberius",
@@ -456,11 +535,13 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 39,
-      "question": "Where did Vespasian send Petilius Cerialis and Julius Frontinus to resume Rome’s",
+      "question": "Where did Vespasian send Petilius Cerialis and Julius Frontinus to resume Rome’s conquest?",
       "options": {
         "A": "Germany",
         "B": "Armenia",
@@ -468,6 +549,8 @@
         "D": "Syria"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -480,11 +563,13 @@
         "D": "Commodus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 41,
-      "question": "Whom did Hadrian commission to draw up an edictum perpetuum binding all",
+      "question": "Whom did Hadrian commission to draw up an edictum perpetuum binding all present and future praetors to a set code of laws and court procedures?",
       "options": {
         "A": "Salvius Julianus",
         "B": "Lusius Quietus",
@@ -492,6 +577,8 @@
         "D": "Annius Verus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -504,11 +591,13 @@
         "D": "Ancyra"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 43,
-      "question": "What emperor served as the last to rule over both the western and eastern halves",
+      "question": "What emperor served as the last to rule over both the western and eastern halves of the empire?",
       "options": {
         "A": "Valens",
         "B": "Honorius",
@@ -516,17 +605,22 @@
         "D": "Gratian"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "B"
     },
     {
       "question_number": 44,
       "question": "Romulus Augustulus was appointed emperor by whom?",
       "options": {
-        "A": "c. the Senate",
+        "A": "the Roman people",
         "B": "his armies",
+        "C": "the Senate",
         "D": "his father"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -539,22 +633,27 @@
         "D": "15 BC"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
       "question_number": 46,
       "question": "Who was Augustus’ first choice as successor?",
       "options": {
-        "A": "c. G. Julius Caesar",
+        "A": "M. Claudius Marcellus",
         "B": "M. Vipsanius Agrippa",
+        "C": "G. Julius Caesar",
         "D": "Ti. Claudius Nero"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 47,
-      "question": "What Danubian officer killed Arrius Aper with his own hand and was then",
+      "question": "What Danubian officer killed Arrius Aper with his own hand and was then proclaimed emperor by his troops?",
       "options": {
         "A": "Diocletian",
         "B": "Numerian",
@@ -562,11 +661,13 @@
         "D": "Florianus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     },
     {
       "question_number": 48,
-      "question": "What was the name of the Armenian king who was killed by his own nephew",
+      "question": "What was the name of the Armenian king who was killed by his own nephew Radamistus with some assistance from the Romans in 52?",
       "options": {
         "A": "Gotarzes",
         "B": "Tiridates",
@@ -574,6 +675,8 @@
         "D": "Artabanus"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "A"
     },
     {
@@ -586,6 +689,8 @@
         "D": "Fronto"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "C"
     },
     {
@@ -598,6 +703,8 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
+      "section": null,
+      "section_context": null,
       "correct_answer": "D"
     }
   ]
