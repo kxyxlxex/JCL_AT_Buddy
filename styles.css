@@ -264,18 +264,6 @@ header p {
     box-shadow: 0 6px 25px rgba(139, 92, 246, 0.6);
 }
 
-#saveProgress {
-    background: linear-gradient(135deg, #F59E0B, #FCD34D);
-    color: white;
-    box-shadow: 0 4px 15px rgba(245, 158, 11, 0.4);
-}
-
-#saveProgress:hover {
-    background: linear-gradient(135deg, #D97706, #F59E0B);
-    transform: translateY(-2px);
-    box-shadow: 0 6px 25px rgba(245, 158, 11, 0.6);
-}
-
 .results {
     background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.9) 100%);
     border-radius: 15px;

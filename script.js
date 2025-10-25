@@ -23,7 +23,6 @@ class TestGenerator {
         // Test navigation
         document.getElementById('prevQuestion').addEventListener('click', () => this.previousQuestion());
         document.getElementById('nextQuestion').addEventListener('click', () => this.nextQuestion());
-        document.getElementById('saveProgress').addEventListener('click', () => this.manualSaveProgress());
         document.getElementById('submitTest').addEventListener('click', () => this.submitTest());
         
         // Results actions
@@ -388,21 +387,6 @@ class TestGenerator {
         if (this.currentSubject) {
             localStorage.removeItem(`jcl_test_progress_${this.currentSubject}`);
         }
-    }
-    
-    manualSaveProgress() {
-        this.saveProgress();
-        
-        // Show confirmation message
-        const button = document.getElementById('saveProgress');
-        const originalText = button.textContent;
-        button.textContent = 'Saved!';
-        button.style.background = 'linear-gradient(135deg, #28a745, #20c997)';
-        
-        setTimeout(() => {
-            button.textContent = originalText;
-            button.style.background = '';
-        }, 2000);
     }
 }
 
