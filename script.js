@@ -450,14 +450,18 @@ class TestGenerator {
         document.querySelector('.test-selection').style.display = 'block';
     }
 
-    // Format section title: remove trailing period, ensure colon
+    // Format section title: strip leading Part x) / Roman I., remove trailing period, add colon
     formatSectionTitle(raw) {
         try {
             let s = String(raw).trim();
+            // Remove leading 'Part x)' prefix (case-insensitive)
+            s = s.replace(/^Part\s+\d+\)\s*/i, '');
+            // Remove leading Roman numeral with period (e.g., 'I.', 'II.', 'IV.')
+            s = s.replace(/^[IVXLCDM]+\.\s*/i, '');
             // Remove trailing period(s)
-            s = s.replace(/[\.]+\s*$/,'');
-            // Add colon if missing
-            if (!s.endsWith(':')) s = `${s}:`;
+            s = s.replace(/[\.:]+\s*$/,'');
+            // Always add a single colon
+            s = `${s}:`;
             return s;
         } catch (_) {
             return raw;
