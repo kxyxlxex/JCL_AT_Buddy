@@ -51,27 +51,17 @@ def parse_test_file(test_file_path):
         if re.match(r'^Part\s+([IVX]+):\s*(.+)$', line):  # "Part II: Mottoes"
             continue
         
-        # Check for instruction patterns
+        # Check for instruction patterns (can appear between questions)
         if (not re.match(r'^N\.B\.', line) and  # Not N.B. instructions
             not re.match(r'^\d+\.', line) and  # Not question numbers
             not re.match(r'^([a-dA-D])\.\s*(.+)$', line) and  # Not answer options
             len(line.split()) > 2 and  # Has multiple words
             any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions'])):  # Contains instruction keywords
             
-            # This is an instruction line
+            # This is an instruction line - update current instruction
             current_instruction = line
             continue
         
-        # Check for multi-line instruction continuation
-        if (current_instruction and  # We have a current instruction
-            not re.match(r'^\d+\.', line) and  # Not a question number
-            not re.match(r'^([a-dA-D])\.\s*(.+)$', line) and  # Not an answer option
-            line.strip() and  # Not empty
-            not any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions'])):  # Not a new instruction
-            
-            # This is a continuation of the current instruction
-            current_instruction += " " + line.strip()
-            continue
         
         # Check for question numbers
         question_match = re.match(r'^(\d+)\.\s*(.+)$', line)
@@ -167,6 +157,18 @@ def parse_test_file(test_file_path):
                 # This is a continuation of the question statement
                 current_question["question"] += " " + line.strip()
                 continue
+        
+        # Check for multi-line instruction continuation (only if it looks like an instruction)
+        if (current_instruction and  # We have a current instruction
+            not re.match(r'^\d+\.', line) and  # Not a question number
+            not re.match(r'^([a-dA-D])\.\s*(.+)$', line) and  # Not an answer option
+            line.strip() and  # Not empty
+            not any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions']) and  # Not a new instruction
+            line.endswith(('.', ':', '!', '?'))):  # Ends with punctuation like instruction text
+            
+            # This is a continuation of the current instruction
+            current_instruction += " " + line.strip()
+            continue
     
     # Save the last question if it exists
     if current_question and len(current_question["options"]) > 0:

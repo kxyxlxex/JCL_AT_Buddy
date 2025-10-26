@@ -67,7 +67,7 @@
     },
     {
       "question_number": 6,
-      "question": "There’s always that one guy who has to add something of nonsense, who",
+      "question": "There’s always that one guy who has to add something of nonsense, who is called ______.",
       "options": {
         "A": "vox populi",
         "B": "vox clamantis",
@@ -88,7 +88,7 @@
         "D": "per se"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer. is called ______:",
+      "instruction": "Choose the best possible answer:",
       "correct_answer": null
     },
     {
@@ -101,12 +101,12 @@
         "D": "reciprocal"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer. is called ______:",
+      "instruction": "Choose the best possible answer:",
       "correct_answer": null
     },
     {
       "question_number": 9,
-      "question": "After the continent America was discovered, every major European",
+      "question": "After the continent America was discovered, every major European country thought of it as ______.",
       "options": {
         "A": "res nullius",
         "B": "res publica",
@@ -114,7 +114,7 @@
         "D": "terra firma"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer. is called ______:",
+      "instruction": "Choose the best possible answer:",
       "correct_answer": null
     },
     {
@@ -127,7 +127,7 @@
         "D": "ex post"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer. is called ______. country thought of it as ______:",
+      "instruction": "Choose the best possible answer:",
       "correct_answer": null
     },
     {
@@ -140,7 +140,7 @@
         "D": "reductio ad absurdum"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer. is called ______. country thought of it as ______:",
+      "instruction": "Choose the best possible answer:",
       "correct_answer": null
     },
     {
@@ -153,7 +153,7 @@
         "D": "a maxim"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer. is called ______. country thought of it as ______:",
+      "instruction": "Choose the best possible answer:",
       "correct_answer": null
     },
     {
@@ -166,12 +166,12 @@
         "D": "in casu"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer. is called ______. country thought of it as ______:",
+      "instruction": "Choose the best possible answer:",
       "correct_answer": null
     },
     {
       "question_number": 14,
-      "question": "Both Rollins Colege and Angelo State University share the same Latin",
+      "question": "Both Rollins Colege and Angelo State University share the same Latin motto. What is it?",
       "options": {
         "A": "Lux esto",
         "B": "Fiat lux",
@@ -179,7 +179,7 @@
         "D": "Sit Lux"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer. is called ______. country thought of it as ______:",
+      "instruction": "Choose the best possible answer:",
       "correct_answer": null
     },
     {
@@ -353,7 +353,7 @@
     },
     {
       "question_number": 28,
-      "question": "If someone has “r.” and dates following their name, those dates refer to",
+      "question": "If someone has “r.” and dates following their name, those dates refer to the person’s ____.",
       "options": {
         "A": "life and death",
         "B": "being famous",
@@ -374,7 +374,7 @@
         "D": "with food"
       },
       "type": "multiple_choice",
-      "instruction": "Match the motto with the state, city, university or group. the person’s ____:",
+      "instruction": "Match the motto with the state, city, university or group:",
       "correct_answer": null
     },
     {
@@ -387,7 +387,7 @@
         "D": "article"
       },
       "type": "multiple_choice",
-      "instruction": "Match the motto with the state, city, university or group. the person’s ____:",
+      "instruction": "Match the motto with the state, city, university or group:",
       "correct_answer": null
     },
     {
@@ -399,7 +399,7 @@
         "C": "pro per."
       },
       "type": "multiple_choice",
-      "instruction": "Match the motto with the state, city, university or group. the person’s ____:",
+      "instruction": "Match the motto with the state, city, university or group:",
       "correct_answer": null
     },
     {
@@ -412,7 +412,7 @@
         "D": "as above"
       },
       "type": "multiple_choice",
-      "instruction": "Match the motto with the state, city, university or group. the person’s ____:",
+      "instruction": "Match the motto with the state, city, university or group:",
       "correct_answer": null
     },
     {
@@ -425,7 +425,7 @@
         "D": "hours spelled with a letter “t”"
       },
       "type": "multiple_choice",
-      "instruction": "Match the motto with the state, city, university or group. the person’s ____:",
+      "instruction": "Match the motto with the state, city, university or group:",
       "correct_answer": null
     },
     {
@@ -438,7 +438,7 @@
         "D": "reference"
       },
       "type": "multiple_choice",
-      "instruction": "Match the motto with the state, city, university or group. the person’s ____:",
+      "instruction": "Match the motto with the state, city, university or group:",
       "correct_answer": null
     },
     {
@@ -451,12 +451,12 @@
         "D": "Augustus’s political decrees"
       },
       "type": "multiple_choice",
-      "instruction": "Match the motto with the state, city, university or group. the person’s ____:",
+      "instruction": "Match the motto with the state, city, university or group:",
       "correct_answer": null
     },
     {
       "question_number": 36,
-      "question": "Which of the following abbreviations does NOT have the same general",
+      "question": "Which of the following abbreviations does NOT have the same general meaning?",
       "options": {
         "A": "ead.",
         "B": "id.",
@@ -464,7 +464,7 @@
         "D": "i.a."
       },
       "type": "multiple_choice",
-      "instruction": "Match the motto with the state, city, university or group. the person’s ____:",
+      "instruction": "Match the motto with the state, city, university or group:",
       "correct_answer": null
     },
     {
@@ -477,7 +477,7 @@
         "D": "D.M.D."
       },
       "type": "multiple_choice",
-      "instruction": "Match the motto with the state, city, university or group. the person’s ____. meaning:",
+      "instruction": "Match the motto with the state, city, university or group:",
       "correct_answer": null
     },
     {
@@ -490,7 +490,7 @@
         "D": "s.i.d."
       },
       "type": "multiple_choice",
-      "instruction": "Match the motto with the state, city, university or group. the person’s ____. meaning:",
+      "instruction": "Match the motto with the state, city, university or group:",
       "correct_answer": null
     },
     {
@@ -573,7 +573,7 @@
     },
     {
       "question_number": 45,
-      "question": "Stat magni nominis umbra",
+      "question": "Stat magni nominis umbra 46 . Lasciva est nobis pagina, vita proba.",
       "options": {
         "A": "Martial",
         "B": "Ennius",
@@ -594,7 +594,7 @@
         "D": "Ovid"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author attributed with the given quotation. 46 . Lasciva est nobis pagina, vita proba:",
+      "instruction": "Give the author attributed with the given quotation:",
       "correct_answer": null
     },
     {
@@ -607,7 +607,7 @@
         "D": "Ovid"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author attributed with the given quotation. 46 . Lasciva est nobis pagina, vita proba:",
+      "instruction": "Give the author attributed with the given quotation:",
       "correct_answer": null
     },
     {
@@ -620,7 +620,7 @@
         "D": "Varro"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author attributed with the given quotation. 46 . Lasciva est nobis pagina, vita proba:",
+      "instruction": "Give the author attributed with the given quotation:",
       "correct_answer": null
     },
     {
@@ -633,7 +633,7 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author attributed with the given quotation. 46 . Lasciva est nobis pagina, vita proba:",
+      "instruction": "Give the author attributed with the given quotation:",
       "correct_answer": null
     }
   ],

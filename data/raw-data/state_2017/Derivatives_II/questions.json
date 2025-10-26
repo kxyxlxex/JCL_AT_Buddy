@@ -119,7 +119,7 @@
     },
     {
       "question_number": 10,
-      "question": "celerity",
+      "question": "celerity derived.",
       "options": {
         "A": "decelerate",
         "B": "celery",
@@ -140,7 +140,7 @@
         "D": "eat"
       },
       "type": "multiple_choice",
-      "instruction": "Select the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Select the meaning of the Latin word from which the English word is:",
       "correct_answer": null
     },
     {
@@ -153,7 +153,7 @@
         "D": "cavalry"
       },
       "type": "multiple_choice",
-      "instruction": "Select the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Select the meaning of the Latin word from which the English word is:",
       "correct_answer": null
     },
     {
@@ -166,7 +166,7 @@
         "D": "worship"
       },
       "type": "multiple_choice",
-      "instruction": "Select the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Select the meaning of the Latin word from which the English word is:",
       "correct_answer": null
     },
     {
@@ -179,7 +179,7 @@
         "D": "bull"
       },
       "type": "multiple_choice",
-      "instruction": "Select the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Select the meaning of the Latin word from which the English word is:",
       "correct_answer": null
     },
     {
@@ -192,7 +192,7 @@
         "D": "money"
       },
       "type": "multiple_choice",
-      "instruction": "Select the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Select the meaning of the Latin word from which the English word is:",
       "correct_answer": null
     },
     {
@@ -205,7 +205,7 @@
         "D": "machine"
       },
       "type": "multiple_choice",
-      "instruction": "Select the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Select the meaning of the Latin word from which the English word is:",
       "correct_answer": null
     },
     {
@@ -218,7 +218,7 @@
         "D": "catapult"
       },
       "type": "multiple_choice",
-      "instruction": "Select the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Select the meaning of the Latin word from which the English word is:",
       "correct_answer": null
     },
     {
@@ -231,7 +231,7 @@
         "D": "boy"
       },
       "type": "multiple_choice",
-      "instruction": "Select the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Select the meaning of the Latin word from which the English word is:",
       "correct_answer": null
     },
     {
@@ -244,7 +244,7 @@
         "D": "compose"
       },
       "type": "multiple_choice",
-      "instruction": "Select the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Select the meaning of the Latin word from which the English word is:",
       "correct_answer": null
     },
     {
@@ -257,7 +257,7 @@
         "D": "commoner"
       },
       "type": "multiple_choice",
-      "instruction": "Select the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Select the meaning of the Latin word from which the English word is:",
       "correct_answer": null
     },
     {
@@ -379,7 +379,7 @@
     },
     {
       "question_number": 30,
-      "question": "pomum",
+      "question": "pomum derived.",
       "options": {
         "A": "plume",
         "B": "peanut",
@@ -400,12 +400,12 @@
         "D": "obdo"
       },
       "type": "multiple_choice",
-      "instruction": "Identify the Latin word from which the underlined English word is derived:",
+      "instruction": "Identify the Latin word from which the underlined English word is:",
       "correct_answer": null
     },
     {
       "question_number": 32,
-      "question": "The charity foundation president demurred before accepting the key to the",
+      "question": "The charity foundation president demurred before accepting the key to the city.",
       "options": {
         "A": "murus",
         "B": "mora",
@@ -413,7 +413,7 @@
         "D": "murex"
       },
       "type": "multiple_choice",
-      "instruction": "Identify the Latin word from which the underlined English word is derived:",
+      "instruction": "Identify the Latin word from which the underlined English word is:",
       "correct_answer": null
     },
     {
@@ -425,7 +425,7 @@
         "D": "tignum"
       },
       "type": "multiple_choice",
-      "instruction": "Identify the Latin word from which the underlined English word is derived. city:",
+      "instruction": "Identify the Latin word from which the underlined English word is:",
       "correct_answer": null
     },
     {
@@ -438,7 +438,7 @@
         "D": "faex"
       },
       "type": "multiple_choice",
-      "instruction": "Identify the Latin word from which the underlined English word is derived. city:",
+      "instruction": "Identify the Latin word from which the underlined English word is:",
       "correct_answer": null
     },
     {
@@ -451,7 +451,7 @@
         "D": "coeo"
       },
       "type": "multiple_choice",
-      "instruction": "Identify the Latin word from which the underlined English word is derived. city:",
+      "instruction": "Identify the Latin word from which the underlined English word is:",
       "correct_answer": null
     },
     {
@@ -464,7 +464,7 @@
         "D": "duco"
       },
       "type": "multiple_choice",
-      "instruction": "Identify the Latin word from which the underlined English word is derived. city:",
+      "instruction": "Identify the Latin word from which the underlined English word is:",
       "correct_answer": null
     },
     {
@@ -477,7 +477,7 @@
         "D": "precari"
       },
       "type": "multiple_choice",
-      "instruction": "Identify the Latin word from which the underlined English word is derived. city:",
+      "instruction": "Identify the Latin word from which the underlined English word is:",
       "correct_answer": null
     },
     {
@@ -490,7 +490,7 @@
         "D": "verto"
       },
       "type": "multiple_choice",
-      "instruction": "Identify the Latin word from which the underlined English word is derived. city:",
+      "instruction": "Identify the Latin word from which the underlined English word is:",
       "correct_answer": null
     },
     {
@@ -503,12 +503,12 @@
         "D": "vitium"
       },
       "type": "multiple_choice",
-      "instruction": "Identify the Latin word from which the underlined English word is derived. city:",
+      "instruction": "Identify the Latin word from which the underlined English word is:",
       "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "injection",
+      "question": "injection derivation.",
       "options": {
         "A": "iungo",
         "B": "iacio",
@@ -516,7 +516,7 @@
         "D": "inno"
       },
       "type": "multiple_choice",
-      "instruction": "Identify the Latin word from which the underlined English word is derived. city:",
+      "instruction": "Identify the Latin word from which the underlined English word is:",
       "correct_answer": null
     }
   ],

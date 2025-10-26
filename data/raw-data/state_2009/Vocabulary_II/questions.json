@@ -535,7 +535,7 @@
     },
     {
       "question_number": 47,
-      "question": "rex : regina",
+      "question": "rex : regina VII. Miscellaneous.",
       "options": {
         "A": "infans : mater",
         "B": "malum : mel",
@@ -556,7 +556,7 @@
         "D": "volumen"
       },
       "type": "multiple_choice",
-      "instruction": "Complete the analogy. VII. Miscellaneous:",
+      "instruction": "Complete the analogy:",
       "correct_answer": null
     },
     {
@@ -569,7 +569,7 @@
         "D": "pennae"
       },
       "type": "multiple_choice",
-      "instruction": "Complete the analogy. VII. Miscellaneous:",
+      "instruction": "Complete the analogy:",
       "correct_answer": null
     },
     {
@@ -582,7 +582,7 @@
         "D": "to speak"
       },
       "type": "multiple_choice",
-      "instruction": "Complete the analogy. VII. Miscellaneous:",
+      "instruction": "Complete the analogy:",
       "correct_answer": null
     }
   ],

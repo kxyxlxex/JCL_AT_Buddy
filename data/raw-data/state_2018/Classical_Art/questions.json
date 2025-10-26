@@ -587,7 +587,7 @@
     },
     {
       "question_number": 48,
-      "question": "[Picture 13] The inscription on the front of this structure refers to an earlier temple, erected on",
+      "question": "[Picture 13] The inscription on the front of this structure refers to an earlier temple, erected on the same spot, dedicated by:",
       "options": {
         "A": "Hadrian",
         "B": "Marcus Agrippa",
@@ -608,7 +608,7 @@
         "D": "Templum"
       },
       "type": "multiple_choice",
-      "instruction": "For items 21–50, please refer to the pictures at the end of this test. the same spot, dedicated by:",
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -621,7 +621,7 @@
         "D": "Olympia"
       },
       "type": "multiple_choice",
-      "instruction": "For items 21–50, please refer to the pictures at the end of this test. the same spot, dedicated by:",
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     }
   ],
