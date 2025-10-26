@@ -9,6 +9,16 @@ import os
 import webbrowser
 from pathlib import Path
 
+class NoCacheHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
+    """Custom handler that adds no-cache headers to all responses."""
+    
+    def end_headers(self):
+        # Add no-cache headers
+        self.send_header('Cache-Control', 'no-store, no-cache, must-revalidate, max-age=0')
+        self.send_header('Pragma', 'no-cache')
+        self.send_header('Expires', '0')
+        super().end_headers()
+
 def start_test_server(port=8000):
     """Start a local HTTP server for testing the website."""
     
@@ -16,8 +26,8 @@ def start_test_server(port=8000):
     website_dir = Path(__file__).parent
     os.chdir(website_dir)
     
-    # Create the server
-    handler = http.server.SimpleHTTPRequestHandler
+    # Create the server with no-cache handler
+    handler = NoCacheHTTPRequestHandler
     
     with socketserver.TCPServer(("", port), handler) as httpd:
         print(f"Starting test server on port {port}")
