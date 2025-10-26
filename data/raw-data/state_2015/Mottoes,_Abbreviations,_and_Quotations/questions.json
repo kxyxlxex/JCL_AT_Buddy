@@ -529,7 +529,7 @@
         "D": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author of the quotation.",
+      "instruction": "Give the author of the quotation:",
       "correct_answer": null
     },
     {
@@ -542,7 +542,7 @@
         "D": "Propertius"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author of the quotation.",
+      "instruction": "Give the author of the quotation:",
       "correct_answer": null
     },
     {
@@ -555,7 +555,7 @@
         "D": "Cornelius Nepos"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author of the quotation.",
+      "instruction": "Give the author of the quotation:",
       "correct_answer": null
     },
     {
@@ -568,7 +568,7 @@
         "D": "Catullus"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author of the quotation.",
+      "instruction": "Give the author of the quotation:",
       "correct_answer": null
     },
     {
@@ -581,7 +581,7 @@
         "D": "tempus fugit"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author of the quotation.",
+      "instruction": "Give the author of the quotation:",
       "correct_answer": null
     },
     {
@@ -594,7 +594,7 @@
         "D": "Sallust"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author of the quotation.",
+      "instruction": "Give the author of the quotation:",
       "correct_answer": null
     },
     {
@@ -607,7 +607,7 @@
         "D": "Terence"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author of the quotation.",
+      "instruction": "Give the author of the quotation:",
       "correct_answer": null
     },
     {
@@ -620,7 +620,7 @@
         "D": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author of the quotation.",
+      "instruction": "Give the author of the quotation:",
       "correct_answer": null
     },
     {
@@ -633,7 +633,7 @@
         "D": "Catullus"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author of the quotation.",
+      "instruction": "Give the author of the quotation:",
       "correct_answer": null
     },
     {
@@ -646,7 +646,7 @@
         "D": "Commodus"
       },
       "type": "multiple_choice",
-      "instruction": "Give the author of the quotation.",
+      "instruction": "Give the author of the quotation:",
       "correct_answer": null
     }
   ],

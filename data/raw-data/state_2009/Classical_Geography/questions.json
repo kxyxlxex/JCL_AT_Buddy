@@ -270,7 +270,7 @@
         "D": "Arpinum"
       },
       "type": "multiple_choice",
-      "instruction": "number on the map to the correct answer.",
+      "instruction": "number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -283,7 +283,7 @@
         "D": "Sulmo"
       },
       "type": "multiple_choice",
-      "instruction": "number on the map to the correct answer.",
+      "instruction": "number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -296,7 +296,7 @@
         "D": "Henna"
       },
       "type": "multiple_choice",
-      "instruction": "number on the map to the correct answer.",
+      "instruction": "number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -309,7 +309,7 @@
         "D": "Brundisium"
       },
       "type": "multiple_choice",
-      "instruction": "number on the map to the correct answer.",
+      "instruction": "number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -322,7 +322,7 @@
         "D": "Ancona"
       },
       "type": "multiple_choice",
-      "instruction": "number on the map to the correct answer.",
+      "instruction": "number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -335,7 +335,7 @@
         "D": "Fanum"
       },
       "type": "multiple_choice",
-      "instruction": "number on the map to the correct answer.",
+      "instruction": "number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -348,7 +348,7 @@
         "D": "Cures"
       },
       "type": "multiple_choice",
-      "instruction": "number on the map to the correct answer.",
+      "instruction": "number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -361,7 +361,7 @@
         "D": "Aleria"
       },
       "type": "multiple_choice",
-      "instruction": "number on the map to the correct answer.",
+      "instruction": "number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -374,7 +374,7 @@
         "D": "Gela"
       },
       "type": "multiple_choice",
-      "instruction": "number on the map to the correct answer.",
+      "instruction": "number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -387,7 +387,7 @@
         "D": "Tibur"
       },
       "type": "multiple_choice",
-      "instruction": "number on the map to the correct answer.",
+      "instruction": "number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -400,7 +400,7 @@
         "D": "Olympia"
       },
       "type": "multiple_choice",
-      "instruction": "on the map to the correct answer.",
+      "instruction": "on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -413,7 +413,7 @@
         "D": "Elis"
       },
       "type": "multiple_choice",
-      "instruction": "on the map to the correct answer.",
+      "instruction": "on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -426,7 +426,7 @@
         "D": "Delos"
       },
       "type": "multiple_choice",
-      "instruction": "on the map to the correct answer.",
+      "instruction": "on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -439,7 +439,7 @@
         "D": "Cyme"
       },
       "type": "multiple_choice",
-      "instruction": "on the map to the correct answer.",
+      "instruction": "on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -452,7 +452,7 @@
         "D": "Iolcos"
       },
       "type": "multiple_choice",
-      "instruction": "on the map to the correct answer.",
+      "instruction": "on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -465,7 +465,7 @@
         "D": "Gomphoi"
       },
       "type": "multiple_choice",
-      "instruction": "on the map to the correct answer.",
+      "instruction": "on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -478,7 +478,7 @@
         "D": "Oreus"
       },
       "type": "multiple_choice",
-      "instruction": "on the map to the correct answer.",
+      "instruction": "on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -491,7 +491,7 @@
         "D": "Cnidos"
       },
       "type": "multiple_choice",
-      "instruction": "on the map to the correct answer.",
+      "instruction": "on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -504,7 +504,7 @@
         "D": "Argos"
       },
       "type": "multiple_choice",
-      "instruction": "on the map to the correct answer.",
+      "instruction": "on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -517,7 +517,7 @@
         "D": "Torone"
       },
       "type": "multiple_choice",
-      "instruction": "on the map to the correct answer.",
+      "instruction": "on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -530,7 +530,7 @@
         "D": "Circus of Nero"
       },
       "type": "multiple_choice",
-      "instruction": "to the correct answer.",
+      "instruction": "to the correct answer:",
       "correct_answer": null
     },
     {
@@ -543,7 +543,7 @@
         "D": "Caracalla"
       },
       "type": "multiple_choice",
-      "instruction": "to the correct answer.",
+      "instruction": "to the correct answer:",
       "correct_answer": null
     },
     {
@@ -556,7 +556,7 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
-      "instruction": "to the correct answer.",
+      "instruction": "to the correct answer:",
       "correct_answer": null
     },
     {
@@ -569,7 +569,7 @@
         "D": "Palatine"
       },
       "type": "multiple_choice",
-      "instruction": "to the correct answer.",
+      "instruction": "to the correct answer:",
       "correct_answer": null
     },
     {
@@ -582,7 +582,7 @@
         "D": "Forum Nervae"
       },
       "type": "multiple_choice",
-      "instruction": "to the correct answer.",
+      "instruction": "to the correct answer:",
       "correct_answer": null
     },
     {
@@ -595,7 +595,7 @@
         "D": "Subura"
       },
       "type": "multiple_choice",
-      "instruction": "to the correct answer.",
+      "instruction": "to the correct answer:",
       "correct_answer": null
     },
     {
@@ -608,7 +608,7 @@
         "D": "Forum Pacis"
       },
       "type": "multiple_choice",
-      "instruction": "to the correct answer.",
+      "instruction": "to the correct answer:",
       "correct_answer": null
     },
     {
@@ -621,7 +621,7 @@
         "D": "Baths of Titus"
       },
       "type": "multiple_choice",
-      "instruction": "to the correct answer.",
+      "instruction": "to the correct answer:",
       "correct_answer": null
     },
     {
@@ -633,7 +633,7 @@
         "C": "10 d."
       },
       "type": "multiple_choice",
-      "instruction": "to the correct answer.",
+      "instruction": "to the correct answer:",
       "correct_answer": null
     },
     {
@@ -646,7 +646,7 @@
         "D": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "to the correct answer.",
+      "instruction": "to the correct answer:",
       "correct_answer": null
     }
   ],
