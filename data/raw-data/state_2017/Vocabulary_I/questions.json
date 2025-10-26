@@ -41,7 +41,7 @@
     },
     {
       "question_number": 4,
-      "question": "Antea",
+      "question": "Antea Part I) Choose the best English translation of the Latin word:",
       "options": {
         "A": "afterwards",
         "B": "previously",
@@ -49,7 +49,7 @@
         "D": "daily"
       },
       "type": "multiple_choice",
-      "instruction": "Part I) Choose the best English translation of the Latin word:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -62,7 +62,7 @@
         "D": "to go"
       },
       "type": "multiple_choice",
-      "instruction": "Part I) Choose the best English translation of the Latin word:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "question_number": 21,
-      "question": "Grain",
+      "question": "Grain Part I) Choose the best English translation of the Latin word:",
       "options": {
         "A": "periculum",
         "B": "praemium",
@@ -269,7 +269,7 @@
         "D": "cibus"
       },
       "type": "multiple_choice",
-      "instruction": "Part I) Choose the best English translation of the Latin word:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -282,7 +282,7 @@
         "D": "ars"
       },
       "type": "multiple_choice",
-      "instruction": "Part I) Choose the best English translation of the Latin word:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -326,7 +326,7 @@
     },
     {
       "question_number": 26,
-      "question": "Situation",
+      "question": "Situation Part I) Choose the best English translation of the Latin word:",
       "options": {
         "A": "res",
         "B": "causa",
@@ -334,7 +334,7 @@
         "D": "labor"
       },
       "type": "multiple_choice",
-      "instruction": "Part I) Choose the best English translation of the Latin word:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -347,7 +347,7 @@
         "D": "lectus"
       },
       "type": "multiple_choice",
-      "instruction": "Part I) Choose the best English translation of the Latin word:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "question_number": 42,
-      "question": "Cacumen : ____ :: tectum : villa",
+      "question": "Cacumen : ____ :: tectum : villa Part V) Choose the best word that completes the analogy:",
       "options": {
         "A": "arbor",
         "B": "corpus",
@@ -542,7 +542,7 @@
         "D": "caput"
       },
       "type": "multiple_choice",
-      "instruction": "Part V) Choose the best word that completes the analogy:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -555,7 +555,7 @@
         "D": "animus"
       },
       "type": "multiple_choice",
-      "instruction": "Part V) Choose the best word that completes the analogy:",
+      "instruction": null,
       "correct_answer": null
     },
     {

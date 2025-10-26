@@ -210,7 +210,7 @@
     },
     {
       "question_number": 17,
-      "question": "Mora",
+      "question": "Mora For each of these questions, select the English word that is derived from the given Latin word:",
       "options": {
         "A": "demur",
         "B": "immortality",
@@ -218,7 +218,7 @@
         "D": "molecule"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -231,12 +231,12 @@
         "D": "verge"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 19,
-      "question": "Ripa",
+      "question": "Ripa For each of these questions, select the English word that is derived from the given Latin word:",
       "options": {
         "A": "rigidity",
         "B": "river",
@@ -244,7 +244,7 @@
         "D": "rear"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -257,7 +257,7 @@
         "D": "sagacity"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -366,7 +366,7 @@
     },
     {
       "question_number": 29,
-      "question": "Libation",
+      "question": "Libation For each of these questions, select the Latin word that is at the root of each given English:",
       "options": {
         "A": "liber (noun)",
         "B": "līber (adjective)",
@@ -374,7 +374,7 @@
         "D": "libo"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -387,7 +387,7 @@
         "D": "fretus"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": null,
       "correct_answer": null
     },
     {

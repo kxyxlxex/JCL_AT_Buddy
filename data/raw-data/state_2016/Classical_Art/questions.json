@@ -285,7 +285,7 @@
     },
     {
       "question_number": 23,
-      "question": "This villa has been called the House of the Faun due to the statue that stood in",
+      "question": "This villa has been called the House of the Faun due to the statue that stood in Which part of the house:",
       "options": {
         "A": "hortus",
         "B": "impluvium",
@@ -293,7 +293,7 @@
         "D": "triclinium"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -306,7 +306,7 @@
         "D": "Pompeii"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": null,
       "correct_answer": null
     },
     {

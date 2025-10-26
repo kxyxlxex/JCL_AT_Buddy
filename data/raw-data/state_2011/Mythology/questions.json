@@ -535,7 +535,7 @@
     },
     {
       "question_number": 42,
-      "question": "During hunting trip at what man's home in Parnassus—the same man who named Odysseus at",
+      "question": "During hunting trip at what man's home in Parnassus—the same man who named Odysseus at birth—did the king of Ithaca receive the wound on his thigh which later served to identify him?",
       "options": {
         "A": "Sisyphus",
         "B": "Autolycus",
@@ -548,7 +548,7 @@
     },
     {
       "question_number": 43,
-      "question": "Although Ceres was the Roman goddess of the grain, which god presided over the act of sowing",
+      "question": "Although Ceres was the Roman goddess of the grain, which god presided over the act of sowing grain because it represented the beginning of the crop?",
       "options": {
         "A": "Bacchus",
         "B": "Janus",
@@ -556,7 +556,7 @@
         "D": "Mars"
       },
       "type": "multiple_choice",
-      "instruction": "Birth—did the king of Ithaca receive the wound on his thigh which later served to identify him:",
+      "instruction": null,
       "correct_answer": null
     },
     {

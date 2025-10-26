@@ -548,7 +548,7 @@
     },
     {
       "question_number": 43,
-      "question": "Number 13 was built by",
+      "question": "Number 13 was built by To the correct answer:",
       "options": {
         "A": "Augustus",
         "B": "Hadrian",
@@ -556,7 +556,7 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
-      "instruction": "To the correct answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -569,7 +569,7 @@
         "D": "Palatine"
       },
       "type": "multiple_choice",
-      "instruction": "To the correct answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {

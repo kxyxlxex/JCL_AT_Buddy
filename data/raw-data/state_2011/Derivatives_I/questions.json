@@ -209,7 +209,7 @@
     },
     {
       "question_number": 27,
-      "question": "As a magnanimous person , you literally have a",
+      "question": "As a magnanimous person , you literally have a Complete the statement or answer the question:",
       "options": {
         "A": "great soul",
         "B": "large family",
@@ -217,7 +217,7 @@
         "D": "great heart"
       },
       "type": "multiple_choice",
-      "instruction": "Complete the statement or answer the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -230,7 +230,7 @@
         "D": "hate"
       },
       "type": "multiple_choice",
-      "instruction": "Complete the statement or answer the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {

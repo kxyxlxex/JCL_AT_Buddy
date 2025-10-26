@@ -470,7 +470,7 @@
     },
     {
       "question_number": 37,
-      "question": "Road closest to",
+      "question": "Road closest to Questions 31–40 refer to Map 2: Ancient Rome:",
       "options": {
         "A": "Via Appia",
         "B": "Via Aurelia",
@@ -478,7 +478,7 @@
         "D": "Via Sacra"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 31–40 refer to Map 2: Ancient Rome:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -491,7 +491,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 31–40 refer to Map 2: Ancient Rome:",
+      "instruction": null,
       "correct_answer": null
     },
     {
