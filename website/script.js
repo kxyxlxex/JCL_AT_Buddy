@@ -6,9 +6,90 @@ class TestGenerator {
         this.userAnswers = {};
         this.timeRemaining = 50 * 60; // 50 minutes in seconds
         this.timer = null;
+        this.currentSubject = null;
         
         this.initializeEventListeners();
         this.loadAllQuestions();
+        this.setupHistoryNavigation();
+        this.checkForSavedTest();
+    }
+    
+    setupHistoryNavigation() {
+        // Handle browser back button
+        window.addEventListener('popstate', (event) => {
+            if (event.state && event.state.page === 'test') {
+                // Do nothing - we're already in test view
+            } else {
+                // Go back to test selection
+                this.returnToSelection();
+            }
+        });
+    }
+    
+    checkForSavedTest() {
+        const savedTest = localStorage.getItem('jcl_test_progress');
+        if (savedTest) {
+            this.showContinueDialog();
+        }
+    }
+    
+    showContinueDialog() {
+        const modal = document.createElement('div');
+        modal.className = 'modal-overlay';
+        modal.innerHTML = `
+            <div class="modal-content">
+                <h3>Continue Saved Test?</h3>
+                <p>You have an unfinished test. Would you like to continue?</p>
+                <div class="modal-buttons">
+                    <button class="modal-btn modal-btn-yes" id="continueYes">Yes</button>
+                    <button class="modal-btn modal-btn-no" id="continueNo">No</button>
+                </div>
+            </div>
+        `;
+        document.body.appendChild(modal);
+        
+        document.getElementById('continueYes').addEventListener('click', () => {
+            this.loadSavedTest();
+            document.body.removeChild(modal);
+        });
+        
+        document.getElementById('continueNo').addEventListener('click', () => {
+            localStorage.removeItem('jcl_test_progress');
+            document.body.removeChild(modal);
+        });
+    }
+    
+    saveTestProgress() {
+        const testData = {
+            subject: this.currentSubject,
+            currentTest: this.currentTest,
+            currentQuestionIndex: this.currentQuestionIndex,
+            userAnswers: this.userAnswers,
+            timeRemaining: this.timeRemaining
+        };
+        localStorage.setItem('jcl_test_progress', JSON.stringify(testData));
+    }
+    
+    loadSavedTest() {
+        const savedData = JSON.parse(localStorage.getItem('jcl_test_progress'));
+        if (savedData) {
+            this.currentSubject = savedData.subject;
+            this.currentTest = savedData.currentTest;
+            this.currentQuestionIndex = savedData.currentQuestionIndex;
+            this.userAnswers = savedData.userAnswers;
+            this.timeRemaining = savedData.timeRemaining;
+            
+            // Show test interface
+            document.querySelector('.test-selection').style.display = 'none';
+            document.getElementById('testInterface').style.display = 'block';
+            
+            // Push state for back button
+            history.pushState({ page: 'test' }, '', '#test');
+            
+            // Start timer and display
+            this.startTimer();
+            this.displayQuestion();
+        }
     }
     
     initializeEventListeners() {
@@ -74,10 +155,15 @@ class TestGenerator {
             return;
         }
         
+        this.currentSubject = subject;
+        
         // Hide test selection, show test interface
         document.querySelector('.test-selection').style.display = 'none';
         document.getElementById('testInterface').style.display = 'block';
         document.getElementById('results').style.display = 'none';
+        
+        // Push state for back button functionality
+        history.pushState({ page: 'test' }, '', '#test');
         
         // Generate random 50 questions from all years for this subject
         this.generateRandomTest(subject);
@@ -90,6 +176,9 @@ class TestGenerator {
         
         // Display first question
         this.displayQuestion();
+        
+        // Save initial progress
+        this.saveTestProgress();
     }
     
     generateRandomTest(subject) {
@@ -161,12 +250,16 @@ class TestGenerator {
             option.classList.remove('selected');
         });
         document.querySelector(`input[value="${answer}"]`).parentElement.classList.add('selected');
+        
+        // Save progress
+        this.saveTestProgress();
     }
     
     previousQuestion() {
         if (this.currentQuestionIndex > 0) {
             this.currentQuestionIndex--;
             this.displayQuestion();
+            this.saveTestProgress();
         }
     }
     
@@ -174,6 +267,7 @@ class TestGenerator {
         if (this.currentQuestionIndex < 49) {
             this.currentQuestionIndex++;
             this.displayQuestion();
+            this.saveTestProgress();
         }
     }
     
@@ -193,6 +287,9 @@ class TestGenerator {
     
     submitTest() {
         clearInterval(this.timer);
+        
+        // Clear saved progress since test is complete
+        localStorage.removeItem('jcl_test_progress');
         
         // Calculate score
         let correct = 0;
@@ -267,16 +364,31 @@ class TestGenerator {
         document.getElementById('results').style.display = 'block';
     }
     
-    newTest() {
+    returnToSelection() {
         // Reset everything and go back to test selection
+        document.getElementById('testInterface').style.display = 'none';
         document.getElementById('results').style.display = 'none';
         document.getElementById('reviewInterface').style.display = 'none';
         document.querySelector('.test-selection').style.display = 'block';
         
+        clearInterval(this.timer);
+        
+        // Update URL
+        if (window.location.hash) {
+            history.pushState(null, '', window.location.pathname);
+        }
+    }
+    
+    newTest() {
+        // Clear saved progress
+        localStorage.removeItem('jcl_test_progress');
+        
         this.currentTest = [];
         this.currentQuestionIndex = 0;
         this.userAnswers = {};
-        clearInterval(this.timer);
+        this.currentSubject = null;
+        
+        this.returnToSelection();
     }
 }
 
