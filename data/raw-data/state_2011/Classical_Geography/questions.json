@@ -10,7 +10,7 @@
         "D": "Messana"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -23,7 +23,7 @@
         "D": "Londinium"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -36,7 +36,7 @@
         "D": "Tyrrhenian"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -49,12 +49,12 @@
         "D": "Asia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "Which river actually flows through the ancient city of Athens?",
+      "question": "Which river actually flows through the ancient city of Athens? N.B. Questions 6-­‐10 pertain to ancient places and their modern equivalents",
       "options": {
         "A": "Cephisus",
         "B": "Tempe",
@@ -62,7 +62,7 @@
         "D": "Ilisus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -75,7 +75,7 @@
         "D": "Mauritania"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -88,7 +88,7 @@
         "D": "Camulodunum"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -101,7 +101,7 @@
         "D": "Corcyra"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -114,12 +114,12 @@
         "D": "Tusculum"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "The ancient town of Lutetia is now",
+      "question": "The ancient town of Lutetia is now N.B. Questions 11-­‐15 pertain to directional geography",
       "options": {
         "A": "London",
         "B": "Paris",
@@ -127,7 +127,7 @@
         "D": "Lyon"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -140,7 +140,7 @@
         "D": "Aegina"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -153,7 +153,7 @@
         "D": "Mutina"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -166,7 +166,7 @@
         "D": "East"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -179,12 +179,12 @@
         "D": "Northeast"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "On a busy day, Hermes began in Arcadia, flew first to Acarnia, then to Boeotia and finally to Mount Ida in Mysia. Which directions would he fly and in what order?",
+      "question": "On a busy day, Hermes began in Arcadia, flew first to Acarnia, then to Boeotia and finally to Mount Ida in Mysia. Which directions would he fly and in what order? N.B. Questions 16-­‐20 pertain to provinces of the Roman Empire",
       "options": {
         "A": "Northwest -­‐ East -­‐ Northeast",
         "B": "East -­‐ North -­‐ South",
@@ -192,7 +192,7 @@
         "D": "South -­‐ East -­‐ North"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -205,7 +205,7 @@
         "D": "Dalmatica"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -218,7 +218,7 @@
         "D": "Mauretania"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -231,7 +231,7 @@
         "D": "Lugdunensis"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -244,12 +244,12 @@
         "D": "Laconia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "The Euphrates River served as the eastern boundary of the province of",
+      "question": "The Euphrates River served as the eastern boundary of the province of N.B. Questions 21-­‐30 map of the Roman Empire",
       "options": {
         "A": "Armenia",
         "B": "Syria",
@@ -257,7 +257,7 @@
         "D": "Mesopotamia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -270,7 +270,7 @@
         "D": "Cyrene"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -283,7 +283,7 @@
         "D": "Halicarnassus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -296,7 +296,7 @@
         "D": "Calydon"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -309,7 +309,7 @@
         "D": "Arsinoe"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -322,7 +322,7 @@
         "D": "Tingis"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -335,7 +335,7 @@
         "D": "Cyprus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -348,7 +348,7 @@
         "D": "Pergamum"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -361,7 +361,7 @@
         "D": "Icarian Sea"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -374,12 +374,12 @@
         "D": "Lusitania"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Number",
+      "question": "Number N.B. Questions 31-­‐40 map of Rome",
       "options": {
         "A": "Calleva",
         "B": "Isca",
@@ -387,7 +387,7 @@
         "D": "Deva"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -400,7 +400,7 @@
         "D": "Saepta Julia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -413,7 +413,7 @@
         "D": "Asinaria"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -426,7 +426,7 @@
         "D": "Castrensian Amphitheatre"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -439,7 +439,7 @@
         "D": "Alexander Severus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -452,7 +452,7 @@
         "D": "Portuensis"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -465,7 +465,7 @@
         "D": "Nero"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -478,7 +478,7 @@
         "D": "Esquiline"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -491,7 +491,7 @@
         "D": "Janiculan"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -504,12 +504,12 @@
         "D": "Aurelian and Aemilian"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "Which of the following buildings is NOT built on the hill marked letter K?",
+      "question": "Which of the following buildings is NOT built on the hill marked letter K? N.B. Questions 41-­‐50 map of Italy",
       "options": {
         "A": "Temple of Juno Moneta",
         "B": "Temple of Mars Ultor",
@@ -517,7 +517,7 @@
         "D": "Tabularium"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -530,7 +530,7 @@
         "D": "Bedriacum"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -543,7 +543,7 @@
         "D": "Aquileia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -556,7 +556,7 @@
         "D": "Sulmo"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -569,7 +569,7 @@
         "D": "Asculum"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -582,7 +582,7 @@
         "D": "Picenum"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -595,7 +595,7 @@
         "D": "Caralis"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -608,7 +608,7 @@
         "D": "Paestum"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -621,7 +621,7 @@
         "D": "Utica"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -634,12 +634,12 @@
         "D": "Catana"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 50,
-      "question": "Number",
+      "question": "Number Extra questions",
       "options": {
         "A": "Heraclea",
         "B": "Posidonia",
@@ -647,7 +647,7 @@
         "D": "Croton"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -660,7 +660,7 @@
         "D": "Mantua"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Map of the Mediterranean Map of Rome Map of Italy, Sicily, Corica, & Sardinia:",
       "correct_answer": null
     },
     {
@@ -673,7 +673,7 @@
         "D": "France"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Map of the Mediterranean Map of Rome Map of Italy, Sicily, Corica, & Sardinia:",
       "correct_answer": null
     },
     {
@@ -686,7 +686,7 @@
         "D": "Circus Flaminius"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Map of the Mediterranean Map of Rome Map of Italy, Sicily, Corica, & Sardinia:",
       "correct_answer": null
     },
     {
@@ -699,7 +699,7 @@
         "D": "Baths of Nero"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Map of the Mediterranean Map of Rome Map of Italy, Sicily, Corica, & Sardinia:",
       "correct_answer": null
     },
     {
@@ -712,7 +712,7 @@
         "D": "Rhegium."
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Map of the Mediterranean Map of Rome Map of Italy, Sicily, Corica, & Sardinia:",
       "correct_answer": null
     },
     {
@@ -725,8 +725,13 @@
         "D": "Calabria."
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Map of the Mediterranean Map of Rome Map of Italy, Sicily, Corica, & Sardinia:",
       "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2011,
+    "format": "pre_2018",
+    "total_questions": 56
+  }
 }

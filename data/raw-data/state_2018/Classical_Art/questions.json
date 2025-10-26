@@ -10,7 +10,7 @@
         "D": "Pronaos"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -23,7 +23,7 @@
         "D": "Caracalla"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -36,7 +36,7 @@
         "D": "Lekythos"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -49,7 +49,7 @@
         "D": "Damnatio Memoriae"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -62,7 +62,7 @@
         "D": "80 BC"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -75,7 +75,7 @@
         "D": "Thebes"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -88,7 +88,7 @@
         "D": "Pathos"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -101,7 +101,7 @@
         "D": "Peripteral"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -114,7 +114,7 @@
         "D": "Temple of Trajan"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -127,7 +127,7 @@
         "D": "Second Style"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -140,7 +140,7 @@
         "D": "Apodyterium"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -153,7 +153,7 @@
         "D": "Daphnis of Miletos"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -166,7 +166,7 @@
         "D": "Kouros"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -179,7 +179,7 @@
         "D": "Caryatid"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -192,7 +192,7 @@
         "D": "Atrium"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -205,7 +205,7 @@
         "D": "Encaustic"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -218,7 +218,7 @@
         "D": "Tessera"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -231,7 +231,7 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -244,7 +244,7 @@
         "D": "Polyphemus Group"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -257,7 +257,7 @@
         "D": "Classical"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -270,7 +270,7 @@
         "D": "Second"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -283,7 +283,7 @@
         "D": "Herculaneum"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -296,7 +296,7 @@
         "D": "Classical"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -309,7 +309,7 @@
         "D": "Phidias"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -322,7 +322,7 @@
         "D": "Titus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -335,7 +335,7 @@
         "D": "Minoan"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -348,7 +348,7 @@
         "D": "Corbeled Arch"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -361,7 +361,7 @@
         "D": "Palace"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -374,7 +374,7 @@
         "D": "Red Figure"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -387,7 +387,7 @@
         "D": "Exekias"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -400,7 +400,7 @@
         "D": "Lekythos"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -413,7 +413,7 @@
         "D": "Verism"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -426,7 +426,7 @@
         "D": "510 BC"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -439,7 +439,7 @@
         "D": "Votive offering"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -452,7 +452,7 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -465,20 +465,20 @@
         "D": "Defeated boxer"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
       "question_number": 37,
       "question": "[Picture 9] On this diagram, identity the frieze.",
       "options": {
-        "A": "Palace at Knossos",
-        "B": "Treasury of Atreus",
-        "C": "Citadel at Tiryns",
-        "D": "Oracle at Delos"
+        "A": "1",
+        "B": "2",
+        "C": "6",
+        "D": "38. [Picture 9] On this diagram, identify the volute."
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "For items 21–50, please refer to the pictures at the end of this test:",
       "correct_answer": null
     },
     {
@@ -491,7 +491,7 @@
         "D": "Fresco"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 4 B. 2 C. 4 D. 39. [Picture 10] Where was this piece found? A. Palace at Knossos B. Treasury of Atreus C. Citadel at Tiryns D. Oracle at Delos:",
       "correct_answer": null
     },
     {
@@ -504,7 +504,7 @@
         "D": "Porphyry"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 4 B. 2 C. 4 D. 39. [Picture 10] Where was this piece found? A. Palace at Knossos B. Treasury of Atreus C. Citadel at Tiryns D. Oracle at Delos:",
       "correct_answer": null
     },
     {
@@ -517,7 +517,7 @@
         "D": "Kings"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 4 B. 2 C. 4 D. 39. [Picture 10] Where was this piece found? A. Palace at Knossos B. Treasury of Atreus C. Citadel at Tiryns D. Oracle at Delos:",
       "correct_answer": null
     },
     {
@@ -530,7 +530,7 @@
         "D": "Ara Pacis"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 4 B. 2 C. 4 D. 39. [Picture 10] Where was this piece found? A. Palace at Knossos B. Treasury of Atreus C. Citadel at Tiryns D. Oracle at Delos:",
       "correct_answer": null
     },
     {
@@ -543,7 +543,7 @@
         "D": "Dacia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 4 B. 2 C. 4 D. 39. [Picture 10] Where was this piece found? A. Palace at Knossos B. Treasury of Atreus C. Citadel at Tiryns D. Oracle at Delos:",
       "correct_answer": null
     },
     {
@@ -556,7 +556,7 @@
         "D": "Via Sacra"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 4 B. 2 C. 4 D. 39. [Picture 10] Where was this piece found? A. Palace at Knossos B. Treasury of Atreus C. Citadel at Tiryns D. Oracle at Delos:",
       "correct_answer": null
     },
     {
@@ -569,7 +569,7 @@
         "D": "Theater of Marcellus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 4 B. 2 C. 4 D. 39. [Picture 10] Where was this piece found? A. Palace at Knossos B. Treasury of Atreus C. Citadel at Tiryns D. Oracle at Delos:",
       "correct_answer": null
     },
     {
@@ -582,7 +582,7 @@
         "D": "Coffer"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 4 B. 2 C. 4 D. 39. [Picture 10] Where was this piece found? A. Palace at Knossos B. Treasury of Atreus C. Citadel at Tiryns D. Oracle at Delos:",
       "correct_answer": null
     },
     {
@@ -595,7 +595,7 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 4 B. 2 C. 4 D. 39. [Picture 10] Where was this piece found? A. Palace at Knossos B. Treasury of Atreus C. Citadel at Tiryns D. Oracle at Delos:",
       "correct_answer": null
     },
     {
@@ -608,7 +608,7 @@
         "D": "Templum"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 4 B. 2 C. 4 D. 39. [Picture 10] Where was this piece found? A. Palace at Knossos B. Treasury of Atreus C. Citadel at Tiryns D. Oracle at Delos:",
       "correct_answer": null
     },
     {
@@ -621,8 +621,13 @@
         "D": "Olympia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 4 B. 2 C. 4 D. 39. [Picture 10] Where was this piece found? A. Palace at Knossos B. Treasury of Atreus C. Citadel at Tiryns D. Oracle at Delos:",
       "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2018,
+    "format": "post_2018",
+    "total_questions": 48
+  }
 }

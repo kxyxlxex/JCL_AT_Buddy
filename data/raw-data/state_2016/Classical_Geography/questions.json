@@ -10,7 +10,7 @@
         "D": "Lutetia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -23,7 +23,7 @@
         "D": "Philippi"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -36,7 +36,7 @@
         "D": "Egypt"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -49,12 +49,12 @@
         "D": "Gaul"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "Which of these cities was located in Germania?",
+      "question": "Which of these cities was located in Germania? N.B. Questions 6-10 pertain to ancient places and their modern equivalents.",
       "options": {
         "A": "Pella",
         "B": "Vindobona",
@@ -62,7 +62,7 @@
         "D": "Bonna"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -75,7 +75,7 @@
         "D": "Iceland"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -88,7 +88,7 @@
         "D": "Tagus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -101,7 +101,7 @@
         "D": "Nacona"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -114,19 +114,19 @@
         "D": "Lebanon"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "The Sea of Marmora was called by the Romans",
+      "question": "The Sea of Marmora was called by the Romans N.B. Questions 11-15 pertain to directional geography.",
       "options": {
         "A": "Propontis b.Eunixus",
         "C": "Erythraea",
         "D": "Ikaria"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -139,7 +139,7 @@
         "D": "Tomb of Hadrian, Campus Martius, Circus Maximus, Viminal Hill"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -152,7 +152,7 @@
         "D": "Alesia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -165,7 +165,7 @@
         "D": "East"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -178,12 +178,12 @@
         "D": "Galatia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "Where is the city Lutetia in relation to the Matrona river?",
+      "question": "Where is the city Lutetia in relation to the Matrona river? N.B. Questions 16-20 pertain to provinces of the Roman Empire.",
       "options": {
         "A": "West",
         "B": "East",
@@ -191,7 +191,7 @@
         "D": "Southeast"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -204,7 +204,7 @@
         "D": "Lycia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -217,7 +217,7 @@
         "D": "Numidia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -230,7 +230,7 @@
         "D": "Raetia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -243,12 +243,12 @@
         "D": "Inferior"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "Which of the following provinces did NOT border Cappadonia?",
+      "question": "Which of the following provinces did NOT border Cappadonia? N.B. Questions 21-30 refer to Map 1: Ancient Greece and Asia Minor",
       "options": {
         "A": "Armenia",
         "B": "Lycia",
@@ -256,7 +256,7 @@
         "D": "Bithynia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -269,7 +269,7 @@
         "D": "Perga"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -282,7 +282,7 @@
         "D": "Thracia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -295,7 +295,7 @@
         "D": "Beroea"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -308,7 +308,7 @@
         "D": "Patmos"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -321,7 +321,7 @@
         "D": "Nicopolis"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -334,7 +334,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -347,7 +347,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -360,7 +360,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -373,12 +373,12 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Nicaea",
+      "question": "Nicaea N.B. Questions 31-40 refer to Map 2: Ancient Rome",
       "options": {
         "A": "Number 14",
         "B": "Number 15",
@@ -386,7 +386,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -398,7 +398,7 @@
         "C": "11 d."
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -411,7 +411,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -424,7 +424,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -437,7 +437,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -450,7 +450,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -463,7 +463,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -476,7 +476,7 @@
         "D": "Cispian Hill"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -489,7 +489,7 @@
         "D": "Caelian Hill Minor"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -502,19 +502,19 @@
         "D": "Baths of Agrippa"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "Which of the following numbers is outside the Pomerium?",
+      "question": "Which of the following numbers is outside the Pomerium? N.B. Questions 41-50 refer to Map 3: The Roman Empire",
       "options": {
         "A": "13",
         "B": "2",
         "C": "8 d."
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -527,7 +527,7 @@
         "D": "Alps Mts."
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -540,7 +540,7 @@
         "D": "Thapsus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -553,7 +553,7 @@
         "D": "Pontus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -566,7 +566,7 @@
         "D": "Crete"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -579,7 +579,7 @@
         "D": "Numidia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -592,7 +592,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -605,7 +605,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -618,7 +618,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -631,7 +631,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -644,8 +644,13 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2016,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }

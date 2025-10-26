@@ -10,7 +10,7 @@
         "D": "Massalia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -23,7 +23,7 @@
         "D": "Comitia Curiata"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -36,7 +36,7 @@
         "D": "Marcus Livius Drusus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -49,7 +49,7 @@
         "D": "Numa Pompilius"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -62,12 +62,12 @@
         "D": "Gaius Gracchus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 6,
-      "question": "Along with",
+      "question": "Along with support of Caesar and Crassus?",
       "options": {
         "C": "M. Tullius Cicero",
         "A": "L. Licinius Lucullus",
@@ -75,7 +75,7 @@
         "D": "Cn. Pompeius Magnus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -88,7 +88,7 @@
         "D": "Mantua"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -101,7 +101,7 @@
         "D": "Nola"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -114,7 +114,7 @@
         "D": "Sabines"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -127,7 +127,7 @@
         "D": "Gaius Julius Caesar"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -140,20 +140,20 @@
         "D": "Servius Tullius"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 12,
       "question": "The Laws of the Twelve Tables were enacted in what year?",
       "options": {
-        "A": "Alesia",
-        "B": "Pharsalus",
-        "C": "Thapsus",
-        "D": "Cannae"
+        "A": "475",
+        "B": "445",
+        "C": "404",
+        "D": "13. In what year did Lars Porsena begin his siege of Rome?"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -166,7 +166,7 @@
         "D": "Lucius Quinctius Cincinnatus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 496 B. 505 C. 508 D. 14. Caesar built walls around a fort holding Vercingetorix’s army in what battle? A. Alesia B. Pharsalus C. Thapsus D. Cannae:",
       "correct_answer": null
     },
     {
@@ -179,7 +179,7 @@
         "D": "Segura"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 496 B. 505 C. 508 D. 14. Caesar built walls around a fort holding Vercingetorix’s army in what battle? A. Alesia B. Pharsalus C. Thapsus D. Cannae:",
       "correct_answer": null
     },
     {
@@ -192,7 +192,7 @@
         "D": "Brennus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 496 B. 505 C. 508 D. 14. Caesar built walls around a fort holding Vercingetorix’s army in what battle? A. Alesia B. Pharsalus C. Thapsus D. Cannae:",
       "correct_answer": null
     },
     {
@@ -205,7 +205,7 @@
         "D": "Vetluna"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 496 B. 505 C. 508 D. 14. Caesar built walls around a fort holding Vercingetorix’s army in what battle? A. Alesia B. Pharsalus C. Thapsus D. Cannae:",
       "correct_answer": null
     },
     {
@@ -218,20 +218,20 @@
         "D": "Lucius Cornelius Sulla"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 496 B. 505 C. 508 D. 14. Caesar built walls around a fort holding Vercingetorix’s army in what battle? A. Alesia B. Pharsalus C. Thapsus D. Cannae:",
       "correct_answer": null
     },
     {
       "question_number": 20,
       "question": "In what year did Sulla begin his siege of Athens during the First Mithradatic War?",
       "options": {
-        "A": "Noreia",
-        "B": "Arausio",
-        "C": "Brugidia",
-        "D": "Vercellae"
+        "A": "88",
+        "B": "79",
+        "C": "85",
+        "D": "21. The Cimbri and the Teutones devastated the Roman army in 105 at what battle?"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. 496 B. 505 C. 508 D. 14. Caesar built walls around a fort holding Vercingetorix’s army in what battle? A. Alesia B. Pharsalus C. Thapsus D. Cannae:",
       "correct_answer": null
     },
     {
@@ -244,7 +244,7 @@
         "D": "Etruscans"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Noreia B. Arausio C. Brugidia D. Vercellae:",
       "correct_answer": null
     },
     {
@@ -257,7 +257,7 @@
         "D": "Zama"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Noreia B. Arausio C. Brugidia D. Vercellae:",
       "correct_answer": null
     },
     {
@@ -270,20 +270,20 @@
         "D": "Marcus Marcellus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Noreia B. Arausio C. Brugidia D. Vercellae:",
       "correct_answer": null
     },
     {
       "question_number": 25,
       "question": "What year did the Battle of Carrhae take place?",
       "options": {
-        "A": "Agathocles of Syracuse",
-        "B": "Hamilcar Barca",
-        "C": "Hannibal Barca",
-        "D": "Hanno the Great"
+        "A": "53",
+        "B": "55",
+        "C": "54",
+        "D": "26. Who commanded the Carthaginian army during the latter portion of the First Punic War?"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Noreia B. Arausio C. Brugidia D. Vercellae:",
       "correct_answer": null
     },
     {
@@ -296,7 +296,7 @@
         "D": "Lake Trasimene"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -309,7 +309,7 @@
         "D": "Numa Pompilius"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -322,7 +322,7 @@
         "D": "Quintus Caecilius Metellus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -335,7 +335,7 @@
         "D": "Tarraco"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -348,7 +348,7 @@
         "D": "Ap. Claudius Pulcher"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -361,7 +361,7 @@
         "D": "Lex Hortensia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -374,7 +374,7 @@
         "D": "RomePyrrhic War"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -387,7 +387,7 @@
         "D": "Drepana"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -400,7 +400,7 @@
         "D": "Lake Trasimene"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -413,7 +413,7 @@
         "D": "Second Samnite War"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -426,7 +426,7 @@
         "D": "Lex Cincia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -439,7 +439,7 @@
         "D": "Lex Cornelia de Maiestate"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -452,7 +452,7 @@
         "D": "Marcus Licinius Crassus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -465,7 +465,7 @@
         "D": "Oezalces"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -478,20 +478,20 @@
         "D": "Publius Clodius Pulcher"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
       "question_number": 42,
       "question": "In what year was the cult of the Great Mother formally established in Rome?",
       "options": {
-        "A": "Quintus Lutatius Catulus",
-        "B": "Lucius Cassius Longinus",
-        "C": "Marcus Junius Silanus",
-        "D": "Gnaeus Papirius Carbo"
+        "A": "204",
+        "B": "335",
+        "C": "217",
+        "D": "43. What consul allowed himself to be lured by the Tigurni and was killed in an ambush in 107?"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Agathocles of Syracuse B. Hamilcar Barca C. Hannibal Barca D. Hanno the Great:",
       "correct_answer": null
     },
     {
@@ -504,7 +504,7 @@
         "D": "Chalcedon"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Quintus Lutatius Catulus B. Lucius Cassius Longinus C. Marcus Junius Silanus D. Gnaeus Papirius Carbo:",
       "correct_answer": null
     },
     {
@@ -517,7 +517,7 @@
         "D": "Servius Sulpicius Galba"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Quintus Lutatius Catulus B. Lucius Cassius Longinus C. Marcus Junius Silanus D. Gnaeus Papirius Carbo:",
       "correct_answer": null
     },
     {
@@ -530,20 +530,20 @@
         "D": "Gaius Marcius Coriolanus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Quintus Lutatius Catulus B. Lucius Cassius Longinus C. Marcus Junius Silanus D. Gnaeus Papirius Carbo:",
       "correct_answer": null
     },
     {
       "question_number": 47,
       "question": "Manius Valerius invaded and failed to capture the territory of Hiero in what year?",
       "options": {
-        "A": "Veii",
-        "B": "Corniculum",
-        "C": "Suessa Pometia",
-        "D": "Clusium"
+        "A": "258",
+        "B": "268",
+        "C": "272",
+        "D": "48. After the death of Tarquinius Priscus, to where did the sons of Ancus Marcius flee?"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Quintus Lutatius Catulus B. Lucius Cassius Longinus C. Marcus Junius Silanus D. Gnaeus Papirius Carbo:",
       "correct_answer": null
     },
     {
@@ -556,7 +556,7 @@
         "D": "Lepidus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Veii B. Corniculum C. Suessa Pometia D. Clusium:",
       "correct_answer": null
     },
     {
@@ -569,8 +569,13 @@
         "D": "Livius Drusus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "A. Veii B. Corniculum C. Suessa Pometia D. Clusium:",
       "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2018,
+    "format": "post_2018",
+    "total_questions": 44
+  }
 }

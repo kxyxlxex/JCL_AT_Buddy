@@ -10,7 +10,7 @@
         "D": "Otho"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -23,7 +23,7 @@
         "D": "The Nature of Things"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -36,7 +36,7 @@
         "D": "all of the above"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -49,7 +49,7 @@
         "D": "Vitellius, Galba, Otho, Vespasian"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -62,7 +62,7 @@
         "D": "Tascia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -75,7 +75,7 @@
         "D": "P. Ovidius Naso"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -88,7 +88,7 @@
         "D": "Titus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -101,7 +101,7 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -114,7 +114,7 @@
         "D": "Didius Julianus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -127,7 +127,7 @@
         "D": "Septimius Severus, Carcalla, Macrinus, Elagalbus, Alexander Serverus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -140,7 +140,7 @@
         "D": "294 CE"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -153,7 +153,7 @@
         "D": "Majorianus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -166,7 +166,7 @@
         "D": "Geta"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -179,7 +179,7 @@
         "D": "Artabasdos"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -192,7 +192,7 @@
         "D": "Theodosian"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -205,7 +205,7 @@
         "D": "410 CE"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -218,7 +218,7 @@
         "D": "Mariamne"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -231,7 +231,7 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -244,7 +244,7 @@
         "D": "Caracalla"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -257,7 +257,7 @@
         "D": "Antonine"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -270,7 +270,7 @@
         "D": "Berenike"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -283,7 +283,7 @@
         "D": "Flavius Silva"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -296,7 +296,7 @@
         "D": "He was decapitated"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -309,17 +309,7 @@
         "D": "Basil"
       },
       "type": "multiple_choice",
-      "instruction": null,
-      "correct_answer": null
-    },
-    {
-      "question_number": 25,
-      "question": "What commander of the legions of the Upper Rhine conspired to replace Caligula with a senator named M. Aemilius Lepidus in 39? a.",
-      "options": {
-        "C": "Iulius Classicus"
-      },
-      "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -332,7 +322,7 @@
         "D": "Vezinas"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -345,7 +335,7 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -358,7 +348,7 @@
         "D": "Constitutio Antoniniana"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -371,7 +361,7 @@
         "D": "Nero"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -384,7 +374,7 @@
         "D": "Immae"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -397,19 +387,7 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
-      "instruction": null,
-      "correct_answer": null
-    },
-    {
-      "question_number": 32,
-      "question": "Who proposed to the Senate that",
-      "options": {
-        "C": "Maecenas",
-        "B": "Statilius Taurus c.",
-        "D": "Munatius Plancus"
-      },
-      "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -422,7 +400,7 @@
         "D": "Aulus Caecina"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -435,7 +413,7 @@
         "D": "Corsica"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -448,7 +426,7 @@
         "D": "Q. Marcius Turbo"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -461,7 +439,7 @@
         "D": "Aper"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -474,7 +452,7 @@
         "D": "Julia Soaemias"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -487,7 +465,7 @@
         "D": "Theodora"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -500,7 +478,7 @@
         "D": "Petronius Secundus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -513,7 +491,7 @@
         "D": "Diocletian"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -526,7 +504,7 @@
         "D": "Statius"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -539,7 +517,7 @@
         "D": "Camulodunum"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -552,7 +530,7 @@
         "D": "Maximinus Daia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -565,7 +543,7 @@
         "D": "Ricimer"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -578,7 +556,7 @@
         "D": "16 BCE"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -591,7 +569,7 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -604,7 +582,7 @@
         "D": "Antonia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -617,19 +595,17 @@
         "D": "Vitelleus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 49,
       "question": "Which general conquered Mauretania under Claudius?",
       "options": {
-        "A": "Plautius",
-        "C": "Flavius Vespasianus",
-        "D": "Suetonius Paulinus"
+        "A": "Drusus II b."
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -642,8 +618,13 @@
         "D": "378 CE"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2009,
+    "format": "pre_2018",
+    "total_questions": 48
+  }
 }

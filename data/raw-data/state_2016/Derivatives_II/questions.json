@@ -10,7 +10,7 @@
         "D": "blind"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -23,7 +23,7 @@
         "D": "powerful entity"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -36,7 +36,7 @@
         "D": "fake"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -49,7 +49,7 @@
         "D": "solitary"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -62,7 +62,7 @@
         "D": "birdlike"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -75,7 +75,7 @@
         "D": "crimes"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -88,7 +88,7 @@
         "D": "many"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -101,7 +101,7 @@
         "D": "developing"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -114,12 +114,12 @@
         "D": "strict"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "The senator’s speech was rendered impotent by the subsequent scandal revealing his office’s corruption.",
+      "question": "The senator’s speech was rendered impotent by the subsequent scandal revealing his office’s corruption. II. Choose the meaning of the Latin word from which the English word is derived.",
       "options": {
         "A": "confusing",
         "B": "hypocritical",
@@ -127,7 +127,7 @@
         "D": "powerless"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -140,7 +140,7 @@
         "D": "resembling"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -153,7 +153,7 @@
         "D": "to tear"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -166,7 +166,7 @@
         "D": "to touch"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -179,7 +179,7 @@
         "D": "to bend"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -192,7 +192,7 @@
         "D": "to strike"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -205,7 +205,7 @@
         "D": "to change"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -218,7 +218,7 @@
         "D": "pain"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -231,7 +231,7 @@
         "D": "to take"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -244,12 +244,12 @@
         "D": "to widen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "edifice",
+      "question": "edifice III. Choose the English word which is derived from the given Latin word.",
       "options": {
         "A": "to crowd",
         "B": "to eat",
@@ -257,7 +257,7 @@
         "D": "to enlarge"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -270,7 +270,7 @@
         "D": "redundant"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -283,7 +283,7 @@
         "D": "reference"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -296,7 +296,7 @@
         "D": "salivate"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -309,7 +309,7 @@
         "D": "provost"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -322,7 +322,7 @@
         "D": "derelict"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -335,7 +335,7 @@
         "D": "acrid"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -348,7 +348,7 @@
         "D": "empty"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -361,7 +361,7 @@
         "D": "gestate"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -374,12 +374,12 @@
         "D": "alas"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "malleus",
+      "question": "malleus IV. Choose the Latin word from which the given English word is derived.",
       "options": {
         "A": "malady",
         "B": "mallet",
@@ -387,7 +387,7 @@
         "D": "manager"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -400,7 +400,7 @@
         "D": "macula"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -413,7 +413,7 @@
         "D": "penna"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -426,7 +426,7 @@
         "D": "dens"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -439,7 +439,7 @@
         "D": "experior"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -452,7 +452,7 @@
         "D": "via"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -465,7 +465,7 @@
         "D": "vincere"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -478,7 +478,7 @@
         "D": "pirus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -491,7 +491,7 @@
         "D": "iudex"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -504,12 +504,12 @@
         "D": "putāre"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "celebrity",
+      "question": "celebrity V. Choose the word that does not belong by derivation.",
       "options": {
         "A": "celer",
         "B": "bursa",
@@ -517,7 +517,7 @@
         "D": "celeber"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -530,7 +530,7 @@
         "D": "domestic"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -543,7 +543,7 @@
         "D": "indignant"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -556,7 +556,7 @@
         "D": "determine"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -569,7 +569,7 @@
         "D": "infidel"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -582,8 +582,13 @@
         "D": "gentle"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response which means the same as the underlined word.",
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2016,
+    "format": "pre_2018",
+    "total_questions": 45
+  }
 }

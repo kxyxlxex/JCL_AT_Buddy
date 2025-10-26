@@ -10,7 +10,7 @@
         "D": "Cyrene"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -23,7 +23,7 @@
         "D": "Sardis"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -36,7 +36,7 @@
         "D": "Germany"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -49,12 +49,12 @@
         "D": "Pistoria"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "Hannibal attacked the city of ______________ in Spain, an act which led to war with Rome.",
+      "question": "Hannibal attacked the city of ______________ in Spain, an act which led to war with Rome. N.B. Questions 6-10 pertain to ancient places and their modern equivalents",
       "options": {
         "A": "Saguntum",
         "B": "Cremona",
@@ -62,7 +62,7 @@
         "D": "Cyzicus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -75,7 +75,7 @@
         "D": "Berlin"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -88,7 +88,7 @@
         "D": "Luxembourg"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -101,7 +101,7 @@
         "D": "Aelia Capitolina"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -114,12 +114,12 @@
         "D": "England"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "Gallia: France:: Lusitania::",
+      "question": "Gallia: France:: Lusitania:: N.B. Questions 11-15 refer to directional geography",
       "options": {
         "A": "Portugal",
         "B": "Morocco",
@@ -127,7 +127,7 @@
         "D": "Romania"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -140,7 +140,7 @@
         "D": "Tiryns"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -153,7 +153,7 @@
         "D": "Tarraconensis"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -166,7 +166,7 @@
         "D": "southwest"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -179,12 +179,12 @@
         "D": "east"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "Which of these ancient Greek islands was farthest north?",
+      "question": "Which of these ancient Greek islands was farthest north? N.B. Questions 16-20 pertain to the provinces of the Roman Empire",
       "options": {
         "A": "Lemnos",
         "B": "Delos",
@@ -192,7 +192,7 @@
         "D": "Melos"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -205,7 +205,7 @@
         "D": "Narbonensis"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -218,7 +218,7 @@
         "D": "Pontus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -231,7 +231,7 @@
         "D": "Achaea"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -244,12 +244,12 @@
         "D": "five"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "Which province did NOT border the Pontus Euxinus?",
+      "question": "Which province did NOT border the Pontus Euxinus? N.B. For questions 21-30 please refer to the map of Italy located at the end of the test. Match the",
       "options": {
         "A": "Thracia",
         "B": "Moesia",
@@ -257,7 +257,7 @@
         "D": "Galatia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Choose the response that best answers the question:",
       "correct_answer": null
     },
     {
@@ -270,7 +270,7 @@
         "D": "Arpinum"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -283,7 +283,7 @@
         "D": "Sulmo"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -296,7 +296,7 @@
         "D": "Henna"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -309,7 +309,7 @@
         "D": "Brundisium"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -322,7 +322,7 @@
         "D": "Ancona"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -335,7 +335,7 @@
         "D": "Fanum"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -348,7 +348,7 @@
         "D": "Cures"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -361,7 +361,7 @@
         "D": "Aleria"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -374,12 +374,12 @@
         "D": "Gela"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Number on the map to the correct answer:",
       "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Number",
+      "question": "Number N.B. For questions 31-40 please refer to the map of Greece at the end of the test. Match the number",
       "options": {
         "A": "Comum",
         "B": "Mediolanum",
@@ -387,7 +387,7 @@
         "D": "Tibur"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Number on the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -400,7 +400,7 @@
         "D": "Olympia"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "On the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -413,7 +413,7 @@
         "D": "Elis"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "On the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -426,7 +426,7 @@
         "D": "Delos"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "On the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -439,7 +439,7 @@
         "D": "Cyme"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "On the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -452,7 +452,7 @@
         "D": "Iolcos"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "On the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -465,7 +465,7 @@
         "D": "Gomphoi"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "On the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -478,7 +478,7 @@
         "D": "Oreus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "On the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -491,7 +491,7 @@
         "D": "Cnidos"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "On the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -504,12 +504,12 @@
         "D": "Argos"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "On the map to the correct answer:",
       "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "Number",
+      "question": "Number N.B. For questions 41-50 please refer to the attached map of Rome. Match the number on the map",
       "options": {
         "A": "Philipi",
         "B": "Maronea",
@@ -517,7 +517,7 @@
         "D": "Torone"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "On the map to the correct answer:",
       "correct_answer": null
     },
     {
@@ -530,7 +530,7 @@
         "D": "Circus of Nero"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "To the correct answer:",
       "correct_answer": null
     },
     {
@@ -543,7 +543,7 @@
         "D": "Caracalla"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "To the correct answer:",
       "correct_answer": null
     },
     {
@@ -556,7 +556,7 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "To the correct answer:",
       "correct_answer": null
     },
     {
@@ -569,7 +569,7 @@
         "D": "Palatine"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "To the correct answer:",
       "correct_answer": null
     },
     {
@@ -582,7 +582,7 @@
         "D": "Forum Nervae"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "To the correct answer:",
       "correct_answer": null
     },
     {
@@ -595,7 +595,7 @@
         "D": "Subura"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "To the correct answer:",
       "correct_answer": null
     },
     {
@@ -608,7 +608,7 @@
         "D": "Forum Pacis"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "To the correct answer:",
       "correct_answer": null
     },
     {
@@ -621,7 +621,7 @@
         "D": "Baths of Titus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "To the correct answer:",
       "correct_answer": null
     },
     {
@@ -633,7 +633,7 @@
         "C": "10 d."
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "To the correct answer:",
       "correct_answer": null
     },
     {
@@ -646,8 +646,13 @@
         "D": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "To the correct answer:",
       "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2009,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }
