@@ -4,11 +4,7 @@
     "year": "state_2010",
     "subject": "Classical_Geography",
     "total_questions": 50,
-    "sections": [
-      "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
-      "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
-      "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test."
-    ]
+    "sections": []
   },
   "questions": [
     {
@@ -313,7 +309,7 @@
     },
     {
       "question_number": 21,
-      "question": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the Number",
+      "question": "Number",
       "options": {
         "A": "Curia",
         "B": "Rostra",
@@ -321,14 +317,14 @@
         "D": "Basilica Julia"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
-      "section_context": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
+      "section": null,
+      "section_context": null,
       "instruction": "test. Match the number on the map to the correct answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 22,
-      "question": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the Number",
+      "question": "Number",
       "options": {
         "A": "Curia",
         "B": "Rostra",
@@ -336,14 +332,14 @@
         "D": "Basilica Sempronia"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
-      "section_context": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
+      "section": null,
+      "section_context": null,
       "instruction": "test. Match the number on the map to the correct answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 23,
-      "question": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the Number",
+      "question": "Number",
       "options": {
         "A": "Temple of Romulus",
         "B": "Temple of Antoninus & Faustina",
@@ -351,14 +347,14 @@
         "D": "Temple of Peace"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
-      "section_context": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
+      "section": null,
+      "section_context": null,
       "instruction": "test. Match the number on the map to the correct answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 24,
-      "question": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the Number",
+      "question": "Number",
       "options": {
         "A": "Regia",
         "B": "Temple of Vesta",
@@ -366,14 +362,14 @@
         "D": "Arch of Titus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
-      "section_context": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
+      "section": null,
+      "section_context": null,
       "instruction": "test. Match the number on the map to the correct answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 25,
-      "question": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the Number",
+      "question": "Number",
       "options": {
         "A": "Regia",
         "B": "Temple of Vesta",
@@ -381,14 +377,14 @@
         "D": "Arch of Titus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
-      "section_context": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
+      "section": null,
+      "section_context": null,
       "instruction": "test. Match the number on the map to the correct answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 26,
-      "question": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the Number",
+      "question": "Number",
       "options": {
         "A": "Temple of Castor",
         "B": "Temple of Saturn",
@@ -396,14 +392,14 @@
         "D": "Temple of Romulus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
-      "section_context": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
+      "section": null,
+      "section_context": null,
       "instruction": "test. Match the number on the map to the correct answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 27,
-      "question": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the Number",
+      "question": "Number",
       "options": {
         "A": "Temple of Romulus",
         "B": "Temple of Antoninus & Faustina",
@@ -411,14 +407,14 @@
         "D": "Temple of Mars Ultor"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
-      "section_context": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
+      "section": null,
+      "section_context": null,
       "instruction": "test. Match the number on the map to the correct answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 28,
-      "question": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the Number",
+      "question": "Number",
       "options": {
         "A": "Basilica Aemilia",
         "B": "Basilica of Constantine",
@@ -426,14 +422,14 @@
         "D": "Basilica Porcia"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
-      "section_context": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
+      "section": null,
+      "section_context": null,
       "instruction": "test. Match the number on the map to the correct answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 29,
-      "question": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the Number",
+      "question": "Number",
       "options": {
         "A": "Curia",
         "B": "Rostra",
@@ -441,14 +437,14 @@
         "D": "Column of Phocus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
-      "section_context": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
+      "section": null,
+      "section_context": null,
       "instruction": "test. Match the number on the map to the correct answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 30,
-      "question": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the Number",
+      "question": "Number",
       "options": {
         "A": "Via Salaria",
         "B": "Via Flaminia",
@@ -456,14 +452,14 @@
         "D": "Via Sacra"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
-      "section_context": "N.B. For questions 21-30, please refer to the map of the Forum Romanum located at the end of the",
+      "section": null,
+      "section_context": null,
       "instruction": "test. Match the number on the map to the correct answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 31,
-      "question": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the Number",
+      "question": "Number",
       "options": {
         "A": "Rubicon",
         "B": "Padus",
@@ -471,14 +467,14 @@
         "D": "Arno"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
-      "section_context": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
+      "section": null,
+      "section_context": null,
       "instruction": "number on the map to the correct answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 32,
-      "question": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the Number",
+      "question": "Number",
       "options": {
         "A": "Rubicon",
         "B": "Padus",
@@ -486,14 +482,14 @@
         "D": "Arno"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
-      "section_context": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
+      "section": null,
+      "section_context": null,
       "instruction": "number on the map to the correct answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 33,
-      "question": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the Number",
+      "question": "Number",
       "options": {
         "A": "Bruttium",
         "B": "Calabria",
@@ -501,14 +497,14 @@
         "D": "Apulia"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
-      "section_context": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
+      "section": null,
+      "section_context": null,
       "instruction": "number on the map to the correct answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 34,
-      "question": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the Number",
+      "question": "Number",
       "options": {
         "A": "Venusia",
         "B": "Sulmo",
@@ -516,14 +512,14 @@
         "D": "Thurii"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
-      "section_context": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
+      "section": null,
+      "section_context": null,
       "instruction": "number on the map to the correct answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 35,
-      "question": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the Number",
+      "question": "Number",
       "options": {
         "A": "Veii",
         "B": "Roma",
@@ -531,14 +527,14 @@
         "D": "Praeneste"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
-      "section_context": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
+      "section": null,
+      "section_context": null,
       "instruction": "number on the map to the correct answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 36,
-      "question": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the Number",
+      "question": "Number",
       "options": {
         "A": "Etruria",
         "B": "Lucania",
@@ -546,14 +542,14 @@
         "D": "Samnium"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
-      "section_context": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
+      "section": null,
+      "section_context": null,
       "instruction": "number on the map to the correct answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 37,
-      "question": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the Number",
+      "question": "Number",
       "options": {
         "A": "Puteoli",
         "B": "Misenum",
@@ -561,14 +557,14 @@
         "D": "Mediolanum"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
-      "section_context": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
+      "section": null,
+      "section_context": null,
       "instruction": "number on the map to the correct answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the Number",
+      "question": "Number",
       "options": {
         "A": "Etruria",
         "B": "Latium",
@@ -576,14 +572,14 @@
         "D": "Samnium"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
-      "section_context": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
+      "section": null,
+      "section_context": null,
       "instruction": "number on the map to the correct answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 39,
-      "question": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the Number",
+      "question": "Number",
       "options": {
         "A": "Alba Longa",
         "B": "Tarquinia",
@@ -591,14 +587,14 @@
         "D": "Ostia"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
-      "section_context": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
+      "section": null,
+      "section_context": null,
       "instruction": "number on the map to the correct answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 40,
-      "question": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the Number",
+      "question": "Number",
       "options": {
         "A": "Ravenna",
         "B": "Corfinium",
@@ -606,14 +602,14 @@
         "D": "Tarracina"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
-      "section_context": "N.B. For questions 31-40 please refer to the map of the Italy located at the end of the test. Match the",
+      "section": null,
+      "section_context": null,
       "instruction": "number on the map to the correct answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 41,
-      "question": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test. Number",
+      "question": "Number",
       "options": {
         "A": "Rhodanus",
         "B": "Hebrus",
@@ -621,14 +617,14 @@
         "D": "Nilus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
-      "section_context": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
+      "section": null,
+      "section_context": null,
       "instruction": "Match the number on the map to the correct answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 42,
-      "question": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test. Number",
+      "question": "Number",
       "options": {
         "A": "Tagus",
         "B": "Ebro",
@@ -636,14 +632,14 @@
         "D": "Achelous"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
-      "section_context": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
+      "section": null,
+      "section_context": null,
       "instruction": "Match the number on the map to the correct answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 43,
-      "question": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test. Number",
+      "question": "Number",
       "options": {
         "A": "Sardinia",
         "B": "Corsica",
@@ -651,14 +647,14 @@
         "D": "Crete"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
-      "section_context": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
+      "section": null,
+      "section_context": null,
       "instruction": "Match the number on the map to the correct answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 44,
-      "question": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test. Number",
+      "question": "Number",
       "options": {
         "A": "Numidia",
         "B": "Africa Nova",
@@ -666,14 +662,14 @@
         "D": "Aegyptus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
-      "section_context": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
+      "section": null,
+      "section_context": null,
       "instruction": "Match the number on the map to the correct answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 45,
-      "question": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test. Number",
+      "question": "Number",
       "options": {
         "A": "Rhodanus",
         "B": "Hebrus",
@@ -681,14 +677,14 @@
         "D": "Tagus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
-      "section_context": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
+      "section": null,
+      "section_context": null,
       "instruction": "Match the number on the map to the correct answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 46,
-      "question": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test. Number",
+      "question": "Number",
       "options": {
         "A": "Samos",
         "B": "Tyre",
@@ -696,14 +692,14 @@
         "D": "Rhodes"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
-      "section_context": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
+      "section": null,
+      "section_context": null,
       "instruction": "Match the number on the map to the correct answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 47,
-      "question": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test. Number",
+      "question": "Number",
       "options": {
         "A": "Balearic Islands",
         "B": "Cyclades",
@@ -711,14 +707,14 @@
         "D": "Rhegium"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
-      "section_context": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
+      "section": null,
+      "section_context": null,
       "instruction": "Match the number on the map to the correct answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 48,
-      "question": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test. Number",
+      "question": "Number",
       "options": {
         "A": "Adriatic Sea",
         "B": "Ionian Sea",
@@ -726,14 +722,14 @@
         "D": "Tyrrhenian Sea"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
-      "section_context": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
+      "section": null,
+      "section_context": null,
       "instruction": "Match the number on the map to the correct answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 49,
-      "question": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test. Number",
+      "question": "Number",
       "options": {
         "A": "Emerita Augusta",
         "B": "Gades",
@@ -741,14 +737,14 @@
         "D": "Asturica"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
-      "section_context": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
+      "section": null,
+      "section_context": null,
       "instruction": "Match the number on the map to the correct answer.",
       "correct_answer": "B"
     },
     {
       "question_number": 50,
-      "question": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test. Number",
+      "question": "Number",
       "options": {
         "A": "Syracuse",
         "B": "Messana",
@@ -756,8 +752,8 @@
         "D": "Panormus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
-      "section_context": "N.B. For questions 41-50 please refer to the map of the Mediterranean located at the end of the test.",
+      "section": null,
+      "section_context": null,
       "instruction": "Match the number on the map to the correct answer.",
       "correct_answer": "A"
     }

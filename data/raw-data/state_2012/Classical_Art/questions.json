@@ -4,16 +4,12 @@
     "year": "state_2012",
     "subject": "Classical_Art",
     "total_questions": 48,
-    "sections": [
-      "Museum) which portrays",
-      "Mausolus and his wife Artemesia are preserved in a well known museum in",
-      "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint"
-    ]
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 1 portrays Sophia, wife of _____________, the first excavator at Troy and Mycenae, wearing",
+      "question": "Image 1 portrays Sophia, wife of _____________, the first excavator at Troy and Mycenae, wearing Trojan gold they found.",
       "options": {
         "A": "Evans",
         "B": "Schliemann",
@@ -21,14 +17,14 @@
         "D": "Rose"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 2,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 2 portrays a gold mask, found by the same archeologist, who called it the “Mask of ________.”",
+      "question": "Image 2 portrays a gold mask, found by the same archeologist, who called it the “Mask of ________.”",
       "options": {
         "A": "Achilles",
         "B": "Agamemnon",
@@ -36,14 +32,14 @@
         "D": "Paris"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 3,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 3 shows a famous painting from Pompeii in the",
+      "question": "Image 3 shows a famous painting from Pompeii in the",
       "options": {
         "A": "Villa of the Mysteries",
         "B": "Villa of Cicero",
@@ -51,14 +47,14 @@
         "D": "House of the Silver Wedding"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 4,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 3 is done in the ______ Pompeian style.",
+      "question": "Image 3 is done in the ______ Pompeian style.",
       "options": {
         "A": "1st",
         "B": "2nd",
@@ -66,14 +62,14 @@
         "D": "4th"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 5,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 4 shows an arch in Rome, most famous for its “damnatio” (erasure) of Emperor Geta.",
+      "question": "Image 4 shows an arch in Rome, most famous for its “damnatio” (erasure) of Emperor Geta.",
       "options": {
         "A": "Arch of Titus",
         "B": "Arch of Constantine",
@@ -81,14 +77,14 @@
         "D": "Arch of Septimius Severus"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 6,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 5 depicts a bronze statue found in the sea off the coast of Sicily. It is called the",
+      "question": "Image 5 depicts a bronze statue found in the sea off the coast of Sicily. It is called the",
       "options": {
         "A": "Zeus/Poseidon from Artemisium",
         "B": "Riace Warrior",
@@ -96,14 +92,14 @@
         "D": "Marathon Boy"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 7,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 5 can be described in style as",
+      "question": "Image 5 can be described in style as",
       "options": {
         "A": "Etruscan",
         "B": "Minoan",
@@ -111,14 +107,14 @@
         "D": "Classical Greek"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 8,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 6 displays a wall of concrete, a popular and effective building material, in the style known as",
+      "question": "Image 6 displays a wall of concrete, a popular and effective building material, in the style known as",
       "options": {
         "A": "opus reticulatum",
         "B": "opus mixtum",
@@ -126,14 +122,14 @@
         "D": "opus incertum"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 10,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 7 shows a vessel known as a",
+      "question": "Image 7 shows a vessel known as a",
       "options": {
         "A": "kantharos",
         "B": "rhyton",
@@ -141,14 +137,14 @@
         "D": "hydria"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 11,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 7 is",
+      "question": "Image 7 is",
       "options": {
         "A": "Minoan",
         "B": "Etruscan",
@@ -156,14 +152,14 @@
         "D": "Hellenistic Greek"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 12,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 8: These 3 goddesses (perhaps Hestia, Dione, and Aphrodite) are from the east pedimental",
+      "question": "Image 8: These 3 goddesses (perhaps Hestia, Dione, and Aphrodite) are from the east pedimental sculpture on the",
       "options": {
         "A": "Temple of Poseidon at Sounion",
         "B": "Temple of Artemis at Ephesus",
@@ -171,14 +167,14 @@
         "D": "Temple of Apollo at Bassae"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 13,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 8: The subject of the pedimental sculpture on the west pediment was",
+      "question": "Image 8: The subject of the pedimental sculpture on the west pediment was",
       "options": {
         "A": "Daphne and Apollo",
         "B": "The wedding of Peleus and Thetis",
@@ -186,14 +182,14 @@
         "D": "The contest between Athena and Poseidon"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 14,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 9 depicts lifesize Zeus and Ganymede made from",
+      "question": "Image 9 depicts lifesize Zeus and Ganymede made from",
       "options": {
         "A": "marble",
         "B": "bronze",
@@ -201,14 +197,14 @@
         "D": "alabaster"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 15,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 9 was believed to have originally stood ______________",
+      "question": "Image 9 was believed to have originally stood ______________",
       "options": {
         "A": "on a temple roof as akroterion",
         "B": "over a grave, as a stele",
@@ -216,14 +212,14 @@
         "D": "in the baths, as a fountain"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 16,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 10 is the famous gate leading to",
+      "question": "Image 10 is the famous gate leading to",
       "options": {
         "A": "Minos’ palace at Knossos",
         "B": "Agamemnon’s palace at Mycenae",
@@ -231,14 +227,14 @@
         "D": "Priam’s palace at Troy"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 17,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 11 is the Scraper by the sculptor",
+      "question": "Image 11 is the Scraper by the sculptor",
       "options": {
         "A": "Lysippos",
         "B": "Scopas",
@@ -246,14 +242,14 @@
         "D": "Polycleitos"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 18,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 11 is also called",
+      "question": "Image 11 is also called",
       "options": {
         "A": "Anayssos Kouros",
         "B": "Apoxyomenos",
@@ -261,14 +257,14 @@
         "D": "Doryphorous"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 19,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 12 is a reconstruction of the statue of Athena Parthenos now in the Nashville Parthenon. The",
+      "question": "Image 12 is a reconstruction of the statue of Athena Parthenos now in the Nashville Parthenon. The original was created by the sculptor",
       "options": {
         "A": "Polycleitus",
         "B": "Phidias",
@@ -276,14 +272,14 @@
         "D": "Apollodorus"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 20,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 12: The original statue’s material was called ‘chryselephantine’ because it was made of",
+      "question": "Image 12: The original statue’s material was called ‘chryselephantine’ because it was made of",
       "options": {
         "A": "peperino",
         "B": "granite",
@@ -291,14 +287,14 @@
         "D": "gold and ivory"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 21,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 13 is a closeup of the",
+      "question": "Image 13 is a closeup of the",
       "options": {
         "A": "Eurymedon Vase",
         "B": "Harvester Vase",
@@ -306,14 +302,14 @@
         "D": "Exekias vase"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 22,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 14 depicts the crazed Emperor ___________ as Hercules.",
+      "question": "Image 14 depicts the crazed Emperor ___________ as Hercules.",
       "options": {
         "A": "Caligula",
         "B": "Nero",
@@ -321,14 +317,14 @@
         "D": "Commodus"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 23,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 15 depicts a well-­‐respected Emperor who was said to have restarted the ancient Roman",
+      "question": "Image 15 depicts a well-­‐respected Emperor who was said to have restarted the ancient Roman custom of wearing beards – although it is believed to have covered a scar on his face.",
       "options": {
         "A": "Constantine",
         "B": "Julian",
@@ -336,14 +332,14 @@
         "D": "Hadrian"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 24,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 16 is what type of column style, with a tapering column shaft?",
+      "question": "Image 16 is what type of column style, with a tapering column shaft?",
       "options": {
         "A": "Doric",
         "B": "Tuscan",
@@ -351,14 +347,14 @@
         "D": "Pergamene"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 25,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 17 depicts the reconstruction of the Torreador Fresco from",
+      "question": "Image 17 depicts the reconstruction of the Torreador Fresco from",
       "options": {
         "A": "Knossos",
         "B": "Pompeii",
@@ -366,14 +362,14 @@
         "D": "Massilia"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 26,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 18 shows the famous Bathers from the",
+      "question": "Image 18 shows the famous Bathers from the",
       "options": {
         "A": "House of Livia, Primaporta",
         "B": "House of the Faun, Pompeii",
@@ -381,14 +377,14 @@
         "D": "Villa Armerina in Sicily"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 27,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 18: The medium of art is",
+      "question": "Image 18: The medium of art is",
       "options": {
         "A": "fresco",
         "B": "mosaic",
@@ -396,14 +392,14 @@
         "D": "ceramic plate"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 28,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 19 is a reconstruction of a famous funereal structure, the",
+      "question": "Image 19 is a reconstruction of a famous funereal structure, the",
       "options": {
         "A": "Tomb of Hadrian, Rome",
         "B": "Tomb of Augustus, Rome",
@@ -411,14 +407,14 @@
         "D": "Altar of Zeus, Pergamum"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 29,
-      "question": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint Image 20: The image on the left, displayed in the center of Michaelangelo’s Piazza on the Capitoline",
+      "question": "Image 20: The image on the left, displayed in the center of Michaelangelo’s Piazza on the Capitoline",
       "options": {
         "A": "Commodus",
         "B": "Brutus",
@@ -426,14 +422,14 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 30,
-      "question": "Museum) which portrays Image 20: The original statue is made of",
+      "question": "Image 20: The original statue is made of",
       "options": {
         "A": "granite",
         "B": "bronze",
@@ -441,14 +437,14 @@
         "D": "marble"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 31,
-      "question": "Museum) which portrays The Forma Urbis Romae (the Marble Plan), is a large map of ancient Rome done in the time of",
+      "question": "The Forma Urbis Romae (the Marble Plan), is a large map of ancient Rome done in the time of",
       "options": {
         "A": "the Julio-­‐Claudians",
         "B": "the Flavians",
@@ -456,14 +452,14 @@
         "D": "the Severans"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 32,
-      "question": "Museum) which portrays Emperor Tiberius had a few homes outside of Rome, one excavated at _____ where a large statue",
+      "question": "Emperor Tiberius had a few homes outside of Rome, one excavated at _____ where a large statue of Polyphemus being blinded by Odysseus was discovered.",
       "options": {
         "A": "Sperlonga, Italy",
         "B": "Split, Yugoslavia",
@@ -471,14 +467,14 @@
         "D": "Mykonos, Greece"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 33,
-      "question": "Museum) which portrays Which of the following locations does NOT have one of the now 26 Roman excavated amphitheaters?",
+      "question": "Which of the following locations does NOT have one of the now 26 Roman excavated amphitheaters?",
       "options": {
         "A": "Arles, France",
         "B": "Nimes, France",
@@ -486,14 +482,14 @@
         "D": "Capua, Italy"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 34,
-      "question": "Museum) which portrays The eruption of Mt. Vesuvius covered Pompeii and Herculaneum as well as a number of large,",
+      "question": "The eruption of Mt. Vesuvius covered Pompeii and Herculaneum as well as a number of large, opulent villas on a cliff at",
       "options": {
         "A": "Gaeta",
         "B": "Misenum",
@@ -501,14 +497,14 @@
         "D": "Boscoreale"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 35,
-      "question": "Museum) which portrays The famous Vaphio Cups, depicting hunting scenes, were made from",
+      "question": "The famous Vaphio Cups, depicting hunting scenes, were made from",
       "options": {
         "A": "rock crystal",
         "B": "bronze",
@@ -516,14 +512,14 @@
         "D": "gold"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 36,
-      "question": "Museum) which portrays Spyridon Marinatos is most famous for his excavations at:",
+      "question": "Spyridon Marinatos is most famous for his excavations at:",
       "options": {
         "A": "Delphi",
         "B": "Sparta",
@@ -531,14 +527,14 @@
         "D": "Pylos"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 37,
-      "question": "Museum) which portrays On a Greek temple, metopes were flanked by the",
+      "question": "On a Greek temple, metopes were flanked by the",
       "options": {
         "A": "Cornice",
         "B": "Pediment",
@@ -546,14 +542,14 @@
         "D": "Abacus"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "Museum) which portrays 2 large pleasure ships built by Emperor Caligula were found and raised from a lakebottom at ______",
+      "question": "2 large pleasure ships built by Emperor Caligula were found and raised from a lakebottom at ______ near Rome (but sadly were burned in World War II).",
       "options": {
         "A": "Gaeta",
         "B": "Nemi",
@@ -561,14 +557,14 @@
         "D": "Sulmo"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 39,
-      "question": "Museum) which portrays The Capitoline Hill was the location of both the Temple of Jupiter Capitolinus and the Temple of",
+      "question": "The Capitoline Hill was the location of both the Temple of Jupiter Capitolinus and the Temple of",
       "options": {
         "A": "Castor and Pollux",
         "B": "Juno Moneta",
@@ -576,14 +572,14 @@
         "D": "deified Julius Caesar"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 40,
-      "question": "Museum) which portrays The Forum of Pompeii was an open space with a 2 story colonade and the Temple of ____ at the",
+      "question": "The Forum of Pompeii was an open space with a 2 story colonade and the Temple of ____ at the north end – a temple partially destroyed in the earthquake of A.D. 64.",
       "options": {
         "A": "Jupiter",
         "B": "Apollo",
@@ -591,14 +587,14 @@
         "D": "Neptune"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 41,
-      "question": "Museum) which portrays The Chimaera of Arezzo is a bronze statue from the ______period",
+      "question": "The Chimaera of Arezzo is a bronze statue from the ______period",
       "options": {
         "A": "Minoan",
         "B": "Hellenistic Greek",
@@ -606,14 +602,14 @@
         "D": "Etruscan"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 42,
-      "question": "Museum) which portrays The term defined as the slight convex curving on classical columns to correct the optical illusion of",
+      "question": "The term defined as the slight convex curving on classical columns to correct the optical illusion of concavity is:",
       "options": {
         "A": "Contraposto",
         "B": "Hypostyle",
@@ -621,14 +617,14 @@
         "D": "Entasis"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 43,
-      "question": "Museum) which portrays The famous Doric Temple of Poseidon (c.460 B.C.) was discovered near the so-called Basilica",
+      "question": "The famous Doric Temple of Poseidon (c.460 B.C.) was discovered near the so-called Basilica (another Doric Temple) at",
       "options": {
         "A": "Corcyra",
         "B": "Paestum",
@@ -636,14 +632,14 @@
         "D": "Olympia"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 44,
-      "question": "Museum) which portrays The Greek pottery shape used for storing cosmetics is",
+      "question": "The Greek pottery shape used for storing cosmetics is",
       "options": {
         "A": "oinochoe",
         "B": "kylix",
@@ -651,14 +647,14 @@
         "D": "lekythos"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 45,
-      "question": "Museum) which portrays Although, the Mausoleum of Halicarnassus was destroyed in an earthquake, the large statues of",
+      "question": "Although, the Mausoleum of Halicarnassus was destroyed in an earthquake, the large statues of",
       "options": {
         "A": "Paris",
         "B": "Istanbul",
@@ -666,14 +662,14 @@
         "D": "Athens"
       },
       "type": "multiple_choice",
-      "section": "Museum) which portrays",
-      "section_context": "Museum) which portrays",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 46,
-      "question": "Mausolus and his wife Artemesia are preserved in a well known museum in The sculptors Agesander, Athenodorus, and Polydorus were credited with",
+      "question": "The sculptors Agesander, Athenodorus, and Polydorus were credited with",
       "options": {
         "A": "Laocoon",
         "B": "Venus de Milo",
@@ -681,14 +677,14 @@
         "D": "Discobolus"
       },
       "type": "multiple_choice",
-      "section": "Mausolus and his wife Artemesia are preserved in a well known museum in",
-      "section_context": "Mausolus and his wife Artemesia are preserved in a well known museum in",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 47,
-      "question": "Mausolus and his wife Artemesia are preserved in a well known museum in The artist responsible for Trajan’s Forum and column was",
+      "question": "The artist responsible for Trajan’s Forum and column was",
       "options": {
         "A": "Vitruvius",
         "B": "Apollodorus",
@@ -696,14 +692,14 @@
         "D": "Antinous"
       },
       "type": "multiple_choice",
-      "section": "Mausolus and his wife Artemesia are preserved in a well known museum in",
-      "section_context": "Mausolus and his wife Artemesia are preserved in a well known museum in",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 48,
-      "question": "Mausolus and his wife Artemesia are preserved in a well known museum in In Rome, Testaccio remains as an example of an ancient Roman _____.",
+      "question": "In Rome, Testaccio remains as an example of an ancient Roman _____.",
       "options": {
         "A": "Archive for property ownership within the city walls",
         "B": "Warehouse on the Tiber for unloading trade arriving from Ostia",
@@ -711,14 +707,14 @@
         "D": "Garbage dump for used amphorae"
       },
       "type": "multiple_choice",
-      "section": "Mausolus and his wife Artemesia are preserved in a well known museum in",
-      "section_context": "Mausolus and his wife Artemesia are preserved in a well known museum in",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 49,
-      "question": "Mausolus and his wife Artemesia are preserved in a well known museum in The _________is the fake porch at the back of a Greek temple behind the cella/naos of the",
+      "question": "The _________is the fake porch at the back of a Greek temple behind the cella/naos of the temple, but not allowing entry to the cella/naos. 5 0. _____________ is usually credited with inventing Greek red-figured vase painting c. 530 B.C.",
       "options": {
         "A": "The Andokides painter",
         "B": "TheTriptolemus painter",
@@ -726,8 +722,8 @@
         "D": "Phinthias"
       },
       "type": "multiple_choice",
-      "section": "Mausolus and his wife Artemesia are preserved in a well known museum in",
-      "section_context": "Mausolus and his wife Artemesia are preserved in a well known museum in",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     }

@@ -122,40 +122,19 @@ def parse_test_file_fixed(test_file_path):
                 }
                 continue
             
-            # Check for section headers that appear between questions (no number at start)
-            # This handles cases where a section header appears after option D but before the next question
-            if not question_match and not re.match(r'^([a-d])\.\s*(.+)$', line) and line.strip() and not re.match(r'^\d{4}\s+FJCL\s+State\s+Latin\s+Forum', line):
-                # This could be a section header - check if it looks like one
-                # Look for patterns like "I. Something", "Part x) Something", or just plain text
-                if (re.match(r'^([IVX]+)\.\s*(.+)$', line) or  # Roman numeral with period
-                    re.match(r'^Part\s+(\d+)\)\s*(.+)$', line) or  # Part x) format
-                    re.match(r'^Part\s+(\d+)\s*–\s*(.+)$', line) or  # Part x – format (skip these)
-                    (not re.match(r'^\d+\.', line) and len(line.split()) > 1)):  # Multi-word text that's not a question number
-                    
-                    # Skip "Part x – Description" format as we decided earlier
-                    if re.match(r'^Part\s+(\d+)\s*–\s*(.+)$', line):
-                        continue
-                    
-                    # Only treat as section if it contains instruction keywords (not just titles)
-                    if any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions']):
-                        # Strip common prefixes from section headers
-                        instruction_text = line
-                        # Remove "Part x)" prefix
-                        part_match = re.match(r'^Part\s+(\d+)\)\s*(.+)$', line)
-                        if part_match:
-                            instruction_text = part_match.group(2).strip()
-                        # Remove "I." prefix
-                        roman_match = re.match(r'^([IVX]+)\.\s*(.+)$', line)
-                        if roman_match:
-                            instruction_text = roman_match.group(2).strip()
-                        
-                        current_section = instruction_text
-                        section_context = instruction_text
-                    continue
-            
             # If we have a current question and this line doesn't start with an option, 
             # it might be a continuation of the question statement
-            if current_question and not re.match(r'^([a-d])\.\s*(.+)$', line) and line.strip():
+            if (current_question and 
+                not re.match(r'^([a-d])\.\s*(.+)$', line) and  # Not an option
+                not re.match(r'^\d+\.', line) and  # Not a new question number
+                not re.match(r'^\d{4}\s+FJCL\s+State\s+Latin\s+Forum', line) and  # Not a header
+                not re.match(r'^Part\s+(\d+)\s*[-–]\s*(.+)$', line) and  # Not a section divider
+                not re.match(r'^Part\s+(\d+)-\s*(.+)$', line) and  # Not a section divider (hyphen)
+                not re.match(r'^([IVX]+)\.\s*(.+)$', line) and  # Not a Roman numeral section
+                not re.match(r'^Part\s+(\d+)\)\s*(.+)$', line) and  # Not a Part x) section
+                not re.match(r'^N\.B\.', line) and  # Not an N.B. instruction
+                line.strip() and  # Not empty
+                not any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions'])):  # Not an instruction
                 # This is a continuation of the question statement
                 current_question["question"] += " " + line.strip()
                 continue
@@ -229,7 +208,17 @@ def parse_test_file_fixed(test_file_path):
             
             # If we have a current question and this line doesn't start with an option, 
             # it might be a continuation of the question statement
-            if current_question and not re.match(r'^([A-D])\.\s*(.+)$', line) and line.strip():
+            if (current_question and 
+                not re.match(r'^([A-D])\.\s*(.+)$', line) and  # Not an option
+                not re.match(r'^\d+\.', line) and  # Not a new question number
+                not re.match(r'^\d{4}\s+FJCL\s+State\s+Latin\s+Forum', line) and  # Not a header
+                not re.match(r'^Part\s+(\d+)\s*[-–]\s*(.+)$', line) and  # Not a section divider
+                not re.match(r'^Part\s+(\d+)-\s*(.+)$', line) and  # Not a section divider (hyphen)
+                not re.match(r'^([IVX]+)\.\s*(.+)$', line) and  # Not a Roman numeral section
+                not re.match(r'^Part\s+(\d+)\)\s*(.+)$', line) and  # Not a Part x) section
+                not re.match(r'^N\.B\.', line) and  # Not an N.B. instruction
+                line.strip() and  # Not empty
+                not any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions'])):  # Not an instruction
                 # This is a continuation of the question statement
                 current_question["question"] += " " + line.strip()
                 continue

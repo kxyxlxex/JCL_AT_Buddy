@@ -70,7 +70,7 @@
     },
     {
       "question_number": 4,
-      "question": "The Roman consuls Claudius Nero and Livius Salinator were victorious over Hannibal’s brother",
+      "question": "The Roman consuls Claudius Nero and Livius Salinator were victorious over Hannibal’s brother Hasdrubal at what battle in 207?",
       "options": {
         "A": "Zama",
         "B": "Metaurus River",
@@ -230,7 +230,7 @@
     },
     {
       "question_number": 12,
-      "question": "The 5th century leader _____________ was assassinated for proposing laws which would distribute",
+      "question": "The 5th century leader _____________ was assassinated for proposing laws which would distribute free grain to the poor.",
       "options": {
         "A": "Coriolanus",
         "B": "Spurius Cassius",
@@ -370,7 +370,7 @@
     },
     {
       "question_number": 19,
-      "question": "The sacred geese of Juno startled __________ who saved Rome from the Gauls and earned the",
+      "question": "The sacred geese of Juno startled __________ who saved Rome from the Gauls and earned the cognomen Capitolinus.",
       "options": {
         "A": "T. Hermenius",
         "B": "P. Cornelius",
@@ -570,7 +570,7 @@
     },
     {
       "question_number": 33,
-      "question": "The first occurance of prorogatio, or a prolonged imperium, took place in 326 B.C. when",
+      "question": "The first occurance of prorogatio, or a prolonged imperium, took place in 326 B.C. when ___________ laid seige to Neapolis.",
       "options": {
         "A": "Q. Publilius Philo",
         "B": "Q. Marcius Rex",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 46,
-      "question": "The palace of Tullus Hostilius on the __________ hill was struck by lightning after the king",
+      "question": "The palace of Tullus Hostilius on the __________ hill was struck by lightning after the king misperformed a ceremony to Jupiter Elicius.",
       "options": {
         "A": "Palatine",
         "B": "Capitoline",
@@ -810,7 +810,7 @@
     },
     {
       "question_number": 49,
-      "question": "Where was",
+      "question": "Where was C. Triarius defeated by Mithridates in 67?",
       "options": {
         "A": "Tigranocerta",
         "B": "Cabira",
@@ -870,7 +870,7 @@
     },
     {
       "question_number": 2,
-      "question": "Who so impressed the Falerii in 394 BC by his handling of a treacherous teacher that they",
+      "question": "Who so impressed the Falerii in 394 BC by his handling of a treacherous teacher that they surrendered immediately to Rome?",
       "options": {
         "A": "M. Furius Camillus",
         "B": "L. Cornelius Scipio",
@@ -1050,7 +1050,7 @@
     },
     {
       "question_number": 15,
-      "question": "During the beginning of the Republic, who destroyed his palatial house so that he would not be",
+      "question": "During the beginning of the Republic, who destroyed his palatial house so that he would not be compared to L. Tarquinius Superbus?",
       "options": {
         "A": "L. Tarquinius Collatinus",
         "B": "L. Iunius Brutus",
@@ -1090,7 +1090,7 @@
     },
     {
       "question_number": 17,
-      "question": "After the death of Alexander the Great, the Asiatic portion of his empire, including Syria, Babylonia,",
+      "question": "After the death of Alexander the Great, the Asiatic portion of his empire, including Syria, Babylonia, and the Eastern regions fell under whose control?",
       "options": {
         "A": "Antiochus",
         "B": "Ptolemy",
@@ -1210,7 +1210,7 @@
     },
     {
       "question_number": 23,
-      "question": "Italian social cause? What city was the capital of the Italians during the Social War?",
+      "question": "What city was the capital of the Italians during the Social War?",
       "options": {
         "A": "Mutina",
         "B": "Ravenna",
@@ -1218,19 +1218,19 @@
         "D": "Sentinum"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 23,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 24,
-      "question": "Italian social cause? In 77 BC, who was in control of Spain?",
+      "question": "In 77 BC, who was in control of Spain?",
       "options": {
         "A": "Q. Sertorius",
         "B": "Cn. Pompeius Strabo Magnus",
@@ -1238,19 +1238,19 @@
         "D": "L. Licinius Lucullus"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 24,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 25,
-      "question": "Italian social cause? Crassus planned in 53 to travel along the Euphrates River to what capital of Parthia?",
+      "question": "Crassus planned in 53 to travel along the Euphrates River to what capital of Parthia?",
       "options": {
         "A": "Seleucia",
         "B": "Babylon",
@@ -1258,19 +1258,19 @@
         "D": "Edessa"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 25,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 26,
-      "question": "Italian social cause? In 45 BC, ironically on March 15, at what battle was Caesar victorious?",
+      "question": "In 45 BC, ironically on March 15, at what battle was Caesar victorious?",
       "options": {
         "A": "Alexandria",
         "B": "Munda",
@@ -1278,19 +1278,19 @@
         "D": "Utica"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 26,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 27,
-      "question": "Italian social cause? Demaratus, the father of the Roman king L. Tarquinius Priscus, originally came from what city?",
+      "question": "Demaratus, the father of the Roman king L. Tarquinius Priscus, originally came from what city?",
       "options": {
         "A": "Troy",
         "B": "Alba Longa",
@@ -1298,19 +1298,19 @@
         "D": "Elis"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 27,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 28,
-      "question": "Italian social cause? The battle won at what site ended the hope of L. Tarquinius Superbus' restoration as king of Rome?",
+      "question": "The battle won at what site ended the hope of L. Tarquinius Superbus' restoration as king of Rome?",
       "options": {
         "A": "Pons Sublicius",
         "B": "Lake Regillus",
@@ -1318,19 +1318,19 @@
         "D": "Corioli"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 28,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 29,
-      "question": "Italian social cause? In 350 BC, who were the only two peoples who represented dangers to Rome?",
+      "question": "In 350 BC, who were the only two peoples who represented dangers to Rome?",
       "options": {
         "A": "Etruscans and Germans",
         "B": "Syracusans and Carthaginians",
@@ -1338,19 +1338,19 @@
         "D": "Macedonians and Epirotes"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 29,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 30,
-      "question": "Italian social cause? After the Roman victory at Sentinum in 295 BC, what tribe took no further part in the Samnite Wars?",
+      "question": "After the Roman victory at Sentinum in 295 BC, what tribe took no further part in the Samnite Wars?",
       "options": {
         "A": "Hispanians",
         "B": "Gauls",
@@ -1358,19 +1358,19 @@
         "D": "Carthaginians"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 30,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 32,
-      "question": "Italian social cause? What city never fell during wars against both Pyrrhus and Rome, but was ceded to Rome as a",
+      "question": "What city never fell during wars against both Pyrrhus and Rome, but was ceded to Rome as a provision of the peace treaty at the end of the First Punic War?",
       "options": {
         "A": "Agrigentum",
         "B": "Lilybaeum",
@@ -1378,19 +1378,19 @@
         "D": "Panormus"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 32,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 33,
-      "question": "Italian social cause? In 197 BC, after succeeding his father Attalus of Pergamum, who begged Flamininus to order",
+      "question": "In 197 BC, after succeeding his father Attalus of Pergamum, who begged Flamininus to order Antiochus out of Asia Minor?",
       "options": {
         "A": "Attalus II",
         "B": "Eumenes II",
@@ -1398,19 +1398,19 @@
         "D": "Ptolemy II"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 33,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 34,
-      "question": "Italian social cause? What leader was finally defeated in 148 BC by Q. Caecilius Metellus to end the Fourth Macedonian War?",
+      "question": "What leader was finally defeated in 148 BC by Q. Caecilius Metellus to end the Fourth Macedonian War?",
       "options": {
         "A": "Andriscus",
         "B": "Demetrius Soter",
@@ -1418,19 +1418,19 @@
         "D": "Syphax"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 34,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 37,
-      "question": "Italian social cause? What city in 125 BC complained about the Gauls to Rome who then sent M. Fulvius Flaccus?",
+      "question": "What city in 125 BC complained about the Gauls to Rome who then sent M. Fulvius Flaccus?",
       "options": {
         "A": "Aquae Sextiae",
         "B": "Verona",
@@ -1438,19 +1438,19 @@
         "D": "Massilia"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 37,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 38,
-      "question": "Italian social cause? Which of these events in the life of Clodius happened in 62 BC?",
+      "question": "Which of these events in the life of Clodius happened in 62 BC?",
       "options": {
         "A": "He ran for the office of tribunus plebis",
         "B": "He violated the rites of the Bona Dea festival",
@@ -1458,19 +1458,19 @@
         "D": "He was kidnapped by Cilician pirates"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 38,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 39,
-      "question": "Italian social cause? Pompey the Great was murdered in Egypt due to the influence of which minister of Ptolemy XIII?",
+      "question": "Pompey the Great was murdered in Egypt due to the influence of which minister of Ptolemy XIII?",
       "options": {
         "A": "Pothinus",
         "B": "Lysimachus",
@@ -1478,19 +1478,19 @@
         "D": "Cyrus"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 39,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 41,
-      "question": "Italian social cause? The Samnites were able to focus their full attention on Rome after the defeat of what other enemy",
+      "question": "The Samnites were able to focus their full attention on Rome after the defeat of what other enemy in 326 BC?",
       "options": {
         "A": "Alexander of Epirus",
         "B": "Philip II of Macedon",
@@ -1498,19 +1498,19 @@
         "D": "Pyrrhus"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 41,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 42,
-      "question": "Italian social cause? After his victory at Heraclea, what ambassador and friend did Pyrrhus send to negotiate a peace settlement?",
+      "question": "After his victory at Heraclea, what ambassador and friend did Pyrrhus send to negotiate a peace settlement?",
       "options": {
         "A": "Cineas",
         "B": "Agathocles",
@@ -1518,19 +1518,19 @@
         "D": "Phineas"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 42,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 43,
-      "question": "Italian social cause? After the First Illyrian War, what Greek island did Rome take possession of?",
+      "question": "After the First Illyrian War, what Greek island did Rome take possession of?",
       "options": {
         "A": "Leucas",
         "B": "Ithaca",
@@ -1538,19 +1538,19 @@
         "D": "Zacynthos"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 43,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 44,
-      "question": "Italian social cause? What city reneged on an alliance with Rome after it was weakened by the Gauls in 390 BC before",
+      "question": "What city reneged on an alliance with Rome after it was weakened by the Gauls in 390 BC before being pacified and defeated by Cincinnatus?",
       "options": {
         "A": "Praeneste",
         "B": "Corioli",
@@ -1558,19 +1558,19 @@
         "D": "Arpinum"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 44,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 45,
-      "question": "Italian social cause? Where did Hannibal retire to for 4 years before he returned to Carthage in 203 BC?",
+      "question": "Where did Hannibal retire to for 4 years before he returned to Carthage in 203 BC?",
       "options": {
         "A": "Apulia",
         "B": "Bruttium",
@@ -1578,19 +1578,19 @@
         "D": "Lucania"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 45,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 46,
-      "question": "Italian social cause? In terms of numbers killed, what was the worst non-Civil War defeat in Roman history?",
+      "question": "In terms of numbers killed, what was the worst non-Civil War defeat in Roman history?",
       "options": {
         "A": "Caudine Forks",
         "B": "Cannae",
@@ -1598,19 +1598,19 @@
         "D": "Arausio"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 46,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 47,
-      "question": "Italian social cause? Who, resenting the small war bonus he was given because of his avarice, tried to block L. Aemilius",
+      "question": "Who, resenting the small war bonus he was given because of his avarice, tried to block L. Aemilius Paullus' triumph in 167 BC?",
       "options": {
         "A": "M. Porcius Cato",
         "B": "P. Cornelius Scipio Aemilianus",
@@ -1618,19 +1618,19 @@
         "D": "Cn. Servilius Caepio"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 47,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 48,
-      "question": "Italian social cause? What law(s) opened the consulship to the plebeians in 367 BC?",
+      "question": "What law(s) opened the consulship to the plebeians in 367 BC?",
       "options": {
         "A": "Lex Villia Annalis",
         "B": "Lex Porcia",
@@ -1638,19 +1638,19 @@
         "D": "Leges Liciniae Sextiae"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 48,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 49,
-      "question": "Italian social cause? Spartacus made an agreement with Cilician pirates to do which of these?",
+      "question": "Spartacus made an agreement with Cilician pirates to do which of these? C. Iulius Caesar",
       "options": {
         "A": "assassinate M. Licinius Crassus",
         "B": "hinder the advancement of Cn. Pompeius Strabo Magnus",
@@ -1658,19 +1658,19 @@
         "D": "kidnap"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 49,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 50,
-      "question": "Italian social cause? Caesarian forces under Curio were defeated in 49 BC by Pompeians led by whom?",
+      "question": "Caesarian forces under Curio were defeated in 49 BC by Pompeians led by whom?",
       "options": {
         "A": "Hiempsal II",
         "B": "Juba",
@@ -1678,15 +1678,15 @@
         "D": "Tacfarinas"
       },
       "type": "multiple_choice",
-      "section": "Italian social cause?",
-      "section_context": "Italian social cause?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 50,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 1,
@@ -2250,7 +2250,7 @@
     },
     {
       "question_number": 32,
-      "question": "What Lusitanian guerilla commander, defeated by the Romans, is considered to be the first national",
+      "question": "What Lusitanian guerilla commander, defeated by the Romans, is considered to be the first national hero of Portugal?",
       "options": {
         "A": "Syphax",
         "B": "Vercingetorix",
@@ -2290,7 +2290,7 @@
     },
     {
       "question_number": 34,
-      "question": "The first Roman to have his imperium extended beyond his term as consul in order to lay siege",
+      "question": "The first Roman to have his imperium extended beyond his term as consul in order to lay siege to Naples in 326 was",
       "options": {
         "A": "Fabius Rullianus",
         "B": "Publilius Philo",
@@ -2410,7 +2410,7 @@
     },
     {
       "question_number": 41,
-      "question": "Which Roman bravely inspired the Senate to fight on against Carthage even though it meant that he",
+      "question": "Which Roman bravely inspired the Senate to fight on against Carthage even though it meant that he would have to return to the enemy and face certain death?",
       "options": {
         "A": "Scaevola",
         "B": "Poplicola",
@@ -2450,7 +2450,7 @@
     },
     {
       "question_number": 44,
-      "question": "Which Roman admiral defeated Eudamus at Myonesus, the last notable Roman naval victory over",
+      "question": "Which Roman admiral defeated Eudamus at Myonesus, the last notable Roman naval victory over a foreign enemy?",
       "options": {
         "A": "L. Scipio",
         "B": "Acilius Glabrio",
@@ -2470,7 +2470,7 @@
     },
     {
       "question_number": 45,
-      "question": "Where did Scipio Barbatus receive a crushing defeat at the hands of the Samnites and Gauls in",
+      "question": "Where did Scipio Barbatus receive a crushing defeat at the hands of the Samnites and Gauls in the Third Samnite War?",
       "options": {
         "A": "Camerinum",
         "B": "Aquilonia",
@@ -2530,7 +2530,7 @@
     },
     {
       "question_number": 50,
-      "question": "Which Roman commander was sent with a fleet to Apollonia in 214 B.C. to combat Phillip V in what",
+      "question": "Which Roman commander was sent with a fleet to Apollonia in 214 B.C. to combat Phillip V in what became known as the First Macedonian War?",
       "options": {
         "A": "Fabius Maximus",
         "B": "Valerius Laevinus",
@@ -2710,7 +2710,7 @@
     },
     {
       "question_number": 9,
-      "question": "At what early battle of the Second Punic War was Scipio (the future) Africanus said to have saved his",
+      "question": "At what early battle of the Second Punic War was Scipio (the future) Africanus said to have saved his father’s life?",
       "options": {
         "A": "Trebia River",
         "B": "Ticinus River",
@@ -2870,7 +2870,7 @@
     },
     {
       "question_number": 17,
-      "question": "Lake Vadimo was the site of two battles occurring during Rome’s conquest of Italy. The second of",
+      "question": "Lake Vadimo was the site of two battles occurring during Rome’s conquest of Italy. The second of these two battles occurred just prior to the Pyrrhic War. During what war did the first Battle of Lake Vadimo occur?",
       "options": {
         "A": "First Samnite War",
         "B": "Great Latin War",
@@ -2910,7 +2910,7 @@
     },
     {
       "question_number": 19,
-      "question": "Directly after what battle in 255 B.C., part of a successful rescue mission, was the Roman fleet",
+      "question": "Directly after what battle in 255 B.C., part of a successful rescue mission, was the Roman fleet caught up in a storm off Sicily and nearly wiped out?",
       "options": {
         "A": "Bagradas Valley",
         "B": "Tunis",
@@ -2950,7 +2950,7 @@
     },
     {
       "question_number": 21,
-      "question": "What battle of the Third Macedonian War saw a Roman victory and the end of the Antigonid line",
+      "question": "What battle of the Third Macedonian War saw a Roman victory and the end of the Antigonid line which had begun almost two hundred years before with the death of Alexander the Great?",
       "options": {
         "A": "Pydna",
         "B": "Thermopylae",
@@ -2970,7 +2970,7 @@
     },
     {
       "question_number": 22,
-      "question": "What guerilla leader in Lusitania led the resistance against Romans from 146-­‐141 B.C. before being",
+      "question": "What guerilla leader in Lusitania led the resistance against Romans from 146-­‐141 B.C. before being betrayed by his agents?",
       "options": {
         "A": "Vercingetorix",
         "B": "Viriathus",
@@ -3110,7 +3110,7 @@
     },
     {
       "question_number": 29,
-      "question": "What law of 300 B.C. opened the priesthood up to plebeians, and increased the number of",
+      "question": "What law of 300 B.C. opened the priesthood up to plebeians, and increased the number of pontifices from five to nine?",
       "options": {
         "A": "Lex Valeria",
         "B": "Lex Ogulnia",
@@ -3230,7 +3230,7 @@
     },
     {
       "question_number": 35,
-      "question": "What Roman commander died at the Baetis River in the Guadalquivir province during the Second",
+      "question": "What Roman commander died at the Baetis River in the Guadalquivir province during the Second Punic War?",
       "options": {
         "A": "Publius Cornelius Scipio",
         "B": "Gaius Terrentius Varro",
@@ -3370,7 +3370,7 @@
     },
     {
       "question_number": 42,
-      "question": "Where were a contigent of Gauls defeated by the Romans in 225 B.C. between the First and Second",
+      "question": "Where were a contigent of Gauls defeated by the Romans in 225 B.C. between the First and Second Punic wars?",
       "options": {
         "A": "Cape Telamon",
         "B": "Aquileia",
@@ -3610,7 +3610,7 @@
     },
     {
       "question_number": 4,
-      "question": "Son of Pompey the Great, this general had control of Sardinia and tried to take over Sicily—to",
+      "question": "Son of Pompey the Great, this general had control of Sardinia and tried to take over Sicily—to no avail. He was later caught and killed in Asia Minor?",
       "options": {
         "A": "Gnaeus Pompey",
         "B": "Marcus Pompey",
@@ -3650,7 +3650,7 @@
     },
     {
       "question_number": 6,
-      "question": "He acted like a half-wit to his uncle, Tarquinius Superbus, but eventually would lead the",
+      "question": "He acted like a half-wit to his uncle, Tarquinius Superbus, but eventually would lead the revolt against him and even become one of Rome’s first consuls?",
       "options": {
         "A": "Publius Valerius Publicola",
         "B": "Lucius Siccius",
@@ -3670,7 +3670,7 @@
     },
     {
       "question_number": 7,
-      "question": "Which victorious general—and friend—of Octavian’s was the actual commander of his fleet",
+      "question": "Which victorious general—and friend—of Octavian’s was the actual commander of his fleet at Actium?",
       "options": {
         "A": "Maecenas",
         "B": "Lepidus",
@@ -3790,7 +3790,7 @@
     },
     {
       "question_number": 13,
-      "question": "Which historian’s capture during the 3rd Macedonian War led to his being enslaved and",
+      "question": "Which historian’s capture during the 3rd Macedonian War led to his being enslaved and taken back to Rome?",
       "options": {
         "A": "Dionysius",
         "B": "Plutarch",
@@ -3870,7 +3870,7 @@
     },
     {
       "question_number": 17,
-      "question": "What was Octavian’s original cognomen, it became a source of ridicule during the age of the",
+      "question": "What was Octavian’s original cognomen, it became a source of ridicule during the age of the 2nd Triumvirate?",
       "options": {
         "A": "Thrax",
         "B": "Thurinus",
@@ -3890,7 +3890,7 @@
     },
     {
       "question_number": 18,
-      "question": "Which Samnite meddix—against the advice of his father—made the Romans pass under the",
+      "question": "Which Samnite meddix—against the advice of his father—made the Romans pass under the yoke after the battle of Caudine Forks?",
       "options": {
         "A": "Servius Ahala",
         "B": "Gavius Pontius",
@@ -3910,7 +3910,7 @@
     },
     {
       "question_number": 19,
-      "question": "Serving as consul with Gellius Publicola in 36, he served under Marc Antony, but refused to",
+      "question": "Serving as consul with Gellius Publicola in 36, he served under Marc Antony, but refused to fight Octavian, bringing about a truce between the two men?",
       "options": {
         "A": "Marcus Cocceius Nerva",
         "B": "Lucius Munatius Plancus",
@@ -3930,7 +3930,7 @@
     },
     {
       "question_number": 20,
-      "question": "Briefly fighting with Horatius Cocles at the Sublican Bridge, who would later kill the king of",
+      "question": "Briefly fighting with Horatius Cocles at the Sublican Bridge, who would later kill the king of Tusculum at the Battle of Lake Regillus?",
       "options": {
         "A": "Mucius Scaevola",
         "B": "Aebutius Elva",
@@ -3970,7 +3970,7 @@
     },
     {
       "question_number": 22,
-      "question": "The leader of the Decemvirs tried to seize a tribune’s young daughter for his own deviant",
+      "question": "The leader of the Decemvirs tried to seize a tribune’s young daughter for his own deviant purposes. What is this tribune’s name who would later lead the prosecution against him?",
       "options": {
         "A": "Lucretius",
         "B": "Verginius",
@@ -4010,7 +4010,7 @@
     },
     {
       "question_number": 24,
-      "question": "In which city, besieged by Camillus and the Romans, did a teacher try to hand over",
+      "question": "In which city, besieged by Camillus and the Romans, did a teacher try to hand over schoolchildren as hostages?",
       "options": {
         "A": "Veii",
         "B": "Ardea",
@@ -4030,7 +4030,7 @@
     },
     {
       "question_number": 25,
-      "question": "Elected consul six times, and made dictator twice, he rose to fame fighting Samnites and",
+      "question": "Elected consul six times, and made dictator twice, he rose to fame fighting Samnites and Celts—especially a large Celt who was momentarily dazzled by a raven?",
       "options": {
         "A": "Titus Manlius Torquatus",
         "B": "Lucius Siccius",
@@ -4090,7 +4090,7 @@
     },
     {
       "question_number": 28,
-      "question": "Which Roman king is credited with building: the fortification on the Janiculum, the",
+      "question": "Which Roman king is credited with building: the fortification on the Janiculum, the Mamertine Prison & the Fossa Quiritum?",
       "options": {
         "A": "Tullus Hostilius",
         "B": "Ancus Marcius",
@@ -4150,7 +4150,7 @@
     },
     {
       "question_number": 31,
-      "question": "Adopted by the son of Scipio Africanus, this commander successfully conquered Carthage",
+      "question": "Adopted by the son of Scipio Africanus, this commander successfully conquered Carthage and enslaved 1/10 of its remaining population?",
       "options": {
         "A": "Lucius Aemilius Paullus",
         "B": "Scipio Aemilianus",
@@ -4170,7 +4170,7 @@
     },
     {
       "question_number": 32,
-      "question": "Tiberius Gracchus tried to enact measures to save land for farmers, soldiers & the poor.",
+      "question": "Tiberius Gracchus tried to enact measures to save land for farmers, soldiers & the poor. This law was called the Lex _________?",
       "options": {
         "A": "Gabinia",
         "B": "Sempronia Agraria",
@@ -4190,7 +4190,7 @@
     },
     {
       "question_number": 33,
-      "question": "Which Roman heroine refused to be a hostage to Lars Porsenna and swam across the Tiber,",
+      "question": "Which Roman heroine refused to be a hostage to Lars Porsenna and swam across the Tiber, braving arrows and spears alike?",
       "options": {
         "A": "Cloelia",
         "B": "Lucretia",
@@ -4230,7 +4230,7 @@
     },
     {
       "question_number": 35,
-      "question": "At a funeral oration for his aunt, Caesar divulged that this aunt was a descendent of which",
+      "question": "At a funeral oration for his aunt, Caesar divulged that this aunt was a descendent of which Roman king?",
       "options": {
         "A": "Romulus",
         "B": "Ancus Marcius",
@@ -4270,7 +4270,7 @@
     },
     {
       "question_number": 38,
-      "question": "The Parthian commander, ___________, routed the forces of Crassus at the Battle of",
+      "question": "The Parthian commander, ___________, routed the forces of Crassus at the Battle of Carrhae in 53?",
       "options": {
         "A": "Orodes",
         "B": "Gondophares",
@@ -4390,7 +4390,7 @@
     },
     {
       "question_number": 44,
-      "question": "He was elected dictator to combat Carthage—he advocated avoiding direct confrontation",
+      "question": "He was elected dictator to combat Carthage—he advocated avoiding direct confrontation with Hannibal and earned the name, Cuncator?",
       "options": {
         "A": "Titus Menenius Lenatus",
         "B": "Gaius Nautius Rutilus",
@@ -4450,7 +4450,7 @@
     },
     {
       "question_number": 47,
-      "question": "Which formation came about in direct response to Rome losing several engagements in the",
+      "question": "Which formation came about in direct response to Rome losing several engagements in the Second Samnite War?",
       "options": {
         "A": "Testudo",
         "B": "Phalanx",
@@ -4490,7 +4490,7 @@
     },
     {
       "question_number": 49,
-      "question": "Which queen of Illyria caused Rome to declare war on her kindom because she advocated",
+      "question": "Which queen of Illyria caused Rome to declare war on her kindom because she advocated that piracy as a legitimate trade?",
       "options": {
         "A": "Boudicea",
         "B": "Teuta",
@@ -4590,7 +4590,7 @@
     },
     {
       "question_number": 4,
-      "question": "During the Battle of Vesuvius in 340, which Roman commander executed his own",
+      "question": "During the Battle of Vesuvius in 340, which Roman commander executed his own son for refusing to follow orders?",
       "options": {
         "A": "Publius Decius Mus",
         "B": "Marcus Valerius Corvus",
@@ -4630,7 +4630,7 @@
     },
     {
       "question_number": 6,
-      "question": "According to some sources, Rome’s sixth king, Servius Tullius, was actually an",
+      "question": "According to some sources, Rome’s sixth king, Servius Tullius, was actually an Etruscan mercenary named ______________?",
       "options": {
         "A": "Pyrrhus",
         "B": "Mastarna",
@@ -4650,7 +4650,7 @@
     },
     {
       "question_number": 7,
-      "question": "What engineering feat—used first at the Battle of Mylae—aided Rome’s navy",
+      "question": "What engineering feat—used first at the Battle of Mylae—aided Rome’s navy during the First Punic War?",
       "options": {
         "A": "the lorica segmentata",
         "B": "the corvus",
@@ -4750,7 +4750,7 @@
     },
     {
       "question_number": 12,
-      "question": "Which king of Rome is credited for settling an entire town—Palitorium—on the",
+      "question": "Which king of Rome is credited for settling an entire town—Palitorium—on the Aventine Hill?",
       "options": {
         "A": "Numa",
         "B": "Romulus",
@@ -4810,7 +4810,7 @@
     },
     {
       "question_number": 15,
-      "question": "Which of Caesar’s trusted lieutenants abandoned him right before crossing the",
+      "question": "Which of Caesar’s trusted lieutenants abandoned him right before crossing the Rubicon so that he could bring warning to Rome?",
       "options": {
         "A": "Maecenas",
         "B": "Publilius Sulla",
@@ -4850,7 +4850,7 @@
     },
     {
       "question_number": 17,
-      "question": "Who was the Vestal Virgin who let invading Sabines into Rome for mere",
+      "question": "Who was the Vestal Virgin who let invading Sabines into Rome for mere bracelets—and was summarily trampled by the Sabines as they entered?",
       "options": {
         "A": "Cloelia",
         "B": "Tullia",
@@ -4870,7 +4870,7 @@
     },
     {
       "question_number": 18,
-      "question": "After exiling himself, Hannibal aided which Seleucid king in his preparations for",
+      "question": "After exiling himself, Hannibal aided which Seleucid king in his preparations for war on Rome?",
       "options": {
         "A": "Mithridates IV",
         "B": "Mausoleus I",
@@ -4890,7 +4890,7 @@
     },
     {
       "question_number": 19,
-      "question": "Cincinnatus’ son, ___________, was put on trial for murder, absconded on bail,",
+      "question": "Cincinnatus’ son, ___________, was put on trial for murder, absconded on bail, and left his father to pay an exorbitant fine.",
       "options": {
         "A": "Quartus",
         "B": "Tiberius",
@@ -4950,7 +4950,7 @@
     },
     {
       "question_number": 22,
-      "question": "Before which battle in 45 B.C. did the omen of a palm shoot sprouting overnight",
+      "question": "Before which battle in 45 B.C. did the omen of a palm shoot sprouting overnight convince Caesar to adopt Octavian as his heir?",
       "options": {
         "A": "Munda",
         "B": "Thapsus",
@@ -4970,7 +4970,7 @@
     },
     {
       "question_number": 23,
-      "question": "The rape of which woman ignited the war against Tarquin the Proud and led to",
+      "question": "The rape of which woman ignited the war against Tarquin the Proud and led to the installation of the Roman Republic?",
       "options": {
         "A": "Cloelia",
         "B": "Camilla",
@@ -4990,7 +4990,7 @@
     },
     {
       "question_number": 24,
-      "question": "At the Battle of Silva Arsia, Lucius Junius Brutus simultaneously died while",
+      "question": "At the Battle of Silva Arsia, Lucius Junius Brutus simultaneously died while locked in combat with which son of Tarquin the Proud?",
       "options": {
         "A": "Sextus",
         "B": "Aruns",
@@ -5030,7 +5030,7 @@
     },
     {
       "question_number": 26,
-      "question": "Syracuse repulse Roman attacks? Which law authorized Pompey’s command against Mithradates VI?",
+      "question": "Which law authorized Pompey’s command against Mithradates VI?",
       "options": {
         "A": "Manilia",
         "B": "Valeria",
@@ -5038,19 +5038,19 @@
         "D": "Iulia"
       },
       "type": "multiple_choice",
-      "section": "Syracuse repulse Roman attacks?",
-      "section_context": "Syracuse repulse Roman attacks?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 26,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 27,
-      "question": "Syracuse repulse Roman attacks? Who was Romulus’ Sabine wife?",
+      "question": "Who was Romulus’ Sabine wife?",
       "options": {
         "A": "Volumnia",
         "B": "Egeria",
@@ -5058,19 +5058,19 @@
         "D": "Hersilia"
       },
       "type": "multiple_choice",
-      "section": "Syracuse repulse Roman attacks?",
-      "section_context": "Syracuse repulse Roman attacks?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 27,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 28,
-      "question": "Syracuse repulse Roman attacks? In 222, Marcus Claudius Marcellus defeated which Gallic chieftain to receive",
+      "question": "In 222, Marcus Claudius Marcellus defeated which Gallic chieftain to receive that last Spolia Opima?",
       "options": {
         "A": "Mago",
         "B": "Lar Tolumnius",
@@ -5078,19 +5078,19 @@
         "D": "Acro"
       },
       "type": "multiple_choice",
-      "section": "Syracuse repulse Roman attacks?",
-      "section_context": "Syracuse repulse Roman attacks?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 28,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 29,
-      "question": "Syracuse repulse Roman attacks? Which of the following DID NOT occur during the course of 63?",
+      "question": "Which of the following DID NOT occur during the course of 63?",
       "options": {
         "A": "Octavian born",
         "B": "Caesar is Pontifex Maximus",
@@ -5098,19 +5098,19 @@
         "D": "Pompey defeats Mithridates"
       },
       "type": "multiple_choice",
-      "section": "Syracuse repulse Roman attacks?",
-      "section_context": "Syracuse repulse Roman attacks?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 29,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 30,
-      "question": "Syracuse repulse Roman attacks? Who defeated an advancing army of Boii near Lake Vadimo in 283?",
+      "question": "Who defeated an advancing army of Boii near Lake Vadimo in 283?",
       "options": {
         "A": "Dollabella",
         "B": "Dentatus",
@@ -5118,19 +5118,19 @@
         "D": "Rullianus"
       },
       "type": "multiple_choice",
-      "section": "Syracuse repulse Roman attacks?",
-      "section_context": "Syracuse repulse Roman attacks?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 30,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 31,
-      "question": "Syracuse repulse Roman attacks? After which battle in 216 B.C. did Hannibal’s cavalry commander, Maharbal, it?\"",
+      "question": "After which battle in 216 B.C. did Hannibal’s cavalry commander, Maharbal, it?\"",
       "options": {
         "A": "Cannae",
         "B": "Lake Trasimene",
@@ -5138,19 +5138,19 @@
         "D": "Trebia River"
       },
       "type": "multiple_choice",
-      "section": "Syracuse repulse Roman attacks?",
-      "section_context": "Syracuse repulse Roman attacks?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 31,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 32,
-      "question": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use Clodius Pulcher had a vendetta against Cicero following the orator’s use of",
+      "question": "Clodius Pulcher had a vendetta against Cicero following the orator’s use of power in the Catilinarian Conspiracy. Who physically protected Cicero from Pulcher’s gang of thugs?",
       "options": {
         "A": "Atticus",
         "B": "Milo",
@@ -5158,19 +5158,19 @@
         "D": "Tamphilus"
       },
       "type": "multiple_choice",
-      "section": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
-      "section_context": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 32,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 33,
-      "question": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use Which king’s run-in with the Sibyl of Cumae resulted in obtaining only three of",
+      "question": "Which king’s run-in with the Sibyl of Cumae resulted in obtaining only three of the nine Sibylline Books?",
       "options": {
         "A": "Tullus Hostilius",
         "B": "Servius Tullius",
@@ -5178,19 +5178,19 @@
         "D": "Tarquinius Superbus"
       },
       "type": "multiple_choice",
-      "section": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
-      "section_context": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 33,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 34,
-      "question": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use What mythological characters are said to have fought for Rome at the Battle of",
+      "question": "What mythological characters are said to have fought for Rome at the Battle of Lake Regillus?",
       "options": {
         "A": "Apollo & Neptune",
         "B": "Achilles & Ajax",
@@ -5198,19 +5198,19 @@
         "D": "Hercules & Iolaus"
       },
       "type": "multiple_choice",
-      "section": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
-      "section_context": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 34,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 35,
-      "question": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use Caesar’s second invasion of Britain was primarily spent subduing which warlord",
+      "question": "Caesar’s second invasion of Britain was primarily spent subduing which warlord from north of the Thames?",
       "options": {
         "A": "Ariovistus",
         "B": "Orgetorix",
@@ -5218,19 +5218,19 @@
         "D": "Cassivellaunus"
       },
       "type": "multiple_choice",
-      "section": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
-      "section_context": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 35,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 36,
-      "question": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use At the end of the 3rd Punic War, which city became the capital of the new",
+      "question": "At the end of the 3rd Punic War, which city became the capital of the new Roman province of Africa?",
       "options": {
         "A": "Utica",
         "B": "Clupea",
@@ -5238,19 +5238,19 @@
         "D": "Alexandria"
       },
       "type": "multiple_choice",
-      "section": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
-      "section_context": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 36,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 37,
-      "question": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use When the Celts invaded Rome in 390, the Romans took shelter in the citadel.",
+      "question": "When the Celts invaded Rome in 390, the Romans took shelter in the citadel.",
       "options": {
         "A": "Marcus Camillus",
         "B": "Herennius Pointius",
@@ -5258,19 +5258,19 @@
         "D": "Manlius Capitolinus"
       },
       "type": "multiple_choice",
-      "section": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
-      "section_context": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 37,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 38,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? At what battle of the Third Samnite War did another Publius Decius Mus",
+      "question": "At what battle of the Third Samnite War did another Publius Decius Mus perform his devotio?",
       "options": {
         "A": "Vesuvius",
         "B": "Lautulae",
@@ -5278,19 +5278,19 @@
         "D": "Antium"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 38,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 39,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? What Carthaginian leader, against Hamilcar’s advice, advocated abandonment",
+      "question": "What Carthaginian leader, against Hamilcar’s advice, advocated abandonment of the 1st Punic War (he also did the same during the 2nd Punic War!)?",
       "options": {
         "A": "Hanno",
         "B": "Hasdrubal",
@@ -5298,19 +5298,19 @@
         "D": "Timoleon"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 39,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 40,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? What Consul was granted power under the first senatus consultum ultimum to",
+      "question": "What Consul was granted power under the first senatus consultum ultimum to go after the followers of C. Gracchus in 121?",
       "options": {
         "A": "M. Octavius",
         "B": "L. Opimius",
@@ -5318,19 +5318,19 @@
         "D": "Cn. Flavius"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 40,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 41,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? Who was the offspring of the union between Julius Caesar and Cleopatra?",
+      "question": "Who was the offspring of the union between Julius Caesar and Cleopatra?",
       "options": {
         "A": "Ptolemy VII",
         "B": "Octavian",
@@ -5338,19 +5338,19 @@
         "D": "Cleopatros"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 41,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 42,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? Which of the following DID NOT happen in 133?",
+      "question": "Which of the following DID NOT happen in 133?",
       "options": {
         "A": "defeat of Carthage",
         "B": "Attalus III gave his kingdom to Rome",
@@ -5358,19 +5358,19 @@
         "D": "Tiberius Gracchus becomes tribune"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 42,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 43,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? After Cannae, which king of Macedon allied himself with Hannibal, thus igniting",
+      "question": "After Cannae, which king of Macedon allied himself with Hannibal, thus igniting the concurrent First Macedonian War?",
       "options": {
         "A": "Eumenides",
         "B": "Pyrrhus",
@@ -5378,19 +5378,19 @@
         "D": "Philip V"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 43,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 44,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? Of the following, which WAS NOT a tribe whom Camillus was elected dictator to defeat?",
+      "question": "Of the following, which WAS NOT a tribe whom Camillus was elected dictator to defeat?",
       "options": {
         "A": "Senones",
         "B": "Iceni",
@@ -5398,19 +5398,19 @@
         "D": "Aequii"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 44,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 45,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? At the onset of the 1st Samnite War, what city cleverly forced Rome to protect it",
+      "question": "At the onset of the 1st Samnite War, what city cleverly forced Rome to protect it from the Samnites by surrending the city entirely to Rome?",
       "options": {
         "A": "Capua",
         "B": "Tarentum",
@@ -5418,19 +5418,19 @@
         "D": "Brundisium"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 45,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 46,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? What is the name of the bridge upon which Horatius Cocles made his famous stand?",
+      "question": "What is the name of the bridge upon which Horatius Cocles made his famous stand?",
       "options": {
         "A": "Milvian",
         "B": "Cestius",
@@ -5438,19 +5438,19 @@
         "D": "Sublician"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 46,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 47,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? What law of 445 finally allowed patricians and plebeians to intermarry?",
+      "question": "What law of 445 finally allowed patricians and plebeians to intermarry?",
       "options": {
         "A": "Lex Canuleia",
         "B": "Lex Hortensia",
@@ -5458,19 +5458,19 @@
         "D": "Lex Iulia"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 47,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 48,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? Who was the first Plebeian to serve as Censor in 351?",
+      "question": "Who was the first Plebeian to serve as Censor in 351?",
       "options": {
         "A": "Philo",
         "B": "Rutilus",
@@ -5478,19 +5478,19 @@
         "D": "Stolo"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 48,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 49,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? Who was the Gallic chieftain who first defeated, but was ultimately defeated by",
+      "question": "Who was the Gallic chieftain who first defeated, but was ultimately defeated by Caesar at the Battle of Alesia?",
       "options": {
         "A": "Arminius",
         "B": "Brennus",
@@ -5498,19 +5498,19 @@
         "D": "Vercingentorix"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 49,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 50,
-      "question": "They knew to do this because who had heard the honking of Juno’s geese? Who was the father of #49 who had tried to unite Celts under one banner and",
+      "question": "Who was the father of #49 who had tried to unite Celts under one banner and was executed by his own tribesmen for trying to fight Caesar?",
       "options": {
         "A": "Celtillus",
         "B": "Luernios",
@@ -5518,19 +5518,19 @@
         "D": "Congonnetiacus"
       },
       "type": "multiple_choice",
-      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
-      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 50,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 1,
-      "question": "Who was Octavian’s right-hand man throughout his life, the commander of the",
+      "question": "Who was Octavian’s right-hand man throughout his life, the commander of the fleet at Actium?",
       "options": {
         "A": "Marc Antony",
         "B": "Marcus Lepidus",
@@ -5670,7 +5670,7 @@
     },
     {
       "question_number": 8,
-      "question": "What religious counselor to Numa Pompilius has been associated with the Greek",
+      "question": "What religious counselor to Numa Pompilius has been associated with the Greek goddess of childbirth, Eileithyia?",
       "options": {
         "A": "Livia",
         "B": "Hersilia",
@@ -5690,7 +5690,7 @@
     },
     {
       "question_number": 9,
-      "question": "In the mid-5th century, a Roman commission was sent to Greece to study the",
+      "question": "In the mid-5th century, a Roman commission was sent to Greece to study the laws of what Athenian?",
       "options": {
         "A": "Solon",
         "B": "Draco",
@@ -5810,7 +5810,7 @@
     },
     {
       "question_number": 15,
-      "question": "What consul proposed the Lex Pompeia which granted citizenship to all free",
+      "question": "What consul proposed the Lex Pompeia which granted citizenship to all free persons living in Cisalpine Gaul south of the Po?",
       "options": {
         "A": "Silvanus",
         "B": "Strabo",
@@ -6030,7 +6030,7 @@
     },
     {
       "question_number": 27,
-      "question": "What king of Numidia greedily seized most of the Carthaginian coastal colonies",
+      "question": "What king of Numidia greedily seized most of the Carthaginian coastal colonies around 155?",
       "options": {
         "A": "Jugurtha",
         "B": "Masinissa",
@@ -6210,7 +6210,7 @@
     },
     {
       "question_number": 36,
-      "question": "Who steadfastly demanded, ”Carthago delenda est,” at the end of each speech",
+      "question": "Who steadfastly demanded, ”Carthago delenda est,” at the end of each speech he gave in the Senate?",
       "options": {
         "A": "Scipio",
         "B": "Cato",
@@ -6410,7 +6410,7 @@
     },
     {
       "question_number": 46,
-      "question": "Queen Teuta of Illyria encouraged what group of people to defy Rome and kill",
+      "question": "Queen Teuta of Illyria encouraged what group of people to defy Rome and kill Roman envoys?",
       "options": {
         "A": "slaves",
         "B": "farmers",
@@ -6470,7 +6470,7 @@
     },
     {
       "question_number": 49,
-      "question": "What Vestal Virgin allowed the Sabines into Rome and whose name was applied to",
+      "question": "What Vestal Virgin allowed the Sabines into Rome and whose name was applied to a notorious place for punishment?",
       "options": {
         "A": "Tarpeia",
         "B": "Lucretia",
@@ -6510,7 +6510,7 @@
     },
     {
       "question_number": 1,
-      "question": "Before Mettius Fufetius lost his life at the hands of Tullus Hostilius, Hostilius and what",
+      "question": "Before Mettius Fufetius lost his life at the hands of Tullus Hostilius, Hostilius and what preceding king of Alba sent the Curiati triplets against the Romans’ Horatii?",
       "options": {
         "A": "Feretrius",
         "B": "Numitor",
@@ -6570,7 +6570,7 @@
     },
     {
       "question_number": 4,
-      "question": "During the 2nd Punic War, Hasdrubal Gisco betrothed his daughter to Massinissa, then",
+      "question": "During the 2nd Punic War, Hasdrubal Gisco betrothed his daughter to Massinissa, then Syphax, king of the Masesyli, then she married Massinissa after Syphax’ defeat? Who was this famed Carthaginian beauty?",
       "options": {
         "A": "Elyssa",
         "B": "Ayzebel",
@@ -6650,7 +6650,7 @@
     },
     {
       "question_number": 8,
-      "question": "Gaius Marcius (who would become Coriolanus) received an oak-leaf crown for bravery",
+      "question": "Gaius Marcius (who would become Coriolanus) received an oak-leaf crown for bravery during the Battle of Lake Regillus—who bestowed him with this honor?",
       "options": {
         "A": "Marcius Philippus",
         "B": "Tullus Aufidius",
@@ -6670,7 +6670,7 @@
     },
     {
       "question_number": 9,
-      "question": "Following the “ascension” of Romulus, Numa Pompilius was elected king. From which",
+      "question": "Following the “ascension” of Romulus, Numa Pompilius was elected king. From which tribe did he hail?",
       "options": {
         "A": "Samnites",
         "B": "Sabines",
@@ -6690,7 +6690,7 @@
     },
     {
       "question_number": 10,
-      "question": "Over which city’s walls is Tiberius Gracchus traditionally credited with being the first",
+      "question": "Over which city’s walls is Tiberius Gracchus traditionally credited with being the first Roman to cross over in the 3rd Punic War?",
       "options": {
         "A": "Syracuse’s",
         "B": "Athens’",
@@ -6730,7 +6730,7 @@
     },
     {
       "question_number": 12,
-      "question": "King Lars Porsena aided an exiled Tarquinius Superbus, was almost assassinated by",
+      "question": "King Lars Porsena aided an exiled Tarquinius Superbus, was almost assassinated by Mucius Scaevola, and eventually came to ally his kingdom with Rome. However, his city—",
       "options": {
         "A": "Marius",
         "B": "Sulla",
@@ -6750,7 +6750,7 @@
     },
     {
       "question_number": 13,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Which ally of Cinna and Marius, and a brilliant commander himself, took up arms",
+      "question": "Which ally of Cinna and Marius, and a brilliant commander himself, took up arms against the Romans on behalf of the Lusitanians—who called him “the new Hannibal?”",
       "options": {
         "A": "Perpenna",
         "B": "Sertorius",
@@ -6758,19 +6758,19 @@
         "D": "Cossinius"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 13,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 14,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Which of the First Triumvirate’s grandsons actually defeated a Macedonian one-on-one",
+      "question": "Which of the First Triumvirate’s grandsons actually defeated a Macedonian one-on-one in 29 and was eligible to receive spolia opima, but Octavian prohibited the privilege?",
       "options": {
         "A": "Caesar’s",
         "B": "Pompey’s",
@@ -6778,19 +6778,19 @@
         "D": "Cicero’s"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 14,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 15,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? What was the fate of the Appius Claudius Crassus, the leader of the Decemvirs who",
+      "question": "What was the fate of the Appius Claudius Crassus, the leader of the Decemvirs who terrorized Rome?",
       "options": {
         "A": "killed in battle",
         "B": "committed suicide",
@@ -6798,19 +6798,19 @@
         "D": "defected to Etruscans"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 15,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 16,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Which goddess’ sacred geese were said to miraculously alert the Romans of the",
+      "question": "Which goddess’ sacred geese were said to miraculously alert the Romans of the infiltrating Celts in 390?",
       "options": {
         "A": "Hecate’s",
         "B": "Ceres’",
@@ -6818,19 +6818,19 @@
         "D": "Juno’s"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 16,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 17,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Which war can we associate with the six-time consul, Marcus Valerius Corvus?",
+      "question": "Which war can we associate with the six-time consul, Marcus Valerius Corvus?",
       "options": {
         "A": "First Punic",
         "B": "First Samnite",
@@ -6838,19 +6838,19 @@
         "D": "First Marsic"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 17,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 18,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Which king of Rome may have been handicapped, as his name means “crooked arm?”",
+      "question": "Which king of Rome may have been handicapped, as his name means “crooked arm?”",
       "options": {
         "A": "Numa",
         "B": "Servius Tullius",
@@ -6858,19 +6858,19 @@
         "D": "Romulus"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 18,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 19,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Tarquinius Priscus, though half-Etruscan, he was also half Greek. From which Greek",
+      "question": "Tarquinius Priscus, though half-Etruscan, he was also half Greek. From which Greek city-state did his father, Demaratus, come to Italy?",
       "options": {
         "A": "Thebes",
         "B": "Corinth",
@@ -6878,19 +6878,19 @@
         "D": "Athens"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 19,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 20,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? What chieftain of the Averni was the only Celtic commander to consistently trouble",
+      "question": "What chieftain of the Averni was the only Celtic commander to consistently trouble Caesar—even defeating him at Gergovia?",
       "options": {
         "A": "Ambiorix",
         "B": "Cassivellaunus",
@@ -6898,19 +6898,19 @@
         "D": "Vercingetorix"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 20,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 21,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Who was the Roman senator Pyrrhus tried unsuccessfully to bribe?",
+      "question": "Who was the Roman senator Pyrrhus tried unsuccessfully to bribe?",
       "options": {
         "A": "Fabricius",
         "B": "Calpurnius",
@@ -6918,19 +6918,19 @@
         "D": "Helveticus"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 21,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 22,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Which Scipio defeated Hannibal at the naval battles Eurymedon & Myonessus?",
+      "question": "Which Scipio defeated Hannibal at the naval battles Eurymedon & Myonessus?",
       "options": {
         "A": "Africanus",
         "B": "Asiaticus",
@@ -6938,19 +6938,19 @@
         "D": "Nasica"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 22,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 23,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? The Parable of the Body was a device used by which respected senator to convince the",
+      "question": "The Parable of the Body was a device used by which respected senator to convince the plebeians to return to Rome, ending their first secession?",
       "options": {
         "A": "Opiter Verginius Tricostus",
         "B": "Spurius Cassius Viscellinus",
@@ -6958,19 +6958,19 @@
         "D": "Agrippa Menenius Lenatus"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 23,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 24,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Who was Rome’s successful naval commander at Mylae, their first naval victory of the",
+      "question": "Who was Rome’s successful naval commander at Mylae, their first naval victory of the First Punic War?",
       "options": {
         "A": "Duilius",
         "B": "Claudius Pulcher",
@@ -6978,19 +6978,19 @@
         "D": "Claudius Caudex"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 24,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 25,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Jugurtha opined that Rome was “a city for sale and doomed to a quick destruction",
+      "question": "Jugurtha opined that Rome was “a city for sale and doomed to a quick destruction should it find a buyer” while serving under Scipio Aemilanus where?",
       "options": {
         "A": "Carthage",
         "B": "Corinth",
@@ -6998,19 +6998,19 @@
         "D": "Numantia"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 25,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 26,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? What battle gave Pyrrhus his famed “Pyrrhic Victory” in 279?",
+      "question": "What battle gave Pyrrhus his famed “Pyrrhic Victory” in 279?",
       "options": {
         "A": "Heraclea",
         "B": "Beneventum",
@@ -7018,19 +7018,19 @@
         "D": "Tarentum"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 26,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 27,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? The Senate passed which law that gave Pompey the command against Mithradates VI?",
+      "question": "The Senate passed which law that gave Pompey the command against Mithradates VI?",
       "options": {
         "A": "Lex Gabinia",
         "B": "Lex Manilia",
@@ -7038,19 +7038,19 @@
         "D": "Lex Trebonia"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 27,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 28,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Which Roman was hailed as “The Sword of Rome” during the 2nd Punic War?",
+      "question": "Which Roman was hailed as “The Sword of Rome” during the 2nd Punic War?",
       "options": {
         "A": "Marcus Claudius Marcellus",
         "B": "Aulus Atilius Calatinus",
@@ -7058,19 +7058,19 @@
         "D": "Marcus Minucius Rufus"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 28,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 29,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Which tribune’s persistent vetoing of Tiberius Gracchus’ proposals led to him to be",
+      "question": "Which tribune’s persistent vetoing of Tiberius Gracchus’ proposals led to him to be forcibly removed—breaking Roman law?",
       "options": {
         "A": "Drusus",
         "B": "Hyrcanus",
@@ -7078,19 +7078,19 @@
         "D": "Octavius"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 29,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 30,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? According to Suetonius, Caesar was allied with which other wealthy politician to gain the",
+      "question": "According to Suetonius, Caesar was allied with which other wealthy politician to gain the consulship of 59, which prompted those who feared Caesar to support Bibulus?",
       "options": {
         "A": "Curius",
         "B": "Ahenobarbus",
@@ -7098,19 +7098,19 @@
         "D": "Lucceius"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 30,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 31,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Which patrician replaced Collatinus, became a “friend to the people,” and was so",
+      "question": "Which patrician replaced Collatinus, became a “friend to the people,” and was so beloved and poor that Roman citizens donated toward his funeral?",
       "options": {
         "A": "Postumius",
         "B": "Horatius",
@@ -7118,19 +7118,19 @@
         "D": "Verginius"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 31,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 32,
-      "question": "and tomb—were completely razed to the ground by which Roman general in 89? Shortly before The 12 Tables were codified, what is the name of the plebeian tribune",
+      "question": "Shortly before The 12 Tables were codified, what is the name of the plebeian tribune",
       "options": {
         "A": "Capitolinus",
         "B": "Aebutius",
@@ -7138,19 +7138,19 @@
         "D": "Terentilius"
       },
       "type": "multiple_choice",
-      "section": "and tomb—were completely razed to the ground by which Roman general in 89?",
-      "section_context": "and tomb—were completely razed to the ground by which Roman general in 89?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 32,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 33,
-      "question": "who tried to combat the abuses of the patrician class in 462? Which consul did Marius replace that led to Rome’s defeat of Jugurtha?",
+      "question": "Which consul did Marius replace that led to Rome’s defeat of Jugurtha?",
       "options": {
         "A": "Calpurnius Bestia",
         "B": "Rutilius Rufus",
@@ -7158,19 +7158,19 @@
         "D": "Caecilius Metellus"
       },
       "type": "multiple_choice",
-      "section": "who tried to combat the abuses of the patrician class in 462?",
-      "section_context": "who tried to combat the abuses of the patrician class in 462?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 33,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 34,
-      "question": "who tried to combat the abuses of the patrician class in 462? Which famed hero of the Sublician Bridge has a name that may mean “one-eyed?”",
+      "question": "Which famed hero of the Sublician Bridge has a name that may mean “one-eyed?”",
       "options": {
         "A": "Aebutius Elva",
         "B": "Cloelius",
@@ -7178,19 +7178,19 @@
         "D": "Horatius Cocles"
       },
       "type": "multiple_choice",
-      "section": "who tried to combat the abuses of the patrician class in 462?",
-      "section_context": "who tried to combat the abuses of the patrician class in 462?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 34,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 35,
-      "question": "who tried to combat the abuses of the patrician class in 462? At what battle did Cincinnatus save the Romans and defeat the Aequians?",
+      "question": "At what battle did Cincinnatus save the Romans and defeat the Aequians?",
       "options": {
         "A": "Mt. Vesuvius",
         "B": "Cremera",
@@ -7198,19 +7198,19 @@
         "D": "Lautulae"
       },
       "type": "multiple_choice",
-      "section": "who tried to combat the abuses of the patrician class in 462?",
-      "section_context": "who tried to combat the abuses of the patrician class in 462?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 35,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 36,
-      "question": "who tried to combat the abuses of the patrician class in 462? Rome fought a series of wars against Veii. One Roman family even waged a private war",
+      "question": "Rome fought a series of wars against Veii. One Roman family even waged a private war",
       "options": {
         "A": "Valerii",
         "B": "Horatii",
@@ -7218,19 +7218,19 @@
         "D": "Fabii"
       },
       "type": "multiple_choice",
-      "section": "who tried to combat the abuses of the patrician class in 462?",
-      "section_context": "who tried to combat the abuses of the patrician class in 462?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 36,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 37,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? Tarquinius Superbus finally found refuge in the household of the tyrant of Cumae, but",
+      "question": "Tarquinius Superbus finally found refuge in the household of the tyrant of Cumae, but was soon after murdered by a slave. Who was this ruler of Cumae?",
       "options": {
         "A": "Diodorus",
         "B": "Thrasybulus",
@@ -7238,19 +7238,19 @@
         "D": "Hipparinus"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 37,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 38,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? Which dictator advocated not confronting Hannibal directly, but rather to delay and",
+      "question": "Which dictator advocated not confronting Hannibal directly, but rather to delay and hinder him whenever possible—even earning the agnomen, Cuncator?",
       "options": {
         "A": "Quintus Fabius Maximus",
         "B": "Tiberius Sempronius Longus",
@@ -7258,19 +7258,19 @@
         "D": "Gaius Claudius Nero"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 38,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 39,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? Who was the tyrant of Syrcause who originally hired the Mamertines to help against",
+      "question": "Who was the tyrant of Syrcause who originally hired the Mamertines to help against Carthage and whose successor had to appeal to Pyrrhus of Epirus for help against them?",
       "options": {
         "A": "Heiro I",
         "B": "Timoleon II",
@@ -7278,19 +7278,19 @@
         "D": "Agathocles"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 39,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 40,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? Cicero shared his year of consulship (63) with which other consul?",
+      "question": "Cicero shared his year of consulship (63) with which other consul?",
       "options": {
         "A": "Marcus Agrippa",
         "B": "Antonius Hybrida",
@@ -7298,19 +7298,19 @@
         "D": "Livius Denter"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 40,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 41,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? At what battle of 340 did Publius Decius Mus perform his devotio?",
+      "question": "At what battle of 340 did Publius Decius Mus perform his devotio?",
       "options": {
         "A": "Vesuvius",
         "B": "Trifanum",
@@ -7318,19 +7318,19 @@
         "D": "Caudine Forks"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 41,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 42,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? Who was the Spartan mercenary employed by Carthage during the First Punic War?",
+      "question": "Who was the Spartan mercenary employed by Carthage during the First Punic War?",
       "options": {
         "A": "Xanthippus",
         "B": "Baratheus",
@@ -7338,19 +7338,19 @@
         "D": "Spartacus"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 42,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 43,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? Catiline was able to battle the Republic because he rallied which tribe against Rome?",
+      "question": "Catiline was able to battle the Republic because he rallied which tribe against Rome?",
       "options": {
         "A": "Suebi",
         "B": "Belgae",
@@ -7358,19 +7358,19 @@
         "D": "Allobroges"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 43,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 44,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? Who was the Senate’s first choice to put down the Spartacus’ rebellion, but was already",
+      "question": "Who was the Senate’s first choice to put down the Spartacus’ rebellion, but was already engaged in conflicts in Asia Minor?",
       "options": {
         "A": "Pompey",
         "B": "Lucullus",
@@ -7378,19 +7378,19 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 44,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 45,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? After driving the Celts from Rome, Camillus gave the Senate an impassioned speech to",
+      "question": "After driving the Celts from Rome, Camillus gave the Senate an impassioned speech to dissuade them from abandoning Rome and resettling in which city conquered years before?",
       "options": {
         "A": "Ardea",
         "B": "Falerii",
@@ -7398,19 +7398,19 @@
         "D": "Veii"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 45,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 46,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? Which lieutenant of Caesar’s betrayed him by riding back to Rome before the crossing of",
+      "question": "Which lieutenant of Caesar’s betrayed him by riding back to Rome before the crossing of the Rubicon?",
       "options": {
         "A": "Appuleius",
         "B": "Servilius",
@@ -7418,19 +7418,19 @@
         "D": "Brutus"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 46,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 47,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? Which law passed in 445 allowed the intermarriage between patrician and plebeian?",
+      "question": "Which law passed in 445 allowed the intermarriage between patrician and plebeian?",
       "options": {
         "A": "Lex Canuleia",
         "B": "Lex Hortensia",
@@ -7438,19 +7438,19 @@
         "D": "Lex Ampia"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 47,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 48,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? Under which renowned philosopher and rhetorician did both Cicero and Caesar study",
+      "question": "Under which renowned philosopher and rhetorician did both Cicero and Caesar study while in Greece—perhaps a reason why both were such great orators?",
       "options": {
         "A": "Menecles",
         "B": "Chryssipus",
@@ -7458,19 +7458,19 @@
         "D": "Apollonius"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 48,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 49,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? Which patrician conspired to seize Rome’s armory and graineries and take control of the",
+      "question": "Which patrician conspired to seize Rome’s armory and graineries and take control of the government, but his short-lived rebellion was put down by an aged Cincinnatus?",
       "options": {
         "A": "Lucretius Mucius",
         "B": "Sulpicius Peticus",
@@ -7478,19 +7478,19 @@
         "D": "Lucius Isauricus"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 49,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 50,
-      "question": "against Veii and were almost annihilated because of it. Which clan was that? After the Battle of Arausio in 105, this Roman was captured and burned alive in a wicker",
+      "question": "After the Battle of Arausio in 105, this Roman was captured and burned alive in a wicker cage. It is said that he did not betray Rome, nor did he cry out or scream. Who was this valiant legate?",
       "options": {
         "A": "M. Aurelius Scaurus",
         "B": "Mallius Maximus",
@@ -7498,15 +7498,15 @@
         "D": "Titus Herminius"
       },
       "type": "multiple_choice",
-      "section": "against Veii and were almost annihilated because of it. Which clan was that?",
-      "section_context": "against Veii and were almost annihilated because of it. Which clan was that?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A",
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 50,
-      "has_section": true
+      "has_section": false
     },
     {
       "question_number": 1,
@@ -7550,7 +7550,7 @@
     },
     {
       "question_number": 3,
-      "question": "Which temple was built to celebrate the end of Class Struggle between the",
+      "question": "Which temple was built to celebrate the end of Class Struggle between the patricians and plebeians?",
       "options": {
         "A": "Peace",
         "B": "Concord",
@@ -8030,7 +8030,7 @@
     },
     {
       "question_number": 30,
-      "question": "Who proposed acceptance to the Roman terms for the surrender of Carthage",
+      "question": "Who proposed acceptance to the Roman terms for the surrender of Carthage after the Battle of Zama?",
       "options": {
         "A": "Hasdrubal",
         "B": "Himilco",
@@ -8150,7 +8150,7 @@
     },
     {
       "question_number": 38,
-      "question": "Which law effected the replacement of consuls with military tribunes and",
+      "question": "Which law effected the replacement of consuls with military tribunes and allowed plebians to marry patricians?",
       "options": {
         "A": "Lex Icilia",
         "C": "Lex Hortensia",

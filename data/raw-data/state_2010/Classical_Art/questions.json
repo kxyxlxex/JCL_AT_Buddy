@@ -4,9 +4,7 @@
     "year": "state_2010",
     "subject": "Classical_Art",
     "total_questions": 50,
-    "sections": [
-      "today next to the Senate house?"
-    ]
+    "sections": []
   },
   "questions": [
     {
@@ -56,7 +54,7 @@
     },
     {
       "question_number": 4,
-      "question": "The golden Vaphio cups, which are sometimes considered to be a creation of Minoan artists, has",
+      "question": "The golden Vaphio cups, which are sometimes considered to be a creation of Minoan artists, has what subject running around the outside surface?",
       "options": {
         "A": "a lion hunt",
         "B": "a bull hunt",
@@ -116,7 +114,7 @@
     },
     {
       "question_number": 8,
-      "question": "What order of architecture had a column that sat directly on the stylobate, with tryglyphs and",
+      "question": "What order of architecture had a column that sat directly on the stylobate, with tryglyphs and metopes in the entablature above the column?",
       "options": {
         "A": "Composite",
         "B": "Corinthian",
@@ -146,7 +144,7 @@
     },
     {
       "question_number": 10,
-      "question": "The famous Discobolos (Discus-thrower), though only known from Roman copies, was originally",
+      "question": "The famous Discobolos (Discus-thrower), though only known from Roman copies, was originally made by which Greek sculptor?",
       "options": {
         "A": "Myron",
         "B": "Libon",
@@ -176,7 +174,7 @@
     },
     {
       "question_number": 12,
-      "question": "Which 4th century BC sculptor was known for the shallow S curve of his standing figures most",
+      "question": "Which 4th century BC sculptor was known for the shallow S curve of his standing figures most famously seen in the copies of the Cnidian Aphrodite?",
       "options": {
         "A": "Lysippos",
         "B": "Praxiteles",
@@ -191,7 +189,7 @@
     },
     {
       "question_number": 13,
-      "question": "The Roman Alexander mosaic from the ______ in Pompeii is thought to be a copy of an earlier",
+      "question": "The Roman Alexander mosaic from the ______ in Pompeii is thought to be a copy of an earlier Greek painting that depicts the turning point of the Battle of Issus.",
       "options": {
         "A": "House of the Vettii",
         "B": "House of the Tragic Poet",
@@ -296,7 +294,7 @@
     },
     {
       "question_number": 20,
-      "question": "Julius Caesar started and Augustus completed the building of the Forum Iulium. What building",
+      "question": "Julius Caesar started and Augustus completed the building of the Forum Iulium. What building dominated the northern end of this forum?",
       "options": {
         "A": "Temple of the Divine Julius",
         "B": "Temple of Venus Genetrix",
@@ -311,7 +309,7 @@
     },
     {
       "question_number": 21,
-      "question": "A tomb chamber carved out of the rock to resemble the rooms of a house and containing a",
+      "question": "A tomb chamber carved out of the rock to resemble the rooms of a house and containing a terracotta sarcophagus showing the husband and wife reclining together is most likely one made by which people?",
       "options": {
         "A": "Romans",
         "B": "Greeks",
@@ -341,7 +339,7 @@
     },
     {
       "question_number": 23,
-      "question": "today next to the Senate house? What material was used to make the Etruscan statue of Apollo from Veii?",
+      "question": "What material was used to make the Etruscan statue of Apollo from Veii?",
       "options": {
         "A": "bronze",
         "B": "marble",
@@ -349,14 +347,14 @@
         "D": "terracotta"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 24,
-      "question": "today next to the Senate house? What was placed in the base to Trajan’s Column?",
+      "question": "What was placed in the base to Trajan’s Column?",
       "options": {
         "A": "a golden funerary urn",
         "B": "military records from his campaigns",
@@ -364,14 +362,14 @@
         "D": "A and B"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 25,
-      "question": "today next to the Senate house? Which of the following is NOT one of the artists credited with the statue of Laocoon ?",
+      "question": "Which of the following is NOT one of the artists credited with the statue of Laocoon ?",
       "options": {
         "A": "Hagesandros",
         "B": "Alcamenes",
@@ -379,14 +377,14 @@
         "D": "Athanodorus"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 26,
-      "question": "today next to the Senate house? What is the usual name given to this building?",
+      "question": "What is the usual name given to this building?",
       "options": {
         "A": "Temple of the Artemis",
         "B": "Temple of Athena Pronaia",
@@ -394,14 +392,14 @@
         "D": "Hera II Temple"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #26-29 refer to Slide #1.",
       "correct_answer": "B"
     },
     {
       "question_number": 27,
-      "question": "today next to the Senate house? About what date was this building made?",
+      "question": "About what date was this building made?",
       "options": {
         "A": "475 BC",
         "B": "375 BC",
@@ -409,14 +407,14 @@
         "D": "100 AD"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #26-29 refer to Slide #1.",
       "correct_answer": "B"
     },
     {
       "question_number": 28,
-      "question": "today next to the Senate house? What style(s) of columns decorated this temple?",
+      "question": "What style(s) of columns decorated this temple?",
       "options": {
         "A": "Doric",
         "B": "Doric and Ionic",
@@ -424,14 +422,14 @@
         "D": "Doric and Corinthian"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #26-29 refer to Slide #1.",
       "correct_answer": "D"
     },
     {
       "question_number": 29,
-      "question": "today next to the Senate house? Who was the architect of this building?",
+      "question": "Who was the architect of this building?",
       "options": {
         "A": "Theodorus of Phocaea",
         "B": "Apollophanes",
@@ -439,14 +437,14 @@
         "D": "Athandorus"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #26-29 refer to Slide #1.",
       "correct_answer": "A"
     },
     {
       "question_number": 30,
-      "question": "today next to the Senate house? What style of vase painting is this?",
+      "question": "What style of vase painting is this?",
       "options": {
         "A": "Corinthian Ware",
         "B": "Proto-Attic",
@@ -454,14 +452,14 @@
         "D": "Sub Mycenean"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #30-32 refer to Slide #2.",
       "correct_answer": "C"
     },
     {
       "question_number": 31,
-      "question": "today next to the Senate house? What would this pot have originally contained?",
+      "question": "What would this pot have originally contained?",
       "options": {
         "A": "olive oil",
         "B": "wine",
@@ -469,14 +467,14 @@
         "D": "perfume"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #30-32 refer to Slide #2.",
       "correct_answer": "A"
     },
     {
       "question_number": 32,
-      "question": "today next to the Senate house? At which games would a man have won this amphora?",
+      "question": "At which games would a man have won this amphora?",
       "options": {
         "A": "Nemean",
         "B": "Panathenaic",
@@ -484,14 +482,14 @@
         "D": "Isthmian"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #30-32 refer to Slide #2.",
       "correct_answer": "B"
     },
     {
       "question_number": 33,
-      "question": "today next to the Senate house? What name is generally given to this statue?",
+      "question": "What name is generally given to this statue?",
       "options": {
         "A": "Auxerre Kore",
         "B": "Antenor Kore",
@@ -499,14 +497,14 @@
         "D": "Berlin Kore"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #33-35 refer to Slide #3.",
       "correct_answer": "C"
     },
     {
       "question_number": 34,
-      "question": "today next to the Senate house? What style of sculpture is this?",
+      "question": "What style of sculpture is this?",
       "options": {
         "A": "Severe Classical",
         "B": "Late Classical",
@@ -514,14 +512,14 @@
         "D": "Archaic"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #33-35 refer to Slide #3.",
       "correct_answer": "D"
     },
     {
       "question_number": 35,
-      "question": "today next to the Senate house? What date could be assigned to this statue?",
+      "question": "What date could be assigned to this statue?",
       "options": {
         "A": "620 BC",
         "B": "540 BC",
@@ -529,14 +527,14 @@
         "D": "420 BC"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #33-35 refer to Slide #3.",
       "correct_answer": "B"
     },
     {
       "question_number": 36,
-      "question": "today next to the Senate house? What style of architecture is this?",
+      "question": "What style of architecture is this?",
       "options": {
         "A": "Doric",
         "B": "Ionic",
@@ -544,14 +542,14 @@
         "D": "Tuscan"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #36-40 refer to Slide #4.",
       "correct_answer": "C"
     },
     {
       "question_number": 37,
-      "question": "today next to the Senate house? Where is this temple located?",
+      "question": "Where is this temple located?",
       "options": {
         "A": "Paestum",
         "B": "Miletus",
@@ -559,14 +557,14 @@
         "D": "Argos"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #36-40 refer to Slide #4.",
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "today next to the Senate house? Who started the building of this structure?",
+      "question": "Who started the building of this structure?",
       "options": {
         "A": "Pyrrhus",
         "B": "Antiochus IV of Syria",
@@ -574,14 +572,14 @@
         "D": "Sulla"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #36-40 refer to Slide #4.",
       "correct_answer": "B"
     },
     {
       "question_number": 39,
-      "question": "today next to the Senate house? Which architect’s designs were used to build this structure?",
+      "question": "Which architect’s designs were used to build this structure?",
       "options": {
         "A": "Cossutius",
         "B": "Hippodamus of Miletus",
@@ -589,14 +587,14 @@
         "D": "Mnesicles"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #36-40 refer to Slide #4.",
       "correct_answer": "A"
     },
     {
       "question_number": 40,
-      "question": "today next to the Senate house? During which emperor’s reign was it completed?",
+      "question": "During which emperor’s reign was it completed?",
       "options": {
         "A": "Augustus",
         "B": "Claudius",
@@ -604,14 +602,14 @@
         "D": "Diocletian"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #36-40 refer to Slide #4.",
       "correct_answer": "C"
     },
     {
       "question_number": 41,
-      "question": "today next to the Senate house? What style of vase painting is this?",
+      "question": "What style of vase painting is this?",
       "options": {
         "A": "Proto-Attic",
         "B": "Red Figure",
@@ -619,14 +617,14 @@
         "D": "White Ground"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #41-42 refer to Slide #5.",
       "correct_answer": "B"
     },
     {
       "question_number": 42,
-      "question": "today next to the Senate house? Which painter is credited with this pot?",
+      "question": "Which painter is credited with this pot?",
       "options": {
         "A": "Niobid Painter",
         "B": "Euphronius",
@@ -634,14 +632,14 @@
         "D": "Achilles Painter"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #41-42 refer to Slide #5.",
       "correct_answer": "D"
     },
     {
       "question_number": 43,
-      "question": "today next to the Senate house? From which building was this frieze taken?",
+      "question": "From which building was this frieze taken?",
       "options": {
         "A": "Treasury of the Athenians",
         "B": "Parthenon",
@@ -649,14 +647,14 @@
         "D": "Temple of Delian Apollo"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #43-44 refer to Slide #6.",
       "correct_answer": "B"
     },
     {
       "question_number": 44,
-      "question": "today next to the Senate house? What does this scene show?",
+      "question": "What does this scene show?",
       "options": {
         "A": "The horse race at Delphi",
         "B": "Part of the Panathenaic procession",
@@ -664,14 +662,14 @@
         "D": "The theft of the horses of Rhesus"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #43-44 refer to Slide #6.",
       "correct_answer": "B"
     },
     {
       "question_number": 45,
-      "question": "today next to the Senate house? Of which emperor is this a statue?",
+      "question": "Of which emperor is this a statue?",
       "options": {
         "A": "Augustus",
         "B": "Tiberius",
@@ -679,14 +677,14 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #45-47 refer to Slide #7.",
       "correct_answer": "A"
     },
     {
       "question_number": 46,
-      "question": "today next to the Senate house? Where was this statue found?",
+      "question": "Where was this statue found?",
       "options": {
         "A": "Colline Gate in Rome",
         "B": "On a triumphal arch in Beneventum",
@@ -694,14 +692,14 @@
         "D": "In a villa belonging to Livia"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #45-47 refer to Slide #7.",
       "correct_answer": "B"
     },
     {
       "question_number": 47,
-      "question": "today next to the Senate house? What does the central image of the breastplate show?",
+      "question": "What does the central image of the breastplate show?",
       "options": {
         "A": "Return of the legionary standards lost by Crassus",
         "B": "Recovery of the legionary standards of Varus",
@@ -709,14 +707,14 @@
         "D": "Capture of Decebalus by Trajan"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #45-47 refer to Slide #7.",
       "correct_answer": "A"
     },
     {
       "question_number": 48,
-      "question": "today next to the Senate house? The netlike pattern to the concrete work seen here was known as what?",
+      "question": "The netlike pattern to the concrete work seen here was known as what?",
       "options": {
         "A": "opus incertum",
         "B": "opus laterum",
@@ -724,14 +722,14 @@
         "D": "opus trabeata"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #48 refer to Slide #8.",
       "correct_answer": "C"
     },
     {
       "question_number": 49,
-      "question": "today next to the Senate house? What title is generally given to this work?",
+      "question": "What title is generally given to this work?",
       "options": {
         "A": "The Tetrarchs",
         "B": "Caesars and Augusti",
@@ -739,14 +737,14 @@
         "D": "Lapis Niger"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #49-50 refer to Slide #9.",
       "correct_answer": "A"
     },
     {
       "question_number": 50,
-      "question": "today next to the Senate house? Of what stone is it carved?",
+      "question": "Of what stone is it carved?",
       "options": {
         "A": "basalt",
         "B": "marble",
@@ -754,8 +752,8 @@
         "D": "porphyry"
       },
       "type": "multiple_choice",
-      "section": "today next to the Senate house?",
-      "section_context": "today next to the Senate house?",
+      "section": null,
+      "section_context": null,
       "instruction": "Questions #49-50 refer to Slide #9.",
       "correct_answer": "D"
     }

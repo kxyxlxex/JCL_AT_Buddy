@@ -4,9 +4,7 @@
     "year": "state_2010",
     "subject": "Mythology",
     "total_questions": 50,
-    "sections": [
-      "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the"
-    ]
+    "sections": []
   },
   "questions": [
     {
@@ -26,7 +24,7 @@
     },
     {
       "question_number": 2,
-      "question": "What goddess, born parthogenically from Zeus’ head, was the goddess of wisdom, strategic warfare,",
+      "question": "What goddess, born parthogenically from Zeus’ head, was the goddess of wisdom, strategic warfare, and domestic crafts, and was depicted with a spear, the aegis, olives, and an owl?",
       "options": {
         "A": "Athena",
         "B": "Artemis",
@@ -56,7 +54,7 @@
     },
     {
       "question_number": 4,
-      "question": "What god of warfare was represented by dogs and woodpeckers, was the son of Hera and Zeus, and",
+      "question": "What god of warfare was represented by dogs and woodpeckers, was the son of Hera and Zeus, and had an affair with Aphrodite?",
       "options": {
         "A": "Apollo",
         "B": "Hades",
@@ -101,7 +99,7 @@
     },
     {
       "question_number": 7,
-      "question": "What woman had to perform impossible tasks for Venus, such as separating thousands of grains,",
+      "question": "What woman had to perform impossible tasks for Venus, such as separating thousands of grains, gathering golden fleece from fierce rams, collecting the water of the river Styx, and entering the Underworld to obtain a box of beauty from Proserpina ?",
       "options": {
         "A": "Hebe",
         "B": "Chloris",
@@ -116,7 +114,7 @@
     },
     {
       "question_number": 8,
-      "question": "Which Titan accepted a gift from the gods, Pandora, who had been created by Hephaestus and given",
+      "question": "Which Titan accepted a gift from the gods, Pandora, who had been created by Hephaestus and given many enticing attributes by the other gods?",
       "options": {
         "A": "Prometheus",
         "B": "Atlas",
@@ -176,7 +174,7 @@
     },
     {
       "question_number": 12,
-      "question": "According to Ovid, which of the following did NOT occur when Orpheus sang to Pluto and",
+      "question": "According to Ovid, which of the following did NOT occur when Orpheus sang to Pluto and Proserpina in the Underworld?",
       "options": {
         "A": "Sisyphus sat still on his rock",
         "B": "The Erinyes cried",
@@ -281,7 +279,7 @@
     },
     {
       "question_number": 19,
-      "question": "What ability did Poseidon grant Mestra so that she could help her father Erysichthon feed his",
+      "question": "What ability did Poseidon grant Mestra so that she could help her father Erysichthon feed his insatiable hunger?",
       "options": {
         "A": "Shape-shifting",
         "B": "Seeing into the earth for treasure",
@@ -341,7 +339,7 @@
     },
     {
       "question_number": 23,
-      "question": "What son of Zeus and Aegina prayed to have his island repopulated by men created from ants after",
+      "question": "What son of Zeus and Aegina prayed to have his island repopulated by men created from ants after Hera devastated his land with a plague?",
       "options": {
         "A": "Amycus",
         "B": "Aeacus",
@@ -401,7 +399,7 @@
     },
     {
       "question_number": 27,
-      "question": "What three sisters resisted the worship of Dionysus, were driven mad, tore apart one sister’s son,",
+      "question": "What three sisters resisted the worship of Dionysus, were driven mad, tore apart one sister’s son, Hippasus, and were eventually turned into bats?",
       "options": {
         "A": "Elais, Spermo, & Oino",
         "B": "Merope, Cleothera, & Aedon",
@@ -416,7 +414,7 @@
     },
     {
       "question_number": 28,
-      "question": "According to Euripides’ Orestes, what woman arrived in Argos on the day of Orestes’ trial, only to be",
+      "question": "According to Euripides’ Orestes, what woman arrived in Argos on the day of Orestes’ trial, only to be charge of matricide?",
       "options": {
         "A": "Helen",
         "B": "Polydamna",
@@ -431,7 +429,7 @@
     },
     {
       "question_number": 29,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What ability as a priestess of Hecate did Medea claim to have to the daughters of Pelias?",
+      "question": "What ability as a priestess of Hecate did Medea claim to have to the daughters of Pelias?",
       "options": {
         "A": "She could make inanimate things move",
         "B": "She could turn anything she touched to gold",
@@ -439,14 +437,14 @@
         "D": "She could change men into women"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 30,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What king of Troy refused to pay Apollo and Poseidon for building the walls of the city, which",
+      "question": "What king of Troy refused to pay Apollo and Poseidon for building the walls of the city, which resulted in Troy being attacked by a sea monster and a plague?",
       "options": {
         "A": "Priam",
         "B": "Tros",
@@ -454,14 +452,14 @@
         "D": "Laomedon"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 31,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What baby with injured feet was exposed on Mt. Cithaeron, found by shepherds, and raised by King",
+      "question": "What baby with injured feet was exposed on Mt. Cithaeron, found by shepherds, and raised by King Polybus and Queen Merope as their own son?",
       "options": {
         "A": "Orchomenus",
         "B": "Opheltes",
@@ -469,14 +467,14 @@
         "D": "Orion"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 32,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the Who avenged his son Palamedes’ murder at Troy by causing many wives of Greek heroes to be",
+      "question": "Who avenged his son Palamedes’ murder at Troy by causing many wives of Greek heroes to be unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus?",
       "options": {
         "A": "Nauplius",
         "B": "Palaemon",
@@ -484,14 +482,14 @@
         "D": "Hippocoon"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 33,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the Which of the following men was NOT a teacher of Heracles?",
+      "question": "Which of the following men was NOT a teacher of Heracles?",
       "options": {
         "A": "Castor",
         "B": "Autolycus",
@@ -499,14 +497,14 @@
         "D": "Thespius"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 34,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What daughter of Phorcys and Ceto was the so-called ‘Mother of Monsters,’ because she bore the Prometheus?",
+      "question": "What daughter of Phorcys and Ceto was the so-called ‘Mother of Monsters,’ because she bore the Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus?",
       "options": {
         "A": "Lamia",
         "B": "Echidna",
@@ -514,14 +512,14 @@
         "D": "Delphyne"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 35,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the Which of the following abstract deities was NOT born from Chaos?",
+      "question": "Which of the following abstract deities was NOT born from Chaos?",
       "options": {
         "A": "Erebus",
         "B": "Nyx",
@@ -529,14 +527,14 @@
         "D": "Tartarus"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 36,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What god convinced Hephaestus to release Hera from the trap of the golden throne?",
+      "question": "What god convinced Hephaestus to release Hera from the trap of the golden throne?",
       "options": {
         "A": "Dionysus",
         "B": "Ares",
@@ -544,14 +542,14 @@
         "D": "Apollo"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 37,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What king in Italy was the grandson of Picus and Circe, and abdicated his throne to Aeneas?",
+      "question": "What king in Italy was the grandson of Picus and Circe, and abdicated his throne to Aeneas?",
       "options": {
         "A": "Saturn",
         "B": "Latinus",
@@ -559,14 +557,14 @@
         "D": "Soranus"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 38,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What two men were sent as emissaries to Priam to demand Helen’s return?",
+      "question": "What two men were sent as emissaries to Priam to demand Helen’s return?",
       "options": {
         "A": "Odysseus & Diomedes",
         "B": "Odysseus & Menelaus",
@@ -574,14 +572,14 @@
         "D": "Diomedes & Nestor"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 39,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the After the Epigoni marched on and conquered Thebes, to whom did the Argive army turn over the",
+      "question": "After the Epigoni marched on and conquered Thebes, to whom did the Argive army turn over the rule of Thebes when they left?",
       "options": {
         "A": "Alcmeon",
         "B": "Diomedes",
@@ -589,14 +587,14 @@
         "D": "Sthenelus"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 40,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What aggressive, meddlesome member of Odysseus’ crew escaped Circe’s pig-spell and caused",
+      "question": "What aggressive, meddlesome member of Odysseus’ crew escaped Circe’s pig-spell and caused Odysseus to land on Thrinacia to kill Helius’ cattle?",
       "options": {
         "A": "Eumolpus",
         "B": "Maron",
@@ -604,14 +602,14 @@
         "D": "Eurylochus"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 41,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What Thessalian Greek, upon leaving Troy found a chest containing an image of Dionysus, which",
+      "question": "What Thessalian Greek, upon leaving Troy found a chest containing an image of Dionysus, which had been cursed by Cassandra, and which drove him mad?",
       "options": {
         "A": "Eurypylus",
         "B": "Eumaeon",
@@ -619,14 +617,14 @@
         "D": "Epeius"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 42,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the Which of the brigands conquered by Theseus had a daughter named Perigune?",
+      "question": "Which of the brigands conquered by Theseus had a daughter named Perigune?",
       "options": {
         "A": "Corynetes",
         "B": "Pityocamptes",
@@ -634,14 +632,14 @@
         "D": "Cercyon"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 43,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What nymph, a companion of Artemis, did Minos pursue for nine months, until, in order to avoid his",
+      "question": "What nymph, a companion of Artemis, did Minos pursue for nine months, until, in order to avoid his advances, she jumped off a cliff into the sea, but was saved by being caught in fishermen’s nets?",
       "options": {
         "A": "Britomartis",
         "B": "Chione",
@@ -649,14 +647,14 @@
         "D": "Niobe"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 44,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What Roman god was a deity of fertility and agriculture and was thought to protect crops against",
+      "question": "What Roman god was a deity of fertility and agriculture and was thought to protect crops against diseases? Sacrifices to him would be red in color as that was the color of wheat rust.",
       "options": {
         "A": "Jupiter Indiges",
         "B": "Robigus",
@@ -664,14 +662,14 @@
         "D": "Statanus"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 45,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What Greek warrior took Helenus, one of Troy’s prophets, as a slave after the Trojan War, and was",
+      "question": "What Greek warrior took Helenus, one of Troy’s prophets, as a slave after the Trojan War, and was advised by this seer not to travel home by sea, but to return by land instead?",
       "options": {
         "A": "Diomedes",
         "B": "Neoptolemus",
@@ -679,14 +677,14 @@
         "D": "Ajax the Lesser"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 46,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the For what event did Penelope weave the shroud with which she delayed the suitors?",
+      "question": "For what event did Penelope weave the shroud with which she delayed the suitors?",
       "options": {
         "A": "Telemachus’ wedding",
         "B": "Odysseus’ return",
@@ -694,14 +692,14 @@
         "D": "Laertes’ funeral"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 47,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the What brother of Deianeira gave Heracles permission to marry his sister from the Underworld?",
+      "question": "What brother of Deianeira gave Heracles permission to marry his sister from the Underworld?",
       "options": {
         "A": "Oeneus",
         "B": "Meleager",
@@ -709,14 +707,14 @@
         "D": "Aetolus"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 48,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the Salmacis was one of what kind of atypical naiads who lived in particularly dangerous rivers?",
+      "question": "Salmacis was one of what kind of atypical naiads who lived in particularly dangerous rivers?",
       "options": {
         "A": "Epimeliads",
         "B": "Napaeae",
@@ -724,14 +722,14 @@
         "D": "Limnades"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 49,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the According to Ovid, what mortal playmate of the child Zeus was turned into magnetic stone for",
+      "question": "According to Ovid, what mortal playmate of the child Zeus was turned into magnetic stone for saying that Zeus was mortal?",
       "options": {
         "A": "Cerambus",
         "B": "Caunus",
@@ -739,14 +737,14 @@
         "D": "Cebren"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 50,
-      "question": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the When he created mankind, Prometheus created a series of clay human prototypes for Zeus’",
+      "question": "When he created mankind, Prometheus created a series of clay human prototypes for Zeus’ was the name of this clay proto-human, whom Zeus kidnapped and turned into the planet Jupiter?",
       "options": {
         "A": "Phaenon",
         "B": "Paraebius",
@@ -754,8 +752,8 @@
         "D": "Hierax"
       },
       "type": "multiple_choice",
-      "section": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
-      "section_context": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     }

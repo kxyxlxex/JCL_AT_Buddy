@@ -5,9 +5,9 @@
     "subject": "Mythology",
     "total_questions": 50,
     "sections": [
-      "Choose the best possible answer.",
       "For 46-50 given the person/creature killed give its killer.",
-      "Match the mythological entities with their other name"
+      "Match the mythological entities with their other name",
+      "Choose the best possible answer."
     ]
   },
   "questions": [
@@ -118,7 +118,7 @@
     },
     {
       "question_number": 8,
-      "question": "Choose the best possible answer. What brigand was known for feeding people to a man-eating turtle while he had",
+      "question": "Choose the best possible answer. What brigand was known for feeding people to a man-eating turtle while he had them wash his feet?",
       "options": {
         "A": "Sciron",
         "B": "Sinis",
@@ -148,7 +148,7 @@
     },
     {
       "question_number": 10,
-      "question": "Choose the best possible answer. Andromeda was engaged to her uncle when she married Perseus. What was",
+      "question": "Choose the best possible answer. Andromeda was engaged to her uncle when she married Perseus. What was her uncle’s name?",
       "options": {
         "A": "Perses",
         "B": "Cepheus",
@@ -223,7 +223,7 @@
     },
     {
       "question_number": 15,
-      "question": "Choose the best possible answer. According to Ovid, into what were the daughters of Oeneus changed after the",
+      "question": "Choose the best possible answer. According to Ovid, into what were the daughters of Oeneus changed after the death of Meleager?",
       "options": {
         "A": "hoopoes",
         "B": "bats",
@@ -298,7 +298,7 @@
     },
     {
       "question_number": 20,
-      "question": "Choose the best possible answer. When the gods fled to Egypt to escape Typhon, which was not an animal one of",
+      "question": "Choose the best possible answer. When the gods fled to Egypt to escape Typhon, which was not an animal one of them transformed into?",
       "options": {
         "A": "ram",
         "B": "ibis",
@@ -328,7 +328,7 @@
     },
     {
       "question_number": 22,
-      "question": "Choose the best possible answer. Who fought both as one of the Epigoni and at Troy, and wounded both Ares and",
+      "question": "Choose the best possible answer. Who fought both as one of the Epigoni and at Troy, and wounded both Ares and Aphrodite in the Trojan War?",
       "options": {
         "A": "Alcmeon",
         "B": "Protesilaus",
@@ -343,7 +343,7 @@
     },
     {
       "question_number": 23,
-      "question": "Choose the best possible answer. Who was the only one of the Seven Against Thebes to survive, thanks in part to",
+      "question": "Choose the best possible answer. Who was the only one of the Seven Against Thebes to survive, thanks in part to his magic horse, Arion?",
       "options": {
         "A": "Parthenopaeus",
         "B": "Amphiaraus",
@@ -358,7 +358,7 @@
     },
     {
       "question_number": 24,
-      "question": "Choose the best possible answer. What name was shared by the following characters from mythology: a son of",
+      "question": "Choose the best possible answer. What name was shared by the following characters from mythology: a son of Antenor who fought in the Trojan War, Andromeda’s fiancée according to some sources, the father of Argus Panoptes, and the father of Cadmus.",
       "options": {
         "A": "Creon",
         "B": "Agenor",
@@ -373,7 +373,7 @@
     },
     {
       "question_number": 25,
-      "question": "Choose the best possible answer. What drunken companion of Dionysus did Midas protect and entertain when he",
+      "question": "Choose the best possible answer. What drunken companion of Dionysus did Midas protect and entertain when he was separated from the god?",
       "options": {
         "A": "Icarius",
         "B": "Silenus",
@@ -388,7 +388,7 @@
     },
     {
       "question_number": 26,
-      "question": "Choose the best possible answer. What wife of Neleus was the only daughter of Niobe to survive Apollo and",
+      "question": "Choose the best possible answer. What wife of Neleus was the only daughter of Niobe to survive Apollo and Artemis’ slaughter?",
       "options": {
         "A": "Chione",
         "B": "Chryse",
@@ -418,7 +418,7 @@
     },
     {
       "question_number": 28,
-      "question": "Choose the best possible answer. Who was Paris’ first wife, who refused to heal him after he was wounded in the",
+      "question": "Choose the best possible answer. Who was Paris’ first wife, who refused to heal him after he was wounded in the Trojan War?",
       "options": {
         "A": "Oenone",
         "B": "Hecuba",
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 29,
-      "question": "Choose the best possible answer. Into what did Latona change the Lycian peasants who refused to let her drink",
+      "question": "Choose the best possible answer. Into what did Latona change the Lycian peasants who refused to let her drink water when she was being pursued by Python?",
       "options": {
         "A": "trees",
         "B": "gnats",
@@ -463,7 +463,7 @@
     },
     {
       "question_number": 31,
-      "question": "Choose the best possible answer. The Areopagus was named because Ares was prosecuted there for the murder",
+      "question": "Choose the best possible answer. The Areopagus was named because Ares was prosecuted there for the murder of what son of Poseidon?",
       "options": {
         "A": "Euphemus",
         "B": "Butes",
@@ -478,7 +478,7 @@
     },
     {
       "question_number": 32,
-      "question": "Choose the best possible answer. Which of the following did NOT win a prize at an event at Anchises’ funeral",
+      "question": "Choose the best possible answer. Which of the following did NOT win a prize at an event at Anchises’ funeral games in book V of the Aeneid?",
       "options": {
         "A": "Cloanthus",
         "B": "Euryalus",
@@ -493,7 +493,7 @@
     },
     {
       "question_number": 33,
-      "question": "Choose the best possible answer. Which of the following did NOT win an event at Patroclus’ funeral games in book",
+      "question": "Choose the best possible answer. Which of the following did NOT win an event at Patroclus’ funeral games in book XXIII of the Iliad?",
       "options": {
         "A": "Eumelus",
         "B": "Epeus",
@@ -508,7 +508,7 @@
     },
     {
       "question_number": 34,
-      "question": "Choose the best possible answer. What pair of brothers either died of exhaustion while chasing the harpies away",
+      "question": "Choose the best possible answer. What pair of brothers either died of exhaustion while chasing the harpies away from King Phineus or were killed by Heracles after he found out they convinced the Argonauts to leave him?",
       "options": {
         "A": "Idas and Lynceus",
         "C": "Zetes and Calaias",
@@ -523,7 +523,7 @@
     },
     {
       "question_number": 35,
-      "question": "Choose the best possible answer. Who accidentally killed his wife, Procris, with an infallible spear because he",
+      "question": "Choose the best possible answer. Who accidentally killed his wife, Procris, with an infallible spear because he mistakenly thought she was a wild animal?",
       "options": {
         "A": "Pandion",
         "B": "Cephalus",
@@ -538,7 +538,7 @@
     },
     {
       "question_number": 36,
-      "question": "Choose the best possible answer. What member of Odysseus’ crew did Aeneas save from the island of the",
+      "question": "Choose the best possible answer. What member of Odysseus’ crew did Aeneas save from the island of the Cyclopes in the Aeneid?",
       "options": {
         "A": "Elpenor",
         "B": "Eurylochus",
@@ -553,7 +553,7 @@
     },
     {
       "question_number": 37,
-      "question": "Choose the best possible answer. During the sack of Troy, who angered Athena by defiling Cassandra in the",
+      "question": "Choose the best possible answer. During the sack of Troy, who angered Athena by defiling Cassandra in the goddess’s temple?",
       "options": {
         "A": "Ajax the Greater",
         "B": "Teucer",
@@ -598,7 +598,7 @@
     },
     {
       "question_number": 40,
-      "question": "Choose the best possible answer. Who was turned into the sea goddess Leucothea after she jumped into the sea",
+      "question": "Choose the best possible answer. Who was turned into the sea goddess Leucothea after she jumped into the sea with her son, Melicertes?",
       "options": {
         "A": "Semele",
         "B": "Ino",
@@ -613,7 +613,7 @@
     },
     {
       "question_number": 41,
-      "question": "Choose the best possible answer. Who was the father of Callisto who was changed into a wolf because he fed",
+      "question": "Choose the best possible answer. Who was the father of Callisto who was changed into a wolf because he fed Zeus human flesh?",
       "options": {
         "A": "Lycurgus",
         "B": "Lycus",
@@ -628,7 +628,7 @@
     },
     {
       "question_number": 42,
-      "question": "Choose the best possible answer. What Greek hero carried off Helen to be his bride because he wanted to marry",
+      "question": "Choose the best possible answer. What Greek hero carried off Helen to be his bride because he wanted to marry a daughter of Zeus?",
       "options": {
         "A": "Menelaus",
         "B": "Peirithous",
@@ -643,7 +643,7 @@
     },
     {
       "question_number": 43,
-      "question": "Choose the best possible answer. Who tricked Odysseus into proving his sanity, thus making the Ithacan fit for",
+      "question": "Choose the best possible answer. Who tricked Odysseus into proving his sanity, thus making the Ithacan fit for service in the Trojan War?",
       "options": {
         "A": "Ajax the Lesser",
         "B": "Sinon",

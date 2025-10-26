@@ -5,11 +5,11 @@
     "subject": "Derivatives_II",
     "total_questions": 45,
     "sections": [
+      "Choose the word derived from the same Latin root as the given word.",
       "Choose the response which means the same as the underlined word.",
       "Choose the English word which is derived from the given Latin word.",
-      "Choose the Latin word from which the given English word is derived.",
       "Choose the meaning of the Latin word from which the English word is",
-      "Choose the word derived from the same Latin root as the given word."
+      "Choose the Latin word from which the given English word is derived."
     ]
   },
   "questions": [
@@ -150,7 +150,7 @@
     },
     {
       "question_number": 10,
-      "question": "Choose the response which means the same as the underlined word. The senator’s speech was rendered impotent by the subsequent scandal derived.",
+      "question": "Choose the response which means the same as the underlined word. The senator’s speech was rendered impotent by the subsequent scandal revealing his office’s corruption. derived.",
       "options": {
         "A": "confusing",
         "B": "hypocritical",

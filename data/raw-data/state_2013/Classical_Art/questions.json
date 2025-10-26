@@ -4,14 +4,12 @@
     "year": "state_2013",
     "subject": "Classical_Art",
     "total_questions": 50,
-    "sections": [
-      "N.b. For questions 1-30, please refer to the slides on the powerpoint"
-    ]
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 1: The building in the picture is best known as…",
+      "question": "Image 1: The building in the picture is best known as…",
       "options": {
         "A": "the Erechtheion",
         "B": "the Pantheon",
@@ -19,14 +17,14 @@
         "D": "the Parthenon"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 2,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 1: The building as it now stands was built during the reign of…",
+      "question": "Image 1: The building as it now stands was built during the reign of…",
       "options": {
         "A": "Hadrian",
         "B": "Trajan",
@@ -34,14 +32,14 @@
         "D": "Antoninus Pius"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 3,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 1: According to the inscription over the porch, an earlier version of this building was built",
+      "question": "Image 1: According to the inscription over the porch, an earlier version of this building was built during the reign of…",
       "options": {
         "A": "Julius Caesar",
         "B": "Nero",
@@ -49,14 +47,14 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 4,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 2: This sculpture is usually attributed to the artist…",
+      "question": "Image 2: This sculpture is usually attributed to the artist…",
       "options": {
         "A": "Praxitiles",
         "B": "Scopas",
@@ -64,14 +62,14 @@
         "D": "Myron"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 5,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 2: The figures in this work are usually identified as…",
+      "question": "Image 2: The figures in this work are usually identified as…",
       "options": {
         "A": "Zeus and Ganymede",
         "B": "Hermes and Dionysus",
@@ -79,14 +77,14 @@
         "D": "Aeneas and Ascanius"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 6,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 3: These pottery vessels artistically belong to which period?",
+      "question": "Image 3: These pottery vessels artistically belong to which period?",
       "options": {
         "A": "Minoan",
         "B": "Archaic",
@@ -94,14 +92,14 @@
         "D": "Mycenaean"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 7,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 3: The shape of these vessels are commonly known as…",
+      "question": "Image 3: The shape of these vessels are commonly known as…",
       "options": {
         "A": "Skyphoi",
         "B": "Stirrup Jars",
@@ -109,14 +107,14 @@
         "D": "Amphorae"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 8,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 4: This beautiful wall fresco belongs to which of the following stylistic groups?",
+      "question": "Image 4: This beautiful wall fresco belongs to which of the following stylistic groups?",
       "options": {
         "A": "Etruscan",
         "B": "Minoan",
@@ -124,14 +122,14 @@
         "D": "Pompeiian"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 9,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 4: Where was this wall painting found?",
+      "question": "Image 4: Where was this wall painting found?",
       "options": {
         "A": "Pompeii",
         "B": "Crete",
@@ -139,14 +137,14 @@
         "D": "Dylos"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 10,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 5: Shows a front view of the…",
+      "question": "Image 5: Shows a front view of the…",
       "options": {
         "A": "Altar of Aphrodite",
         "B": "Altar of the 12 Gods",
@@ -154,14 +152,14 @@
         "D": "Altar of Peace"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 11,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 5: This altar was commissioned during the reign of…",
+      "question": "Image 5: This altar was commissioned during the reign of…",
       "options": {
         "A": "Julius Caesar",
         "B": "Augustus",
@@ -169,14 +167,14 @@
         "D": "Caligula"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 12,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 6: Shows an example of the",
+      "question": "Image 6: Shows an example of the",
       "options": {
         "A": "1st Pompeiian style",
         "B": "2nd Pompeiian style",
@@ -184,14 +182,14 @@
         "D": "4th Pompeiian style"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 13,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 7: This temple is in the…",
+      "question": "Image 7: This temple is in the…",
       "options": {
         "A": "Corinthian Order",
         "B": "Tuscan order",
@@ -199,14 +197,14 @@
         "D": "Ionic Order"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 14,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 7: is an example of",
+      "question": "Image 7: is an example of",
       "options": {
         "A": "Prostyle temple",
         "B": "Hexastyle temple",
@@ -214,14 +212,14 @@
         "D": "Tholos Temple"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 15,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 7: This temple located in the Athenian Agora, is dedicated to the god(dess)…",
+      "question": "Image 7: This temple located in the Athenian Agora, is dedicated to the god(dess)…",
       "options": {
         "A": "Apollo",
         "B": "Hera",
@@ -229,14 +227,14 @@
         "D": "Hephaestus"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 16,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 8: This is all that remains of a colossal statue of the emperor….",
+      "question": "Image 8: This is all that remains of a colossal statue of the emperor….",
       "options": {
         "A": "Hadrian",
         "B": "Constantine I",
@@ -244,14 +242,14 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 17,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 9: depicts a lifesize image of the emperor",
+      "question": "Image 9: depicts a lifesize image of the emperor",
       "options": {
         "A": "Augustus",
         "B": "Nero",
@@ -259,14 +257,14 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 18,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 9: The scene depicted on the breastplate is believed to illustrate..",
+      "question": "Image 9: The scene depicted on the breastplate is believed to illustrate..",
       "options": {
         "A": "The defeat of Brutus’s army",
         "B": "The surrender of Marc Anthony’s Fleet",
@@ -274,14 +272,14 @@
         "D": "The return of standards lost to the Parthians"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 19,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 10: Found off the island of Samothrace, this beautiful sculpture is believed to depict the goddess…",
+      "question": "Image 10: Found off the island of Samothrace, this beautiful sculpture is believed to depict the goddess…",
       "options": {
         "A": "Aphrodite",
         "B": "Nike",
@@ -289,14 +287,14 @@
         "D": "Artemis"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 20,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 10: is in the…",
+      "question": "Image 10: is in the…",
       "options": {
         "A": "Orientalizing Style",
         "B": "High Classical Style",
@@ -304,14 +302,14 @@
         "D": "Archaic Style"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 21,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 11: This unusual temple is called the…",
+      "question": "Image 11: This unusual temple is called the…",
       "options": {
         "A": "Propylaea",
         "B": "Parthenon",
@@ -319,14 +317,14 @@
         "D": "Erechtheion"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 22,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 11: This temple was primarily dedicated to..",
+      "question": "Image 11: This temple was primarily dedicated to..",
       "options": {
         "A": "Zeus and Hera",
         "B": "Apollo and Artemis",
@@ -334,14 +332,14 @@
         "D": "Aphrodite and Ares"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 23,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 11: The female figures acting as support columns for the south porch are called…",
+      "question": "Image 11: The female figures acting as support columns for the south porch are called…",
       "options": {
         "A": "the Caryatids",
         "B": "the Hydrophore",
@@ -349,14 +347,14 @@
         "D": "the Graces"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 24,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 12 depicts a Roman",
+      "question": "Image 12 depicts a Roman",
       "options": {
         "A": "temple",
         "B": "theater",
@@ -364,14 +362,14 @@
         "D": "circus"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 25,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 12: This famous building was completed and dedicated during the reign of…",
+      "question": "Image 12: This famous building was completed and dedicated during the reign of…",
       "options": {
         "A": "Caligula",
         "B": "Nero",
@@ -379,14 +377,14 @@
         "D": "Titus"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 26,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 12: Name the three architectural orders used in this structure in ascending order.",
+      "question": "Image 12: Name the three architectural orders used in this structure in ascending order.",
       "options": {
         "A": "Tuscan, Ionic, Corinthian",
         "B": "Ionic, Corinthian, Tuscan",
@@ -394,14 +392,14 @@
         "D": "Tuscan, Corinthian, Ionic"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 27,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 13 is an example of which style of vase painting?",
+      "question": "Image 13 is an example of which style of vase painting?",
       "options": {
         "A": "Black-Figure",
         "B": "Red-Figure",
@@ -409,14 +407,14 @@
         "D": "Bilingual"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 28,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 13: The artist of this famous work is known as",
+      "question": "Image 13: The artist of this famous work is known as",
       "options": {
         "A": "Exekias",
         "B": "Euphronius",
@@ -424,14 +422,14 @@
         "D": "The Niobid Painter"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 29,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 14: What famous archaeologist, when he discovered this beautiful gold mask, is reported to",
+      "question": "Image 14: What famous archaeologist, when he discovered this beautiful gold mask, is reported to have said “I have looked upon the face of Agamemnon”?",
       "options": {
         "A": "Sir Arthur Evans",
         "B": "Spiridon Marinatos",
@@ -439,14 +437,14 @@
         "D": "Carl Blegen"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 30,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Image 14: Where was this beautiful mask found?",
+      "question": "Image 14: Where was this beautiful mask found?",
       "options": {
         "A": "Mycenae",
         "B": "Knossos",
@@ -454,14 +452,14 @@
         "D": "Pylos"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 31,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint The Francois Vase, painted by Kleitias, depicts the wedding of ____________.",
+      "question": "The Francois Vase, painted by Kleitias, depicts the wedding of ____________.",
       "options": {
         "A": "Cadmus & Harmonia",
         "B": "Perithuous & Hippodamia",
@@ -469,14 +467,14 @@
         "D": "Jason & Medea"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 32,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Name the Emperor who commissioned the building of an Imperial Forum in Rome that included a",
+      "question": "Name the Emperor who commissioned the building of an Imperial Forum in Rome that included a market building several stories high and a commemorative column?",
       "options": {
         "A": "Trajan",
         "B": "Nerva",
@@ -484,14 +482,14 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 33,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint The famous bronze statue commonly referred to as “The Capitoline Wolf” alludes to…",
+      "question": "The famous bronze statue commonly referred to as “The Capitoline Wolf” alludes to…",
       "options": {
         "A": "the establishment of the Lupercalia festival",
         "B": "the founding of Rome",
@@ -499,14 +497,14 @@
         "D": "the death of Julius Caesar"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 34,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Who was the artist famous for his monumental statues of Zeus at Olympia and Athena at Athens?",
+      "question": "Who was the artist famous for his monumental statues of Zeus at Olympia and Athena at Athens?",
       "options": {
         "A": "Phidias",
         "B": "Apollodorus",
@@ -514,14 +512,14 @@
         "D": "Kallikrates"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 35,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Roman wall construction made up of diamond shaped bricks set in cement at a 45 degree angle so",
+      "question": "Roman wall construction made up of diamond shaped bricks set in cement at a 45 degree angle so as to create a diagonal pattern is called…",
       "options": {
         "A": "opus incertum",
         "B": "opus signinum",
@@ -529,14 +527,14 @@
         "D": "opus reticulatum"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 36,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Which of the following sites was NOT preserved due to the eruption of Mt. Vesuvius in 79 A.D.?",
+      "question": "Which of the following sites was NOT preserved due to the eruption of Mt. Vesuvius in 79 A.D.?",
       "options": {
         "A": "Villa Jovis",
         "B": "Villa of the Mysteries",
@@ -544,14 +542,14 @@
         "D": "House of the Surgeon"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 37,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Which answer most closely matches the meaning of “kouros”?",
+      "question": "Which answer most closely matches the meaning of “kouros”?",
       "options": {
         "A": "a male or female statue with all weight on one foot creating a dramatic S-curve of the body",
         "B": "a statue of a male or female seated as on a throne or in a position of authority",
@@ -559,14 +557,14 @@
         "D": "a statue of a clothed female standing upright facing forward"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint In the Forum Romanum in Rome, the temple with only three columns still standing is …",
+      "question": "In the Forum Romanum in Rome, the temple with only three columns still standing is …",
       "options": {
         "A": "The Temple of Castor and Pollux",
         "B": "The Temple of Jupiter Optimus Maximus",
@@ -574,14 +572,14 @@
         "D": "The Temple of Mars Ultor"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 39,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint The famous Greek statue by Lysippos depicting a young nude male holding a spear is called the…",
+      "question": "The famous Greek statue by Lysippos depicting a young nude male holding a spear is called the…",
       "options": {
         "A": "Diskobolus",
         "B": "Doryphoros",
@@ -589,14 +587,14 @@
         "D": "Diadoumenos"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 40,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint In Classical architecture the pediment was the…",
+      "question": "In Classical architecture the pediment was the…",
       "options": {
         "A": "the triangular section at the top of the temple often decorated with figural sculpture.",
         "B": "part of the Doric frieze made up of decorative slabs usually carved in high relief",
@@ -604,14 +602,14 @@
         "D": "the top step of a building leading to the front entrance"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 41,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Unique soil found near the Bay of Naples which was a key ingredient in Roman concrete was called…",
+      "question": "Unique soil found near the Bay of Naples which was a key ingredient in Roman concrete was called…",
       "options": {
         "A": "terra sigillata",
         "B": "terracotta",
@@ -619,14 +617,14 @@
         "D": "pozzolano"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 42,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint The great Temple of Zeus in Athens was first planned in the late 6th century B.C. as a __________",
+      "question": "The great Temple of Zeus in Athens was first planned in the late 6th century B.C. as a __________",
       "options": {
         "A": "Doric ...Ionic",
         "B": "Doric...Corinthian",
@@ -634,14 +632,14 @@
         "D": "Tuscan…Ionic"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 4,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Colosseum",
+      "question": "Colosseum",
       "options": {
         "A": "1, 2, 3, 4",
         "B": "3, 2, 1, 4",
@@ -649,14 +647,14 @@
         "D": "4, 3, 2,"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
       "correct_answer": "A"
     },
     {
       "question_number": 44,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Which Triumphal Arch stands directly adjacent to the Colosseum?",
+      "question": "Which Triumphal Arch stands directly adjacent to the Colosseum?",
       "options": {
         "A": "The Arch of Titus",
         "B": "The Arch of Septimius Severus",
@@ -664,14 +662,14 @@
         "D": "The Arch Hadrian"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
       "correct_answer": "C"
     },
     {
       "question_number": 45,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint This emperor was often depicted in art wearing a beard. He played a major role in making beards",
+      "question": "This emperor was often depicted in art wearing a beard. He played a major role in making beards fashionable again among the Roman Aristocracy.",
       "options": {
         "A": "Hadrian",
         "B": "Trajan",
@@ -679,14 +677,14 @@
         "D": "Antoninus Pius"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
       "correct_answer": "A"
     },
     {
       "question_number": 4,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint Kleobis and Biton",
+      "question": "Kleobis and Biton",
       "options": {
         "A": "4, 2, 3,1",
         "B": "2, 3, 1, 4",
@@ -694,14 +692,14 @@
         "D": "4, 1, 2,"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
       "correct_answer": "A"
     },
     {
       "question_number": 47,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint What is the name of the tiny pieces made of stone, glass or terracotta used in making Roman mosaics?",
+      "question": "What is the name of the tiny pieces made of stone, glass or terracotta used in making Roman mosaics?",
       "options": {
         "A": "oxides",
         "B": "pastels",
@@ -709,14 +707,14 @@
         "D": "pebbles"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
       "correct_answer": "C"
     },
     {
       "question_number": 4,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint The Vapheio Cups",
+      "question": "The Vapheio Cups",
       "options": {
         "A": "4, 3, 1, 2",
         "B": "3, 2, 1, 4",
@@ -724,14 +722,14 @@
         "D": "4, 1, 2,"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
       "correct_answer": "A"
     },
     {
       "question_number": 49,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint The Treasury of Atreus at Mycenae served as a…",
+      "question": "The Treasury of Atreus at Mycenae served as a…",
       "options": {
         "A": "Palace",
         "B": "Gate",
@@ -739,14 +737,14 @@
         "D": "barracks"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
       "correct_answer": "C"
     },
     {
       "question_number": 50,
-      "question": "N.b. For questions 1-30, please refer to the slides on the powerpoint In Roman architecture, these buildings functioned primarily as a courthouse, and were later",
+      "question": "In Roman architecture, these buildings functioned primarily as a courthouse, and were later",
       "options": {
         "A": "thermae",
         "B": "insulae",
@@ -754,8 +752,8 @@
         "D": "basilicae"
       },
       "type": "multiple_choice",
-      "section": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
-      "section_context": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
       "correct_answer": "D"
     }

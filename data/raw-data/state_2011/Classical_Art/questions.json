@@ -4,16 +4,12 @@
     "year": "state_2011",
     "subject": "Classical_Art",
     "total_questions": 50,
-    "sections": [
-      "the courtyard of the Capitoline Museum?",
-      "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found"
-    ]
+    "sections": []
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint What artistic technique does this work employ?",
+      "question": "What artistic technique does this work employ?",
       "options": {
         "A": "mosaic",
         "B": "cameo",
@@ -21,14 +17,14 @@
         "D": "secco"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 2,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint What is the subject matter of the work?",
+      "question": "What is the subject matter of the work?",
       "options": {
         "A": "Eteocles and Polynices at Thebes",
         "B": "Caesar and Pompey at Pharsalus",
@@ -36,14 +32,14 @@
         "D": "Alexander and Darius at Issus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 3,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Where in Pompeii was the work discovered?",
+      "question": "Where in Pompeii was the work discovered?",
       "options": {
         "A": "The House of the Vettii",
         "B": "The House of the Faun",
@@ -51,14 +47,14 @@
         "D": "The Villa of the Mysteries"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 4,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Classify the work by the civilization/area that produced it.",
+      "question": "Classify the work by the civilization/area that produced it.",
       "options": {
         "A": "Minoan",
         "B": "Mycenaean",
@@ -66,14 +62,14 @@
         "D": "Etruscan"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 5,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint What is the medium of the work?",
+      "question": "What is the medium of the work?",
       "options": {
         "A": "terra cotta",
         "B": "tufa",
@@ -81,14 +77,14 @@
         "D": "porphyry"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 6,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Where would the work have been placed?",
+      "question": "Where would the work have been placed?",
       "options": {
         "A": "a tomb",
         "B": "a temple",
@@ -96,14 +92,14 @@
         "D": "a theater"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 7,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Of which architectural order is this a model?",
+      "question": "Of which architectural order is this a model?",
       "options": {
         "A": "Corinthian",
         "B": "Doric",
@@ -111,14 +107,14 @@
         "D": "Tuscan"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 8,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint What portion of the entablature, composed of triglyphs and metopes, is labeled “A”?",
+      "question": "What portion of the entablature, composed of triglyphs and metopes, is labeled “A”?",
       "options": {
         "A": "architrave",
         "B": "cornice",
@@ -126,14 +122,14 @@
         "D": "pediment"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 9,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint What portion of the capital, upon which the entablature rested, is labeled “B”?",
+      "question": "What portion of the capital, upon which the entablature rested, is labeled “B”?",
       "options": {
         "A": "stylobate",
         "B": "plinth",
@@ -141,14 +137,14 @@
         "D": "echinus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 10,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Assuming that the scene on the metope is from the Parthenon, on which side did it appear?",
+      "question": "Assuming that the scene on the metope is from the Parthenon, on which side did it appear?",
       "options": {
         "A": "North",
         "B": "South",
@@ -156,14 +152,14 @@
         "D": "West"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 11,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint This vessel dates to which Greek artistic period?",
+      "question": "This vessel dates to which Greek artistic period?",
       "options": {
         "A": "Geometric",
         "B": "Orientalizing",
@@ -171,14 +167,14 @@
         "D": "Classical"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 12,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Give the technical name for a mixing bowl, of which this is an example.",
+      "question": "Give the technical name for a mixing bowl, of which this is an example.",
       "options": {
         "A": "lekythos",
         "B": "amphora",
@@ -186,14 +182,14 @@
         "D": "krater"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 13,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint The repeated turning path of the decorative border at the top of the piece is a(n) __________.",
+      "question": "The repeated turning path of the decorative border at the top of the piece is a(n) __________.",
       "options": {
         "A": "meander",
         "B": "reticulatum",
@@ -201,14 +197,14 @@
         "D": "volute"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 14,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Who is identified as the painter of this piece?",
+      "question": "Who is identified as the painter of this piece?",
       "options": {
         "A": "the Achilles Painter",
         "B": "the Dipylon Master",
@@ -216,14 +212,14 @@
         "D": "Psiax"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 15,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Perhaps the most famous Hellenistic ensemble, where was the original of this Altar of Zeus?",
+      "question": "Perhaps the most famous Hellenistic ensemble, where was the original of this Altar of Zeus?",
       "options": {
         "A": "Athens",
         "B": "Epidauros",
@@ -231,14 +227,14 @@
         "D": "Pergamon"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 16,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint To which of the four Pompeian Styles does this fresco belong?",
+      "question": "To which of the four Pompeian Styles does this fresco belong?",
       "options": {
         "A": "First",
         "B": "Second",
@@ -246,14 +242,14 @@
         "D": "Fourth"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 17,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Upon what earlier Greek work is the harmonious body positioning of this Roman portrait based?",
+      "question": "Upon what earlier Greek work is the harmonious body positioning of this Roman portrait based?",
       "options": {
         "A": "Discophoros",
         "B": "Doryphoros",
@@ -261,14 +257,14 @@
         "D": "Moscophoros"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 18,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint What do the central figures on the cuirass depict?",
+      "question": "What do the central figures on the cuirass depict?",
       "options": {
         "A": "Augustus and Agrippa after defeating Antony and Cleopatra at the Battle of Actium",
         "B": "Augustus and Antony after defeating Brutus and Cassius at the Battle of Philippi",
@@ -276,14 +272,14 @@
         "D": "the Gallic chieftain Vercingetorix paying homage to the triumphing Julius Caesar"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 19,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint What Roman emperor is depicted enjoying his apotheosis in this piece?",
+      "question": "What Roman emperor is depicted enjoying his apotheosis in this piece?",
       "options": {
         "A": "Hadrian",
         "B": "Trajan",
@@ -291,14 +287,14 @@
         "D": "Marcus Aurelius"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 20,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint What is the medium of this Severan family portrait?",
+      "question": "What is the medium of this Severan family portrait?",
       "options": {
         "A": "fresco secco",
         "B": "buon fresco",
@@ -306,14 +302,14 @@
         "D": "tempera"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 21,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint This black figure vase was painted by",
+      "question": "This black figure vase was painted by",
       "options": {
         "A": "Exekias",
         "B": "Kleitias",
@@ -321,14 +317,14 @@
         "D": "Pheon"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 22,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint What mythological event is the subject of this vase?",
+      "question": "What mythological event is the subject of this vase?",
       "options": {
         "A": "The Judgement of Paris",
         "B": "The wedding of Peleus and Thetis",
@@ -336,14 +332,14 @@
         "D": "The travels of Odysseus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 23,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint This figure belongs to the ______________ period.",
+      "question": "This figure belongs to the ______________ period.",
       "options": {
         "A": "Hellenistic",
         "B": "Classical",
@@ -351,14 +347,14 @@
         "D": "Geometric"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 24,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint This famous gate can be found in which Greek city?",
+      "question": "This famous gate can be found in which Greek city?",
       "options": {
         "A": "Argos",
         "B": "Athens",
@@ -366,14 +362,14 @@
         "D": "Mycenae"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 25,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Which Roman emperor commissioned this triumphal arch?",
+      "question": "Which Roman emperor commissioned this triumphal arch?",
       "options": {
         "A": "Trajan",
         "B": "Titus",
@@ -381,14 +377,14 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 26,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint This terracotta statue, found at Veii, is a representation of which Greek god?",
+      "question": "This terracotta statue, found at Veii, is a representation of which Greek god?",
       "options": {
         "A": "Zeus",
         "B": "Poseidon",
@@ -396,14 +392,14 @@
         "D": "Hades"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 27,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Which Roman emperor is depicted here?",
+      "question": "Which Roman emperor is depicted here?",
       "options": {
         "A": "Augustus",
         "B": "Vespasian",
@@ -411,14 +407,14 @@
         "D": "Decius"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 28,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint This Ionic temple is located ______________.",
+      "question": "This Ionic temple is located ______________.",
       "options": {
         "A": "in the Agora",
         "B": "on the Acropolis",
@@ -426,14 +422,14 @@
         "D": "in the Forum"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 29,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint The sculptor of this famous work is",
+      "question": "The sculptor of this famous work is",
       "options": {
         "A": "Myron",
         "B": "Pheidias",
@@ -441,14 +437,14 @@
         "D": "Polyclitus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 30,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Which Roman consul is seen here?",
+      "question": "Which Roman consul is seen here?",
       "options": {
         "A": "Scipio Africanus",
         "B": "Marius",
@@ -456,14 +452,14 @@
         "D": "Brutus"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 31,
-      "question": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint Whose colossal head, hand, foot, and knee – which once stood in a Forum building -­‐ now stand in",
+      "question": "Whose colossal head, hand, foot, and knee – which once stood in a Forum building -­‐ now stand in",
       "options": {
         "A": "Julian’s",
         "B": "Trajan’s",
@@ -471,14 +467,14 @@
         "D": "Constantine’s"
       },
       "type": "multiple_choice",
-      "section": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
-      "section_context": "N.B. For questions 1-­‐30, please refer to the slides on the powerpoint",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 32,
-      "question": "the courtyard of the Capitoline Museum? What structure provides modern researchers with the best illustrations of Roman military dress,",
+      "question": "What structure provides modern researchers with the best illustrations of Roman military dress, equipment, and weapons?",
       "options": {
         "A": "Ara Pacis",
         "B": "Amendola Sarcohagus",
@@ -486,14 +482,14 @@
         "D": "Trajan’s Column"
       },
       "type": "multiple_choice",
-      "section": "the courtyard of the Capitoline Museum?",
-      "section_context": "the courtyard of the Capitoline Museum?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 33,
-      "question": "the courtyard of the Capitoline Museum? Which famous bronze statue was found in a shipwreck off the coast of Cape Artemisium, probably",
+      "question": "Which famous bronze statue was found in a shipwreck off the coast of Cape Artemisium, probably",
       "options": {
         "A": "Kritios Boy",
         "B": "Poseidon/Zeus without his trident/lightning bolt",
@@ -501,14 +497,14 @@
         "D": "Farnese Hercules"
       },
       "type": "multiple_choice",
-      "section": "the courtyard of the Capitoline Museum?",
-      "section_context": "the courtyard of the Capitoline Museum?",
+      "section": null,
+      "section_context": null,
       "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 34,
-      "question": "the courtyard of the Capitoline Museum? The drinking horn usually adorned with depictions of animal heads is called a",
+      "question": "The drinking horn usually adorned with depictions of animal heads is called a",
       "options": {
         "A": "rhyton",
         "B": "kylix",
@@ -516,14 +512,14 @@
         "D": "oinochoe"
       },
       "type": "multiple_choice",
-      "section": "the courtyard of the Capitoline Museum?",
-      "section_context": "the courtyard of the Capitoline Museum?",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "A"
     },
     {
       "question_number": 35,
-      "question": "the courtyard of the Capitoline Museum? The first permanent stone theater in Rome was the Theater of",
+      "question": "The first permanent stone theater in Rome was the Theater of",
       "options": {
         "A": "Pompey",
         "B": "Balbus",
@@ -531,14 +527,14 @@
         "D": "Marius"
       },
       "type": "multiple_choice",
-      "section": "the courtyard of the Capitoline Museum?",
-      "section_context": "the courtyard of the Capitoline Museum?",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "A"
     },
     {
       "question_number": 36,
-      "question": "the courtyard of the Capitoline Museum? Paintings at both Herculaneum and Pompeii (e.g. the Three Graces, Hercules finding his son",
+      "question": "Paintings at both Herculaneum and Pompeii (e.g. the Three Graces, Hercules finding his son Telephus) were influenced by the paintings done at",
       "options": {
         "A": "Pergamum",
         "B": "Delphi",
@@ -546,14 +542,14 @@
         "D": "Olympia"
       },
       "type": "multiple_choice",
-      "section": "the courtyard of the Capitoline Museum?",
-      "section_context": "the courtyard of the Capitoline Museum?",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "A"
     },
     {
       "question_number": 37,
-      "question": "the courtyard of the Capitoline Museum? In the mid 1900s, Mussolini attempted to remove the _________ a marble Roman fountain built by",
+      "question": "In the mid 1900s, Mussolini attempted to remove the _________ a marble Roman fountain built by Domitian and restored by Constantine, built adjacent to the Colosseum and the Arch of Constantine on the Via Sacra.",
       "options": {
         "A": "Pons Fabricius",
         "B": "Fons Juturna",
@@ -561,14 +557,14 @@
         "D": "Meta Sudans"
       },
       "type": "multiple_choice",
-      "section": "the courtyard of the Capitoline Museum?",
-      "section_context": "the courtyard of the Capitoline Museum?",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "D"
     },
     {
       "question_number": 38,
-      "question": "the courtyard of the Capitoline Museum? The large marble plan of Rome (the Forma Urbis Romae) that provided the location of major",
+      "question": "The large marble plan of Rome (the Forma Urbis Romae) that provided the location of major buildings of the city in the time of the Severans originally hung on a wall of the ___ now an exterior wall of the Church of Saints Cosma and Damiano.",
       "options": {
         "A": "Odeon of Domitian",
         "B": "Mausoleum of Augustus",
@@ -576,14 +572,14 @@
         "D": "Tabularium"
       },
       "type": "multiple_choice",
-      "section": "the courtyard of the Capitoline Museum?",
-      "section_context": "the courtyard of the Capitoline Museum?",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "C"
     },
     {
       "question_number": 39,
-      "question": "the courtyard of the Capitoline Museum? The famous lifesize marble statues of Odysseus blinding the Cyclops Polyphemus and the Sirens",
+      "question": "The famous lifesize marble statues of Odysseus blinding the Cyclops Polyphemus and the Sirens in the",
       "options": {
         "A": "Villa of Pliny the Elder at Miseum",
         "B": "Villa of Tiberius at Sperlonga",
@@ -591,14 +587,14 @@
         "D": "Villa of the Papyri at Herculaneum"
       },
       "type": "multiple_choice",
-      "section": "the courtyard of the Capitoline Museum?",
-      "section_context": "the courtyard of the Capitoline Museum?",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "B"
     },
     {
       "question_number": 40,
-      "question": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found It is believed that statues of the early Roman heroes and ancestors of the emperor once stood in the",
+      "question": "It is believed that statues of the early Roman heroes and ancestors of the emperor once stood in the peristyles of the Forum of",
       "options": {
         "A": "Julius Caesar",
         "B": "Augustus Caesar",
@@ -606,14 +602,14 @@
         "D": "Nerva"
       },
       "type": "multiple_choice",
-      "section": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
-      "section_context": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "B"
     },
     {
       "question_number": 41,
-      "question": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found The columns of the Parthenon are:",
+      "question": "The columns of the Parthenon are:",
       "options": {
         "A": "Doric",
         "B": "Ionic",
@@ -621,14 +617,14 @@
         "D": "Corinthian"
       },
       "type": "multiple_choice",
-      "section": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
-      "section_context": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "A"
     },
     {
       "question_number": 42,
-      "question": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found Pheidias, sculptor of the Parthenon and the statue of Zeus at Olympia, is also credited with the",
+      "question": "Pheidias, sculptor of the Parthenon and the statue of Zeus at Olympia, is also credited with the",
       "options": {
         "A": "Athena Lemnia",
         "B": "Charioteer of Delphi",
@@ -636,14 +632,14 @@
         "D": "Hermes and the Infant Dionysus"
       },
       "type": "multiple_choice",
-      "section": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
-      "section_context": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "A"
     },
     {
       "question_number": 43,
-      "question": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found The best example of a Roman apartment house, originally fitted with wooden balconies, is on the",
+      "question": "The best example of a Roman apartment house, originally fitted with wooden balconies, is on the Via della Casa Diana in ______, just across the street from a thermopolium where tenants could buy meals since the apartments lacked kitchens.",
       "options": {
         "A": "Pompeii",
         "B": "Paestum",
@@ -651,14 +647,14 @@
         "D": "Herculaneum"
       },
       "type": "multiple_choice",
-      "section": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
-      "section_context": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "C"
     },
     {
       "question_number": 44,
-      "question": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found Which structure contains Caryatids on its porch?",
+      "question": "Which structure contains Caryatids on its porch?",
       "options": {
         "A": "Hephaistion",
         "B": "Erectheum",
@@ -666,14 +662,14 @@
         "D": "Propylea"
       },
       "type": "multiple_choice",
-      "section": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
-      "section_context": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "B"
     },
     {
       "question_number": 45,
-      "question": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found Which man was responsible for excavating Knossos?",
+      "question": "Which man was responsible for excavating Knossos?",
       "options": {
         "A": "Wagman",
         "B": "Schmeling",
@@ -681,14 +677,14 @@
         "D": "Evans"
       },
       "type": "multiple_choice",
-      "section": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
-      "section_context": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "D"
     },
     {
       "question_number": 46,
-      "question": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found The Bronze Doors of the Roman Curia in the Forum Romanum now hang in",
+      "question": "The Bronze Doors of the Roman Curia in the Forum Romanum now hang in",
       "options": {
         "A": "The Roman Curia in the Forum Romanum",
         "B": "St. Johns Lateran, the Cathedral of Rome",
@@ -696,14 +692,14 @@
         "D": "The Pantheon"
       },
       "type": "multiple_choice",
-      "section": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
-      "section_context": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "B"
     },
     {
       "question_number": 47,
-      "question": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found The basic building material of early buildings and walls of Rome was peperino, a kind of _______.",
+      "question": "The basic building material of early buildings and walls of Rome was peperino, a kind of _______.",
       "options": {
         "A": "concrete",
         "B": "Tufa",
@@ -711,14 +707,14 @@
         "D": "brick"
       },
       "type": "multiple_choice",
-      "section": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
-      "section_context": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "B"
     },
     {
       "question_number": 48,
-      "question": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found The now excavated Villa of Poppea, wife of Nero, is located at",
+      "question": "The now excavated Villa of Poppea, wife of Nero, is located at",
       "options": {
         "A": "Boscoreale",
         "B": "Oplontis",
@@ -726,14 +722,14 @@
         "D": "Baiae"
       },
       "type": "multiple_choice",
-      "section": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
-      "section_context": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "B"
     },
     {
       "question_number": 49,
-      "question": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found Which is NOT a name for a Roman aqueduct?",
+      "question": "Which is NOT a name for a Roman aqueduct?",
       "options": {
         "A": "Marcia",
         "B": "Claudia",
@@ -741,14 +737,14 @@
         "D": "Livia"
       },
       "type": "multiple_choice",
-      "section": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
-      "section_context": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "D"
     },
     {
       "question_number": 50,
-      "question": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found The Portland Vase depicts its figures in/on/by",
+      "question": "The Portland Vase depicts its figures in/on/by",
       "options": {
         "A": "red figure style",
         "B": "black figure style",
@@ -756,8 +752,8 @@
         "D": "repousse"
       },
       "type": "multiple_choice",
-      "section": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
-      "section_context": "surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found",
+      "section": null,
+      "section_context": null,
       "instruction": "bound for sale in the East, and now on display in the National Museum of Athens.",
       "correct_answer": "C"
     }
