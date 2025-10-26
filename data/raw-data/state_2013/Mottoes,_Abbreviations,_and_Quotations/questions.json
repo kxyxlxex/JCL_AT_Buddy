@@ -2,7 +2,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "ex post ____________",
+      "question": "Ex post ____________",
       "options": {
         "A": "re",
         "B": "facto",
@@ -15,7 +15,7 @@
     },
     {
       "question_number": 2,
-      "question": "ab ovo usque ad mala",
+      "question": "Ab ovo usque ad mala",
       "options": {
         "A": "from start to finish",
         "B": "it is not allowed",
@@ -41,7 +41,7 @@
     },
     {
       "question_number": 4,
-      "question": "de proprio motu",
+      "question": "De proprio motu",
       "options": {
         "A": "again and again",
         "B": "spontaneously",
@@ -54,7 +54,7 @@
     },
     {
       "question_number": 5,
-      "question": "post partum",
+      "question": "Post partum",
       "options": {
         "A": "after a meal",
         "B": "part for the whole",
@@ -67,7 +67,7 @@
     },
     {
       "question_number": 6,
-      "question": "the other way around",
+      "question": "The other way around",
       "options": {
         "A": "vice versa",
         "B": "cuique suum",
@@ -145,7 +145,7 @@
     },
     {
       "question_number": 12,
-      "question": "ad kalendas graecas",
+      "question": "Ad kalendas graecas",
       "options": {
         "A": "never",
         "B": "without end",
@@ -171,7 +171,7 @@
     },
     {
       "question_number": 14,
-      "question": "non compos ____________",
+      "question": "Non compos ____________",
       "options": {
         "A": "patriae",
         "B": "rei",
@@ -340,7 +340,7 @@
     },
     {
       "question_number": 27,
-      "question": "i.a.",
+      "question": "a.",
       "options": {
         "A": "that is",
         "B": "and the rest",
@@ -353,7 +353,7 @@
     },
     {
       "question_number": 28,
-      "question": "take",
+      "question": "Take",
       "options": {
         "A": "Rx",
         "B": "q.v.",
@@ -379,7 +379,7 @@
     },
     {
       "question_number": 30,
-      "question": "in the same place",
+      "question": "In the same place",
       "options": {
         "A": "i.e.",
         "B": "stat.",
@@ -392,7 +392,7 @@
     },
     {
       "question_number": 31,
-      "question": "the course of life",
+      "question": "The course of life",
       "options": {
         "A": "q.v.",
         "B": "C.V",
@@ -418,7 +418,7 @@
     },
     {
       "question_number": 33,
-      "question": "p.c.",
+      "question": "P.c.",
       "options": {
         "A": "per hundred",
         "B": "by the day",
@@ -431,7 +431,7 @@
     },
     {
       "question_number": 34,
-      "question": "b.i.d.",
+      "question": "B.i.d.",
       "options": {
         "A": "as the need arises",
         "B": "as directed",
@@ -444,7 +444,7 @@
     },
     {
       "question_number": 35,
-      "question": "written afterwards",
+      "question": "Written afterwards",
       "options": {
         "A": "P.S.",
         "B": "PRN",
@@ -457,7 +457,7 @@
     },
     {
       "question_number": 36,
-      "question": "h.s.",
+      "question": "H.s.",
       "options": {
         "A": "see above",
         "B": "here lies buried",
@@ -470,7 +470,7 @@
     },
     {
       "question_number": 37,
-      "question": "ca.",
+      "question": "Ca.",
       "options": {
         "A": "with",
         "B": "against",
@@ -483,7 +483,7 @@
     },
     {
       "question_number": 38,
-      "question": "ult.",
+      "question": "Ult.",
       "options": {
         "A": "last month",
         "B": "as directed",
@@ -496,7 +496,7 @@
     },
     {
       "question_number": 39,
-      "question": "veni, vidi, vici",
+      "question": "Veni, vidi, vici",
       "options": {
         "A": "Augustus",
         "B": "Caesar",
@@ -509,7 +509,7 @@
     },
     {
       "question_number": 40,
-      "question": "tacitum vivit sub pectore vulnus",
+      "question": "Tacitum vivit sub pectore vulnus",
       "options": {
         "A": "Tacitus",
         "B": "Horace",
@@ -522,7 +522,7 @@
     },
     {
       "question_number": 41,
-      "question": "panem et circenses",
+      "question": "Panem et circenses",
       "options": {
         "A": "Pliny the Younger",
         "B": "Cicero",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 42,
-      "question": "oderint dum metuant",
+      "question": "Oderint dum metuant",
       "options": {
         "A": "Tiberius",
         "B": "Caligula",
@@ -548,7 +548,7 @@
     },
     {
       "question_number": 43,
-      "question": "odi et amo",
+      "question": "Odi et amo",
       "options": {
         "A": "Tacitus",
         "B": "Catullus",
@@ -561,7 +561,7 @@
     },
     {
       "question_number": 44,
-      "question": "fortes fortuna iuvat",
+      "question": "Fortes fortuna iuvat",
       "options": {
         "A": "Martial",
         "B": "Quintillian",
@@ -574,7 +574,7 @@
     },
     {
       "question_number": 45,
-      "question": "nullum saeculum magnis ingeniis clausum est",
+      "question": "Nullum saeculum magnis ingeniis clausum est",
       "options": {
         "A": "Cato",
         "B": "Tacitus",
@@ -587,7 +587,7 @@
     },
     {
       "question_number": 46,
-      "question": "non est vivere sed valere vita est",
+      "question": "Non est vivere sed valere vita est",
       "options": {
         "A": "Lucretius",
         "B": "Martial",
@@ -600,7 +600,7 @@
     },
     {
       "question_number": 47,
-      "question": "o tempora! o mores!",
+      "question": "O tempora! o mores!",
       "options": {
         "A": "Cicero",
         "B": "Juvenal",
@@ -613,7 +613,7 @@
     },
     {
       "question_number": 48,
-      "question": "timeo Danaos et dona ferentes",
+      "question": "Timeo Danaos et dona ferentes",
       "options": {
         "A": "Terence",
         "B": "Ennius",
@@ -626,7 +626,7 @@
     },
     {
       "question_number": 49,
-      "question": "festina lente",
+      "question": "Festina lente",
       "options": {
         "A": "Horace",
         "B": "Plautus",
@@ -638,7 +638,7 @@
     },
     {
       "question_number": 50,
-      "question": "rident stolidi verba latina",
+      "question": "Rident stolidi verba latina",
       "options": {
         "A": "Vergil",
         "B": "Ovid",

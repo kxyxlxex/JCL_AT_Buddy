@@ -595,7 +595,7 @@
         "D": "Odysseus"
       },
       "type": "multiple_choice",
-      "instruction": "For 46-50 given the person/creature killed give its killer:",
+      "instruction": "Given the person/creature killed give its killer:",
       "correct_answer": null
     },
     {
@@ -608,7 +608,7 @@
         "D": "Ephialtes"
       },
       "type": "multiple_choice",
-      "instruction": "For 46-50 given the person/creature killed give its killer:",
+      "instruction": "Given the person/creature killed give its killer:",
       "correct_answer": null
     },
     {
@@ -621,7 +621,7 @@
         "D": "Athena"
       },
       "type": "multiple_choice",
-      "instruction": "For 46-50 given the person/creature killed give its killer:",
+      "instruction": "Given the person/creature killed give its killer:",
       "correct_answer": null
     },
     {
@@ -634,7 +634,7 @@
         "D": "Odysseus"
       },
       "type": "multiple_choice",
-      "instruction": "For 46-50 given the person/creature killed give its killer:",
+      "instruction": "Given the person/creature killed give its killer:",
       "correct_answer": null
     },
     {
@@ -647,7 +647,7 @@
         "D": "Odysseus"
       },
       "type": "multiple_choice",
-      "instruction": "For 46-50 given the person/creature killed give its killer:",
+      "instruction": "Given the person/creature killed give its killer:",
       "correct_answer": null
     }
   ],

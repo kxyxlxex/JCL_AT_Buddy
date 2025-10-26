@@ -327,7 +327,7 @@
     },
     {
       "question_number": 26,
-      "question": "e.g.",
+      "question": "E.g.",
       "options": {
         "A": "for example",
         "B": "and elsewhere",
@@ -366,7 +366,7 @@
     },
     {
       "question_number": 29,
-      "question": "viz.",
+      "question": "Viz.",
       "options": {
         "A": "videlicet",
         "B": "vide supra",
@@ -379,7 +379,7 @@
     },
     {
       "question_number": 30,
-      "question": "p.r.n.",
+      "question": "P.r.n.",
       "options": {
         "A": "whenever necessary",
         "B": "see above entry",
@@ -392,7 +392,7 @@
     },
     {
       "question_number": 31,
-      "question": "i.q.",
+      "question": "q.",
       "options": {
         "A": "at your invitation",
         "B": "in respect of",
@@ -405,7 +405,7 @@
     },
     {
       "question_number": 32,
-      "question": "au",
+      "question": "Au",
       "options": {
         "A": "silver",
         "B": "gold",
@@ -444,7 +444,7 @@
     },
     {
       "question_number": 35,
-      "question": "oculo utro",
+      "question": "Oculo utro",
       "options": {
         "A": "in the left eye",
         "B": "in the right eye",
@@ -457,7 +457,7 @@
     },
     {
       "question_number": 36,
-      "question": "ss",
+      "question": "Ss",
       "options": {
         "A": "1/2",
         "B": "1/4",
@@ -470,7 +470,7 @@
     },
     {
       "question_number": 37,
-      "question": "and his wife as well Part IV. Quotations",
+      "question": "And his wife as well Part IV. Quotations",
       "options": {
         "A": "et seq.",
         "B": "et al.",

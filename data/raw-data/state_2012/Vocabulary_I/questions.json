@@ -2,7 +2,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "fides",
+      "question": "Fides",
       "options": {
         "A": "breath",
         "B": "hope",
@@ -15,7 +15,7 @@
     },
     {
       "question_number": 2,
-      "question": "homo",
+      "question": "Homo",
       "options": {
         "A": "same",
         "B": "woman",
@@ -28,7 +28,7 @@
     },
     {
       "question_number": 3,
-      "question": "miles",
+      "question": "Miles",
       "options": {
         "A": "man",
         "B": "soldier",
@@ -41,7 +41,7 @@
     },
     {
       "question_number": 4,
-      "question": "adsum",
+      "question": "Adsum",
       "options": {
         "A": "be able",
         "B": "be from",
@@ -54,7 +54,7 @@
     },
     {
       "question_number": 5,
-      "question": "taceo",
+      "question": "Taceo",
       "options": {
         "A": "I advise",
         "B": "I remain",
@@ -67,7 +67,7 @@
     },
     {
       "question_number": 6,
-      "question": "fessus",
+      "question": "Fessus",
       "options": {
         "A": "ignorant",
         "B": "tired",
@@ -80,7 +80,7 @@
     },
     {
       "question_number": 7,
-      "question": "nescio",
+      "question": "Nescio",
       "options": {
         "A": "I know",
         "B": "I see",
@@ -93,7 +93,7 @@
     },
     {
       "question_number": 8,
-      "question": "ante",
+      "question": "Ante",
       "options": {
         "A": "before",
         "B": "without",
@@ -106,7 +106,7 @@
     },
     {
       "question_number": 9,
-      "question": "intro",
+      "question": "Intro",
       "options": {
         "A": "I am beginning",
         "B": "I end",
@@ -119,7 +119,7 @@
     },
     {
       "question_number": 10,
-      "question": "morbus",
+      "question": "Morbus",
       "options": {
         "A": "death",
         "B": "sickness",
@@ -132,7 +132,7 @@
     },
     {
       "question_number": 11,
-      "question": "nimbus",
+      "question": "Nimbus",
       "options": {
         "A": "broomstick",
         "B": "nimble",
@@ -145,7 +145,7 @@
     },
     {
       "question_number": 12,
-      "question": "audeo",
+      "question": "Audeo",
       "options": {
         "A": "I dare",
         "B": "I help",
@@ -158,7 +158,7 @@
     },
     {
       "question_number": 13,
-      "question": "perambulo",
+      "question": "Perambulo",
       "options": {
         "A": "I walk through",
         "B": "I drag",
@@ -171,7 +171,7 @@
     },
     {
       "question_number": 14,
-      "question": "freedman (ex-­‐slave)",
+      "question": "Freedman (ex-­‐slave)",
       "options": {
         "A": "liber",
         "B": "liberi",
@@ -184,7 +184,7 @@
     },
     {
       "question_number": 15,
-      "question": "body",
+      "question": "Body",
       "options": {
         "A": "opus",
         "B": "homunculus",
@@ -197,7 +197,7 @@
     },
     {
       "question_number": 16,
-      "question": "merchant",
+      "question": "Merchant",
       "options": {
         "A": "retailor",
         "B": "negotiator",
@@ -223,7 +223,7 @@
     },
     {
       "question_number": 18,
-      "question": "near",
+      "question": "Near",
       "options": {
         "A": "circum",
         "B": "ubi",
@@ -262,7 +262,7 @@
     },
     {
       "question_number": 21,
-      "question": "happy",
+      "question": "Happy",
       "options": {
         "A": "laetus",
         "B": "latus",
@@ -275,7 +275,7 @@
     },
     {
       "question_number": 22,
-      "question": "sleep",
+      "question": "Sleep",
       "options": {
         "A": "durus",
         "B": "somnus",
@@ -288,7 +288,7 @@
     },
     {
       "question_number": 23,
-      "question": "doctor",
+      "question": "Doctor",
       "options": {
         "A": "medicus",
         "B": "pediagogus",
@@ -301,7 +301,7 @@
     },
     {
       "question_number": 24,
-      "question": "afraid",
+      "question": "Afraid",
       "options": {
         "A": "rubea",
         "B": "similis",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 25,
-      "question": "kitchen",
+      "question": "Kitchen",
       "options": {
         "A": "cubiculum",
         "B": "furnus",
@@ -327,7 +327,7 @@
     },
     {
       "question_number": 26,
-      "question": "do",
+      "question": "Do",
       "options": {
         "A": "ago",
         "B": "dono",
@@ -340,7 +340,7 @@
     },
     {
       "question_number": 27,
-      "question": "ianua",
+      "question": "Ianua",
       "options": {
         "A": "porta",
         "B": "casus",
@@ -353,7 +353,7 @@
     },
     {
       "question_number": 28,
-      "question": "vel",
+      "question": "Vel",
       "options": {
         "A": "ubi",
         "B": "aut",
@@ -366,7 +366,7 @@
     },
     {
       "question_number": 29,
-      "question": "demonstro",
+      "question": "Demonstro",
       "options": {
         "A": "accipio",
         "B": "habeo",
@@ -379,7 +379,7 @@
     },
     {
       "question_number": 30,
-      "question": "interficio",
+      "question": "Interficio",
       "options": {
         "A": "cupio",
         "B": "occido",
@@ -392,7 +392,7 @@
     },
     {
       "question_number": 31,
-      "question": "relinquo",
+      "question": "Relinquo",
       "options": {
         "A": "maneo",
         "B": "moneo",
@@ -405,7 +405,7 @@
     },
     {
       "question_number": 32,
-      "question": "fortuna",
+      "question": "Fortuna",
       "options": {
         "A": "ops",
         "B": "dives",
@@ -418,7 +418,7 @@
     },
     {
       "question_number": 33,
-      "question": "vetus",
+      "question": "Vetus",
       "options": {
         "A": "miliaris",
         "B": "antiquus",
@@ -431,7 +431,7 @@
     },
     {
       "question_number": 34,
-      "question": "brevis",
+      "question": "Brevis",
       "options": {
         "A": "clarus",
         "B": "longus",
@@ -444,7 +444,7 @@
     },
     {
       "question_number": 35,
-      "question": "obesus",
+      "question": "Obesus",
       "options": {
         "A": "gracilis",
         "B": "praemium",
@@ -457,7 +457,7 @@
     },
     {
       "question_number": 36,
-      "question": "inopia",
+      "question": "Inopia",
       "options": {
         "A": "res",
         "B": "divitiae",
@@ -470,7 +470,7 @@
     },
     {
       "question_number": 37,
-      "question": "comes",
+      "question": "Comes",
       "options": {
         "A": "instar",
         "B": "carrus",
@@ -483,7 +483,7 @@
     },
     {
       "question_number": 38,
-      "question": "umquam",
+      "question": "Umquam",
       "options": {
         "A": "saepe",
         "B": "vix",
@@ -496,7 +496,7 @@
     },
     {
       "question_number": 39,
-      "question": "aliquis",
+      "question": "Aliquis",
       "options": {
         "A": "nemo",
         "B": "rus",
@@ -509,7 +509,7 @@
     },
     {
       "question_number": 40,
-      "question": "gaudeo",
+      "question": "Gaudeo",
       "options": {
         "A": "advenio",
         "B": "doleo",
@@ -522,7 +522,7 @@
     },
     {
       "question_number": 46,
-      "question": "nubes : caelum :: miles :",
+      "question": "Nubes : caelum :: miles :",
       "options": {
         "A": "exercitus",
         "B": "turba",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 47,
-      "question": "discipulus : disco :: gladiator :",
+      "question": "Discipulus : disco :: gladiator :",
       "options": {
         "A": "navigo",
         "B": "pugno",
@@ -548,7 +548,7 @@
     },
     {
       "question_number": 48,
-      "question": "quindecim : quintus decimus :: viginti duo :",
+      "question": "Quindecim : quintus decimus :: viginti duo :",
       "options": {
         "A": "viginti secundus",
         "B": "vicesimus duo",
@@ -561,7 +561,7 @@
     },
     {
       "question_number": 49,
-      "question": "fulmen : Iuppiter :: sagitta :",
+      "question": "Fulmen : Iuppiter :: sagitta :",
       "options": {
         "A": "Minerva",
         "B": "Mars",
@@ -574,7 +574,7 @@
     },
     {
       "question_number": 50,
-      "question": "gladius : necare :: penna :",
+      "question": "Gladius : necare :: penna :",
       "options": {
         "A": "navigare",
         "B": "scribere",
