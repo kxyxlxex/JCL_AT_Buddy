@@ -583,6 +583,111 @@ header p {
     font-weight: 600;
 }
 
+/* Resume Dialog Styling */
+.resume-dialog-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    backdrop-filter: blur(5px);
+}
+
+.resume-dialog {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.9) 100%);
+    border-radius: 20px;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 20px 60px rgba(139, 92, 246, 0.3), 0 0 80px rgba(245, 158, 11, 0.2);
+    backdrop-filter: blur(20px);
+    border: 2px solid rgba(139, 92, 246, 0.3);
+    max-width: 500px;
+    width: 90%;
+    animation: dialogSlideIn 0.3s ease-out;
+}
+
+@keyframes dialogSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-30px) scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+.resume-dialog h3 {
+    background: linear-gradient(45deg, #8B5CF6, #A855F7, #F59E0B);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin: 0 0 20px 0;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.resume-dialog p {
+    color: #333;
+    margin: 10px 0;
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+.resume-dialog strong {
+    color: #8B5CF6;
+    font-weight: 600;
+}
+
+.dialog-buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.dialog-button {
+    padding: 15px 30px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    min-width: 120px;
+}
+
+.no-button {
+    background: linear-gradient(135deg, #6c757d, #5a6268);
+    color: white;
+    box-shadow: 0 4px 15px rgba(108, 117, 125, 0.3);
+}
+
+.no-button:hover {
+    background: linear-gradient(135deg, #5a6268, #495057);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(108, 117, 125, 0.4);
+}
+
+.yes-button {
+    background: linear-gradient(135deg, #8B5CF6, #A855F7);
+    color: white;
+    box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);
+}
+
+.yes-button:hover {
+    background: linear-gradient(135deg, #7C3AED, #9333EA);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 25px rgba(139, 92, 246, 0.6);
+}
+
 @media (max-width: 768px) {
     .review-actions {
         flex-direction: column;
@@ -592,5 +697,14 @@ header p {
         flex-direction: column;
         align-items: flex-start;
         gap: 10px;
+    }
+    
+    .dialog-buttons {
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .dialog-button {
+        width: 100%;
     }
 }

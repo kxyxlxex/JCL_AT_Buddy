@@ -106,13 +106,67 @@ class TestGenerator {
         // Check for saved progress
         const savedProgress = this.loadProgress(subject);
         if (savedProgress) {
-            const resume = confirm(`You have a saved test in progress for ${subject.replace(/_/g, ' ')}. Would you like to resume it?`);
-            if (resume) {
-                this.resumeTest(savedProgress);
-                return;
-            }
+            this.showResumeDialog(subject, savedProgress);
+            return;
         }
         
+        // Hide test selection, show test interface
+        document.querySelector('.test-selection').style.display = 'none';
+        document.getElementById('testInterface').style.display = 'block';
+        document.getElementById('results').style.display = 'none';
+        
+        // Ensure an in-app home entry exists just before the test, then push test entry
+        try {
+            history.pushState({ view: 'home' }, '', '#home');
+            history.pushState({ view: 'test', subject: this.currentSubject, q: 1 }, '', `#test/${encodeURIComponent(this.currentSubject)}/1`);
+        } catch (_) {
+            // no-op if history not available
+        }
+
+        // Generate random 50 questions from all years for this subject
+        this.generateRandomTest(subject);
+        this.currentQuestionIndex = 0;
+        this.userAnswers = {};
+        this.timeRemaining = 50 * 60;
+        
+        // Start timer
+        this.startTimer();
+        
+        // Display first question
+        this.displayQuestion();
+    }
+    
+    showResumeDialog(subject, savedProgress) {
+        // Create custom resume dialog
+        const dialog = document.createElement('div');
+        dialog.className = 'resume-dialog-overlay';
+        dialog.innerHTML = `
+            <div class="resume-dialog">
+                <h3>Resume Test?</h3>
+                <p>You have a saved test in progress for <strong>${subject.replace(/_/g, ' ')}</strong>.</p>
+                <p>Would you like to resume it?</p>
+                <div class="dialog-buttons">
+                    <button id="resumeNo" class="dialog-button no-button">No</button>
+                    <button id="resumeYes" class="dialog-button yes-button">Yes</button>
+                </div>
+            </div>
+        `;
+        
+        document.body.appendChild(dialog);
+        
+        // Add event listeners
+        document.getElementById('resumeNo').addEventListener('click', () => {
+            document.body.removeChild(dialog);
+            this.startNewTest(subject);
+        });
+        
+        document.getElementById('resumeYes').addEventListener('click', () => {
+            document.body.removeChild(dialog);
+            this.resumeTest(savedProgress);
+        });
+    }
+    
+    startNewTest(subject) {
         // Hide test selection, show test interface
         document.querySelector('.test-selection').style.display = 'none';
         document.getElementById('testInterface').style.display = 'block';
