@@ -1,9 +1,9 @@
 {
   "subject_info": {
     "name": "History_of_the_Monarchy_and_Republic",
-    "total_questions": 533,
+    "total_questions": 538,
     "years_covered": 11,
-    "pre_2018_questions": 445,
+    "pre_2018_questions": 450,
     "post_2018_questions": 88,
     "description": "Questions about early Roman history"
   },
@@ -409,7 +409,9 @@
       "question": "Which general, known as the “Sword of Rome,” sacked Syracuse in 211?",
       "options": {
         "A": "Fulvius Flaccus",
-        "B": "Q. Fabius Maximus c."
+        "B": "Q. Fabius Maximus c.",
+        "C": "Flaminius",
+        "D": "M. Claudius Marcellus"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -461,7 +463,9 @@
       "question": "Against which man was the first Senatus Consultum Ultimum directed?",
       "options": {
         "A": "Marius",
-        "B": "Cinna c."
+        "B": "Cinna c.",
+        "C": "Gracchus",
+        "D": "Catiline"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -532,7 +536,7 @@
       "options": {
         "A": "Livius Drusus’",
         "B": "Saturninus’",
-        "C": "Clodius Pulcher’s d."
+        "C": "Vatinius’"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -541,6 +545,23 @@
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 30,
+      "has_section": false
+    },
+    {
+      "question_number": 31,
+      "question": "Which of Antony’s lieutenants captured Jerusalem from the Parthians in 37 and installed Herod as king? a.",
+      "options": {
+        "C": "Asinius Pollio",
+        "B": "M. Aemilius Lepidus",
+        "D": "P. Ventidius"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null,
+      "source_year": "state_2009",
+      "source_subject": "History_of_the_Monarchy_and_Republic",
+      "format_era": "pre_2018",
+      "original_question_number": 31,
       "has_section": false
     },
     {
@@ -635,10 +656,12 @@
     },
     {
       "question_number": 37,
-      "question": "In 200 the consul _____________ called for the Comitia Centuriata to declare war on Phillip II. c.",
+      "question": "In 200 the consul _____________ called for the Comitia Centuriata to declare war on Phillip II.",
       "options": {
         "A": "M. Porcius Cato",
-        "B": "M. Valerius Messala"
+        "B": "M. Valerius Messala",
+        "C": "Terrentius Varro",
+        "D": "P. Sulpicius Galba"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -647,6 +670,23 @@
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 37,
+      "has_section": false
+    },
+    {
+      "question_number": 38,
+      "question": "What tribune did the Senate order Marius to apprehend because of his use of mob violence? a.",
+      "options": {
+        "C": "Sulpicius Rufus",
+        "B": "Saturninus",
+        "D": "Clodius Pulcher"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null,
+      "source_year": "state_2009",
+      "source_subject": "History_of_the_Monarchy_and_Republic",
+      "format_era": "pre_2018",
+      "original_question_number": 38,
       "has_section": false
     },
     {
@@ -798,6 +838,7 @@
       "question": "Which of these men was the first plebeian to become censor? a.",
       "options": {
         "C": "L. Manlius Torquatus",
+        "B": "L. Licinius Stolo",
         "D": "L. Sextius"
       },
       "type": "multiple_choice",
@@ -813,8 +854,9 @@
       "question_number": 48,
       "question": "After Octavian marched on Rome in 43, who served as his co-consul?",
       "options": {
-        "A": "Metellus Celer",
-        "B": "Q. Pedius c."
+        "A": "Hirtius",
+        "B": "Q. Pedius c.",
+        "D": "Asinius Pollio"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -829,9 +871,9 @@
       "question_number": 49,
       "question": "Where was",
       "options": {
+        "C": "Zela",
         "A": "Tigranocerta",
         "B": "Cabira",
-        "C": "Zela",
         "D": "Cyzicus"
       },
       "type": "multiple_choice",
@@ -939,7 +981,7 @@
       "options": {
         "A": "App. Claudius Caudex",
         "B": "M. Atilius Regulus",
-        "C": "Cn. Cornelius Scipio Asina d."
+        "C": "Duilius"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -952,10 +994,12 @@
     },
     {
       "question_number": 6,
-      "question": "Whom did Tiberius Sempronius Longus join at the Trebia River in 218 BC against Hannibal? c.",
+      "question": "Whom did Tiberius Sempronius Longus join at the Trebia River in 218 BC against Hannibal?",
       "options": {
         "A": "M. Claudius Marcellus",
-        "B": "Q. Fabius Maximus"
+        "B": "Q. Fabius Maximus",
+        "C": "Flaminius",
+        "D": "P. Cornelius Scipio"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -1000,6 +1044,24 @@
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 8,
+      "has_section": false
+    },
+    {
+      "question_number": 9,
+      "question": "In 110 BC, who was the immediate successor to Sp. Postumius Albinus in the war against Jugurtha? a.",
+      "options": {
+        "A": "Postumius Albinus",
+        "B": "Q. Caecilius Metellus Numidicus",
+        "C": "Marius",
+        "D": "L. Cornelius Sulla"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null,
+      "source_year": "state_2010",
+      "source_subject": "History_of_the_Monarchy_and_Republic",
+      "format_era": "pre_2018",
+      "original_question_number": 9,
       "has_section": false
     },
     {
@@ -1219,7 +1281,7 @@
     },
     {
       "question_number": 22,
-      "question": "Who was indicted on a charge that he had encouraged M. Livius Drusus in his sympathy for the",
+      "question": "Who was indicted on a charge that he had encouraged M. Livius Drusus in his sympathy for the Italian social cause?",
       "options": {
         "A": "Q. Servilius Caepio",
         "B": "P. Rutilius Rufus",
@@ -1245,7 +1307,7 @@
         "D": "Sentinum"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1263,7 +1325,7 @@
         "D": "L. Licinius Lucullus"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1281,7 +1343,7 @@
         "D": "Edessa"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1299,7 +1361,7 @@
         "D": "Utica"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1317,7 +1379,7 @@
         "D": "Elis"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1335,7 +1397,7 @@
         "D": "Corioli"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1353,7 +1415,7 @@
         "D": "Macedonians and Epirotes"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1371,7 +1433,7 @@
         "D": "Carthaginians"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1385,10 +1447,10 @@
       "options": {
         "A": "P. Claudius Pulcher",
         "B": "M. Atilius Regulus",
-        "C": "Cn. Pompeius Strabo Magnus d."
+        "C": "Lutatius Catulus"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1406,7 +1468,7 @@
         "D": "Panormus"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1424,7 +1486,7 @@
         "D": "Ptolemy II"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1442,7 +1504,7 @@
         "D": "Syphax"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1456,10 +1518,10 @@
       "options": {
         "A": "Ap. Claudius Pulcher",
         "B": "P. Licinius Crassus",
-        "C": "M. Octavius d."
+        "C": "Porcius Cato"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1476,7 +1538,7 @@
         "D": "L. Saturninus"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1494,7 +1556,7 @@
         "D": "Massilia"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1512,7 +1574,7 @@
         "D": "He was kidnapped by Cilician pirates"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1530,7 +1592,7 @@
         "D": "Cyrus"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1543,10 +1605,11 @@
       "question": "What consul of 495 BC helped push the plebeians to secede due to his strict enforcement of harsh laws? a.",
       "options": {
         "C": "L. Quinctius Cincinnatus",
+        "B": "Menenius Agrippa",
         "D": "Appius Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1564,7 +1627,7 @@
         "D": "Pyrrhus"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1582,7 +1645,7 @@
         "D": "Phineas"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1600,7 +1663,7 @@
         "D": "Zacynthos"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1618,7 +1681,7 @@
         "D": "Arpinum"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1636,7 +1699,7 @@
         "D": "Lucania"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1654,7 +1717,7 @@
         "D": "Arausio"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1672,7 +1735,7 @@
         "D": "Cn. Servilius Caepio"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1690,7 +1753,7 @@
         "D": "Leges Liciniae Sextiae"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1704,11 +1767,11 @@
       "options": {
         "A": "assassinate M. Licinius Crassus",
         "B": "hinder the advancement of Cn. Pompeius Strabo Magnus",
-        "C": "transport his men to Sicily",
+        "C": "Iulius Caesar",
         "D": "kidnap"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1726,7 +1789,7 @@
         "D": "Tacfarinas"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -1938,7 +2001,7 @@
       "options": {
         "A": "Sempronius Longus",
         "B": "P. Cornelius Scipio",
-        "C": "Q. Fabius Maximus d."
+        "C": "Flaminius"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -2219,6 +2282,23 @@
       "has_section": false
     },
     {
+      "question_number": 28,
+      "question": "Which of the following was NOT an original member of Tiberius Gracchus’ land commission? a.",
+      "options": {
+        "C": "Tiberius Gracchus",
+        "B": "Mucius Scaevola",
+        "D": "Appius Claudius"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null,
+      "source_year": "state_2011",
+      "source_subject": "History_of_the_Monarchy_and_Republic",
+      "format_era": "pre_2018",
+      "original_question_number": 28,
+      "has_section": false
+    },
+    {
       "question_number": 29,
       "question": "Once rid of its last king, the infant republic of Rome found itself besieged by which Etruscan king?",
       "options": {
@@ -2403,7 +2483,9 @@
       "question": "Which tribune became the second victim of a Senatus Consultum Ultimum in 100?",
       "options": {
         "A": "Glaucia",
-        "B": "Memmius c."
+        "B": "Memmius c.",
+        "C": "Gracchus",
+        "D": "Saturninus"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -2470,10 +2552,12 @@
     },
     {
       "question_number": 43,
-      "question": "What consul’s fleet was defeated by pirates near Ostia in 68? c.",
+      "question": "What consul’s fleet was defeated by pirates near Ostia in 68?",
       "options": {
         "A": "L. Cassius Longinus",
-        "B": "M. Antonius Creticus"
+        "B": "M. Antonius Creticus",
+        "C": "Antonius Hybrida",
+        "D": "Q. Marcius Rex"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -2518,6 +2602,23 @@
       "source_subject": "History_of_the_Monarchy_and_Republic",
       "format_era": "pre_2018",
       "original_question_number": 45,
+      "has_section": false
+    },
+    {
+      "question_number": 46,
+      "question": "Which Roman general quelled the slave rebellion led by Eunus and Cleon in Sicily in 132? a.",
+      "options": {
+        "C": "M’ Aquilius",
+        "B": "Piso Frugi",
+        "D": "Metellus Numidicus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null,
+      "source_year": "state_2011",
+      "source_subject": "History_of_the_Monarchy_and_Republic",
+      "format_era": "pre_2018",
+      "original_question_number": 46,
       "has_section": false
     },
     {
@@ -4824,7 +4925,7 @@
     },
     {
       "question_number": 25,
-      "question": "During the 2nd Punic War, what Greek scientist/mathematician helped his native",
+      "question": "During the 2nd Punic War, what Greek scientist/mathematician helped his native Syracuse repulse Roman attacks?",
       "options": {
         "A": "Pythagoras",
         "B": "Diogenes",
@@ -4850,7 +4951,7 @@
         "D": "Iulia"
       },
       "type": "multiple_choice",
-      "instruction": "Syracuse repulse Roman attacks:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -4868,7 +4969,7 @@
         "D": "Hersilia"
       },
       "type": "multiple_choice",
-      "instruction": "Syracuse repulse Roman attacks:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -4886,7 +4987,7 @@
         "D": "Acro"
       },
       "type": "multiple_choice",
-      "instruction": "Syracuse repulse Roman attacks:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -4904,7 +5005,7 @@
         "D": "Pompey defeats Mithridates"
       },
       "type": "multiple_choice",
-      "instruction": "Syracuse repulse Roman attacks:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -4922,7 +5023,7 @@
         "D": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "Syracuse repulse Roman attacks:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -4932,7 +5033,7 @@
     },
     {
       "question_number": 31,
-      "question": "After which battle in 216 B.C. did Hannibal’s cavalry commander, Maharbal, it?\"",
+      "question": "After which battle in 216 B.C. did Hannibal’s cavalry commander, Maharbal, remark, “You, Hannibal, know how to gain a victory; you do not know how to use it?\"",
       "options": {
         "A": "Cannae",
         "B": "Lake Trasimene",
@@ -4940,7 +5041,7 @@
         "D": "Trebia River"
       },
       "type": "multiple_choice",
-      "instruction": "Syracuse repulse Roman attacks:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -4958,7 +5059,7 @@
         "D": "Tamphilus"
       },
       "type": "multiple_choice",
-      "instruction": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -4976,7 +5077,7 @@
         "D": "Tarquinius Superbus"
       },
       "type": "multiple_choice",
-      "instruction": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -4994,7 +5095,7 @@
         "D": "Hercules & Iolaus"
       },
       "type": "multiple_choice",
-      "instruction": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5012,7 +5113,7 @@
         "D": "Cassivellaunus"
       },
       "type": "multiple_choice",
-      "instruction": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5030,7 +5131,7 @@
         "D": "Alexandria"
       },
       "type": "multiple_choice",
-      "instruction": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5040,7 +5141,7 @@
     },
     {
       "question_number": 37,
-      "question": "When the Celts invaded Rome in 390, the Romans took shelter in the citadel.",
+      "question": "When the Celts invaded Rome in 390, the Romans took shelter in the citadel. They knew to do this because who had heard the honking of Juno’s geese?",
       "options": {
         "A": "Marcus Camillus",
         "B": "Herennius Pointius",
@@ -5048,7 +5149,7 @@
         "D": "Manlius Capitolinus"
       },
       "type": "multiple_choice",
-      "instruction": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5066,7 +5167,7 @@
         "D": "Antium"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5084,7 +5185,7 @@
         "D": "Timoleon"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5096,13 +5197,13 @@
       "question_number": 40,
       "question": "What Consul was granted power under the first senatus consultum ultimum to go after the followers of",
       "options": {
+        "C": "Q. Ogulnius",
         "A": "M. Octavius",
         "B": "L. Opimius",
-        "C": "Q. Ogulnius",
         "D": "Cn. Flavius"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5120,7 +5221,7 @@
         "D": "Cleopatros"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5138,7 +5239,7 @@
         "D": "Tiberius Gracchus becomes tribune"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5156,7 +5257,7 @@
         "D": "Philip V"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5174,7 +5275,7 @@
         "D": "Aequii"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5192,7 +5293,7 @@
         "D": "Brundisium"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5210,7 +5311,7 @@
         "D": "Sublician"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5228,7 +5329,7 @@
         "D": "Lex Iulia"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5246,7 +5347,7 @@
         "D": "Stolo"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5264,7 +5365,7 @@
         "D": "Vercingentorix"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -5282,7 +5383,7 @@
         "D": "Congonnetiacus"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2014",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6389,7 +6490,7 @@
     },
     {
       "question_number": 12,
-      "question": "King Lars Porsena aided an exiled Tarquinius Superbus, was almost assassinated by Mucius Scaevola, and eventually came to ally his kingdom with Rome. However, his city—",
+      "question": "King Lars Porsena aided an exiled Tarquinius Superbus, was almost assassinated by Mucius Scaevola, and eventually came to ally his kingdom with Rome. However, his city— and tomb—were completely razed to the ground by which Roman general in 89?",
       "options": {
         "A": "Marius",
         "B": "Sulla",
@@ -6415,7 +6516,7 @@
         "D": "Cossinius"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6433,7 +6534,7 @@
         "D": "Cicero’s"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6451,7 +6552,7 @@
         "D": "defected to Etruscans"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6469,7 +6570,7 @@
         "D": "Juno’s"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6487,7 +6588,7 @@
         "D": "First Marsic"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6505,7 +6606,7 @@
         "D": "Romulus"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6523,7 +6624,7 @@
         "D": "Athens"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6541,7 +6642,7 @@
         "D": "Vercingetorix"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6559,7 +6660,7 @@
         "D": "Helveticus"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6577,7 +6678,7 @@
         "D": "Nasica"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6595,7 +6696,7 @@
         "D": "Agrippa Menenius Lenatus"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6613,7 +6714,7 @@
         "D": "Claudius Caudex"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6631,7 +6732,7 @@
         "D": "Numantia"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6649,7 +6750,7 @@
         "D": "Tarentum"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6667,7 +6768,7 @@
         "D": "Lex Trebonia"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6685,7 +6786,7 @@
         "D": "Marcus Minucius Rufus"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6703,7 +6804,7 @@
         "D": "Octavius"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6721,7 +6822,7 @@
         "D": "Lucceius"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6739,7 +6840,7 @@
         "D": "Verginius"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6749,7 +6850,7 @@
     },
     {
       "question_number": 32,
-      "question": "Shortly before The 12 Tables were codified, what is the name of the plebeian tribune",
+      "question": "Shortly before The 12 Tables were codified, what is the name of the plebeian tribune who tried to combat the abuses of the patrician class in 462?",
       "options": {
         "A": "Capitolinus",
         "B": "Aebutius",
@@ -6757,7 +6858,7 @@
         "D": "Terentilius"
       },
       "type": "multiple_choice",
-      "instruction": "and tomb—were completely razed to the ground by which Roman general in 89:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6775,7 +6876,7 @@
         "D": "Caecilius Metellus"
       },
       "type": "multiple_choice",
-      "instruction": "who tried to combat the abuses of the patrician class in 462:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6793,7 +6894,7 @@
         "D": "Horatius Cocles"
       },
       "type": "multiple_choice",
-      "instruction": "who tried to combat the abuses of the patrician class in 462:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6811,7 +6912,7 @@
         "D": "Lautulae"
       },
       "type": "multiple_choice",
-      "instruction": "who tried to combat the abuses of the patrician class in 462:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6821,7 +6922,7 @@
     },
     {
       "question_number": 36,
-      "question": "Rome fought a series of wars against Veii. One Roman family even waged a private war",
+      "question": "Rome fought a series of wars against Veii. One Roman family even waged a private war against Veii and were almost annihilated because of it. Which clan was that?",
       "options": {
         "A": "Valerii",
         "B": "Horatii",
@@ -6829,7 +6930,7 @@
         "D": "Fabii"
       },
       "type": "multiple_choice",
-      "instruction": "who tried to combat the abuses of the patrician class in 462:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6847,7 +6948,7 @@
         "D": "Hipparinus"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6865,7 +6966,7 @@
         "D": "Gaius Claudius Nero"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6883,7 +6984,7 @@
         "D": "Agathocles"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6901,7 +7002,7 @@
         "D": "Livius Denter"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6919,7 +7020,7 @@
         "D": "Caudine Forks"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6937,7 +7038,7 @@
         "D": "Spartacus"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6955,7 +7056,7 @@
         "D": "Allobroges"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6973,7 +7074,7 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -6991,7 +7092,7 @@
         "D": "Veii"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7009,7 +7110,7 @@
         "D": "Brutus"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7027,7 +7128,7 @@
         "D": "Lex Ampia"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7045,7 +7146,7 @@
         "D": "Apollonius"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7063,7 +7164,7 @@
         "D": "Lucius Isauricus"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7081,7 +7182,7 @@
         "D": "Titus Herminius"
       },
       "type": "multiple_choice",
-      "instruction": "against Veii and were almost annihilated because of it. Which clan was that:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2016",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7099,7 +7200,7 @@
         "D": "Amphipolis"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7117,7 +7218,7 @@
         "D": "Lex Gabinia"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7135,7 +7236,7 @@
         "D": "Jupiter Stator"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7153,7 +7254,7 @@
         "D": "a great fire in Samnium"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7171,7 +7272,7 @@
         "D": "Pergamum"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7189,7 +7290,7 @@
         "D": "Nicomedes"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7206,7 +7307,7 @@
         "C": "3 d."
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7224,7 +7325,7 @@
         "D": "Gala"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7242,7 +7343,7 @@
         "D": "Hieronymus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7260,7 +7361,7 @@
         "D": "Tarracina"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7278,7 +7379,7 @@
         "D": "Tribunus Celerum"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7296,7 +7397,7 @@
         "D": "Dictator"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7309,10 +7410,12 @@
       "question": "Who was co-consul with Cicero in 63?",
       "options": {
         "A": "P. Cornelius Lentulus c.",
-        "B": "L. Iulius Caesar d."
+        "D": "Iunius Silanus",
+        "B": "L. Iulius Caesar d.",
+        "C": "Antonius Hybrida"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7330,7 +7433,7 @@
         "D": "Massilia"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7343,11 +7446,11 @@
       "question": "What Roman displayed legendary rectitude and incorruptibility to Pyrrhus?",
       "options": {
         "A": "Ap. Claudius Caecus",
-        "C": "M’. Curius Dentatus",
+        "C": "Fabricius Luscinus",
         "B": "P. Cornelius Rufinus d."
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7365,7 +7468,7 @@
         "D": "quaestor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7383,7 +7486,7 @@
         "D": "Veii"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7401,7 +7504,7 @@
         "D": "Ancus Marcius"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7419,7 +7522,7 @@
         "D": "Lupa"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7437,7 +7540,7 @@
         "D": "Ptolemy Ceraunus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7455,7 +7558,7 @@
         "D": "Ahenobarbus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7473,7 +7576,7 @@
         "D": "Orgetorix"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7491,7 +7594,7 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7509,7 +7612,7 @@
         "D": "Calvinus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7527,7 +7630,7 @@
         "D": "Pompey"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7545,7 +7648,7 @@
         "D": "Saturninus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7563,7 +7666,7 @@
         "D": "Mauretania"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7581,7 +7684,7 @@
         "D": "Sextius Calvinus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7599,7 +7702,7 @@
         "D": "Minurus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7617,7 +7720,7 @@
         "D": "Hampsicora"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7635,7 +7738,7 @@
         "D": "defeat of Hasdrubal at the Metaurus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7648,11 +7751,11 @@
       "question": "What Roman general stayed behind in Spain after Hannibal reached the Alps?",
       "options": {
         "A": "Cn. Cornelius Scipio",
-        "C": "L. Manlius Vulso",
+        "C": "Flaminius Nepos",
         "B": "Cn. Servilius Geminus d."
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7670,7 +7773,7 @@
         "D": "Mylae"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7688,7 +7791,7 @@
         "D": "Mylae"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7706,7 +7809,7 @@
         "D": "Agathocles"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7719,11 +7822,11 @@
       "question": "Who sponsored the law in 287 made all plebiscita binding on all citizens?",
       "options": {
         "A": "Quintus Hortensius",
-        "C": "Cnaeus Ogulnius",
+        "C": "Licinius Stolo",
         "B": "Lucius Genucius d."
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7741,7 +7844,7 @@
         "D": "Venusia"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7759,7 +7862,7 @@
         "D": "Lex Canuleia"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7777,7 +7880,7 @@
         "D": "Volaterrae"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7795,7 +7898,7 @@
         "D": "Alexandria"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7813,7 +7916,7 @@
         "D": "Surena"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7831,7 +7934,7 @@
         "D": "Cassivellaunus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7849,7 +7952,7 @@
         "D": "Aemilius Lepidus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7867,7 +7970,7 @@
         "D": "Livia"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7885,7 +7988,7 @@
         "D": "Sequani"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7897,12 +8000,12 @@
       "question_number": 46,
       "question": "Although the Dictator Mamercus was granted a triumph, who claimed the spolia opima?",
       "options": {
-        "A": "L. Roscius",
+        "A": "Cornelius Cossus",
         "C": "S. Antius",
         "B": "M. Claudius Marcellus d."
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7920,7 +8023,7 @@
         "D": "Appius Herdonius"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7938,7 +8041,7 @@
         "D": "P. Postumius Tubertus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7952,10 +8055,10 @@
       "options": {
         "A": "Numa Pompilius",
         "B": "M. Valerius",
-        "C": "Proculus Iulius d."
+        "C": "Cluilius"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -7973,7 +8076,7 @@
         "D": "fortify the Palatine"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null,
       "source_year": "state_2017",
       "source_subject": "History_of_the_Monarchy_and_Republic",
@@ -8073,7 +8176,7 @@
     },
     {
       "question_number": 6,
-      "question": "Along with support of Caesar and Crassus?",
+      "question": "Along with",
       "options": {
         "C": "M. Tullius Cicero",
         "A": "L. Licinius Lucullus",

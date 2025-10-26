@@ -157,15 +157,19 @@ class TestGenerator {
         document.getElementById('questionCounter').textContent = 
             `Question ${this.currentQuestionIndex + 1} of 50`;
         
-        // Display question + optional instruction
-        const questionBlock = document.getElementById('questionText');
-        questionBlock.innerHTML = '';
+        // Display instruction in separate box above (if exists)
+        const instructionBlock = document.getElementById('instructionText');
+        instructionBlock.innerHTML = '';
         if (question.instruction) {
             const instructionDiv = document.createElement('div');
             instructionDiv.className = 'instruction';
             instructionDiv.textContent = this.formatInstruction(question.instruction);
-            questionBlock.appendChild(instructionDiv);
+            instructionBlock.appendChild(instructionDiv);
         }
+        
+        // Display question in its own prominent box
+        const questionBlock = document.getElementById('questionText');
+        questionBlock.innerHTML = '';
         const qLine = document.createElement('div');
         qLine.className = 'question-line';
         qLine.textContent = question.question;
@@ -327,8 +331,8 @@ class TestGenerator {
                     </span>
                 </div>
                 <div class="question-text">
-                    ${question.instruction ? `<div class=\"instruction\">${this.formatInstruction(question.instruction)}</div>` : ''}
-                    <div class=\"question-line\">${question.question}</div>
+                    ${question.instruction ? `<div class=\"instruction-box\"><div class=\"instruction\">${this.formatInstruction(question.instruction)}</div></div>` : ''}
+                    <div class=\"question\"><div class=\"question-line\">${question.question}</div></div>
                 </div>
                 <div class="options-review">
                     ${Object.entries(question.options).map(([key, value]) => `

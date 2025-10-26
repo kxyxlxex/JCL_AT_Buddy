@@ -189,16 +189,41 @@ header p {
     margin-bottom: 8px;
 }
 
+/* Instruction box styling (separate box above question) */
+.instruction-box {
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(245, 158, 11, 0.1));
+    border: 2px solid rgba(139, 92, 246, 0.3);
+    border-radius: 12px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 15px rgba(139, 92, 246, 0.1);
+}
+
 /* Instruction styling (italics, ends with colon) */
 .instruction {
     color: rgba(0, 0, 0, 0.7);
     font-style: italic;
-    margin-bottom: 8px;
+    margin: 0;
     font-size: 1.1rem;
+    line-height: 1.4;
+}
+
+/* Question box styling (prominent, stands out) */
+.question {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.9) 100%);
+    border: 2px solid #8B5CF6;
+    border-radius: 15px;
+    padding: 25px 30px;
+    margin-bottom: 25px;
+    box-shadow: 0 8px 25px rgba(139, 92, 246, 0.2), 0 0 30px rgba(245, 158, 11, 0.1);
+    backdrop-filter: blur(10px);
 }
 
 .question-line {
     color: #222;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    font-weight: 500;
 }
 
 .options {

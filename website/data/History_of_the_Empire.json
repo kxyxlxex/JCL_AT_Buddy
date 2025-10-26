@@ -1,9 +1,9 @@
 {
   "subject_info": {
     "name": "History_of_the_Empire",
-    "total_questions": 545,
+    "total_questions": 550,
     "years_covered": 11,
-    "pre_2018_questions": 445,
+    "pre_2018_questions": 450,
     "post_2018_questions": 100,
     "description": "Questions about Roman Empire history and events"
   },
@@ -441,6 +441,21 @@
       "has_section": false
     },
     {
+      "question_number": 25,
+      "question": "What commander of the legions of the Upper Rhine conspired to replace Caligula with a senator named M. Aemilius Lepidus in 39? a.",
+      "options": {
+        "C": "Iulius Classicus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null,
+      "source_year": "state_2009",
+      "source_subject": "History_of_the_Empire",
+      "format_era": "pre_2018",
+      "original_question_number": 25,
+      "has_section": false
+    },
+    {
       "question_number": 26,
       "question": "Who was Galba’s freedman advisor who brought word that the Senate had appointed him emperor?",
       "options": {
@@ -546,6 +561,23 @@
       "source_subject": "History_of_the_Empire",
       "format_era": "pre_2018",
       "original_question_number": 31,
+      "has_section": false
+    },
+    {
+      "question_number": 32,
+      "question": "Who proposed to the Senate that",
+      "options": {
+        "C": "Maecenas",
+        "B": "Statilius Taurus c.",
+        "D": "Munatius Plancus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null,
+      "source_year": "state_2009",
+      "source_subject": "History_of_the_Empire",
+      "format_era": "pre_2018",
+      "original_question_number": 32,
       "has_section": false
     },
     {
@@ -840,7 +872,9 @@
       "question_number": 49,
       "question": "Which general conquered Mauretania under Claudius?",
       "options": {
-        "A": "Drusus II b."
+        "A": "Plautius",
+        "C": "Flavius Vespasianus",
+        "D": "Suetonius Paulinus"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -1354,6 +1388,24 @@
       "has_section": false
     },
     {
+      "question_number": 28,
+      "question": "Which enterprising general was sworn to Galba, turned traitor to support Vitellius, then turned on Vitellius and tried to get his troops to support Vespasian? He was eventually put to death for treachery (finally) by the emperor Titus? a.",
+      "options": {
+        "A": "Caecina",
+        "B": "Suetonius Paulinus",
+        "C": "Fabius Valens",
+        "D": "Antonius Primus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null,
+      "source_year": "state_2010",
+      "source_subject": "History_of_the_Empire",
+      "format_era": "pre_2018",
+      "original_question_number": 28,
+      "has_section": false
+    },
+    {
       "question_number": 29,
       "question": "Which of these correctly describes the familial relationship between the emperors Titus and Domitian?",
       "options": {
@@ -1444,6 +1496,22 @@
       "has_section": false
     },
     {
+      "question_number": 34,
+      "question": "It is thought that the survival of the empire during the reign of the young Gordian III is in large part due to the brilliance of his father-in-law, the praetorian prefect. What was his name? a.",
+      "options": {
+        "D": "Calvinus Maximus b.",
+        "C": "Marinus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null,
+      "source_year": "state_2010",
+      "source_subject": "History_of_the_Empire",
+      "format_era": "pre_2018",
+      "original_question_number": 34,
+      "has_section": false
+    },
+    {
       "question_number": 35,
       "question": "What Dacian capital city did Trajan finally occupy after a long battle in 106?",
       "options": {
@@ -1499,7 +1567,7 @@
     },
     {
       "question_number": 38,
-      "question": "Leading up to the Battle of Adrianople, the Goths had asked for and been granted permission to",
+      "question": "Leading up to the Battle of Adrianople, the Goths had asked for and been granted permission to settle in Roman territory because of the raids and pressure of what other people?",
       "options": {
         "A": "Vandals",
         "B": "Huns",
@@ -1525,7 +1593,7 @@
         "D": "Lucius Verus"
       },
       "type": "multiple_choice",
-      "instruction": "settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Empire",
@@ -1543,7 +1611,7 @@
         "D": "9 AD"
       },
       "type": "multiple_choice",
-      "instruction": "settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Empire",
@@ -1561,7 +1629,7 @@
         "D": "Jovian"
       },
       "type": "multiple_choice",
-      "instruction": "settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Empire",
@@ -1579,7 +1647,7 @@
         "D": "Germania"
       },
       "type": "multiple_choice",
-      "instruction": "settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Empire",
@@ -1597,7 +1665,7 @@
         "D": "Plautia Urgulanilla"
       },
       "type": "multiple_choice",
-      "instruction": "settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Empire",
@@ -1615,7 +1683,7 @@
         "D": "Menapian"
       },
       "type": "multiple_choice",
-      "instruction": "settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Empire",
@@ -1633,7 +1701,7 @@
         "D": "Leo I"
       },
       "type": "multiple_choice",
-      "instruction": "settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Empire",
@@ -1651,7 +1719,7 @@
         "D": "Vaballathus"
       },
       "type": "multiple_choice",
-      "instruction": "settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Empire",
@@ -1669,7 +1737,7 @@
         "D": "Rambam"
       },
       "type": "multiple_choice",
-      "instruction": "settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Empire",
@@ -1687,7 +1755,7 @@
         "D": "Dalmatia"
       },
       "type": "multiple_choice",
-      "instruction": "settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Empire",
@@ -1705,7 +1773,7 @@
         "D": "mathematics"
       },
       "type": "multiple_choice",
-      "instruction": "settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Empire",
@@ -1723,7 +1791,7 @@
         "D": "Probus"
       },
       "type": "multiple_choice",
-      "instruction": "settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2010",
       "source_subject": "History_of_the_Empire",
@@ -1805,7 +1873,7 @@
     },
     {
       "question_number": 5,
-      "question": "What Praetorian Prefect and maternal cousin of Septimius Severus was given great power by the",
+      "question": "What Praetorian Prefect and maternal cousin of Septimius Severus was given great power by the emperor but was later killed because Caracalla loathed his daughter?",
       "options": {
         "A": "Perseus",
         "B": "Planius",
@@ -1831,7 +1899,7 @@
         "D": "P. Ovidius Naso"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -1849,7 +1917,7 @@
         "D": "Marcus Agrippa"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -1867,7 +1935,7 @@
         "D": "Timesitheus"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -1885,7 +1953,7 @@
         "D": "Nerva"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -1903,7 +1971,7 @@
         "D": "Geta"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -1921,7 +1989,7 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -1939,7 +2007,7 @@
         "D": "Majorianus"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -1957,7 +2025,7 @@
         "D": "Lepanto"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -1975,7 +2043,7 @@
         "D": "Theodosius I"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -1993,7 +2061,7 @@
         "D": "Theodosian"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2011,7 +2079,7 @@
         "D": "Constantius III"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2029,7 +2097,7 @@
         "D": "Vipsania"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2047,7 +2115,7 @@
         "D": "Poppaea Sabina"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2065,7 +2133,7 @@
         "D": "Narcissus"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2083,7 +2151,7 @@
         "D": "Julian"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2101,7 +2169,7 @@
         "D": "Valens"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2119,7 +2187,7 @@
         "D": "Hadrian’s"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2137,7 +2205,7 @@
         "D": "Manthus"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2155,12 +2223,27 @@
         "D": "Basil"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
       "format_era": "pre_2018",
       "original_question_number": 24,
+      "has_section": false
+    },
+    {
+      "question_number": 25,
+      "question": "What commander of the legions of the Upper Rhine conspired to replace Caligula with a senator named M. Aemilius Lepidus in 39 A.D.? a.",
+      "options": {
+        "C": "Iulius Classicus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null,
+      "source_year": "state_2011",
+      "source_subject": "History_of_the_Empire",
+      "format_era": "pre_2018",
+      "original_question_number": 25,
       "has_section": false
     },
     {
@@ -2173,7 +2256,7 @@
         "D": "Phillip the Arab"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2191,7 +2274,7 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2209,7 +2292,7 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2227,7 +2310,7 @@
         "D": "Sulpicianus"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2245,7 +2328,7 @@
         "D": "Immae"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2263,7 +2346,7 @@
         "D": "Decius"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2281,7 +2364,7 @@
         "D": "Romulus Augustulus"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2299,7 +2382,7 @@
         "D": "Aulus Caecina"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2317,7 +2400,7 @@
         "D": "Rhodes"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2335,7 +2418,7 @@
         "D": "Hadrian"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2353,7 +2436,7 @@
         "D": "Maxentius"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2371,7 +2454,7 @@
         "D": "Julia Soaemias"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2389,7 +2472,7 @@
         "D": "Theodora"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2407,7 +2490,7 @@
         "D": "Petronius Secundus"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2425,7 +2508,7 @@
         "D": "Domitian’s"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2443,7 +2526,7 @@
         "D": "Nerva"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2461,7 +2544,7 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2479,7 +2562,7 @@
         "D": "Constantius Chlorus"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2497,7 +2580,7 @@
         "D": "Gundobad"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2515,7 +2598,7 @@
         "D": "Fuscus"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2533,7 +2616,7 @@
         "D": "Tiberius’"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2551,7 +2634,7 @@
         "D": "Urgulanilla"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2569,7 +2652,7 @@
         "D": "Harmodius"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2579,7 +2662,7 @@
     },
     {
       "question_number": 49,
-      "question": "Although Romulus Augustulus is traditionally the last Western Roman Emperor, his predecessor",
+      "question": "Although Romulus Augustulus is traditionally the last Western Roman Emperor, his predecessor __________ is considered by some historians to be the last because he ruled in Dalmatia until 480.",
       "options": {
         "A": "Majorian",
         "B": "Severus III",
@@ -2587,7 +2670,7 @@
         "D": "Avictus"
       },
       "type": "multiple_choice",
-      "instruction": "emperor but was later killed because Caracalla loathed his daughter:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -2605,7 +2688,7 @@
         "D": "Aemilius Aemilianus"
       },
       "type": "multiple_choice",
-      "instruction": "__________ is considered by some historians to be the last because he ruled in Dalmatia until 480:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2011",
       "source_subject": "History_of_the_Empire",
@@ -3547,7 +3630,7 @@
     },
     {
       "question_number": 3,
-      "question": "The emperor Marcus Aurelius Septimius Bassianus Antoninus is likewise more commonly known by a",
+      "question": "The emperor Marcus Aurelius Septimius Bassianus Antoninus is likewise more commonly known by a nickname, his referring to the hooded tunic he brought into fashion.",
       "options": {
         "A": "Caracalla",
         "B": "Macrinus",
@@ -3573,7 +3656,7 @@
         "D": "Cestius’ Bridge"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3590,7 +3673,7 @@
         "C": "118 d."
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3608,7 +3691,7 @@
         "D": "Petronius Maximus"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3626,7 +3709,7 @@
         "D": "Ostrogoths"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3644,7 +3727,7 @@
         "D": "Five Good Emperors"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3662,7 +3745,7 @@
         "D": "Titus'"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3680,7 +3763,7 @@
         "D": "Burebistas"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3698,7 +3781,7 @@
         "D": "retired to Salona"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3716,7 +3799,7 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3734,7 +3817,7 @@
         "D": "Gordian I"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3752,7 +3835,7 @@
         "D": "Gaius Cestius Gallus"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3770,7 +3853,7 @@
         "D": "Claudius II"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3788,7 +3871,7 @@
         "D": "Septimius Severus"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3806,7 +3889,7 @@
         "D": "Misenum"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3824,7 +3907,7 @@
         "D": "Cispius Daelianus"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3842,7 +3925,7 @@
         "D": "Lucius Verus"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3860,7 +3943,7 @@
         "D": "plague"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3878,7 +3961,7 @@
         "D": "Florian"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3896,7 +3979,7 @@
         "D": "Ostrogoths"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3914,7 +3997,7 @@
         "D": "Mursa"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3932,7 +4015,7 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3950,7 +4033,7 @@
         "D": "February"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3968,7 +4051,7 @@
         "D": "imperium populi"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -3986,7 +4069,7 @@
         "D": "Commodus"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4003,7 +4086,7 @@
         "C": "70 d."
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4021,7 +4104,7 @@
         "D": "Severus Alexander"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4039,7 +4122,7 @@
         "D": "Stabiae"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4056,7 +4139,7 @@
         "C": "753 B.C. d."
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4074,7 +4157,7 @@
         "D": "Romulus Augustulus"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4092,7 +4175,7 @@
         "D": "Philip the Arab"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4110,7 +4193,7 @@
         "D": "Verginius Rufus'"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4128,7 +4211,7 @@
         "D": "Praetorian Guard"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4146,7 +4229,7 @@
         "D": "Vitellius"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4164,7 +4247,7 @@
         "D": "Valerian"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4182,7 +4265,7 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4200,7 +4283,7 @@
         "D": "Gaius Caesar"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4218,7 +4301,7 @@
         "D": "Petilius Cerialus"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4236,7 +4319,7 @@
         "D": "sister"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4254,7 +4337,7 @@
         "D": "Julia Soaemias"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4272,7 +4355,7 @@
         "D": "Capri"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4290,7 +4373,7 @@
         "D": "marched on Rome"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4308,7 +4391,7 @@
         "D": "Numerian"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4326,7 +4409,7 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4344,7 +4427,7 @@
         "D": "Livia"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4362,7 +4445,7 @@
         "D": "Zeno"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4380,7 +4463,7 @@
         "D": "Seneca Minor"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -4398,7 +4481,7 @@
         "D": "Argobast"
       },
       "type": "multiple_choice",
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion:",
+      "instruction": null,
       "correct_answer": null,
       "source_year": "state_2013",
       "source_subject": "History_of_the_Empire",
@@ -5537,7 +5620,7 @@
     },
     {
       "question_number": 14,
-      "question": "Who was Constantine the Great’s father? Chlorus",
+      "question": "Who was Constantine the Great’s father?",
       "options": {
         "A": "Severus II",
         "B": "Galerius",
