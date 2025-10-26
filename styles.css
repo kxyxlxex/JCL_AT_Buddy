@@ -189,6 +189,14 @@ header p {
     margin-bottom: 8px;
 }
 
+/* Instruction styling (italics, ends with colon) */
+.instruction {
+    color: rgba(0, 0, 0, 0.7);
+    font-style: italic;
+    margin-bottom: 8px;
+    font-size: 1.1rem;
+}
+
 .question-line {
     color: #222;
 }

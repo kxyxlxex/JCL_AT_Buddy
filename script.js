@@ -157,7 +157,7 @@ class TestGenerator {
         document.getElementById('questionCounter').textContent = 
             `Question ${this.currentQuestionIndex + 1} of 50`;
         
-        // Display question + optional section title
+        // Display question + optional section title and instruction
         const questionBlock = document.getElementById('questionText');
         questionBlock.innerHTML = '';
         if (question.section) {
@@ -165,6 +165,12 @@ class TestGenerator {
             sectionDiv.className = 'section-title';
             sectionDiv.textContent = this.formatSectionTitle(question.section);
             questionBlock.appendChild(sectionDiv);
+        }
+        if (question.instruction) {
+            const instructionDiv = document.createElement('div');
+            instructionDiv.className = 'instruction';
+            instructionDiv.textContent = this.formatInstruction(question.instruction);
+            questionBlock.appendChild(instructionDiv);
         }
         const qLine = document.createElement('div');
         qLine.className = 'question-line';
@@ -328,6 +334,7 @@ class TestGenerator {
                 </div>
                 <div class="question-text">
                     ${question.section ? `<div class=\"section-title\">${this.formatSectionTitle(question.section)}</div>` : ''}
+                    ${question.instruction ? `<div class=\"instruction\">${this.formatInstruction(question.instruction)}</div>` : ''}
                     <div class=\"question-line\">${question.question}</div>
                 </div>
                 <div class="options-review">
@@ -467,6 +474,20 @@ class TestGenerator {
             s = s.replace(/^[IVXLCDM]+\.\s*/i, '');
             // Remove trailing period(s)
             s = s.replace(/[\.:]+\s*$/,'');
+            // Always add a single colon
+            s = `${s}:`;
+            return s;
+        } catch (_) {
+            return raw;
+        }
+    }
+
+    // Format instruction: ensure it ends with a colon
+    formatInstruction(raw) {
+        try {
+            let s = String(raw).trim();
+            // Remove trailing period(s) and colon(s)
+            s = s.replace(/[\.:]+\s*$/, '');
             // Always add a single colon
             s = `${s}:`;
             return s;
