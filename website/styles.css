@@ -55,12 +55,12 @@ header p {
     padding: 30px;
     cursor: pointer;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 15px rgba(139, 92, 246, 0.15);
 }
 
 .test-option:hover {
     transform: translateY(-5px);
-    box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+    box-shadow: 0 8px 25px rgba(139, 92, 246, 0.3), 0 0 30px rgba(217, 119, 6, 0.2);
 }
 
 .test-option h3 {
@@ -79,7 +79,7 @@ header p {
     background: white;
     border-radius: 15px;
     padding: 40px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    box-shadow: 0 8px 30px rgba(139, 92, 246, 0.3), 0 0 60px rgba(217, 119, 6, 0.2);
 }
 
 .test-header {
@@ -104,6 +104,23 @@ header p {
 
 .question-container {
     margin-bottom: 30px;
+}
+
+.instruction-box {
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.08), rgba(217, 119, 6, 0.08));
+    border: 1px solid rgba(139, 92, 246, 0.2);
+    border-radius: 10px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(139, 92, 246, 0.1);
+}
+
+.instruction-box p {
+    font-style: italic;
+    color: #888;
+    font-size: 0.95rem;
+    margin: 0;
+    line-height: 1.5;
 }
 
 #questionText {
@@ -137,8 +154,9 @@ header p {
 }
 
 .option.selected {
-    background: #f0e6ff;
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(217, 119, 6, 0.1));
     border-color: #8B5CF6;
+    box-shadow: 0 0 20px rgba(139, 92, 246, 0.3), 0 0 30px rgba(217, 119, 6, 0.2);
 }
 
 .option input[type="radio"] {
@@ -187,6 +205,11 @@ button:not(:disabled):hover {
     background: linear-gradient(135deg, #8B5CF6, #D97706);
     color: white;
     margin-left: auto;
+    box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);
+}
+
+#submitTest:hover {
+    box-shadow: 0 6px 25px rgba(139, 92, 246, 0.5), 0 0 30px rgba(217, 119, 6, 0.3);
 }
 
 /* Results */
@@ -195,7 +218,7 @@ button:not(:disabled):hover {
     border-radius: 15px;
     padding: 60px 40px;
     text-align: center;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    box-shadow: 0 8px 30px rgba(139, 92, 246, 0.3), 0 0 60px rgba(217, 119, 6, 0.2);
 }
 
 .results h2 {
@@ -235,6 +258,11 @@ button:not(:disabled):hover {
 #reviewAnswers {
     background: linear-gradient(135deg, #8B5CF6, #D97706);
     color: white;
+    box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);
+}
+
+#reviewAnswers:hover {
+    box-shadow: 0 6px 25px rgba(139, 92, 246, 0.5), 0 0 30px rgba(217, 119, 6, 0.3);
 }
 
 #newTest {
@@ -247,7 +275,18 @@ button:not(:disabled):hover {
     background: white;
     border-radius: 15px;
     padding: 40px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    box-shadow: 0 8px 30px rgba(139, 92, 246, 0.3), 0 0 60px rgba(217, 119, 6, 0.2);
+}
+
+.review-instruction {
+    font-style: italic;
+    color: #888;
+    font-size: 0.9rem;
+    margin: 10px 0 15px 0;
+    padding: 10px 15px;
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.05), rgba(217, 119, 6, 0.05));
+    border-left: 3px solid rgba(139, 92, 246, 0.3);
+    border-radius: 5px;
 }
 
 .review-interface h2 {
@@ -384,6 +423,11 @@ button:not(:disabled):hover {
     background: linear-gradient(135deg, #8B5CF6, #D97706);
     color: white;
     font-weight: 600;
+    box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);
+}
+
+#newTestFromReview:hover {
+    box-shadow: 0 6px 25px rgba(139, 92, 246, 0.5), 0 0 30px rgba(217, 119, 6, 0.3);
 }
 
 /* Modal Styles */

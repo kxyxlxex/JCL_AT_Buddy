@@ -199,14 +199,27 @@ class TestGenerator {
         document.getElementById('questionCounter').textContent = 
             `Question ${this.currentQuestionIndex + 1} of 50`;
         
-        // Display question
-        document.getElementById('questionText').textContent = question.question;
+        // Display instruction if available
+        const instructionBox = document.getElementById('instructionBox');
+        const instructionText = document.getElementById('instructionText');
+        if (question.question_instruction) {
+            instructionText.textContent = question.question_instruction;
+            instructionBox.style.display = 'block';
+        } else {
+            instructionBox.style.display = 'none';
+        }
+        
+        // Display question - filter out "Question X" pattern
+        let questionText = question.question_body || question.question || '';
+        // Remove "Question X" or "Question X." at the start
+        questionText = questionText.replace(/^Question\s+\d+\.?\s*/i, '');
+        document.getElementById('questionText').textContent = questionText;
         
         // Display options
         const optionsContainer = document.getElementById('optionsContainer');
         optionsContainer.innerHTML = '';
         
-        Object.entries(question.options).forEach(([key, value]) => {
+        Object.entries(question.question_options || question.options).forEach(([key, value]) => {
             const optionDiv = document.createElement('div');
             optionDiv.className = 'option';
             
@@ -334,6 +347,13 @@ class TestGenerator {
             const questionDiv = document.createElement('div');
             questionDiv.className = `review-question ${isCorrect ? 'correct' : 'incorrect'}`;
             
+            // Filter out "Question X" pattern for review too
+            let questionText = question.question_body || question.question || '';
+            questionText = questionText.replace(/^Question\s+\d+\.?\s*/i, '');
+            
+            const instructionHTML = question.question_instruction ? 
+                `<div class="review-instruction">${question.question_instruction}</div>` : '';
+            
             questionDiv.innerHTML = `
                 <div class="question-header">
                     <h4>Question ${index + 1} ${isCorrect ? '✓' : '✗'}</h4>
@@ -341,9 +361,10 @@ class TestGenerator {
                         ${isCorrect ? 'Correct' : 'Incorrect'}
                     </span>
                 </div>
-                <div class="question-text">${question.question}</div>
+                ${instructionHTML}
+                <div class="question-text">${questionText}</div>
                 <div class="options-review">
-                    ${Object.entries(question.options).map(([key, value]) => `
+                    ${Object.entries(question.question_options || question.options).map(([key, value]) => `
                         <div class="option-review ${key === correctAnswer ? 'correct-answer' : ''} ${key === userAnswer && !isCorrect ? 'user-answer-wrong' : ''}">
                             <span class="option-letter">${key}.</span>
                             <span class="option-text">${value}</span>
