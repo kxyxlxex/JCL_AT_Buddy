@@ -52,10 +52,10 @@ class TestGenerator {
             history.replaceState({ view: 'home' }, '', '#home');
         }
 
-        // Handle back/forward navigation
+        // Handle back/forward navigation: default to home for non-test states
         window.addEventListener('popstate', (event) => {
-            const state = event.state || { view: 'home' };
-            if (state.view === 'home') {
+            const state = event.state;
+            if (!state || state.view !== 'test') {
                 this.exitToHome();
             }
         });
@@ -118,8 +118,9 @@ class TestGenerator {
         document.getElementById('testInterface').style.display = 'block';
         document.getElementById('results').style.display = 'none';
         
-        // Push a single history entry for the test; subsequent question changes will replace this
+        // Ensure an in-app home entry exists just before the test, then push test entry
         try {
+            history.pushState({ view: 'home' }, '', '#home');
             history.pushState({ view: 'test', subject: this.currentSubject, q: 1 }, '', `#test/${encodeURIComponent(this.currentSubject)}/1`);
         } catch (_) {
             // no-op if history not available
@@ -418,6 +419,12 @@ class TestGenerator {
         document.querySelector('.test-selection').style.display = 'none';
         document.getElementById('testInterface').style.display = 'block';
         document.getElementById('results').style.display = 'none';
+        
+        // Ensure history entries for home and test exist when resuming
+        try {
+            history.pushState({ view: 'home' }, '', '#home');
+            history.pushState({ view: 'test', subject: progress.subject, q: progress.currentQuestionIndex + 1 }, '', `#test/${encodeURIComponent(progress.subject)}/${progress.currentQuestionIndex + 1}`);
+        } catch (_) {}
         
         // Restore test state
         this.currentSubject = progress.subject;
