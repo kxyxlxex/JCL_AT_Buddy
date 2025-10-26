@@ -149,7 +149,7 @@
       "options": {
         "A": "Sempronius Longus",
         "B": "P. Cornelius Scipio",
-        "C": "Q. Fabius Maximus d."
+        "C": "Flaminius"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -350,6 +350,18 @@
       "correct_answer": null
     },
     {
+      "question_number": 28,
+      "question": "Which of the following was NOT an original member of Tiberius Gracchus’ land commission? a.",
+      "options": {
+        "C": "Tiberius Gracchus",
+        "B": "Mucius Scaevola",
+        "D": "Appius Claudius"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
       "question_number": 29,
       "question": "Once rid of its last king, the infant republic of Rome found itself besieged by which Etruscan king?",
       "options": {
@@ -484,7 +496,9 @@
       "question": "Which tribune became the second victim of a Senatus Consultum Ultimum in 100?",
       "options": {
         "A": "Glaucia",
-        "B": "Memmius c."
+        "B": "Memmius c.",
+        "C": "Gracchus",
+        "D": "Saturninus"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -531,10 +545,12 @@
     },
     {
       "question_number": 43,
-      "question": "What consul’s fleet was defeated by pirates near Ostia in 68? c.",
+      "question": "What consul’s fleet was defeated by pirates near Ostia in 68?",
       "options": {
         "A": "L. Cassius Longinus",
-        "B": "M. Antonius Creticus"
+        "B": "M. Antonius Creticus",
+        "C": "Antonius Hybrida",
+        "D": "Q. Marcius Rex"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -561,6 +577,18 @@
         "B": "Aquilonia",
         "C": "Bovianum",
         "D": "Lucania"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 46,
+      "question": "Which Roman general quelled the slave rebellion led by Eunus and Cleon in Sicily in 132? a.",
+      "options": {
+        "C": "M’ Aquilius",
+        "B": "Piso Frugi",
+        "D": "Metellus Numidicus"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -617,10 +645,5 @@
       "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2011,
-    "format": "pre_2018",
-    "total_questions": 48
-  }
+  ]
 }

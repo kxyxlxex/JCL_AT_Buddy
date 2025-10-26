@@ -2,7 +2,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Vita",
+      "question": "vita",
       "options": {
         "A": "vital",
         "B": "viral",
@@ -10,12 +10,12 @@
         "D": "invoice"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English word derived from the given Latin word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 2,
-      "question": "Duco",
+      "question": "duco",
       "options": {
         "A": "adorn",
         "B": "conduct",
@@ -23,12 +23,12 @@
         "D": "dunk"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English word derived from the given Latin word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "Puer",
+      "question": "puer",
       "options": {
         "A": "pure",
         "B": "power",
@@ -36,12 +36,12 @@
         "D": "porter"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English word derived from the given Latin word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 4,
-      "question": "Silva",
+      "question": "silva",
       "options": {
         "A": "silver",
         "B": "savage",
@@ -49,12 +49,12 @@
         "D": "sovereign"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English word derived from the given Latin word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "Casa",
+      "question": "casa",
       "options": {
         "A": "cash",
         "B": "casino",
@@ -62,12 +62,12 @@
         "D": "cast"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English word derived from the given Latin word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 6,
-      "question": "Liber",
+      "question": "liber",
       "options": {
         "A": "liberty",
         "B": "deliver",
@@ -75,12 +75,12 @@
         "D": "libertine"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English word derived from the given Latin word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 7,
-      "question": "Cras",
+      "question": "cras",
       "options": {
         "A": "decrease",
         "B": "crass",
@@ -88,12 +88,12 @@
         "D": "procrastinate"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English word derived from the given Latin word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 8,
-      "question": "Poena",
+      "question": "poena",
       "options": {
         "A": "penalty",
         "B": "poem",
@@ -101,12 +101,12 @@
         "D": "pecuniary"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English word derived from the given Latin word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 9,
-      "question": "Peto",
+      "question": "peto",
       "options": {
         "A": "pet",
         "B": "petitioner",
@@ -114,12 +114,12 @@
         "D": "pedestrian"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English word derived from the given Latin word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "Culpa",
+      "question": "culpa",
       "options": {
         "A": "culprit",
         "B": "cull",
@@ -127,12 +127,12 @@
         "D": "inculcate"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English word derived from the given Latin word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 11,
-      "question": "Closet",
+      "question": "closet",
       "options": {
         "A": "claudo",
         "B": "clamo",
@@ -140,12 +140,12 @@
         "D": "alo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin root from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 12,
-      "question": "Circumference",
+      "question": "circumference",
       "options": {
         "A": "festino",
         "B": "fero",
@@ -153,12 +153,12 @@
         "D": "feriae"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin root from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 13,
-      "question": "Triumvirate",
+      "question": "triumvirate",
       "options": {
         "A": "vita",
         "B": "via",
@@ -166,12 +166,12 @@
         "D": "virgo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin root from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 14,
-      "question": "Legacy",
+      "question": "legacy",
       "options": {
         "A": "lego",
         "B": "lex",
@@ -179,12 +179,12 @@
         "D": "ligo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin root from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "Rupture",
+      "question": "rupture",
       "options": {
         "A": "rumpo",
         "B": "rideo",
@@ -192,12 +192,12 @@
         "D": "rumor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin root from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 16,
-      "question": "Manor",
+      "question": "manor",
       "options": {
         "A": "manus",
         "B": "mando",
@@ -205,12 +205,12 @@
         "D": "maneo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin root from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 17,
-      "question": "Seal",
+      "question": "seal",
       "options": {
         "A": "signum",
         "B": "scio",
@@ -218,12 +218,12 @@
         "D": "sacer"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin root from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 18,
-      "question": "Haughty",
+      "question": "haughty",
       "options": {
         "A": "habeo",
         "B": "altus",
@@ -231,12 +231,12 @@
         "D": "augeo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin root from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 19,
-      "question": "Isle",
+      "question": "isle",
       "options": {
         "A": "iungo",
         "B": "insula",
@@ -244,12 +244,12 @@
         "D": "iubeo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin root from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "Champion",
+      "question": "champion",
       "options": {
         "A": "campus",
         "B": "capio",
@@ -257,12 +257,12 @@
         "D": "clarus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin root from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 21,
-      "question": "Decapitate",
+      "question": "decapitate",
       "options": {
         "A": "take",
         "B": "head",
@@ -270,12 +270,12 @@
         "D": "camp"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 22,
-      "question": "Aural",
+      "question": "aural",
       "options": {
         "A": "nose",
         "B": "mouth",
@@ -283,12 +283,12 @@
         "D": "air"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 23,
-      "question": "Equinox",
+      "question": "equinox",
       "options": {
         "A": "night",
         "B": "new",
@@ -296,12 +296,12 @@
         "D": "horse"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 24,
-      "question": "Edit",
+      "question": "edit",
       "options": {
         "A": "to owe",
         "B": "to buy",
@@ -309,12 +309,12 @@
         "D": "to give"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 25,
-      "question": "Admonition",
+      "question": "admonition",
       "options": {
         "A": "to call",
         "B": "to wait",
@@ -322,12 +322,12 @@
         "D": "to overcome"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 26,
-      "question": "Rehabilitate",
+      "question": "rehabilitate",
       "options": {
         "A": "to have",
         "B": "to free",
@@ -335,12 +335,12 @@
         "D": "to repair"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 27,
-      "question": "Sinecure",
+      "question": "sinecure",
       "options": {
         "A": "cure",
         "B": "care",
@@ -348,12 +348,12 @@
         "D": "sincere"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 28,
-      "question": "Defenestrate",
+      "question": "defenestrate",
       "options": {
         "A": "defend",
         "B": "throw",
@@ -361,12 +361,12 @@
         "D": "conclude"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 29,
-      "question": "Attract",
+      "question": "attract",
       "options": {
         "A": "to desire",
         "B": "to pull",
@@ -374,12 +374,12 @@
         "D": "to drag"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Convict",
+      "question": "convict",
       "options": {
         "A": "to punish",
         "B": "to control",
@@ -387,7 +387,7 @@
         "D": "to judge"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the meaning of the Latin word from which the English word is derived:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
@@ -400,7 +400,7 @@
         "D": "timing"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word which best completes the sentence or means the same as the underlined word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
@@ -413,7 +413,7 @@
         "D": "attitude"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word which best completes the sentence or means the same as the underlined word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
@@ -426,7 +426,7 @@
         "D": "compelling"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word which best completes the sentence or means the same as the underlined word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
@@ -439,7 +439,7 @@
         "D": "long-­‐lasting"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word which best completes the sentence or means the same as the underlined word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
@@ -452,7 +452,7 @@
         "D": "to annoy"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word which best completes the sentence or means the same as the underlined word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
@@ -465,7 +465,7 @@
         "D": "communication"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word which best completes the sentence or means the same as the underlined word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
@@ -478,7 +478,7 @@
         "D": "bravery"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word which best completes the sentence or means the same as the underlined word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
@@ -491,7 +491,7 @@
         "D": "of smell"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word which best completes the sentence or means the same as the underlined word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
@@ -504,7 +504,7 @@
         "D": "showy"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word which best completes the sentence or means the same as the underlined word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
@@ -517,12 +517,12 @@
         "D": "eating"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word which best completes the sentence or means the same as the underlined word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 46,
-      "question": "Sport",
+      "question": "sport",
       "options": {
         "A": "proportion",
         "B": "portage",
@@ -530,12 +530,12 @@
         "D": "part"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word derived from the same Latin root as the given word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 47,
-      "question": "Umbrella",
+      "question": "umbrella",
       "options": {
         "A": "undulate",
         "B": "unction",
@@ -543,12 +543,12 @@
         "D": "urban"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word derived from the same Latin root as the given word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 48,
-      "question": "Moment",
+      "question": "moment",
       "options": {
         "A": "monument",
         "B": "remnant",
@@ -556,12 +556,12 @@
         "D": "motor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word derived from the same Latin root as the given word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 49,
-      "question": "Republic",
+      "question": "republic",
       "options": {
         "A": "pub",
         "B": "pulchritude",
@@ -569,12 +569,12 @@
         "D": "report"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word derived from the same Latin root as the given word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 50,
-      "question": "Reservoir",
+      "question": "reservoir",
       "options": {
         "A": "observe",
         "B": "serve",
@@ -582,13 +582,8 @@
         "D": "support"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the word derived from the same Latin root as the given word:",
+      "instruction": "Choose the English word derived from the given Latin word.",
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2012,
-    "format": "pre_2018",
-    "total_questions": 45
-  }
+  ]
 }

@@ -2,7 +2,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Aliquid",
+      "question": "aliquid",
       "options": {
         "A": "another",
         "B": "anyone",
@@ -10,12 +10,12 @@
         "D": "something"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 2,
-      "question": "Finitimus",
+      "question": "finitimus",
       "options": {
         "A": "careful",
         "B": "neighorning",
@@ -23,12 +23,12 @@
         "D": "patient"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "Proficiscor",
+      "question": "proficiscor",
       "options": {
         "A": "set out",
         "B": "breathe",
@@ -36,12 +36,12 @@
         "D": "be born"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 4,
-      "question": "Peior",
+      "question": "peior",
       "options": {
         "A": "taller",
         "B": "allow",
@@ -49,12 +49,12 @@
         "D": "since"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "Sicut",
+      "question": "sicut",
       "options": {
         "A": "if",
         "B": "although",
@@ -62,12 +62,12 @@
         "D": "like, as"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 6,
-      "question": "Impetus",
+      "question": "impetus",
       "options": {
         "A": "attack",
         "B": "foot",
@@ -75,12 +75,12 @@
         "D": "infantry"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 7,
-      "question": "Bracchium",
+      "question": "bracchium",
       "options": {
         "A": "wisdom",
         "B": "arm",
@@ -88,12 +88,12 @@
         "D": "tree"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 8,
-      "question": "Omnino",
+      "question": "omnino",
       "options": {
         "A": "completely",
         "B": "suddenly",
@@ -101,12 +101,12 @@
         "D": "exceptionally"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 9,
-      "question": "Cado",
+      "question": "cado",
       "options": {
         "A": "sleep",
         "B": "wish",
@@ -114,12 +114,12 @@
         "D": "run"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "Arbitror",
+      "question": "arbitror",
       "options": {
         "A": "delay",
         "B": "attack",
@@ -127,12 +127,12 @@
         "D": "promise"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 11,
-      "question": "Opus",
+      "question": "opus",
       "options": {
         "A": "work",
         "B": "jewel",
@@ -140,12 +140,12 @@
         "D": "home"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 12,
-      "question": "Ambo",
+      "question": "ambo",
       "options": {
         "A": "drive",
         "B": "both",
@@ -153,12 +153,12 @@
         "D": "determined"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 13,
-      "question": "Sextus",
+      "question": "sextus",
       "options": {
         "A": "sixty",
         "B": "six",
@@ -166,12 +166,12 @@
         "D": "sixth"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the English meaning of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 14,
-      "question": "Afterwards",
+      "question": "afterwards",
       "options": {
         "A": "cras",
         "B": "postea",
@@ -179,12 +179,12 @@
         "D": "pridie"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin word which translates the given English word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "Hope",
+      "question": "hope",
       "options": {
         "A": "mora",
         "B": "ara",
@@ -192,12 +192,12 @@
         "D": "spes"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin word which translates the given English word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 16,
-      "question": "Loosen",
+      "question": "loosen",
       "options": {
         "A": "solvo",
         "B": "spero",
@@ -205,12 +205,12 @@
         "D": "patior"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin word which translates the given English word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 17,
-      "question": "Left",
+      "question": "left",
       "options": {
         "A": "potens",
         "B": "sinister",
@@ -218,12 +218,12 @@
         "D": "inimicus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin word which translates the given English word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 18,
-      "question": "To the same place",
+      "question": "to the same place",
       "options": {
         "A": "idem",
         "B": "aedes",
@@ -231,12 +231,12 @@
         "D": "eodem"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin word which translates the given English word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 19,
-      "question": "Indeed",
+      "question": "indeed",
       "options": {
         "A": "qui",
         "B": "idem",
@@ -244,12 +244,12 @@
         "D": "quod"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin word which translates the given English word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "Ninety",
+      "question": "ninety",
       "options": {
         "A": "nonnulli",
         "B": "novem",
@@ -257,12 +257,12 @@
         "D": "triginti"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin word which translates the given English word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 21,
-      "question": "Again",
+      "question": "again",
       "options": {
         "A": "dum",
         "B": "rursus",
@@ -270,12 +270,12 @@
         "D": "atque"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin word which translates the given English word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 22,
-      "question": "Go back",
+      "question": "go back",
       "options": {
         "A": "reddo",
         "B": "rego",
@@ -283,12 +283,12 @@
         "D": "redeo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin word which translates the given English word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 23,
-      "question": "Happen",
+      "question": "happen",
       "options": {
         "A": "accedo",
         "B": "accido",
@@ -296,12 +296,12 @@
         "D": "cado"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin word which translates the given English word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 24,
-      "question": "Better",
+      "question": "better",
       "options": {
         "A": "maior",
         "B": "optimus",
@@ -309,12 +309,12 @@
         "D": "minus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin word which translates the given English word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 25,
-      "question": "Prefer",
+      "question": "prefer",
       "options": {
         "A": "malo",
         "B": "volo",
@@ -322,12 +322,12 @@
         "D": "nescio"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the Latin word which translates the given English word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 26,
-      "question": "Ob",
+      "question": "ob",
       "options": {
         "A": "sub",
         "B": "propter",
@@ -335,12 +335,12 @@
         "D": "extra"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 27,
-      "question": "Par",
+      "question": "par",
       "options": {
         "A": "aequus",
         "B": "omnis",
@@ -348,12 +348,12 @@
         "D": "bonus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 28,
-      "question": "Frater",
+      "question": "frater",
       "options": {
         "A": "avunculus",
         "B": "avus",
@@ -361,12 +361,12 @@
         "D": "gradus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 29,
-      "question": "Iuvenis",
+      "question": "iuvenis",
       "options": {
         "A": "amicus",
         "B": "anulus",
@@ -374,12 +374,12 @@
         "D": "adulescens"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Cogo",
+      "question": "cogo",
       "options": {
         "A": "committo",
         "B": "colloco",
@@ -387,12 +387,12 @@
         "D": "comparo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 31,
-      "question": "Fatum",
+      "question": "fatum",
       "options": {
         "A": "nox",
         "B": "casus",
@@ -400,12 +400,12 @@
         "D": "mare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 32,
-      "question": "Genus",
+      "question": "genus",
       "options": {
         "A": "species",
         "B": "humilis",
@@ -413,12 +413,12 @@
         "D": "acies"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 33,
-      "question": "Sentio",
+      "question": "sentio",
       "options": {
         "A": "nascor",
         "B": "sequor",
@@ -426,12 +426,12 @@
         "D": "cerno"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 34,
-      "question": "Tardus",
+      "question": "tardus",
       "options": {
         "A": "minimus",
         "B": "optimus",
@@ -439,12 +439,12 @@
         "D": "similis"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 35,
-      "question": "Hiems",
+      "question": "hiems",
       "options": {
         "A": "aetas",
         "B": "aestas",
@@ -452,12 +452,12 @@
         "D": "felix"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 36,
-      "question": "Initium",
+      "question": "initium",
       "options": {
         "A": "aedes",
         "B": "somnus",
@@ -465,12 +465,12 @@
         "D": "bellum"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 37,
-      "question": "Morior",
+      "question": "morior",
       "options": {
         "A": "amor",
         "B": "nascor",
@@ -478,12 +478,12 @@
         "D": "sequor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 38,
-      "question": "Ut",
+      "question": "ut",
       "options": {
         "A": "ne",
         "B": "si",
@@ -491,12 +491,12 @@
         "D": "sub"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 39,
-      "question": "Appropinquo",
+      "question": "appropinquo",
       "options": {
         "A": "suscipio",
         "B": "hortor",
@@ -504,12 +504,12 @@
         "D": "excedo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "Venio",
+      "question": "venio",
       "options": {
         "A": "nescio",
         "B": "ludo",
@@ -517,12 +517,12 @@
         "D": "eo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of the given Latin word:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 46,
-      "question": "Soror : frater :: ____ : nox",
+      "question": "soror : frater :: ____ : nox",
       "options": {
         "A": "omnis",
         "B": "dies",
@@ -530,12 +530,12 @@
         "D": "vesper"
       },
       "type": "multiple_choice",
-      "instruction": "Complete the analogy:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 47,
-      "question": "Oculus : facies :: cubiculum : _____",
+      "question": "oculus : facies :: cubiculum : _____",
       "options": {
         "A": "curia",
         "B": "castra",
@@ -543,12 +543,12 @@
         "D": "domus"
       },
       "type": "multiple_choice",
-      "instruction": "Complete the analogy:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 48,
-      "question": "Panis : edo :: dux : ______",
+      "question": "panis : edo :: dux : ______",
       "options": {
         "A": "conor",
         "B": "fero",
@@ -556,12 +556,12 @@
         "D": "impedio"
       },
       "type": "multiple_choice",
-      "instruction": "Complete the analogy:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 49,
-      "question": "Mons : ascendo :: litterae : ________",
+      "question": "mons : ascendo :: litterae : ________",
       "options": {
         "A": "scribo",
         "B": "sequor",
@@ -569,12 +569,12 @@
         "D": "invenio"
       },
       "type": "multiple_choice",
-      "instruction": "Complete the analogy:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 50,
-      "question": "Desino : vado :: semper : ______",
+      "question": "desino : vado :: semper : ______",
       "options": {
         "A": "quamquam",
         "B": "priusquam",
@@ -582,13 +582,8 @@
         "D": "numquam"
       },
       "type": "multiple_choice",
-      "instruction": "Complete the analogy:",
+      "instruction": "Choose the English meaning of the given Latin word.",
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2017,
-    "format": "pre_2018",
-    "total_questions": 45
-  }
+  ]
 }

@@ -275,7 +275,7 @@
     },
     {
       "question_number": 22,
-      "question": "Which emperor built a triple gated triumphal arch in the Roman Forum itself, which still stands",
+      "question": "Which emperor built a triple gated triumphal arch in the Roman Forum itself, which still stands today next to the Senate house?",
       "options": {
         "A": "Septimius Severus",
         "B": "Marcus Aurelius",
@@ -296,7 +296,7 @@
         "D": "terracotta"
       },
       "type": "multiple_choice",
-      "instruction": "Today next to the Senate house:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -309,7 +309,7 @@
         "D": "A and B"
       },
       "type": "multiple_choice",
-      "instruction": "Today next to the Senate house:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -322,7 +322,7 @@
         "D": "Athanodorus"
       },
       "type": "multiple_choice",
-      "instruction": "Today next to the Senate house:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -335,7 +335,7 @@
         "D": "Hera II Temple"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #26-29 refer to Slide #1:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -348,7 +348,7 @@
         "D": "100 AD"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #26-29 refer to Slide #1:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -361,7 +361,7 @@
         "D": "Doric and Corinthian"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #26-29 refer to Slide #1:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -374,7 +374,7 @@
         "D": "Athandorus"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #26-29 refer to Slide #1:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -387,7 +387,7 @@
         "D": "Sub Mycenean"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #30-32 refer to Slide #2:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -400,7 +400,7 @@
         "D": "perfume"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #30-32 refer to Slide #2:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -413,7 +413,7 @@
         "D": "Isthmian"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #30-32 refer to Slide #2:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -426,7 +426,7 @@
         "D": "Berlin Kore"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #33-35 refer to Slide #3:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -439,7 +439,7 @@
         "D": "Archaic"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #33-35 refer to Slide #3:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -452,7 +452,7 @@
         "D": "420 BC"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #33-35 refer to Slide #3:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -465,7 +465,7 @@
         "D": "Tuscan"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #36-40 refer to Slide #4:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -478,7 +478,7 @@
         "D": "Argos"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #36-40 refer to Slide #4:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -491,7 +491,7 @@
         "D": "Sulla"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #36-40 refer to Slide #4:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -504,7 +504,7 @@
         "D": "Mnesicles"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #36-40 refer to Slide #4:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -517,7 +517,7 @@
         "D": "Diocletian"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #36-40 refer to Slide #4:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -530,7 +530,7 @@
         "D": "White Ground"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #41-42 refer to Slide #5:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -543,7 +543,7 @@
         "D": "Achilles Painter"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #41-42 refer to Slide #5:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -556,7 +556,7 @@
         "D": "Temple of Delian Apollo"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #43-44 refer to Slide #6:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -569,7 +569,7 @@
         "D": "The theft of the horses of Rhesus"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #43-44 refer to Slide #6:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -582,7 +582,7 @@
         "D": "Trajan"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #45-47 refer to Slide #7:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -595,7 +595,7 @@
         "D": "In a villa belonging to Livia"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #45-47 refer to Slide #7:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -608,7 +608,7 @@
         "D": "Capture of Decebalus by Trajan"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #45-47 refer to Slide #7:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -621,7 +621,7 @@
         "D": "opus trabeata"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #48 refer to Slide #8:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -634,7 +634,7 @@
         "D": "Lapis Niger"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #49-50 refer to Slide #9:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -647,13 +647,8 @@
         "D": "porphyry"
       },
       "type": "multiple_choice",
-      "instruction": "Questions #49-50 refer to Slide #9:",
+      "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2010,
-    "format": "pre_2018",
-    "total_questions": 50
-  }
+  ]
 }

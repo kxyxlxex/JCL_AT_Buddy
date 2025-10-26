@@ -2,7 +2,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Ab ovo usque ad mala",
+      "question": "ab ovo usque ad mala",
       "options": {
         "A": "quickly",
         "B": "from start to finish",
@@ -15,7 +15,7 @@
     },
     {
       "question_number": 2,
-      "question": "Lapsus linguae",
+      "question": "lapsus linguae",
       "options": {
         "A": "a slip of the tongue",
         "B": "a slip of the pen",
@@ -28,7 +28,7 @@
     },
     {
       "question_number": 3,
-      "question": "Sententia iudicum",
+      "question": "sententia iudicum",
       "options": {
         "A": "finding of the jury",
         "B": "spirit of the law",
@@ -41,7 +41,7 @@
     },
     {
       "question_number": 4,
-      "question": "In situ",
+      "question": "in situ",
       "options": {
         "A": "notably",
         "B": "the situation",
@@ -54,7 +54,7 @@
     },
     {
       "question_number": 5,
-      "question": "The other way around",
+      "question": "the other way around",
       "options": {
         "A": "cuique suum",
         "B": "ipso facto",
@@ -67,7 +67,7 @@
     },
     {
       "question_number": 6,
-      "question": "Yearly",
+      "question": "yearly",
       "options": {
         "A": "per annum",
         "B": "per mensem",
@@ -80,7 +80,7 @@
     },
     {
       "question_number": 7,
-      "question": "Masterpiece",
+      "question": "masterpiece",
       "options": {
         "A": "magnum opus",
         "B": "res gestae",
@@ -145,7 +145,7 @@
     },
     {
       "question_number": 12,
-      "question": "Which of the following phrases refers to taxation based upon an object’s worth? MOTTOES",
+      "question": "Which of the following phrases refers to taxation based upon an object’s worth?",
       "options": {
         "A": "a principio",
         "B": "ad hominem",
@@ -301,7 +301,7 @@
     },
     {
       "question_number": 24,
-      "question": "Belize ABBREVIATIONS",
+      "question": "Belize",
       "options": {
         "A": "Pro mundi beneficio",
         "B": "Semper progrediens",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 25,
-      "question": "T.i.d. = three times a ______.",
+      "question": "t.i.d. = three times a ______.",
       "options": {
         "A": "week",
         "B": "month",
@@ -366,7 +366,7 @@
     },
     {
       "question_number": 29,
-      "question": "Agit.",
+      "question": "agit.",
       "options": {
         "A": "take",
         "B": "apply",
@@ -379,7 +379,7 @@
     },
     {
       "question_number": 30,
-      "question": "As needed",
+      "question": "as needed",
       "options": {
         "A": "p.r.d.",
         "B": "p.r.",
@@ -392,7 +392,7 @@
     },
     {
       "question_number": 31,
-      "question": "B.v.",
+      "question": "b.v.",
       "options": {
         "A": "See you soon",
         "B": "Hello",
@@ -405,7 +405,7 @@
     },
     {
       "question_number": 32,
-      "question": "See below",
+      "question": "see below",
       "options": {
         "A": "v.s.",
         "B": "vs.",
@@ -418,7 +418,7 @@
     },
     {
       "question_number": 33,
-      "question": "Op. cit.",
+      "question": "op. cit.",
       "options": {
         "A": "he/she died without issue",
         "B": "in the right eye",
@@ -431,7 +431,7 @@
     },
     {
       "question_number": 34,
-      "question": "Immediately",
+      "question": "immediately",
       "options": {
         "A": "init.",
         "B": "inf.",
@@ -444,7 +444,7 @@
     },
     {
       "question_number": 35,
-      "question": "Oil",
+      "question": "oil",
       "options": {
         "A": "oz.",
         "B": "or.",
@@ -457,7 +457,7 @@
     },
     {
       "question_number": 36,
-      "question": "Aet.",
+      "question": "aet.",
       "options": {
         "A": "summertime",
         "B": "of the age",
@@ -470,7 +470,7 @@
     },
     {
       "question_number": 37,
-      "question": "Fl.",
+      "question": "fl.",
       "options": {
         "A": "flourished",
         "B": "let it be made",
@@ -496,7 +496,7 @@
     },
     {
       "question_number": 39,
-      "question": "Which does NOT belong with the others? QUOTATIONS",
+      "question": "Which does NOT belong with the others?",
       "options": {
         "A": "exc.",
         "B": "disp.",
@@ -650,10 +650,5 @@
       "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2018,
-    "format": "post_2018",
-    "total_questions": 50
-  }
+  ]
 }

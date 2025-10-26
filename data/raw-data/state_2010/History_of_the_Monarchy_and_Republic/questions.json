@@ -58,7 +58,7 @@
       "options": {
         "A": "App. Claudius Caudex",
         "B": "M. Atilius Regulus",
-        "C": "Cn. Cornelius Scipio Asina d."
+        "C": "Duilius"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -66,10 +66,12 @@
     },
     {
       "question_number": 6,
-      "question": "Whom did Tiberius Sempronius Longus join at the Trebia River in 218 BC against Hannibal? c.",
+      "question": "Whom did Tiberius Sempronius Longus join at the Trebia River in 218 BC against Hannibal?",
       "options": {
         "A": "M. Claudius Marcellus",
-        "B": "Q. Fabius Maximus"
+        "B": "Q. Fabius Maximus",
+        "C": "Flaminius",
+        "D": "P. Cornelius Scipio"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -96,6 +98,19 @@
         "B": "Sicily",
         "C": "Corsica",
         "D": "Sardinia"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "In 110 BC, who was the immediate successor to Sp. Postumius Albinus in the war against Jugurtha? a.",
+      "options": {
+        "A": "Postumius Albinus",
+        "B": "Q. Caecilius Metellus Numidicus",
+        "C": "Marius",
+        "D": "L. Cornelius Sulla"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -258,7 +273,7 @@
     },
     {
       "question_number": 22,
-      "question": "Who was indicted on a charge that he had encouraged M. Livius Drusus in his sympathy for the",
+      "question": "Who was indicted on a charge that he had encouraged M. Livius Drusus in his sympathy for the Italian social cause?",
       "options": {
         "A": "Q. Servilius Caepio",
         "B": "P. Rutilius Rufus",
@@ -279,7 +294,7 @@
         "D": "Sentinum"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -292,7 +307,7 @@
         "D": "L. Licinius Lucullus"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -305,7 +320,7 @@
         "D": "Edessa"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -318,7 +333,7 @@
         "D": "Utica"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -331,7 +346,7 @@
         "D": "Elis"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -344,7 +359,7 @@
         "D": "Corioli"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -357,7 +372,7 @@
         "D": "Macedonians and Epirotes"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -370,7 +385,7 @@
         "D": "Carthaginians"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -379,10 +394,10 @@
       "options": {
         "A": "P. Claudius Pulcher",
         "B": "M. Atilius Regulus",
-        "C": "Cn. Pompeius Strabo Magnus d."
+        "C": "Lutatius Catulus"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -395,7 +410,7 @@
         "D": "Panormus"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -408,7 +423,7 @@
         "D": "Ptolemy II"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -421,7 +436,7 @@
         "D": "Syphax"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -430,10 +445,10 @@
       "options": {
         "A": "Ap. Claudius Pulcher",
         "B": "P. Licinius Crassus",
-        "C": "M. Octavius d."
+        "C": "Porcius Cato"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -445,7 +460,7 @@
         "D": "L. Saturninus"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -458,7 +473,7 @@
         "D": "Massilia"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -471,7 +486,7 @@
         "D": "He was kidnapped by Cilician pirates"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -484,7 +499,7 @@
         "D": "Cyrus"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -492,10 +507,11 @@
       "question": "What consul of 495 BC helped push the plebeians to secede due to his strict enforcement of harsh laws? a.",
       "options": {
         "C": "L. Quinctius Cincinnatus",
+        "B": "Menenius Agrippa",
         "D": "Appius Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -508,7 +524,7 @@
         "D": "Pyrrhus"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -521,7 +537,7 @@
         "D": "Phineas"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -534,7 +550,7 @@
         "D": "Zacynthos"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -547,7 +563,7 @@
         "D": "Arpinum"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -560,7 +576,7 @@
         "D": "Lucania"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -573,7 +589,7 @@
         "D": "Arausio"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -586,7 +602,7 @@
         "D": "Cn. Servilius Caepio"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -599,7 +615,7 @@
         "D": "Leges Liciniae Sextiae"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -608,11 +624,11 @@
       "options": {
         "A": "assassinate M. Licinius Crassus",
         "B": "hinder the advancement of Cn. Pompeius Strabo Magnus",
-        "C": "transport his men to Sicily",
+        "C": "Iulius Caesar",
         "D": "kidnap"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -625,13 +641,8 @@
         "D": "Tacfarinas"
       },
       "type": "multiple_choice",
-      "instruction": "Italian social cause:",
+      "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2010,
-    "format": "pre_2018",
-    "total_questions": 49
-  }
+  ]
 }

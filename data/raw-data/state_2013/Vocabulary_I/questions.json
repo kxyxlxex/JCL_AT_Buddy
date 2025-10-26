@@ -2,7 +2,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Fessus",
+      "question": "fessus",
       "options": {
         "A": "hungry",
         "B": "greedy",
@@ -10,12 +10,12 @@
         "D": "festive"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 2,
-      "question": "Imperium",
+      "question": "imperium",
       "options": {
         "A": "emperor",
         "B": "power",
@@ -23,12 +23,12 @@
         "D": "honor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "Muto",
+      "question": "muto",
       "options": {
         "A": "to be silent",
         "B": "to count",
@@ -36,12 +36,12 @@
         "D": "to change"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 4,
-      "question": "Apud",
+      "question": "apud",
       "options": {
         "A": "near",
         "B": "among",
@@ -49,12 +49,12 @@
         "D": "above"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "Ignavus",
+      "question": "ignavus",
       "options": {
         "A": "ignorant",
         "B": "dirty",
@@ -62,24 +62,24 @@
         "D": "lazy"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 6,
-      "question": "Fatum",
+      "question": "fatum",
       "options": {
         "A": "destiny b frugal",
         "C": "distaste",
         "D": "obese"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 7,
-      "question": "Colo",
+      "question": "colo",
       "options": {
         "A": "to worship",
         "B": "to place",
@@ -87,12 +87,12 @@
         "D": "to seize"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 8,
-      "question": "Super",
+      "question": "super",
       "options": {
         "A": "always",
         "B": "above",
@@ -100,12 +100,12 @@
         "D": "around"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 9,
-      "question": "Species",
+      "question": "species",
       "options": {
         "A": "cave",
         "B": "proof",
@@ -113,12 +113,12 @@
         "D": "family"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "Adiuvo",
+      "question": "adiuvo",
       "options": {
         "A": "to walk",
         "B": "to approach",
@@ -126,24 +126,24 @@
         "D": "to hear"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 11,
-      "question": "Centum",
+      "question": "centum",
       "options": {
         "A": "100",
         "B": "500",
         "C": "40 d."
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 12,
-      "question": "Poculum",
+      "question": "poculum",
       "options": {
         "A": "court",
         "B": "market",
@@ -151,12 +151,12 @@
         "D": "cup"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 13,
-      "question": "Exercitus",
+      "question": "exercitus",
       "options": {
         "A": "exercise",
         "B": "example",
@@ -164,12 +164,12 @@
         "D": "motion"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 14,
-      "question": "Ceteri",
+      "question": "ceteri",
       "options": {
         "A": "contests",
         "B": "the rest",
@@ -177,12 +177,12 @@
         "D": "faithful"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "Spero",
+      "question": "spero",
       "options": {
         "A": "to hope",
         "B": "to breathe",
@@ -190,12 +190,12 @@
         "D": "to despair"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given Latin word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 16,
-      "question": "To fight",
+      "question": "to fight",
       "options": {
         "A": "pugno",
         "B": "vinco",
@@ -203,12 +203,12 @@
         "D": "interficio"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 17,
-      "question": "The same",
+      "question": "the same",
       "options": {
         "A": "ita",
         "B": "illa",
@@ -216,12 +216,12 @@
         "D": "idem"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 18,
-      "question": "Sea",
+      "question": "sea",
       "options": {
         "A": "mare",
         "B": "unda",
@@ -229,12 +229,12 @@
         "D": "pons"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 19,
-      "question": "To stand",
+      "question": "to stand",
       "options": {
         "A": "sterno",
         "B": "sto",
@@ -242,12 +242,12 @@
         "D": "tollo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "To feel",
+      "question": "to feel",
       "options": {
         "A": "sentio",
         "B": "fero",
@@ -255,12 +255,12 @@
         "D": "consisto"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 21,
-      "question": "Right",
+      "question": "right",
       "options": {
         "A": "rictus",
         "B": "sinister",
@@ -268,12 +268,12 @@
         "D": "breviter"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 22,
-      "question": "To run",
+      "question": "to run",
       "options": {
         "A": "curro",
         "B": "festino",
@@ -281,12 +281,12 @@
         "D": "contend"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 23,
-      "question": "Sand",
+      "question": "sand",
       "options": {
         "A": "sanguis",
         "B": "litus",
@@ -294,12 +294,12 @@
         "D": "arena"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 24,
-      "question": "Journey",
+      "question": "journey",
       "options": {
         "A": "ita",
         "B": "iter",
@@ -307,12 +307,12 @@
         "D": "iterum"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 25,
-      "question": "Illness",
+      "question": "illness",
       "options": {
         "A": "mors",
         "B": "mortalis",
@@ -320,12 +320,12 @@
         "D": "morbus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 26,
-      "question": "Shoe",
+      "question": "shoe",
       "options": {
         "A": "saccus",
         "B": "palla",
@@ -333,12 +333,12 @@
         "D": "tunica"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 27,
-      "question": "Greatest",
+      "question": "greatest",
       "options": {
         "A": "minimus",
         "B": "proximus",
@@ -346,12 +346,12 @@
         "D": "maximus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 28,
-      "question": "River",
+      "question": "river",
       "options": {
         "A": "flumen",
         "B": "mare",
@@ -359,12 +359,12 @@
         "D": "pontus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 29,
-      "question": "To go away",
+      "question": "to go away",
       "options": {
         "A": "pervenio",
         "B": "discedo",
@@ -372,12 +372,12 @@
         "D": "debeo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Amicus",
+      "question": "amicus",
       "options": {
         "A": "cliens",
         "B": "hostes",
@@ -385,12 +385,12 @@
         "D": "dominus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 31,
-      "question": "Delecto",
+      "question": "delecto",
       "options": {
         "A": "deligo",
         "B": "suscipio",
@@ -398,12 +398,12 @@
         "D": "placeo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 32,
-      "question": "Teneo",
+      "question": "teneo",
       "options": {
         "A": "rapio",
         "B": "comprehend",
@@ -411,12 +411,12 @@
         "D": "habeo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 33,
-      "question": "Dux",
+      "question": "dux",
       "options": {
         "A": "optio",
         "B": "rex",
@@ -424,12 +424,12 @@
         "D": "patronus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 34,
-      "question": "Propter",
+      "question": "propter",
       "options": {
         "A": "ad",
         "B": "prope",
@@ -437,12 +437,12 @@
         "D": "ob"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 35,
-      "question": "Servo",
+      "question": "servo",
       "options": {
         "A": "regno",
         "B": "deleo",
@@ -450,12 +450,12 @@
         "D": "vinco"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of the given word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 36,
-      "question": "Affirmo",
+      "question": "affirmo",
       "options": {
         "A": "nego",
         "B": "gaudeo",
@@ -463,12 +463,12 @@
         "D": "nescio"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of the given word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 37,
-      "question": "Praemium",
+      "question": "praemium",
       "options": {
         "A": "auxilium",
         "B": "proelium",
@@ -476,12 +476,12 @@
         "D": "poena"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of the given word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 38,
-      "question": "Multi",
+      "question": "multi",
       "options": {
         "A": "magni",
         "B": "boni",
@@ -489,12 +489,12 @@
         "D": "breves"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of the given word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 39,
-      "question": "Cras",
+      "question": "cras",
       "options": {
         "A": "tum",
         "B": "heri",
@@ -502,12 +502,12 @@
         "D": "mox"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of the given word:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "Pater : vir :: mater : ____",
+      "question": "pater : vir :: mater : ____",
       "options": {
         "A": "soror",
         "B": "puella",
@@ -515,12 +515,12 @@
         "D": "filia"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best word to complete the analogy:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 41,
-      "question": "Nauta : navis :: agricola : _____",
+      "question": "nauta : navis :: agricola : _____",
       "options": {
         "A": "civis",
         "B": "fundus",
@@ -528,12 +528,12 @@
         "D": "thermae"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best word to complete the analogy:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 42,
-      "question": "Puto : cogito :: quaero : _____",
+      "question": "puto : cogito :: quaero : _____",
       "options": {
         "A": "peto",
         "B": "ostendo",
@@ -541,12 +541,12 @@
         "D": "relinquo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best word to complete the analogy:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 43,
-      "question": "Caelum: terra :: umidus : _____",
+      "question": "caelum: terra :: umidus : _____",
       "options": {
         "A": "sordidus",
         "B": "mollis",
@@ -554,12 +554,12 @@
         "D": "siccus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best word to complete the analogy:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 44,
-      "question": "Scribo : manus :: ambulo : _____",
+      "question": "scribo : manus :: ambulo : _____",
       "options": {
         "A": "pes",
         "B": "femur",
@@ -567,12 +567,12 @@
         "D": "caput"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best word to complete the analogy:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     },
     {
       "question_number": 45,
-      "question": "Do : capio :: laudo: ______",
+      "question": "do : capio :: laudo: ______",
       "options": {
         "A": "iacio",
         "B": "demitto",
@@ -580,13 +580,8 @@
         "D": "pingo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best word to complete the analogy:",
+      "instruction": "Choose the best English translation for the given Latin word.",
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2013,
-    "format": "pre_2018",
-    "total_questions": 45
-  }
+  ]
 }

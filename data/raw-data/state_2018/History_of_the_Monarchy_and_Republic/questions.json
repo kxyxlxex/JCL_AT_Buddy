@@ -67,7 +67,7 @@
     },
     {
       "question_number": 6,
-      "question": "Along with support of Caesar and Crassus?",
+      "question": "Along with",
       "options": {
         "C": "M. Tullius Cicero",
         "A": "L. Licinius Lucullus",
@@ -572,10 +572,5 @@
       "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2018,
-    "format": "post_2018",
-    "total_questions": 44
-  }
+  ]
 }

@@ -262,7 +262,7 @@
     },
     {
       "question_number": 25,
-      "question": "Sardinia Questions 21–30 refer to Map 1: The Roman Empire:",
+      "question": "Sardinia",
       "options": {
         "A": "24",
         "B": "27",
@@ -275,7 +275,7 @@
     },
     {
       "question_number": 30,
-      "question": "Leptis Magna Questions 21–30 refer to Map 1: The Roman Empire:",
+      "question": "Leptis Magna",
       "options": {
         "A": "27",
         "B": "30",
@@ -309,7 +309,7 @@
         "D": "Thessalonika"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -322,12 +322,12 @@
         "D": "F"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 36,
-      "question": "Cythera Questions 21–30 refer to Map 1: The Roman Empire:",
+      "question": "Cythera",
       "options": {
         "A": "S",
         "B": "V",
@@ -353,7 +353,7 @@
     },
     {
       "question_number": 38,
-      "question": "Marathon Questions 21–30 refer to Map 1: The Roman Empire:",
+      "question": "Marathon",
       "options": {
         "A": "3",
         "B": "12",
@@ -387,7 +387,7 @@
         "D": "Aurelian Walls"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -400,12 +400,12 @@
         "D": "Circus Flaminius"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 46,
-      "question": "Via Appia Questions 21–30 refer to Map 1: The Roman Empire:",
+      "question": "Via Appia",
       "options": {
         "A": "L",
         "B": "M",
@@ -431,7 +431,7 @@
     },
     {
       "question_number": 48,
-      "question": "Castra Praetoria Map 1: The Roman Empire (Questions 21–30) Map 2: Ancient Greece and Asia Minor (Questions 31–40) Map 3: Ancient Rome (Questions 41–50)",
+      "question": "Castra Praetoria",
       "options": {
         "A": "2",
         "B": "5",
@@ -439,13 +439,8 @@
         "D": "Geography - States 2019 -"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2019,
-    "format": "post_2018",
-    "total_questions": 34
-  }
+  ]
 }

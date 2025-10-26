@@ -10,7 +10,7 @@
         "D": "Red-figure"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -23,12 +23,12 @@
         "D": "Kylix"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "What is this cup called? Image",
+      "question": "What is this cup called?",
       "options": {
         "A": "Dipylon Vase",
         "B": "Bronze Vase from Derveni",
@@ -36,7 +36,7 @@
         "D": "François Vase"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -49,12 +49,12 @@
         "D": "Fourth Style"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "Where are these frescoes located? Image",
+      "question": "Where are these frescoes located?",
       "options": {
         "A": "Villa of Mysteries",
         "B": "Domus Aurea",
@@ -62,7 +62,7 @@
         "D": "Villa of Agrippa Postumus"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -74,7 +74,7 @@
         "C": "4 d."
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -86,19 +86,19 @@
         "C": "8 d."
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 8,
-      "question": "In this plan of a Greek temple, identify the room in which the statue of the god was kept. Image",
+      "question": "In this plan of a Greek temple, identify the room in which the statue of the god was kept.",
       "options": {
         "A": "5",
         "B": "6",
         "C": "3 d."
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -111,12 +111,12 @@
         "D": "faience"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "Where was this statue found? Image",
+      "question": "Where was this statue found?",
       "options": {
         "A": "Crete",
         "B": "Cyclades",
@@ -124,7 +124,7 @@
         "D": "Thebes"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -137,12 +137,12 @@
         "D": "Hera"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 12,
-      "question": "Who among these oversaw this temple’s sculptural decorations? Image",
+      "question": "Who among these oversaw this temple’s sculptural decorations?",
       "options": {
         "A": "Iktinos",
         "B": "Phidias",
@@ -150,12 +150,12 @@
         "D": "Kallikrates"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 13,
-      "question": "This statue, called “Moschophoros,” or “Calf-Bearer,” exemplifies which period of sculpture? Image",
+      "question": "This statue, called “Moschophoros,” or “Calf-Bearer,” exemplifies which period of sculpture?",
       "options": {
         "A": "Cycladic",
         "B": "Archaic",
@@ -163,7 +163,7 @@
         "D": "Hellenistic"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -176,12 +176,12 @@
         "D": "Jason"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "Where was this statue discovered? Image",
+      "question": "Where was this statue discovered?",
       "options": {
         "A": "Roman Forum",
         "B": "Baths of Caracalla",
@@ -189,7 +189,7 @@
         "D": "Forum of Trajan"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -202,12 +202,12 @@
         "D": "Brutus"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 17,
-      "question": "What style does this bust exemplify? Image",
+      "question": "What style does this bust exemplify?",
       "options": {
         "A": "Idealism",
         "B": "Illusionism",
@@ -215,7 +215,7 @@
         "D": "Hellenism"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -228,7 +228,7 @@
         "D": "3rd c BC"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -241,12 +241,12 @@
         "D": "Apollo"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "What is this statue made of? Image",
+      "question": "What is this statue made of?",
       "options": {
         "A": "marble",
         "B": "bronze",
@@ -254,7 +254,7 @@
         "D": "wood"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -267,12 +267,12 @@
         "D": "Temple of Jupiter Capitolinus"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 22,
-      "question": "What do we call the scroll-like capitals on Ionic columns? Image",
+      "question": "What do we call the scroll-like capitals on Ionic columns?",
       "options": {
         "A": "Volutes",
         "B": "Acanthus",
@@ -280,12 +280,12 @@
         "D": "Flute"
       },
       "type": "multiple_choice",
-      "instruction": "Answer the questions related to the pictures at the end of the test:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 23,
-      "question": "This villa has been called the House of the Faun due to the statue that stood in Which part of the house:",
+      "question": "This villa has been called the House of the Faun due to the statue that stood in which part of the house?",
       "options": {
         "A": "hortus",
         "B": "impluvium",
@@ -293,12 +293,12 @@
         "D": "triclinium"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 24,
-      "question": "In what city was this villa located? Image",
+      "question": "In what city was this villa located?",
       "options": {
         "A": "Rome",
         "B": "Naples",
@@ -306,7 +306,7 @@
         "D": "Pompeii"
       },
       "type": "multiple_choice",
-      "instruction": null,
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -319,12 +319,12 @@
         "D": "Imperial portraiture"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 26,
-      "question": "Which of the following describes the sculptor’s technique for creating this piece? Image",
+      "question": "Which of the following describes the sculptor’s technique for creating this piece?",
       "options": {
         "A": "carving",
         "B": "hollow-casting",
@@ -332,7 +332,7 @@
         "D": "repousée"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -345,7 +345,7 @@
         "D": "Sisyphus"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -358,12 +358,12 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 29,
-      "question": "Where is this villa located? Image",
+      "question": "Where is this villa located?",
       "options": {
         "A": "Rhodes",
         "B": "Sperlonga",
@@ -371,12 +371,12 @@
         "D": "Tarentum"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "What is the subject of this vase-painting? The remaining questions are not related to images on the test.",
+      "question": "What is the subject of this vase-painting?",
       "options": {
         "A": "Gigantomachy",
         "B": "Trojan War",
@@ -384,7 +384,7 @@
         "D": "Dacian Wars"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -397,7 +397,7 @@
         "D": "naos"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -410,7 +410,7 @@
         "D": "Arch of Constantine"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -423,7 +423,7 @@
         "D": "Fourth Style"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -436,7 +436,7 @@
         "D": "Polykleitos"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -449,7 +449,7 @@
         "D": "nasus"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -462,7 +462,7 @@
         "D": "Lord Elgin"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -475,7 +475,7 @@
         "D": "Composite"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -488,7 +488,7 @@
         "D": "Marcus Aurelius"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -501,7 +501,7 @@
         "D": "Temple of Zeus"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -514,7 +514,7 @@
         "D": "cameo"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -527,7 +527,7 @@
         "D": "Pathos"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -540,7 +540,7 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -553,7 +553,7 @@
         "D": "largitio"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -566,7 +566,7 @@
         "D": "frieze"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -579,7 +579,7 @@
         "D": "Diocletian’s Palace"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -592,7 +592,7 @@
         "D": "Red-figure"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -605,7 +605,7 @@
         "D": "Kantharos"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -618,7 +618,7 @@
         "D": "Numidian Marble"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -631,7 +631,7 @@
         "D": "308 AD"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     },
     {
@@ -644,13 +644,8 @@
         "D": "Lysippus"
       },
       "type": "multiple_choice",
-      "instruction": "Which part of the house:",
+      "instruction": "Answer the questions related to the pictures at the end of the test.",
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2016,
-    "format": "pre_2018",
-    "total_questions": 50
-  }
+  ]
 }

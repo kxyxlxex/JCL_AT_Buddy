@@ -54,7 +54,7 @@
     },
     {
       "question_number": 5,
-      "question": "Which of these cities was located in Germania? equivalents.",
+      "question": "Which of these cities was located in Germania?",
       "options": {
         "A": "Pella",
         "B": "Vindobona",
@@ -636,7 +636,7 @@
     },
     {
       "question_number": 50,
-      "question": "Illyricum Map 1: Ancient Greece Map 2: Ancient Rome Map 3: Roman Empire",
+      "question": "Illyricum",
       "options": {
         "A": "Number 7",
         "B": "Number 11",
@@ -647,10 +647,5 @@
       "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2016,
-    "format": "pre_2018",
-    "total_questions": 50
-  }
+  ]
 }

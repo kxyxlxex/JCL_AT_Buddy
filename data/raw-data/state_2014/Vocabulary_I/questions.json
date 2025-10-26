@@ -2,7 +2,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Teneo",
+      "question": "teneo",
       "options": {
         "A": "to drag",
         "B": "to hold",
@@ -10,12 +10,12 @@
         "D": "to hand over"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 2,
-      "question": "Passer",
+      "question": "passer",
       "options": {
         "A": "stranger",
         "B": "cup",
@@ -23,12 +23,12 @@
         "D": "flounder"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "Do",
+      "question": "do",
       "options": {
         "A": "to give",
         "B": "to do",
@@ -36,12 +36,12 @@
         "D": "to die"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 4,
-      "question": "Semper",
+      "question": "semper",
       "options": {
         "A": "often",
         "B": "seldom",
@@ -49,12 +49,12 @@
         "D": "around"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "Latus",
+      "question": "latus",
       "options": {
         "A": "far",
         "B": "round",
@@ -62,12 +62,12 @@
         "D": "flat"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 6,
-      "question": "Arcus",
+      "question": "arcus",
       "options": {
         "A": "arch",
         "B": "ark",
@@ -75,12 +75,12 @@
         "D": "arrow"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 7,
-      "question": "Nox",
+      "question": "nox",
       "options": {
         "A": "night",
         "B": "now",
@@ -88,12 +88,12 @@
         "D": "harm"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 8,
-      "question": "Mors",
+      "question": "mors",
       "options": {
         "A": "mountain",
         "B": "custom",
@@ -101,12 +101,12 @@
         "D": "death"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 9,
-      "question": "Maneo",
+      "question": "maneo",
       "options": {
         "A": "to warn",
         "B": "to remain",
@@ -114,12 +114,12 @@
         "D": "to mark"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "Libero",
+      "question": "libero",
       "options": {
         "A": "to march",
         "B": "to raise",
@@ -127,24 +127,24 @@
         "D": "to free"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 11,
-      "question": "Decem",
+      "question": "decem",
       "options": {
         "A": "100",
         "B": "10",
         "C": "1000 d."
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 12,
-      "question": "Fides",
+      "question": "fides",
       "options": {
         "A": "dowry",
         "B": "dog",
@@ -152,12 +152,12 @@
         "D": "fear"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 13,
-      "question": "Lupa",
+      "question": "lupa",
       "options": {
         "A": "she-wolf",
         "B": "she-dog",
@@ -165,12 +165,12 @@
         "D": "holiday"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 14,
-      "question": "Dea",
+      "question": "dea",
       "options": {
         "A": "day",
         "B": "dawn",
@@ -178,12 +178,12 @@
         "D": "gold"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "Cornu",
+      "question": "cornu",
       "options": {
         "A": "grain",
         "B": "horn",
@@ -191,12 +191,12 @@
         "D": "food"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best English translation for the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 16,
-      "question": "Thus",
+      "question": "thus",
       "options": {
         "A": "si",
         "B": "tamen",
@@ -204,12 +204,12 @@
         "D": "sic"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 17,
-      "question": "Disaster",
+      "question": "disaster",
       "options": {
         "A": "clades",
         "B": "incendio",
@@ -217,12 +217,12 @@
         "D": "ignis"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 18,
-      "question": "To live",
+      "question": "to live",
       "options": {
         "A": "habeo",
         "B": "debeo",
@@ -230,12 +230,12 @@
         "D": "habito"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 19,
-      "question": "Sky",
+      "question": "sky",
       "options": {
         "A": "nubis",
         "B": "aether",
@@ -243,12 +243,12 @@
         "D": "caecus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "To smile",
+      "question": "to smile",
       "options": {
         "A": "rideo",
         "B": "specto",
@@ -256,12 +256,12 @@
         "D": "amo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 21,
-      "question": "Advice",
+      "question": "advice",
       "options": {
         "A": "verbum",
         "B": "consilium",
@@ -269,12 +269,12 @@
         "D": "periculum"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 22,
-      "question": "Shore",
+      "question": "shore",
       "options": {
         "A": "rivus",
         "B": "mare",
@@ -282,12 +282,12 @@
         "D": "pontus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 23,
-      "question": "To send",
+      "question": "to send",
       "options": {
         "A": "traho",
         "B": "relinquo",
@@ -295,12 +295,12 @@
         "D": "iacio"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 24,
-      "question": "To prepare",
+      "question": "to prepare",
       "options": {
         "A": "paro",
         "B": "laboro",
@@ -308,12 +308,12 @@
         "D": "pono"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 25,
-      "question": "Door",
+      "question": "door",
       "options": {
         "A": "ianua",
         "B": "atrium",
@@ -321,12 +321,12 @@
         "D": "baculum"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 26,
-      "question": "Altar",
+      "question": "altar",
       "options": {
         "A": "ora",
         "B": "ager",
@@ -334,12 +334,12 @@
         "D": "ara"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 27,
-      "question": "To ask",
+      "question": "to ask",
       "options": {
         "A": "vinco",
         "B": "puto",
@@ -347,12 +347,12 @@
         "D": "peto"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 28,
-      "question": "Song",
+      "question": "song",
       "options": {
         "A": "oratio",
         "B": "carmen",
@@ -360,12 +360,12 @@
         "D": "cursus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best Latin translation for the given English word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 29,
-      "question": "Narro",
+      "question": "narro",
       "options": {
         "A": "peto",
         "B": "clamo",
@@ -373,12 +373,12 @@
         "D": "vito"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Eo",
+      "question": "eo",
       "options": {
         "A": "curo",
         "B": "servo",
@@ -386,12 +386,12 @@
         "D": "cedo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 31,
-      "question": "Pecunia",
+      "question": "pecunia",
       "options": {
         "A": "praemium",
         "B": "periculum",
@@ -399,24 +399,24 @@
         "D": "terra"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 32,
-      "question": "Etiam",
+      "question": "etiam",
       "options": {
         "A": "quoque b.-que",
         "C": "saepe",
         "D": "prope"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 33,
-      "question": "Ob",
+      "question": "ob",
       "options": {
         "A": "per",
         "B": "ab",
@@ -424,12 +424,12 @@
         "D": "ad"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 34,
-      "question": "Pueri",
+      "question": "pueri",
       "options": {
         "A": "viri",
         "B": "liberi",
@@ -437,12 +437,12 @@
         "D": "socii"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the SYNONYM of the given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 35,
-      "question": "Heri",
+      "question": "heri",
       "options": {
         "A": "hodie",
         "B": "tum",
@@ -450,12 +450,12 @@
         "D": "cras"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of th given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 36,
-      "question": "Longus",
+      "question": "longus",
       "options": {
         "A": "brevis",
         "B": "magnus",
@@ -463,12 +463,12 @@
         "D": "fortis"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of th given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 37,
-      "question": "Bellum",
+      "question": "bellum",
       "options": {
         "A": "hostis",
         "B": "amicus",
@@ -476,12 +476,12 @@
         "D": "castra"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of th given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 38,
-      "question": "Deleo",
+      "question": "deleo",
       "options": {
         "A": "fugio",
         "B": "neco",
@@ -489,12 +489,12 @@
         "D": "munio"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of th given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 39,
-      "question": "Cado",
+      "question": "cado",
       "options": {
         "A": "aperio",
         "B": "surgo",
@@ -502,12 +502,12 @@
         "D": "doceo"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the ANTONYM of th given word:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "Dominus : servus :: regina : ______",
+      "question": "dominus : servus :: regina : ______",
       "options": {
         "A": "amica",
         "B": "puella",
@@ -515,12 +515,12 @@
         "D": "ancilla"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best word to complete the analogy:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 41,
-      "question": "Mare : unda :: villa : ______",
+      "question": "mare : unda :: villa : ______",
       "options": {
         "A": "forum",
         "B": "curia",
@@ -528,12 +528,12 @@
         "D": "culina"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best word to complete the analogy:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 42,
-      "question": "Scio : nescio:: dico: _____",
+      "question": "scio : nescio:: dico: _____",
       "options": {
         "A": "ago",
         "B": "caedo",
@@ -541,12 +541,12 @@
         "D": "nego"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best word to complete the analogy:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 43,
-      "question": "Via : iter :: cibus : _______",
+      "question": "via : iter :: cibus : _______",
       "options": {
         "A": "cena",
         "B": "culina",
@@ -554,12 +554,12 @@
         "D": "lecus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best word to complete the analogy:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 44,
-      "question": "Umquam : numquam :: prope ________",
+      "question": "umquam : numquam :: prope ________",
       "options": {
         "A": "perendie",
         "B": "antea",
@@ -567,12 +567,12 @@
         "D": "procul"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best word to complete the analogy:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     },
     {
       "question_number": 45,
-      "question": "Miles : gladius :: nauta : _____",
+      "question": "miles : gladius :: nauta : _____",
       "options": {
         "A": "navis",
         "B": "insula",
@@ -580,13 +580,8 @@
         "D": "rivus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best word to complete the analogy:",
+      "instruction": "Choose the best English translation for the given word.",
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2014,
-    "format": "pre_2018",
-    "total_questions": 45
-  }
+  ]
 }

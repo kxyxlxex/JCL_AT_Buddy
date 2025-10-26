@@ -145,7 +145,7 @@
     },
     {
       "question_number": 12,
-      "question": "Nec caput nec pedes Part II. Mottoes",
+      "question": "Nec caput nec pedes",
       "options": {
         "A": "in confusion",
         "B": "in person",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 25,
-      "question": "The U.S. Public Library System Part III. Abbreviations",
+      "question": "The U.S. Public Library System",
       "options": {
         "A": "in libris bonis",
         "B": "in libris libertas",
@@ -327,7 +327,7 @@
     },
     {
       "question_number": 26,
-      "question": "E.g.",
+      "question": "e.g.",
       "options": {
         "A": "for example",
         "B": "and elsewhere",
@@ -366,7 +366,7 @@
     },
     {
       "question_number": 29,
-      "question": "Viz.",
+      "question": "viz.",
       "options": {
         "A": "videlicet",
         "B": "vide supra",
@@ -379,7 +379,7 @@
     },
     {
       "question_number": 30,
-      "question": "P.r.n.",
+      "question": "p.r.n.",
       "options": {
         "A": "whenever necessary",
         "B": "see above entry",
@@ -392,7 +392,7 @@
     },
     {
       "question_number": 31,
-      "question": "q.",
+      "question": "i.q.",
       "options": {
         "A": "at your invitation",
         "B": "in respect of",
@@ -405,7 +405,7 @@
     },
     {
       "question_number": 32,
-      "question": "Au",
+      "question": "au",
       "options": {
         "A": "silver",
         "B": "gold",
@@ -444,7 +444,7 @@
     },
     {
       "question_number": 35,
-      "question": "Oculo utro",
+      "question": "oculo utro",
       "options": {
         "A": "in the left eye",
         "B": "in the right eye",
@@ -457,7 +457,7 @@
     },
     {
       "question_number": 36,
-      "question": "Ss",
+      "question": "ss",
       "options": {
         "A": "1/2",
         "B": "1/4",
@@ -470,7 +470,7 @@
     },
     {
       "question_number": 37,
-      "question": "And his wife as well Part IV. Quotations",
+      "question": "and his wife as well",
       "options": {
         "A": "et seq.",
         "B": "et al.",
@@ -650,10 +650,5 @@
       "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2010,
-    "format": "pre_2018",
-    "total_questions": 50
-  }
+  ]
 }

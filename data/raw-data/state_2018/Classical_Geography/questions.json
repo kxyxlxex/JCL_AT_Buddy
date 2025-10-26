@@ -270,7 +270,7 @@
         "D": "Knossos"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: Ancient Greece and Asia Minor:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -283,7 +283,7 @@
         "D": "Sparta"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: Ancient Greece and Asia Minor:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -296,7 +296,7 @@
         "D": "Philippi"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: Ancient Greece and Asia Minor:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -309,7 +309,7 @@
         "D": "Halicarnassus"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: Ancient Greece and Asia Minor:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -322,7 +322,7 @@
         "D": "Arcadia"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: Ancient Greece and Asia Minor:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -335,7 +335,7 @@
         "D": "Samos"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: Ancient Greece and Asia Minor:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -348,7 +348,7 @@
         "D": "Chios"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: Ancient Greece and Asia Minor:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -361,7 +361,7 @@
         "D": "Pergamum"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: Ancient Greece and Asia Minor:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -374,12 +374,12 @@
         "D": "Delphi"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: Ancient Greece and Asia Minor:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Number Map 1: Ancient Greece and Asia Minor",
+      "question": "Number",
       "options": {
         "A": "Mt. Olympus",
         "B": "Mt. Helicon",
@@ -387,7 +387,7 @@
         "D": "Mt. Ossa"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 21–30 refer to Map 1: Ancient Greece and Asia Minor:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -400,7 +400,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 31–40 refer to Map 2: Ancient Rome:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -413,7 +413,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 31–40 refer to Map 2: Ancient Rome:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -426,7 +426,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 31–40 refer to Map 2: Ancient Rome:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -439,7 +439,7 @@
         "D": "Numbers 6 and"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 31–40 refer to Map 2: Ancient Rome:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -452,7 +452,7 @@
         "D": "Aqua Appia"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 31–40 refer to Map 2: Ancient Rome:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -465,12 +465,12 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 31–40 refer to Map 2: Ancient Rome:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 37,
-      "question": "Road closest to Questions 31–40 refer to Map 2: Ancient Rome:",
+      "question": "Road closest to",
       "options": {
         "A": "Via Appia",
         "B": "Via Aurelia",
@@ -504,12 +504,12 @@
         "D": "Temple of Jupiter Capitolinus"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 31–40 refer to Map 2: Ancient Rome:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "Which of the following would you find at Number 8? Map 2: Ancient Rome",
+      "question": "Which of the following would you find at Number 8?",
       "options": {
         "A": "Theater of Pompey",
         "B": "Mausoleum of Augustus",
@@ -517,7 +517,7 @@
         "D": "Mausoleum of Hadrian"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 31–40 refer to Map 2: Ancient Rome:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -530,7 +530,7 @@
         "D": "Noricum"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 41–50 refer to Map 3: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -543,7 +543,7 @@
         "D": "Tolosa"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 41–50 refer to Map 3: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -556,7 +556,7 @@
         "D": "Bythinia et Pontus"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 41–50 refer to Map 3: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -569,7 +569,7 @@
         "D": "Palmyra"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 41–50 refer to Map 3: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -582,7 +582,7 @@
         "D": "Macedonia"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 41–50 refer to Map 3: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -595,7 +595,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 41–50 refer to Map 3: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -608,7 +608,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 41–50 refer to Map 3: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -621,7 +621,7 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 41–50 refer to Map 3: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -634,12 +634,12 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 41–50 refer to Map 3: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 50,
-      "question": "Cyrene Map 3: Roman Empire",
+      "question": "Cyrene",
       "options": {
         "A": "Number 3",
         "B": "Number 12",
@@ -647,13 +647,8 @@
         "D": "Number"
       },
       "type": "multiple_choice",
-      "instruction": "Questions 41–50 refer to Map 3: The Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2018,
-    "format": "post_2018",
-    "total_questions": 50
-  }
+  ]
 }

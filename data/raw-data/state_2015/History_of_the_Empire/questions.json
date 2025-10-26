@@ -170,7 +170,7 @@
     },
     {
       "question_number": 14,
-      "question": "Who was Constantine the Great’s father? Chlorus",
+      "question": "Who was Constantine the Great’s father?",
       "options": {
         "A": "Severus II",
         "B": "Galerius",
@@ -646,10 +646,5 @@
       "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2015,
-    "format": "pre_2018",
-    "total_questions": 50
-  }
+  ]
 }

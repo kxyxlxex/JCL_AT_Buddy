@@ -530,7 +530,7 @@
         "D": "Europa"
       },
       "type": "multiple_choice",
-      "instruction": "Items 41–45: Identify the mother of the given person:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -543,7 +543,7 @@
         "D": "Helen"
       },
       "type": "multiple_choice",
-      "instruction": "Items 41–45: Identify the mother of the given person:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -556,12 +556,12 @@
         "D": "Medea"
       },
       "type": "multiple_choice",
-      "instruction": "Items 41–45: Identify the mother of the given person:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 44,
-      "question": "Deucalion Items 41–45: Identify the mother of the given person:",
+      "question": "Deucalion",
       "options": {
         "A": "Arisbe",
         "B": "Tyro",
@@ -595,7 +595,7 @@
         "D": "Hippolytus"
       },
       "type": "multiple_choice",
-      "instruction": "Items 46–50: Complete the analogy with the most logical choice:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -608,7 +608,7 @@
         "D": "Nicostratus"
       },
       "type": "multiple_choice",
-      "instruction": "Items 46–50: Complete the analogy with the most logical choice:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -621,7 +621,7 @@
         "D": "Dionysus"
       },
       "type": "multiple_choice",
-      "instruction": "Items 46–50: Complete the analogy with the most logical choice:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -634,7 +634,7 @@
         "D": "dog"
       },
       "type": "multiple_choice",
-      "instruction": "Items 46–50: Complete the analogy with the most logical choice:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -647,13 +647,8 @@
         "D": "Proetus"
       },
       "type": "multiple_choice",
-      "instruction": "Items 46–50: Complete the analogy with the most logical choice:",
+      "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2019,
-    "format": "post_2018",
-    "total_questions": 50
-  }
+  ]
 }

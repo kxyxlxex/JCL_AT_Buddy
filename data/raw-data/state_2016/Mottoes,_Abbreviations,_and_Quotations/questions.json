@@ -2,7 +2,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Sine qua non",
+      "question": "sine qua non",
       "options": {
         "A": "indispensable",
         "B": "formerly",
@@ -28,7 +28,7 @@
     },
     {
       "question_number": 3,
-      "question": "Sincerely",
+      "question": "sincerely",
       "options": {
         "A": "de facto",
         "B": "bona fide",
@@ -54,7 +54,7 @@
     },
     {
       "question_number": 5,
-      "question": "In place",
+      "question": "in place",
       "options": {
         "A": "inter se b.in situ",
         "C": "in loco parentis",
@@ -79,7 +79,7 @@
     },
     {
       "question_number": 7,
-      "question": "Secretly",
+      "question": "secretly",
       "options": {
         "A": "lingua franca",
         "B": "post scriptum",
@@ -104,7 +104,7 @@
     },
     {
       "question_number": 9,
-      "question": "To a disgusting or ridiculous degree",
+      "question": "to a disgusting or ridiculous degree",
       "options": {
         "A": "ante bellum",
         "B": "habeas corpus c.ad nauseam",
@@ -116,7 +116,7 @@
     },
     {
       "question_number": 10,
-      "question": "Per annum",
+      "question": "per annum",
       "options": {
         "A": "daily",
         "B": "weekly",
@@ -142,7 +142,7 @@
     },
     {
       "question_number": 12,
-      "question": "Without charge",
+      "question": "without charge",
       "options": {
         "A": "de jure",
         "B": "pro bono",
@@ -155,7 +155,7 @@
     },
     {
       "question_number": 13,
-      "question": "A formal acknowledgement of error",
+      "question": "a formal acknowledgement of error",
       "options": {
         "A": "mea culpa",
         "B": "ex gratia",
@@ -168,7 +168,7 @@
     },
     {
       "question_number": 14,
-      "question": "Urbs in horto",
+      "question": "urbs in horto",
       "options": {
         "A": "New York",
         "B": "Philadelphia",
@@ -220,7 +220,7 @@
     },
     {
       "question_number": 18,
-      "question": "Palmam qui meruit ferat",
+      "question": "palmam qui meruit ferat",
       "options": {
         "A": "University of North Carolina",
         "B": "Duke University",
@@ -233,7 +233,7 @@
     },
     {
       "question_number": 19,
-      "question": "Quis separabit?",
+      "question": "quis separabit?",
       "options": {
         "A": "Order of St. Patrick",
         "B": "the Jesuits",
@@ -259,7 +259,7 @@
     },
     {
       "question_number": 21,
-      "question": "The European Union",
+      "question": "the European Union",
       "options": {
         "A": "ubi libertas, ibi patria",
         "B": "quo pax et gloria ducunt",
@@ -310,7 +310,7 @@
     },
     {
       "question_number": 25,
-      "question": "Semper paratus",
+      "question": "semper paratus",
       "options": {
         "A": "U.S. Marine Corps",
         "B": "U.S. Coast Guard",
@@ -349,7 +349,7 @@
     },
     {
       "question_number": 28,
-      "question": "N. is the abbreviation for all of the following EXCEPT",
+      "question": "n. is the abbreviation for all of the following EXCEPT",
       "options": {
         "A": "born",
         "B": "at night",
@@ -362,7 +362,7 @@
     },
     {
       "question_number": 29,
-      "question": "Viz.",
+      "question": "viz.",
       "options": {
         "A": "namely",
         "B": "look up",
@@ -388,7 +388,7 @@
     },
     {
       "question_number": 31,
-      "question": "Loq.",
+      "question": "loq.",
       "options": {
         "A": "a lotion",
         "B": "he/she speaks",
@@ -413,7 +413,7 @@
     },
     {
       "question_number": 33,
-      "question": "D.d.",
+      "question": "d.d.",
       "options": {
         "A": "from day to day",
         "B": "given as a gift",
@@ -439,7 +439,7 @@
     },
     {
       "question_number": 35,
-      "question": "Ibid.",
+      "question": "ibid.",
       "options": {
         "A": "in the same place",
         "B": "that is",
@@ -491,7 +491,7 @@
     },
     {
       "question_number": 39,
-      "question": "Etc.",
+      "question": "etc.",
       "options": {
         "A": "and the rest",
         "B": "that is",
@@ -504,7 +504,7 @@
     },
     {
       "question_number": 40,
-      "question": "The abbreviation “fl.” refers to _____ 41 ave atque vale",
+      "question": "The abbreviation “fl.” refers to _____",
       "options": {
         "A": "Propertius",
         "B": "Horace",
@@ -530,7 +530,7 @@
     },
     {
       "question_number": 43,
-      "question": "Historis vero testis temporum, lux veritatis",
+      "question": "historis vero testis temporum, lux veritatis",
       "options": {
         "A": "Cicero",
         "B": "Seneca",
@@ -543,7 +543,7 @@
     },
     {
       "question_number": 44,
-      "question": "Alea iacta est",
+      "question": "alea iacta est",
       "options": {
         "A": "Nero",
         "B": "Caesar",
@@ -556,7 +556,7 @@
     },
     {
       "question_number": 45,
-      "question": "Ora et labora",
+      "question": "ora et labora",
       "options": {
         "A": "St. Benedict",
         "B": "St. Gregory",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 46,
-      "question": "Actum ne agas",
+      "question": "actum ne agas",
       "options": {
         "A": "Ovid",
         "B": "Terence",
@@ -582,7 +582,7 @@
     },
     {
       "question_number": 47,
-      "question": "Clarum et venerabile nomen",
+      "question": "clarum et venerabile nomen",
       "options": {
         "A": "Livy",
         "B": "Cato",
@@ -595,7 +595,7 @@
     },
     {
       "question_number": 48,
-      "question": "Amor tussisque non celantur",
+      "question": "amor tussisque non celantur",
       "options": {
         "A": "Ovid",
         "B": "Martial",
@@ -608,7 +608,7 @@
     },
     {
       "question_number": 49,
-      "question": "Carpe diem",
+      "question": "carpe diem",
       "options": {
         "A": "Caesar",
         "B": "Laberius",
@@ -621,7 +621,7 @@
     },
     {
       "question_number": 50,
-      "question": "Maxima debetur puero reverentia",
+      "question": "maxima debetur puero reverentia",
       "options": {
         "A": "Martial",
         "B": "Juvenal",
@@ -632,10 +632,5 @@
       "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2016,
-    "format": "pre_2018",
-    "total_questions": 49
-  }
+  ]
 }

@@ -313,6 +313,16 @@
       "correct_answer": null
     },
     {
+      "question_number": 25,
+      "question": "What commander of the legions of the Upper Rhine conspired to replace Caligula with a senator named M. Aemilius Lepidus in 39? a.",
+      "options": {
+        "C": "Iulius Classicus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
       "question_number": 26,
       "question": "Who was Galba’s freedman advisor who brought word that the Senate had appointed him emperor?",
       "options": {
@@ -385,6 +395,18 @@
         "B": "Maximian",
         "C": "Diocletian",
         "D": "Constantine"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 32,
+      "question": "Who proposed to the Senate that",
+      "options": {
+        "C": "Maecenas",
+        "B": "Statilius Taurus c.",
+        "D": "Munatius Plancus"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -602,7 +624,9 @@
       "question_number": 49,
       "question": "Which general conquered Mauretania under Claudius?",
       "options": {
-        "A": "Drusus II b."
+        "A": "Plautius",
+        "C": "Flavius Vespasianus",
+        "D": "Suetonius Paulinus"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -621,10 +645,5 @@
       "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2009,
-    "format": "pre_2018",
-    "total_questions": 48
-  }
+  ]
 }

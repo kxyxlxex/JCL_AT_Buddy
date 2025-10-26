@@ -392,7 +392,7 @@
     },
     {
       "question_number": 31,
-      "question": "Whose colossal head, hand, foot, and knee – which once stood in a Forum building -­‐ now stand in The courtyard of the Capitoline Museum:",
+      "question": "Whose colossal head, hand, foot, and knee – which once stood in a Forum building -­‐ now stand in the courtyard of the Capitoline Museum?",
       "options": {
         "A": "Julian’s",
         "B": "Trajan’s",
@@ -418,7 +418,7 @@
     },
     {
       "question_number": 33,
-      "question": "Which famous bronze statue was found in a shipwreck off the coast of Cape Artemisium, probably",
+      "question": "Which famous bronze statue was found in a shipwreck off the coast of Cape Artemisium, probably bound for sale in the East, and now on display in the National Museum of Athens.",
       "options": {
         "A": "Kritios Boy",
         "B": "Poseidon/Zeus without his trident/lightning bolt",
@@ -426,12 +426,12 @@
         "D": "Farnese Hercules"
       },
       "type": "multiple_choice",
-      "instruction": "The courtyard of the Capitoline Museum:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 34,
-      "question": "The drinking horn usually adorned with depictions of animal heads is called a Bound for sale in the East, and now on display in the National Museum of Athens:",
+      "question": "The drinking horn usually adorned with depictions of animal heads is called a",
       "options": {
         "A": "rhyton",
         "B": "kylix",
@@ -444,7 +444,7 @@
     },
     {
       "question_number": 35,
-      "question": "The first permanent stone theater in Rome was the Theater of Bound for sale in the East, and now on display in the National Museum of Athens:",
+      "question": "The first permanent stone theater in Rome was the Theater of",
       "options": {
         "A": "Pompey",
         "B": "Balbus",
@@ -457,7 +457,7 @@
     },
     {
       "question_number": 36,
-      "question": "Paintings at both Herculaneum and Pompeii (e.g. the Three Graces, Hercules finding his son Telephus) were influenced by the paintings done at Bound for sale in the East, and now on display in the National Museum of Athens:",
+      "question": "Paintings at both Herculaneum and Pompeii (e.g. the Three Graces, Hercules finding his son Telephus) were influenced by the paintings done at",
       "options": {
         "A": "Pergamum",
         "B": "Delphi",
@@ -491,12 +491,12 @@
         "D": "Tabularium"
       },
       "type": "multiple_choice",
-      "instruction": "Bound for sale in the East, and now on display in the National Museum of Athens:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 39,
-      "question": "The famous lifesize marble statues of Odysseus blinding the Cyclops Polyphemus and the Sirens in the Surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found:",
+      "question": "The famous lifesize marble statues of Odysseus blinding the Cyclops Polyphemus and the Sirens surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found in the",
       "options": {
         "A": "Villa of Pliny the Elder at Miseum",
         "B": "Villa of Tiberius at Sperlonga",
@@ -509,7 +509,7 @@
     },
     {
       "question_number": 40,
-      "question": "It is believed that statues of the early Roman heroes and ancestors of the emperor once stood in the peristyles of the Forum of Surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found:",
+      "question": "It is believed that statues of the early Roman heroes and ancestors of the emperor once stood in the peristyles of the Forum of",
       "options": {
         "A": "Julius Caesar",
         "B": "Augustus Caesar",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 42,
-      "question": "Pheidias, sculptor of the Parthenon and the statue of Zeus at Olympia, is also credited with the Surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found:",
+      "question": "Pheidias, sculptor of the Parthenon and the statue of Zeus at Olympia, is also credited with the",
       "options": {
         "A": "Athena Lemnia",
         "B": "Charioteer of Delphi",
@@ -569,7 +569,7 @@
         "D": "Propylea"
       },
       "type": "multiple_choice",
-      "instruction": "Surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -582,12 +582,12 @@
         "D": "Evans"
       },
       "type": "multiple_choice",
-      "instruction": "Surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 46,
-      "question": "The Bronze Doors of the Roman Curia in the Forum Romanum now hang in Surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found:",
+      "question": "The Bronze Doors of the Roman Curia in the Forum Romanum now hang in",
       "options": {
         "A": "The Roman Curia in the Forum Romanum",
         "B": "St. Johns Lateran, the Cathedral of Rome",
@@ -613,7 +613,7 @@
     },
     {
       "question_number": 48,
-      "question": "The now excavated Villa of Poppea, wife of Nero, is located at Surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found:",
+      "question": "The now excavated Villa of Poppea, wife of Nero, is located at",
       "options": {
         "A": "Boscoreale",
         "B": "Oplontis",
@@ -647,13 +647,8 @@
         "D": "repousse"
       },
       "type": "multiple_choice",
-      "instruction": "Surrounding his ship with him bound to the mast, now displayed in a small museum on site, were found:",
+      "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2011,
-    "format": "pre_2018",
-    "total_questions": 50
-  }
+  ]
 }

@@ -2,7 +2,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "This fresco decorated a wall in: Image",
+      "question": "This fresco decorated a wall in:",
       "options": {
         "A": "the Dodecanese",
         "B": "Knossos",
@@ -10,12 +10,12 @@
         "D": "Mycenae"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 2,
-      "question": "What does the number 4 correspond to on this Greek temple layout? Image",
+      "question": "What does the number 4 correspond to on this Greek temple layout?",
       "options": {
         "A": "Opisthodomos",
         "B": "Stylobate",
@@ -23,7 +23,7 @@
         "D": "Naos"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -36,12 +36,12 @@
         "D": "Corinthian"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 4,
-      "question": "Which temple is depicted in this image? Image",
+      "question": "Which temple is depicted in this image?",
       "options": {
         "A": "Temple of Olympian Zeus, Athens",
         "B": "Temple of Athena Nike",
@@ -49,7 +49,7 @@
         "D": "Erechtheum"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -62,7 +62,7 @@
         "D": "a temple"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -75,7 +75,7 @@
         "D": "Mnesicles"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -88,12 +88,12 @@
         "D": "Germania"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 8,
-      "question": "The large male figure at the bottom left is the personification of which river? Image",
+      "question": "The large male figure at the bottom left is the personification of which river?",
       "options": {
         "A": "Tiber",
         "B": "Rhine",
@@ -101,7 +101,7 @@
         "D": "Nile"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -114,12 +114,12 @@
         "D": "Stirrup Jar"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "What style of vase is this? Image",
+      "question": "What style of vase is this?",
       "options": {
         "A": "Protogeometric",
         "B": "Geometric",
@@ -127,12 +127,12 @@
         "D": "Black Figure"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 11,
-      "question": "This marble idol was found in a tomb located in: Image",
+      "question": "This marble idol was found in a tomb located in:",
       "options": {
         "A": "Knossos",
         "B": "the Cyclades",
@@ -140,7 +140,7 @@
         "D": "Pylos"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -153,7 +153,7 @@
         "D": "Trojan War"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -166,12 +166,12 @@
         "D": "Pantheon"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 14,
-      "question": "Which period does this sculpture date to? Image",
+      "question": "Which period does this sculpture date to?",
       "options": {
         "A": "Classical Period",
         "B": "Archaic Period",
@@ -179,12 +179,12 @@
         "D": "Hellenistic Period"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "Which arch is depicted in image 8? Image",
+      "question": "Which arch is depicted in image 8?",
       "options": {
         "A": "Arch of Constantine, Rome",
         "B": "Arch of Titus, Rome",
@@ -192,7 +192,7 @@
         "D": "Arch of Caracalla, Algeria"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -205,7 +205,7 @@
         "D": "Metropolitan Museum of Art, New York"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -218,12 +218,12 @@
         "D": "The deification of Julius Caesar"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 18,
-      "question": "The figure providing this statue’s structural support is a reference to: Image",
+      "question": "The figure providing this statue’s structural support is a reference to:",
       "options": {
         "A": "Juno",
         "B": "Neptune",
@@ -231,7 +231,7 @@
         "D": "Ceres"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -244,12 +244,12 @@
         "D": "Hellenistic Period"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "In which museum is this statue located? Image",
+      "question": "In which museum is this statue located?",
       "options": {
         "A": "Metropolitan Museum of Art, New York",
         "B": "National Museum, Athens",
@@ -257,7 +257,7 @@
         "D": "Acropolis Museum, Athens"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -270,7 +270,7 @@
         "D": "Fourth Style"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -283,12 +283,12 @@
         "D": "House of the Faun"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 23,
-      "question": "What type of room did this wall painting decorate? Image",
+      "question": "What type of room did this wall painting decorate?",
       "options": {
         "A": "Cubiculum",
         "B": "Atrium",
@@ -296,12 +296,12 @@
         "D": "Tablinum"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 24,
-      "question": "What temple is this? Image",
+      "question": "What temple is this?",
       "options": {
         "A": "Temple of Hephaestus, Athens",
         "B": "Temple of Hera, Olympia",
@@ -309,7 +309,7 @@
         "D": "Temple of Zeus, Olympia"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -322,12 +322,12 @@
         "D": "a Mycenaean cistern"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 26,
-      "question": "What is the term for the technique used to decorate this dagger? Image",
+      "question": "What is the term for the technique used to decorate this dagger?",
       "options": {
         "A": "Chiaroscuro",
         "B": "Niello",
@@ -335,12 +335,12 @@
         "D": "Repoussé"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 27,
-      "question": "This monument once contained a colossal statue of: Image",
+      "question": "This monument once contained a colossal statue of:",
       "options": {
         "A": "Jupiter",
         "B": "Minerva",
@@ -348,7 +348,7 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -361,12 +361,12 @@
         "D": "Danae"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 29,
-      "question": "Where in Pompeii was this painting found? The remaining questions are not related to the images on the test.",
+      "question": "Where in Pompeii was this painting found?",
       "options": {
         "A": "The House of the Tragic Poet",
         "B": "The House of Menander",
@@ -374,7 +374,7 @@
         "D": "The House of the Faun"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -387,7 +387,7 @@
         "D": "Michael Ventris"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -400,7 +400,7 @@
         "D": "Metope"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -413,7 +413,7 @@
         "D": "Pronaos"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -426,7 +426,7 @@
         "D": "Arch of Constantine, Rome"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -439,7 +439,7 @@
         "D": "Lekythos"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -452,7 +452,7 @@
         "D": "Bucchero"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -465,7 +465,7 @@
         "D": "Amazonomachy"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -478,7 +478,7 @@
         "D": "Ionic"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -491,7 +491,7 @@
         "D": "Haunch"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -504,7 +504,7 @@
         "D": "Cameo Glass"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -517,7 +517,7 @@
         "D": "Heinrich Schliemann"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -530,7 +530,7 @@
         "D": "Ictinus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -543,7 +543,7 @@
         "D": "Mausoleum of Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -556,7 +556,7 @@
         "D": "Polyclitus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -569,7 +569,7 @@
         "D": "The deification of Julius Caesar"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -582,7 +582,7 @@
         "D": "Dipylon Krater"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -595,7 +595,7 @@
         "D": "Peplos Kore"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -608,7 +608,7 @@
         "D": "Berlin"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -621,7 +621,7 @@
         "D": "Myron"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -634,7 +634,7 @@
         "D": "chryselephantine"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -647,13 +647,8 @@
         "D": "Sanctuary of Fortuna, Praeneste"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2017,
-    "format": "pre_2018",
-    "total_questions": 50
-  }
+  ]
 }

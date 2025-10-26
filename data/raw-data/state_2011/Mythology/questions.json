@@ -569,7 +569,7 @@
         "D": "Oceanus"
       },
       "type": "multiple_choice",
-      "instruction": "Grain because it represented the beginning of the crop:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -582,12 +582,12 @@
         "D": "Plotae"
       },
       "type": "multiple_choice",
-      "instruction": "Grain because it represented the beginning of the crop:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 46,
-      "question": "What Lesbian girl, daughter of Epopeus, after being raped by her father and hiding in the woods",
+      "question": "What Lesbian girl, daughter of Epopeus, after being raped by her father and hiding in the woods because of her shame, did Athena pity and change into an owl?",
       "options": {
         "A": "Asteria",
         "B": "Hilaeira",
@@ -595,7 +595,7 @@
         "D": "Nyctimene"
       },
       "type": "multiple_choice",
-      "instruction": "Grain because it represented the beginning of the crop:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -608,7 +608,7 @@
         "D": "Pyrrhus"
       },
       "type": "multiple_choice",
-      "instruction": "Because of her shame, did Athena pity and change into an owl:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -621,12 +621,12 @@
         "D": "Omphale"
       },
       "type": "multiple_choice",
-      "instruction": "Because of her shame, did Athena pity and change into an owl:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 49,
-      "question": "What mortal was taught the lyre by Linus, supposedly taught Homer to sing, and foolishly of his musical talent?",
+      "question": "What mortal was taught the lyre by Linus, supposedly taught Homer to sing, and foolishly challenged the Muses to a musical contest which he lost, and as a result, was struck blind and stripped of his musical talent?",
       "options": {
         "A": "Orpheus",
         "B": "Amphion",
@@ -634,7 +634,7 @@
         "D": "Demodocus"
       },
       "type": "multiple_choice",
-      "instruction": "Because of her shame, did Athena pity and change into an owl:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -647,13 +647,8 @@
         "D": "Lycoreus"
       },
       "type": "multiple_choice",
-      "instruction": "Challenged the Muses to a musical contest which he lost, and as a result, was struck blind and stripped:",
+      "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2011,
-    "format": "pre_2018",
-    "total_questions": 50
-  }
+  ]
 }

@@ -10,7 +10,7 @@
         "D": "Amphipolis"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -23,7 +23,7 @@
         "D": "Lex Gabinia"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -36,7 +36,7 @@
         "D": "Jupiter Stator"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -49,7 +49,7 @@
         "D": "a great fire in Samnium"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -62,7 +62,7 @@
         "D": "Pergamum"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -75,7 +75,7 @@
         "D": "Nicomedes"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -87,7 +87,7 @@
         "C": "3 d."
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -100,7 +100,7 @@
         "D": "Gala"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -113,7 +113,7 @@
         "D": "Hieronymus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -126,7 +126,7 @@
         "D": "Tarracina"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -139,7 +139,7 @@
         "D": "Tribunus Celerum"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -152,7 +152,7 @@
         "D": "Dictator"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -160,10 +160,12 @@
       "question": "Who was co-consul with Cicero in 63?",
       "options": {
         "A": "P. Cornelius Lentulus c.",
-        "B": "L. Iulius Caesar d."
+        "D": "Iunius Silanus",
+        "B": "L. Iulius Caesar d.",
+        "C": "Antonius Hybrida"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -176,7 +178,7 @@
         "D": "Massilia"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -184,11 +186,11 @@
       "question": "What Roman displayed legendary rectitude and incorruptibility to Pyrrhus?",
       "options": {
         "A": "Ap. Claudius Caecus",
-        "C": "M’. Curius Dentatus",
+        "C": "Fabricius Luscinus",
         "B": "P. Cornelius Rufinus d."
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -201,7 +203,7 @@
         "D": "quaestor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -214,7 +216,7 @@
         "D": "Veii"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -227,7 +229,7 @@
         "D": "Ancus Marcius"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -240,7 +242,7 @@
         "D": "Lupa"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -253,7 +255,7 @@
         "D": "Ptolemy Ceraunus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -266,7 +268,7 @@
         "D": "Ahenobarbus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -279,7 +281,7 @@
         "D": "Orgetorix"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -292,7 +294,7 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -305,7 +307,7 @@
         "D": "Calvinus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -318,7 +320,7 @@
         "D": "Pompey"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -331,7 +333,7 @@
         "D": "Saturninus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -344,7 +346,7 @@
         "D": "Mauretania"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -357,7 +359,7 @@
         "D": "Sextius Calvinus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -370,7 +372,7 @@
         "D": "Minurus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -383,7 +385,7 @@
         "D": "Hampsicora"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -396,7 +398,7 @@
         "D": "defeat of Hasdrubal at the Metaurus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -404,11 +406,11 @@
       "question": "What Roman general stayed behind in Spain after Hannibal reached the Alps?",
       "options": {
         "A": "Cn. Cornelius Scipio",
-        "C": "L. Manlius Vulso",
+        "C": "Flaminius Nepos",
         "B": "Cn. Servilius Geminus d."
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -421,7 +423,7 @@
         "D": "Mylae"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -434,7 +436,7 @@
         "D": "Mylae"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -447,7 +449,7 @@
         "D": "Agathocles"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -455,11 +457,11 @@
       "question": "Who sponsored the law in 287 made all plebiscita binding on all citizens?",
       "options": {
         "A": "Quintus Hortensius",
-        "C": "Cnaeus Ogulnius",
+        "C": "Licinius Stolo",
         "B": "Lucius Genucius d."
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -472,7 +474,7 @@
         "D": "Venusia"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -485,7 +487,7 @@
         "D": "Lex Canuleia"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -498,7 +500,7 @@
         "D": "Volaterrae"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -511,7 +513,7 @@
         "D": "Alexandria"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -524,7 +526,7 @@
         "D": "Surena"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -537,7 +539,7 @@
         "D": "Cassivellaunus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -550,7 +552,7 @@
         "D": "Aemilius Lepidus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -563,7 +565,7 @@
         "D": "Livia"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -576,19 +578,19 @@
         "D": "Sequani"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
       "question_number": 46,
       "question": "Although the Dictator Mamercus was granted a triumph, who claimed the spolia opima?",
       "options": {
-        "A": "L. Roscius",
+        "A": "Cornelius Cossus",
         "C": "S. Antius",
         "B": "M. Claudius Marcellus d."
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -601,7 +603,7 @@
         "D": "Appius Herdonius"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -614,7 +616,7 @@
         "D": "P. Postumius Tubertus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -623,10 +625,10 @@
       "options": {
         "A": "Numa Pompilius",
         "B": "M. Valerius",
-        "C": "Proculus Iulius d."
+        "C": "Cluilius"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     },
     {
@@ -639,13 +641,8 @@
         "D": "fortify the Palatine"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the best possible answer:",
+      "instruction": "Choose the best possible answer.",
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2017,
-    "format": "pre_2018",
-    "total_questions": 50
-  }
+  ]
 }

@@ -350,6 +350,19 @@
       "correct_answer": null
     },
     {
+      "question_number": 28,
+      "question": "Which enterprising general was sworn to Galba, turned traitor to support Vitellius, then turned on Vitellius and tried to get his troops to support Vespasian? He was eventually put to death for treachery (finally) by the emperor Titus? a.",
+      "options": {
+        "A": "Caecina",
+        "B": "Suetonius Paulinus",
+        "C": "Fabius Valens",
+        "D": "Antonius Primus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
       "question_number": 29,
       "question": "Which of these correctly describes the familial relationship between the emperors Titus and Domitian?",
       "options": {
@@ -415,6 +428,17 @@
       "correct_answer": null
     },
     {
+      "question_number": 34,
+      "question": "It is thought that the survival of the empire during the reign of the young Gordian III is in large part due to the brilliance of his father-in-law, the praetorian prefect. What was his name? a.",
+      "options": {
+        "D": "Calvinus Maximus b.",
+        "C": "Marinus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
       "question_number": 35,
       "question": "What Dacian capital city did Trajan finally occupy after a long battle in 106?",
       "options": {
@@ -455,7 +479,7 @@
     },
     {
       "question_number": 38,
-      "question": "Leading up to the Battle of Adrianople, the Goths had asked for and been granted permission to Settle in Roman territory because of the raids and pressure of what other people:",
+      "question": "Leading up to the Battle of Adrianople, the Goths had asked for and been granted permission to settle in Roman territory because of the raids and pressure of what other people?",
       "options": {
         "A": "Vandals",
         "B": "Huns",
@@ -489,7 +513,7 @@
         "D": "9 AD"
       },
       "type": "multiple_choice",
-      "instruction": "Settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -502,7 +526,7 @@
         "D": "Jovian"
       },
       "type": "multiple_choice",
-      "instruction": "Settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -515,7 +539,7 @@
         "D": "Germania"
       },
       "type": "multiple_choice",
-      "instruction": "Settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -528,7 +552,7 @@
         "D": "Plautia Urgulanilla"
       },
       "type": "multiple_choice",
-      "instruction": "Settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -541,7 +565,7 @@
         "D": "Menapian"
       },
       "type": "multiple_choice",
-      "instruction": "Settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -554,7 +578,7 @@
         "D": "Leo I"
       },
       "type": "multiple_choice",
-      "instruction": "Settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -567,7 +591,7 @@
         "D": "Vaballathus"
       },
       "type": "multiple_choice",
-      "instruction": "Settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -580,7 +604,7 @@
         "D": "Rambam"
       },
       "type": "multiple_choice",
-      "instruction": "Settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -593,7 +617,7 @@
         "D": "Dalmatia"
       },
       "type": "multiple_choice",
-      "instruction": "Settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -606,7 +630,7 @@
         "D": "mathematics"
       },
       "type": "multiple_choice",
-      "instruction": "Settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -619,13 +643,8 @@
         "D": "Probus"
       },
       "type": "multiple_choice",
-      "instruction": "Settle in Roman territory because of the raids and pressure of what other people:",
+      "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2010,
-    "format": "pre_2018",
-    "total_questions": 48
-  }
+  ]
 }

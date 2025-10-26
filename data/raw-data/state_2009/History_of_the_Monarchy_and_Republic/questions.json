@@ -291,7 +291,9 @@
       "question": "Which general, known as the “Sword of Rome,” sacked Syracuse in 211?",
       "options": {
         "A": "Fulvius Flaccus",
-        "B": "Q. Fabius Maximus c."
+        "B": "Q. Fabius Maximus c.",
+        "C": "Flaminius",
+        "D": "M. Claudius Marcellus"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -328,7 +330,9 @@
       "question": "Against which man was the first Senatus Consultum Ultimum directed?",
       "options": {
         "A": "Marius",
-        "B": "Cinna c."
+        "B": "Cinna c.",
+        "C": "Gracchus",
+        "D": "Catiline"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -379,7 +383,19 @@
       "options": {
         "A": "Livius Drusus’",
         "B": "Saturninus’",
-        "C": "Clodius Pulcher’s d."
+        "C": "Vatinius’"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 31,
+      "question": "Which of Antony’s lieutenants captured Jerusalem from the Parthians in 37 and installed Herod as king? a.",
+      "options": {
+        "C": "Asinius Pollio",
+        "B": "M. Aemilius Lepidus",
+        "D": "P. Ventidius"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -452,10 +468,24 @@
     },
     {
       "question_number": 37,
-      "question": "In 200 the consul _____________ called for the Comitia Centuriata to declare war on Phillip II. c.",
+      "question": "In 200 the consul _____________ called for the Comitia Centuriata to declare war on Phillip II.",
       "options": {
         "A": "M. Porcius Cato",
-        "B": "M. Valerius Messala"
+        "B": "M. Valerius Messala",
+        "C": "Terrentius Varro",
+        "D": "P. Sulpicius Galba"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 38,
+      "question": "What tribune did the Senate order Marius to apprehend because of his use of mob violence? a.",
+      "options": {
+        "C": "Sulpicius Rufus",
+        "B": "Saturninus",
+        "D": "Clodius Pulcher"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -570,6 +600,7 @@
       "question": "Which of these men was the first plebeian to become censor? a.",
       "options": {
         "C": "L. Manlius Torquatus",
+        "B": "L. Licinius Stolo",
         "D": "L. Sextius"
       },
       "type": "multiple_choice",
@@ -580,8 +611,9 @@
       "question_number": 48,
       "question": "After Octavian marched on Rome in 43, who served as his co-consul?",
       "options": {
-        "A": "Metellus Celer",
-        "B": "Q. Pedius c."
+        "A": "Hirtius",
+        "B": "Q. Pedius c.",
+        "D": "Asinius Pollio"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -591,9 +623,9 @@
       "question_number": 49,
       "question": "Where was",
       "options": {
+        "C": "Zela",
         "A": "Tigranocerta",
         "B": "Cabira",
-        "C": "Zela",
         "D": "Cyzicus"
       },
       "type": "multiple_choice",
@@ -613,10 +645,5 @@
       "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2009,
-    "format": "pre_2018",
-    "total_questions": 48
-  }
+  ]
 }

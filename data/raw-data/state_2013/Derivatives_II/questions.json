@@ -10,7 +10,7 @@
         "D": "dismantle"
       },
       "type": "multiple_choice",
-      "instruction": "Give the best meaning of each English word based on its Latin derivation:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
@@ -23,7 +23,7 @@
         "D": "foreign"
       },
       "type": "multiple_choice",
-      "instruction": "Give the best meaning of each English word based on its Latin derivation:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
@@ -36,7 +36,7 @@
         "D": "burdensome"
       },
       "type": "multiple_choice",
-      "instruction": "Give the best meaning of each English word based on its Latin derivation:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
@@ -49,7 +49,7 @@
         "D": "surprising"
       },
       "type": "multiple_choice",
-      "instruction": "Give the best meaning of each English word based on its Latin derivation:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
@@ -62,7 +62,7 @@
         "D": "swollen"
       },
       "type": "multiple_choice",
-      "instruction": "Give the best meaning of each English word based on its Latin derivation:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
@@ -75,7 +75,7 @@
         "D": "all-powerful"
       },
       "type": "multiple_choice",
-      "instruction": "Give the best meaning of each English word based on its Latin derivation:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
@@ -88,7 +88,7 @@
         "D": "upright"
       },
       "type": "multiple_choice",
-      "instruction": "Give the best meaning of each English word based on its Latin derivation:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
@@ -101,7 +101,7 @@
         "D": "clarified"
       },
       "type": "multiple_choice",
-      "instruction": "Give the best meaning of each English word based on its Latin derivation:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
@@ -114,7 +114,7 @@
         "D": "volatile"
       },
       "type": "multiple_choice",
-      "instruction": "Give the best meaning of each English word based on its Latin derivation:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
@@ -127,12 +127,12 @@
         "D": "fluctuations"
       },
       "type": "multiple_choice",
-      "instruction": "Give the best meaning of each English word based on its Latin derivation:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 11,
-      "question": "Iuvo",
+      "question": "iuvo",
       "options": {
         "A": "juice",
         "B": "judge",
@@ -140,12 +140,12 @@
         "D": "juvenile"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 12,
-      "question": "Credo",
+      "question": "credo",
       "options": {
         "A": "incredible",
         "B": "increase",
@@ -153,12 +153,12 @@
         "D": "cardinal"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 13,
-      "question": "Gero",
+      "question": "gero",
       "options": {
         "A": "gyrate",
         "B": "ingest",
@@ -166,12 +166,12 @@
         "D": "geriatric"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 14,
-      "question": "Lex",
+      "question": "lex",
       "options": {
         "A": "legal",
         "B": "lecture",
@@ -179,12 +179,12 @@
         "D": "legend"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "Ver",
+      "question": "ver",
       "options": {
         "A": "voracious",
         "B": "verify",
@@ -192,12 +192,12 @@
         "D": "vernal"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 16,
-      "question": "Manus",
+      "question": "manus",
       "options": {
         "A": "remain",
         "B": "manufacture",
@@ -205,12 +205,12 @@
         "D": "magnificent"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 17,
-      "question": "Traho",
+      "question": "traho",
       "options": {
         "A": "abstract",
         "B": "tragedy",
@@ -218,12 +218,12 @@
         "D": "tremble"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 18,
-      "question": "Pareo",
+      "question": "pareo",
       "options": {
         "A": "apparition",
         "B": "particle",
@@ -231,12 +231,12 @@
         "D": "parliament"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 19,
-      "question": "Noceo",
+      "question": "noceo",
       "options": {
         "A": "internecine",
         "B": "obnoxious",
@@ -244,36 +244,36 @@
         "D": "nocturnal"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "Cado word.",
+      "question": "cado",
       "options": {
         "A": "casualty b.caesura",
         "C": "cadet",
         "D": "accede"
       },
       "type": "multiple_choice",
-      "instruction": "For each of these questions, select the English word that is derived from the given Latin word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 21,
-      "question": "Homicide",
+      "question": "homicide",
       "options": {
         "A": "caedo",
         "B": "cinis c.cado",
         "D": "cibus"
       },
       "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 22,
-      "question": "Postulate",
+      "question": "postulate",
       "options": {
         "A": "possum",
         "B": "posco",
@@ -281,12 +281,12 @@
         "D": "peto"
       },
       "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 23,
-      "question": "Obsolete",
+      "question": "obsolete",
       "options": {
         "A": "solvo",
         "B": "somnus",
@@ -294,12 +294,12 @@
         "D": "soleo"
       },
       "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 24,
-      "question": "Chateau",
+      "question": "chateau",
       "options": {
         "A": "capio",
         "B": "casa",
@@ -307,12 +307,12 @@
         "D": "catena"
       },
       "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 25,
-      "question": "Celestial",
+      "question": "celestial",
       "options": {
         "A": "cilium",
         "B": "celo",
@@ -320,12 +320,12 @@
         "D": "caelum"
       },
       "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 26,
-      "question": "Society",
+      "question": "society",
       "options": {
         "A": "socius",
         "B": "sacer",
@@ -333,12 +333,12 @@
         "D": "somnus"
       },
       "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 27,
-      "question": "Troublesome",
+      "question": "troublesome",
       "options": {
         "A": "terreo",
         "B": "traho",
@@ -346,12 +346,12 @@
         "D": "tremo"
       },
       "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 28,
-      "question": "Piano",
+      "question": "piano",
       "options": {
         "A": "placeo",
         "B": "plenus",
@@ -359,12 +359,12 @@
         "D": "planus"
       },
       "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 29,
-      "question": "Enjoy",
+      "question": "enjoy",
       "options": {
         "A": "gero",
         "B": "iungo",
@@ -372,12 +372,12 @@
         "D": "gaudeo"
       },
       "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Unconscious",
+      "question": "unconscious",
       "options": {
         "A": "censeo",
         "B": "nosco",
@@ -385,12 +385,12 @@
         "D": "scelus"
       },
       "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 31,
-      "question": "Regulate",
+      "question": "regulate",
       "options": {
         "A": "to rule",
         "B": "to measure",
@@ -398,12 +398,12 @@
         "D": "to lead"
       },
       "type": "multiple_choice",
-      "instruction": "Give the MEANING of the Latin word at the root of each English word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 32,
-      "question": "Perjure",
+      "question": "perjure",
       "options": {
         "A": "lie",
         "B": "order",
@@ -411,12 +411,12 @@
         "D": "speak"
       },
       "type": "multiple_choice",
-      "instruction": "Give the MEANING of the Latin word at the root of each English word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 33,
-      "question": "Convince",
+      "question": "convince",
       "options": {
         "A": "obey",
         "B": "conquer",
@@ -424,12 +424,12 @@
         "D": "twist"
       },
       "type": "multiple_choice",
-      "instruction": "Give the MEANING of the Latin word at the root of each English word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 34,
-      "question": "Universal",
+      "question": "universal",
       "options": {
         "A": "overcome",
         "B": "oppose",
@@ -437,12 +437,12 @@
         "D": "turn"
       },
       "type": "multiple_choice",
-      "instruction": "Give the MEANING of the Latin word at the root of each English word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 35,
-      "question": "Obsequeous",
+      "question": "obsequeous",
       "options": {
         "A": "write",
         "B": "teach",
@@ -450,12 +450,12 @@
         "D": "follow"
       },
       "type": "multiple_choice",
-      "instruction": "Give the MEANING of the Latin word at the root of each English word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 36,
-      "question": "Claim",
+      "question": "claim",
       "options": {
         "A": "shout",
         "B": "clash",
@@ -463,12 +463,12 @@
         "D": "take"
       },
       "type": "multiple_choice",
-      "instruction": "Give the MEANING of the Latin word at the root of each English word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 37,
-      "question": "Mess",
+      "question": "mess",
       "options": {
         "A": "eat",
         "B": "send",
@@ -476,12 +476,12 @@
         "D": "scatter"
       },
       "type": "multiple_choice",
-      "instruction": "Give the MEANING of the Latin word at the root of each English word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 38,
-      "question": "Attain",
+      "question": "attain",
       "options": {
         "A": "law",
         "B": "honor",
@@ -489,12 +489,12 @@
         "D": "hold"
       },
       "type": "multiple_choice",
-      "instruction": "Give the MEANING of the Latin word at the root of each English word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 39,
-      "question": "Savage",
+      "question": "savage",
       "options": {
         "A": "woods",
         "B": "fierce",
@@ -502,12 +502,12 @@
         "D": "safe"
       },
       "type": "multiple_choice",
-      "instruction": "Give the MEANING of the Latin word at the root of each English word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "Adieu as the others.",
+      "question": "adieu",
       "options": {
         "A": "arrive",
         "B": "hear",
@@ -515,12 +515,12 @@
         "D": "god"
       },
       "type": "multiple_choice",
-      "instruction": "Give the MEANING of the Latin word at the root of each English word:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 46,
-      "question": "Efficient",
+      "question": "efficient",
       "options": {
         "A": "facet",
         "B": "effigy",
@@ -528,12 +528,12 @@
         "D": "affix"
       },
       "type": "multiple_choice",
-      "instruction": "For each of the following questions, select the word that comes from the same root as the:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 47,
-      "question": "Lettuce",
+      "question": "lettuce",
       "options": {
         "A": "lactic",
         "B": "lackluster",
@@ -541,12 +541,12 @@
         "D": "deluge"
       },
       "type": "multiple_choice",
-      "instruction": "For each of the following questions, select the word that comes from the same root as the:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 48,
-      "question": "Cook",
+      "question": "cook",
       "options": {
         "A": "biscuit",
         "B": "comb",
@@ -554,12 +554,12 @@
         "D": "charcoal"
       },
       "type": "multiple_choice",
-      "instruction": "For each of the following questions, select the word that comes from the same root as the:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 49,
-      "question": "Noun",
+      "question": "noun",
       "options": {
         "A": "novelty",
         "B": "agnostic",
@@ -567,12 +567,12 @@
         "D": "noble"
       },
       "type": "multiple_choice",
-      "instruction": "For each of the following questions, select the word that comes from the same root as the:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     },
     {
       "question_number": 50,
-      "question": "Amorous",
+      "question": "amorous",
       "options": {
         "A": "ambulance",
         "B": "amiable",
@@ -580,13 +580,8 @@
         "D": "amenity"
       },
       "type": "multiple_choice",
-      "instruction": "For each of the following questions, select the word that comes from the same root as the:",
+      "instruction": "Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2013,
-    "format": "pre_2018",
-    "total_questions": 45
-  }
+  ]
 }

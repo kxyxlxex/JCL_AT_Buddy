@@ -314,7 +314,7 @@
     },
     {
       "question_number": 25,
-      "question": "During the 2nd Punic War, what Greek scientist/mathematician helped his native",
+      "question": "During the 2nd Punic War, what Greek scientist/mathematician helped his native Syracuse repulse Roman attacks?",
       "options": {
         "A": "Pythagoras",
         "B": "Diogenes",
@@ -335,7 +335,7 @@
         "D": "Iulia"
       },
       "type": "multiple_choice",
-      "instruction": "Syracuse repulse Roman attacks:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -348,7 +348,7 @@
         "D": "Hersilia"
       },
       "type": "multiple_choice",
-      "instruction": "Syracuse repulse Roman attacks:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -361,7 +361,7 @@
         "D": "Acro"
       },
       "type": "multiple_choice",
-      "instruction": "Syracuse repulse Roman attacks:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -374,7 +374,7 @@
         "D": "Pompey defeats Mithridates"
       },
       "type": "multiple_choice",
-      "instruction": "Syracuse repulse Roman attacks:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -387,12 +387,12 @@
         "D": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "Syracuse repulse Roman attacks:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 31,
-      "question": "After which battle in 216 B.C. did Hannibal’s cavalry commander, Maharbal, it?\"",
+      "question": "After which battle in 216 B.C. did Hannibal’s cavalry commander, Maharbal, remark, “You, Hannibal, know how to gain a victory; you do not know how to use it?\"",
       "options": {
         "A": "Cannae",
         "B": "Lake Trasimene",
@@ -400,7 +400,7 @@
         "D": "Trebia River"
       },
       "type": "multiple_choice",
-      "instruction": "Syracuse repulse Roman attacks:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -413,7 +413,7 @@
         "D": "Tamphilus"
       },
       "type": "multiple_choice",
-      "instruction": "Remark, “You, Hannibal, know how to gain a victory; you do not know how to use:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -426,7 +426,7 @@
         "D": "Tarquinius Superbus"
       },
       "type": "multiple_choice",
-      "instruction": "Remark, “You, Hannibal, know how to gain a victory; you do not know how to use:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -439,7 +439,7 @@
         "D": "Hercules & Iolaus"
       },
       "type": "multiple_choice",
-      "instruction": "Remark, “You, Hannibal, know how to gain a victory; you do not know how to use:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -452,7 +452,7 @@
         "D": "Cassivellaunus"
       },
       "type": "multiple_choice",
-      "instruction": "Remark, “You, Hannibal, know how to gain a victory; you do not know how to use:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -465,12 +465,12 @@
         "D": "Alexandria"
       },
       "type": "multiple_choice",
-      "instruction": "Remark, “You, Hannibal, know how to gain a victory; you do not know how to use:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 37,
-      "question": "When the Celts invaded Rome in 390, the Romans took shelter in the citadel.",
+      "question": "When the Celts invaded Rome in 390, the Romans took shelter in the citadel. They knew to do this because who had heard the honking of Juno’s geese?",
       "options": {
         "A": "Marcus Camillus",
         "B": "Herennius Pointius",
@@ -478,7 +478,7 @@
         "D": "Manlius Capitolinus"
       },
       "type": "multiple_choice",
-      "instruction": "Remark, “You, Hannibal, know how to gain a victory; you do not know how to use:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -491,7 +491,7 @@
         "D": "Antium"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -504,16 +504,16 @@
         "D": "Timoleon"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "What Consul was granted power under the first senatus consultum ultimum to go after the followers of They knew to do this because who had heard the honking of Juno’s geese:",
+      "question": "What Consul was granted power under the first senatus consultum ultimum to go after the followers of",
       "options": {
+        "C": "Q. Ogulnius",
         "A": "M. Octavius",
         "B": "L. Opimius",
-        "C": "Q. Ogulnius",
         "D": "Cn. Flavius"
       },
       "type": "multiple_choice",
@@ -543,7 +543,7 @@
         "D": "Tiberius Gracchus becomes tribune"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -556,7 +556,7 @@
         "D": "Philip V"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -569,7 +569,7 @@
         "D": "Aequii"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -582,7 +582,7 @@
         "D": "Brundisium"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -595,7 +595,7 @@
         "D": "Sublician"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -608,7 +608,7 @@
         "D": "Lex Iulia"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -621,7 +621,7 @@
         "D": "Stolo"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -634,7 +634,7 @@
         "D": "Vercingentorix"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null
     },
     {
@@ -647,13 +647,8 @@
         "D": "Congonnetiacus"
       },
       "type": "multiple_choice",
-      "instruction": "They knew to do this because who had heard the honking of Juno’s geese:",
+      "instruction": null,
       "correct_answer": null
     }
-  ],
-  "metadata": {
-    "year": 2014,
-    "format": "pre_2018",
-    "total_questions": 50
-  }
+  ]
 }
