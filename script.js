@@ -157,15 +157,9 @@ class TestGenerator {
         document.getElementById('questionCounter').textContent = 
             `Question ${this.currentQuestionIndex + 1} of 50`;
         
-        // Display question + optional section title and instruction
+        // Display question + optional instruction
         const questionBlock = document.getElementById('questionText');
         questionBlock.innerHTML = '';
-        if (question.section) {
-            const sectionDiv = document.createElement('div');
-            sectionDiv.className = 'section-title';
-            sectionDiv.textContent = this.formatSectionTitle(question.section);
-            questionBlock.appendChild(sectionDiv);
-        }
         if (question.instruction) {
             const instructionDiv = document.createElement('div');
             instructionDiv.className = 'instruction';
@@ -333,7 +327,6 @@ class TestGenerator {
                     </span>
                 </div>
                 <div class="question-text">
-                    ${question.section ? `<div class=\"section-title\">${this.formatSectionTitle(question.section)}</div>` : ''}
                     ${question.instruction ? `<div class=\"instruction\">${this.formatInstruction(question.instruction)}</div>` : ''}
                     <div class=\"question-line\">${question.question}</div>
                 </div>
