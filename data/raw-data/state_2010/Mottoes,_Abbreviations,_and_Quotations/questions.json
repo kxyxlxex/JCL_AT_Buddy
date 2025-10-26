@@ -19,6 +19,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -33,6 +34,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -47,6 +49,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -61,6 +64,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -75,6 +79,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -89,6 +94,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -103,6 +109,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -117,6 +124,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -131,6 +139,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -145,6 +154,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -159,11 +169,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 12,
-      "question": "Nec caput nec pedes Part II. Mottoes",
+      "question": "Nec caput nec pedes",
       "options": {
         "A": "in confusion",
         "B": "in person",
@@ -173,6 +184,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -187,6 +199,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -201,6 +214,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -215,6 +229,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -229,6 +244,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -243,6 +259,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -257,11 +274,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 19,
-      "question": "Which of these are mottoes of the state of South Carolina: I. Animis opibusque parati, II. Crescite et multiplicamini, III. Dum spiro, spero",
+      "question": "Which of these are mottoes of the state of South Carolina: I. Animis opibusque parati, II. Crescite et",
       "options": {
         "A": "I and II",
         "B": "I and III",
@@ -271,6 +289,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -285,6 +304,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -299,6 +319,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -313,6 +334,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -327,6 +349,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -341,11 +364,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 25,
-      "question": "The U.S. Public Library System Part III. Abbreviations",
+      "question": "The U.S. Public Library System",
       "options": {
         "A": "in libris bonis",
         "B": "in libris libertas",
@@ -355,6 +379,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -369,6 +394,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -383,6 +409,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -397,6 +424,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -411,6 +439,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -425,6 +454,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -439,6 +469,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -453,6 +484,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -467,6 +499,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -481,6 +514,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -495,6 +529,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -509,11 +544,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 37,
-      "question": "and his wife as well Part IV. Quotations",
+      "question": "and his wife as well",
       "options": {
         "A": "et seq.",
         "B": "et al.",
@@ -523,6 +559,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -537,6 +574,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -551,6 +589,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -565,6 +604,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -579,6 +619,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -593,6 +634,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -607,6 +649,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -621,6 +664,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -635,6 +679,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -649,6 +694,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -663,6 +709,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -677,6 +724,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -691,6 +739,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -705,6 +754,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     }
   ]

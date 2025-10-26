@@ -4,7 +4,9 @@
     "year": "state_2013",
     "subject": "Mythology",
     "total_questions": 50,
-    "sections": []
+    "sections": [
+      "stripped him to swim and discovered his ruse?"
+    ]
   },
   "questions": [
     {
@@ -19,6 +21,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -33,6 +36,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -47,6 +51,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -61,6 +66,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -75,6 +81,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -89,6 +96,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -103,6 +111,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -117,6 +126,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -131,6 +141,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -145,6 +156,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -159,6 +171,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -173,6 +186,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -187,6 +201,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -201,11 +216,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 15,
-      "question": "What son of Oenomaeus dressed as a girl to win the friendship of Daphne, but was killed after the girls stripped him to swim and discovered his ruse?",
+      "question": "What son of Oenomaeus dressed as a girl to win the friendship of Daphne, but was killed after the girls",
       "options": {
         "A": "Iphis",
         "B": "Leucippus",
@@ -215,11 +231,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 16,
-      "question": "The only one of the Lemnian women to spare a man was the queen, _________.",
+      "question": "stripped him to swim and discovered his ruse? The only one of the Lemnian women to spare a man was the queen, _________.",
       "options": {
         "A": "Hypsiple.",
         "B": "Hippolyta.",
@@ -227,13 +244,14 @@
         "D": "Eriphyle."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 17,
-      "question": "At the end of the Trojan War, Andromache became the concubine of",
+      "question": "stripped him to swim and discovered his ruse? At the end of the Trojan War, Andromache became the concubine of",
       "options": {
         "A": "Agamemnon.",
         "B": "Meneleus.",
@@ -241,13 +259,14 @@
         "D": "Neoptolemus."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 18,
-      "question": "When Hector attacked the Greek ships after the withdrawal of Achilles, they were saved primarily by the efforts of",
+      "question": "stripped him to swim and discovered his ruse? When Hector attacked the Greek ships after the withdrawal of Achilles, they were saved primarily by the",
       "options": {
         "A": "Meneleus",
         "B": "Ajax the Greater",
@@ -255,13 +274,14 @@
         "D": "Idomeneus."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 19,
-      "question": "When the spy, Dolon, was captured, he gave the Greeks important information about",
+      "question": "stripped him to swim and discovered his ruse? When the spy, Dolon, was captured, he gave the Greeks important information about",
       "options": {
         "A": "the defection of Palamedes.",
         "B": "the alliance with the Amazons.",
@@ -269,13 +289,14 @@
         "D": "the food situation in Troy."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 20,
-      "question": "Which of the following wives was NOT induced to cuckold their husband by Nauplius?",
+      "question": "stripped him to swim and discovered his ruse? Which of the following wives was NOT induced to cuckold their husband by Nauplius?",
       "options": {
         "A": "Meda",
         "B": "Clytemnestra",
@@ -283,13 +304,14 @@
         "D": "Metharme"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 21,
-      "question": "Zeus rained tears of blood on the Plain of Troy because he could not save",
+      "question": "stripped him to swim and discovered his ruse? Zeus rained tears of blood on the Plain of Troy because he could not save",
       "options": {
         "A": "Hector.",
         "B": "Achilles.",
@@ -297,13 +319,14 @@
         "D": "Glaucus."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 22,
-      "question": "Odysseus was twice saved from",
+      "question": "stripped him to swim and discovered his ruse? Odysseus was twice saved from",
       "options": {
         "A": "Polyphemus.",
         "B": "the Lotus eaters.",
@@ -311,13 +334,14 @@
         "D": "Charybdis."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 23,
-      "question": "The list of people visited by Odysseus which is in the correct order is",
+      "question": "stripped him to swim and discovered his ruse? The list of people visited by Odysseus which is in the correct order is",
       "options": {
         "A": "Laestrygonians, Lotus Eaters, Polyphemus, Calypso, Circe.",
         "B": "Lotus Eaters, Laestrygonians, Polyphemus, Circe, Calypso.",
@@ -325,13 +349,14 @@
         "D": "Laestrygoinans, Polyphemus, Lotus Eaters, Circe, Calypso."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 24,
-      "question": "Phoenix was Achilles’",
+      "question": "stripped him to swim and discovered his ruse? Phoenix was Achilles’",
       "options": {
         "A": "armor-bearer.",
         "B": "charioteer.",
@@ -339,13 +364,14 @@
         "D": "trumpeter."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 25,
-      "question": "The nymph who was changed into a stream because she tried to stop the abduction of Persephone was",
+      "question": "stripped him to swim and discovered his ruse? The nymph who was changed into a stream because she tried to stop the abduction of Persephone was",
       "options": {
         "A": "Cyane",
         "B": "Mentha",
@@ -353,13 +379,14 @@
         "D": "Salamacis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 26,
-      "question": "In Egypt, Hercules defeated _______________, who killed all strangers to his land because of an oracle which said that this was the only way to keep the land free from famine.",
+      "question": "stripped him to swim and discovered his ruse? In Egypt, Hercules defeated _______________, who killed all strangers to his land because of an oracle",
       "options": {
         "A": "Antaeus",
         "B": "Busiris",
@@ -367,13 +394,14 @@
         "D": "Anubis."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 27,
-      "question": "Hercules was sold to _________, Queen of Lydia, for a period of a year.",
+      "question": "stripped him to swim and discovered his ruse? Hercules was sold to _________, Queen of Lydia, for a period of a year.",
       "options": {
         "A": "Candace",
         "B": "Callidace",
@@ -381,13 +409,14 @@
         "D": "Demonassa"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 28,
-      "question": "Hercules saved the Trojan princess ___________ from a sea monster.",
+      "question": "stripped him to swim and discovered his ruse? Hercules saved the Trojan princess ___________ from a sea monster.",
       "options": {
         "A": "Dejanira",
         "B": "Iole",
@@ -395,13 +424,14 @@
         "D": "Andromeda"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 29,
-      "question": "What king, a son of the river god Strymon and one of the muses, after being thrown into the river by his mother, was raised by water nymphs, fought in the Trojan War, and became an ocular spirit after his death?",
+      "question": "stripped him to swim and discovered his ruse? What king, a son of the river god Strymon and one of the muses, after being thrown into the river by his",
       "options": {
         "A": "Eumolpus",
         "B": "Mastusius",
@@ -409,13 +439,14 @@
         "D": "Oeagrus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 30,
-      "question": "Hercules killed Ladon to get access to the",
+      "question": "stripped him to swim and discovered his ruse? Hercules killed Ladon to get access to the",
       "options": {
         "A": "golden apples.",
         "B": "Cretan bull.",
@@ -423,13 +454,14 @@
         "D": "belt of Hippolyta."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 31,
-      "question": "A man-eating turtle was a favorite pet of",
+      "question": "stripped him to swim and discovered his ruse? A man-eating turtle was a favorite pet of",
       "options": {
         "A": "Sinis",
         "B": "Sciron",
@@ -437,13 +469,14 @@
         "D": "Minos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 32,
-      "question": "Theseus had to make his way from Troezen to Athens to prove himself worthy of the throne of his father",
+      "question": "stripped him to swim and discovered his ruse? Theseus had to make his way from Troezen to Athens to prove himself worthy of the throne of his father",
       "options": {
         "A": "Athamas",
         "B": "Atreus",
@@ -451,13 +484,14 @@
         "D": "Aegeus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 33,
-      "question": "What king of Epeirus became proverbial for his cruelty for blinding his own daughter, locking her in a dungeon, and forcing her to grind grains of bronze?",
+      "question": "stripped him to swim and discovered his ruse? What king of Epeirus became proverbial for his cruelty for blinding his own daughter, locking her in a",
       "options": {
         "A": "Cynortas",
         "B": "Echetus.",
@@ -465,13 +499,14 @@
         "D": "Sthenelus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 34,
-      "question": "To marry his bride, Perseus first had to kill her fiancé __________and his supporters.",
+      "question": "stripped him to swim and discovered his ruse? To marry his bride, Perseus first had to kill her fiancé __________and his supporters.",
       "options": {
         "A": "Phineus",
         "B": "Cepheus",
@@ -479,13 +514,14 @@
         "D": "Dictys"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 35,
-      "question": "The hero Bellerophon was sent away by King Iobates because Iobates’ wife, ___________, had accused him of attacking her.",
+      "question": "stripped him to swim and discovered his ruse? The hero Bellerophon was sent away by King Iobates because Iobates’ wife, ___________, had accused",
       "options": {
         "A": "Phaedra",
         "B": "Sthenoboea",
@@ -493,13 +529,14 @@
         "D": "Dirce"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 36,
-      "question": "Acamas and Demophon rescued their grandmother, ________,who had been carried off to Troy to serve Helen.",
+      "question": "stripped him to swim and discovered his ruse? Acamas and Demophon rescued their grandmother, ________,who had been carried off to Troy to serve Helen.",
       "options": {
         "A": "Ino",
         "B": "Alcmene",
@@ -507,13 +544,14 @@
         "D": "Hecale"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 37,
-      "question": "Aeneas’ ships were changed into nereids by the goddess____________ when Turnus tried to burn them.",
+      "question": "stripped him to swim and discovered his ruse? Aeneas’ ships were changed into nereids by the goddess____________ when Turnus tried to burn them.",
       "options": {
         "A": "Venus",
         "B": "Iris",
@@ -521,13 +559,14 @@
         "D": "Ceres"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "Aeneas finally learned from _________ that the land he sought was in Italy",
+      "question": "stripped him to swim and discovered his ruse? Aeneas finally learned from _________ that the land he sought was in Italy",
       "options": {
         "A": "the Penates.",
         "B": "the Sibyl.",
@@ -535,13 +574,14 @@
         "D": "the Oracle at Delos."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 39,
-      "question": "Oedipus wandered for many years, but finally died at Colonus in peace, protected by",
+      "question": "stripped him to swim and discovered his ruse? Oedipus wandered for many years, but finally died at Colonus in peace, protected by",
       "options": {
         "A": "Antigone.",
         "B": "Polyneices.",
@@ -549,13 +589,14 @@
         "D": "Theseus."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 40,
-      "question": "The Argo was able to avoid the hazards posed by the Planctae with the help of",
+      "question": "stripped him to swim and discovered his ruse? The Argo was able to avoid the hazards posed by the Planctae with the help of",
       "options": {
         "A": "Athena.",
         "B": "Medea",
@@ -563,13 +604,14 @@
         "D": "the Nereids."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 41,
-      "question": "When Dionysus was kidnapped by pirates, the only member of the crew to oppose the idea of selling him as a slave was",
+      "question": "stripped him to swim and discovered his ruse? When Dionysus was kidnapped by pirates, the only member of the crew to oppose the idea of selling him",
       "options": {
         "A": "Acoetes.",
         "B": "Elpenor.",
@@ -577,13 +619,14 @@
         "D": "Palinurus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 42,
-      "question": "After the death of Dido, Anna eventually came to Italy because she was fleeing",
+      "question": "stripped him to swim and discovered his ruse? After the death of Dido, Anna eventually came to Italy because she was fleeing",
       "options": {
         "A": "Dido’s ghost.",
         "B": "Sychaeus’s ghost.",
@@ -591,13 +634,14 @@
         "D": "Iarbas."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 43,
-      "question": "What man, the first demagogue, stirred up the people of Athens against Theseus while he was detained in Hades, induced Castor and Polydeuces to invade to recover their sister, and expelled Theseus upon his return?",
+      "question": "stripped him to swim and discovered his ruse? What man, the first demagogue, stirred up the people of Athens against Theseus while he was detained in",
       "options": {
         "A": "Menestheus",
         "B": "Polypemon",
@@ -605,13 +649,14 @@
         "D": "Areius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 44,
-      "question": "What youth loved the sea nymph Argyra, died of heartbreak after she tired of him, and was turned into a river by Aphrodite, only to continue to pine for Argyra, so that the goddess gave him the second gift of forgetfulness?",
+      "question": "stripped him to swim and discovered his ruse? What youth loved the sea nymph Argyra, died of heartbreak after she tired of him, and was turned into a forgetfulness?",
       "options": {
         "A": "Selemnus",
         "B": "Thonis",
@@ -619,13 +664,14 @@
         "D": "Lycormas"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 45,
-      "question": "Vertumnus, the god of vegetable gardens, fell in love with the orchard goddess __________.",
+      "question": "stripped him to swim and discovered his ruse? Vertumnus, the god of vegetable gardens, fell in love with the orchard goddess __________.",
       "options": {
         "A": "Pomona",
         "B": "Mestra",
@@ -633,13 +679,14 @@
         "D": "Ianthe"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 46,
-      "question": "The consort of Astraeus who gave birth to Zephyrus, Boreas, and Notus was the goddess",
+      "question": "stripped him to swim and discovered his ruse? The consort of Astraeus who gave birth to Zephyrus, Boreas, and Notus was the goddess",
       "options": {
         "A": "Selene.",
         "B": "Doris.",
@@ -647,13 +694,14 @@
         "D": "Eos."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 47,
-      "question": "The Greek king who lived for three generations by the gift of Apollo because Apollo gave him the years that he had stolen from the sons of Niobe, his grandmother, was",
+      "question": "stripped him to swim and discovered his ruse? The Greek king who lived for three generations by the gift of Apollo because Apollo gave him the years",
       "options": {
         "A": "Tithonus.",
         "B": "Nestor.",
@@ -661,13 +709,14 @@
         "D": "Admetus."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 48,
-      "question": "Daedalus came to Crete",
+      "question": "stripped him to swim and discovered his ruse? Daedalus came to Crete",
       "options": {
         "A": "because he had been hired to build the labyrinth.",
         "B": "because he had been exiled from Athens for murder.",
@@ -675,13 +724,14 @@
         "D": "because he was a relative of the queen, Pasiphae."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 49,
-      "question": "While she was helping Aeneas in battle, Aphrodite was wounded by",
+      "question": "stripped him to swim and discovered his ruse? While she was helping Aeneas in battle, Aphrodite was wounded by",
       "options": {
         "A": "Turnus.",
         "B": "Achilles.",
@@ -689,13 +739,14 @@
         "D": "Ajax the Greater."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 50,
-      "question": "At the beginning of the Trojan War, the Greeks sent _______ and ________ to demand that the Trojans return Helen.",
+      "question": "stripped him to swim and discovered his ruse? At the beginning of the Trojan War, the Greeks sent _______ and ________ to demand that the Trojans",
       "options": {
         "A": "Odysseus and Diomedes.",
         "B": "Odysseus and Meneleus",
@@ -703,8 +754,9 @@
         "D": "Meneleus and Agamemnon."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "stripped him to swim and discovered his ruse?",
+      "section_context": "stripped him to swim and discovered his ruse?",
+      "instruction": null,
       "correct_answer": "B"
     }
   ]

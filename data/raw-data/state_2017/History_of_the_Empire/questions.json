@@ -4,12 +4,14 @@
     "year": "state_2017",
     "subject": "History_of_the_Empire",
     "total_questions": 50,
-    "sections": []
+    "sections": [
+      "N.B. Choose the best possible answer."
+    ]
   },
   "questions": [
     {
       "question_number": 1,
-      "question": "Who led a conspiracy against Nero in 65 A.D.?",
+      "question": "N.B. Choose the best possible answer. Who led a conspiracy against Nero in 65 A.D.?",
       "options": {
         "A": "Lucan",
         "B": "Seneca",
@@ -17,13 +19,14 @@
         "D": "Vindex"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 2,
-      "question": "What emperor first attempted to abolish Christianity throughout the Empire?",
+      "question": "N.B. Choose the best possible answer. What emperor first attempted to abolish Christianity throughout the Empire?",
       "options": {
         "A": "Maximinus",
         "B": "Decius",
@@ -31,13 +34,14 @@
         "D": "Valerian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 3,
-      "question": "How was Ataulf, who led the Visigoths into Gaul in 412 A.D., related to his predecessor Alaric?",
+      "question": "N.B. Choose the best possible answer. How was Ataulf, who led the Visigoths into Gaul in 412 A.D., related to his",
       "options": {
         "A": "brother-in-law",
         "B": "son-in-law",
@@ -45,13 +49,14 @@
         "D": "son"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 4,
-      "question": "What office did Augustus assume in 12 B.C.?",
+      "question": "N.B. Choose the best possible answer. What office did Augustus assume in 12 B.C.?",
       "options": {
         "A": "Princeps Civitatis",
         "B": "Praefectus Urbi",
@@ -59,13 +64,14 @@
         "D": "Pontifex Maximus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 5,
-      "question": "Where did Licinius suffer his final defeat in 324 A.D.?",
+      "question": "N.B. Choose the best possible answer. Where did Licinius suffer his final defeat in 324 A.D.?",
       "options": {
         "A": "Pannonia",
         "B": "Adrianople",
@@ -73,13 +79,14 @@
         "D": "Chrysopolis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 6,
-      "question": "Stephanus, a palace domestic, has been named as the assassin of which emperor?",
+      "question": "N.B. Choose the best possible answer. Stephanus, a palace domestic, has been named as the assassin of which emperor?",
       "options": {
         "A": "Domitian",
         "B": "Nero",
@@ -87,13 +94,14 @@
         "D": "Galba"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 7,
-      "question": "At the fall of the Western Roman Empire, we know that Odoacer/Odovacar deposed Romulus Augustulus, but who was the emperor in the east?",
+      "question": "N.B. Choose the best possible answer. At the fall of the Western Roman Empire, we know that Odoacer/Odovacar",
       "options": {
         "A": "Marcian",
         "B": "Zeno",
@@ -101,13 +109,14 @@
         "D": "Anastasius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 8,
-      "question": "To what Syrian queen was Septimus Severus married?",
+      "question": "N.B. Choose the best possible answer. To what Syrian queen was Septimus Severus married?",
       "options": {
         "A": "Julia Maesa",
         "B": "Julia Soaemias",
@@ -115,13 +124,14 @@
         "D": "Julia Mamaea"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 9,
-      "question": "What Illyrian emperor followed Tacitus and his brother Florianus?",
+      "question": "N.B. Choose the best possible answer. What Illyrian emperor followed Tacitus and his brother Florianus?",
       "options": {
         "A": "Aurelian",
         "B": "Numerianus",
@@ -129,13 +139,14 @@
         "D": "Carus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 10,
-      "question": "As the first emperor who claimed divinity during his life, Caligula ordered a legate Petronius to set up his statue where?",
+      "question": "N.B. Choose the best possible answer. As the first emperor who claimed divinity during his life, Caligula ordered a legate",
       "options": {
         "A": "in the temple of Jupiter Optimus Maximus",
         "B": "on the Acropolis near the Parthenon",
@@ -143,13 +154,14 @@
         "D": "in the center of the Forum Romanum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 11,
-      "question": "What “ignoble son of a noble father” had himself depicted with Hercules’ emblems of a club and lion’s skin and appeared frequently in the arena as a hunter of wild beasts or gladiator?",
+      "question": "N.B. Choose the best possible answer. What “ignoble son of a noble father” had himself depicted with Hercules’ emblems",
       "options": {
         "A": "Justinian",
         "B": "Commodus",
@@ -157,13 +169,14 @@
         "D": "Pertinax"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 12,
-      "question": "Which Greek town in Egypt was founded by Hadrian?",
+      "question": "N.B. Choose the best possible answer. Which Greek town in Egypt was founded by Hadrian?",
       "options": {
         "A": "Ptolemais",
         "B": "Alexandria",
@@ -171,13 +184,14 @@
         "D": "Antinoopolis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 13,
-      "question": "Where did Augustus die?",
+      "question": "N.B. Choose the best possible answer. Where did Augustus die?",
       "options": {
         "A": "Rome",
         "B": "Nola",
@@ -185,13 +199,14 @@
         "D": "Capri"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 14,
-      "question": "What wife of an emperor was particularly active in promoting the cult of Cybele and was deified immediately after her death, ca. 140 A.D.?",
+      "question": "N.B. Choose the best possible answer. What wife of an emperor was particularly active in promoting the cult of Cybele",
       "options": {
         "A": "Vibia Sabina",
         "B": "Plotina",
@@ -199,13 +214,14 @@
         "D": "Bruttia Crispina"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 15,
-      "question": "From what did Gratian withdraw imperial support in 382 A.D.?",
+      "question": "N.B. Choose the best possible answer. From what did Gratian withdraw imperial support in 382 A.D.?",
       "options": {
         "A": "gladiatorial games involving prisoners of war",
         "B": "crucifixions as a standard death penalty",
@@ -213,13 +229,14 @@
         "D": "mandatory military service for non-Romans"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 16,
-      "question": "What enemies of Rome did Vologases lead in 51 A.D.?",
+      "question": "N.B. Choose the best possible answer. What enemies of Rome did Vologases lead in 51 A.D.?",
       "options": {
         "A": "Parthians",
         "B": "Armenians",
@@ -227,13 +244,14 @@
         "D": "Numidians"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 17,
-      "question": "Who assisted Caracalla in the murder of his own brother Geta?",
+      "question": "N.B. Choose the best possible answer. Who assisted Caracalla in the murder of his own brother Geta?",
       "options": {
         "A": "Artabanus",
         "B": "Macrinus",
@@ -241,13 +259,14 @@
         "D": "Papinianus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 18,
-      "question": "Who was the early martyr of the Christian Church who completely overturned the existing male-dominated social and political order at Carthage in 203 A.D.?",
+      "question": "N.B. Choose the best possible answer. Who was the early martyr of the Christian Church who completely overturned the",
       "options": {
         "A": "Agnes",
         "B": "Perpetua",
@@ -255,13 +274,14 @@
         "D": "Blandina"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 19,
-      "question": "Which emperor is primarily responsible for building the Pantheon, even though he preserved the conventional façade and Agrippa’s dedicatory inscription?",
+      "question": "N.B. Choose the best possible answer. Which emperor is primarily responsible for building the Pantheon, even though he",
       "options": {
         "A": "Marcus Aurelius",
         "B": "Hadrian",
@@ -269,13 +289,14 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 20,
-      "question": "Who was the first wife of the emperor Claudius?",
+      "question": "N.B. Choose the best possible answer. Who was the first wife of the emperor Claudius?",
       "options": {
         "A": "Agrippina the Younger",
         "B": "Aelia Paetina",
@@ -283,13 +304,14 @@
         "D": "Plautia Urgulanilla"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 21,
-      "question": "Who was one of the most important freedwomen in Roman history, who served both Claudius and Nero and became Vespasian’s mistress until his marriage?",
+      "question": "N.B. Choose the best possible answer. Who was one of the most important freedwomen in Roman history, who served",
       "options": {
         "A": "Antonia Caenis",
         "B": "Claudia Acte",
@@ -297,13 +319,14 @@
         "D": "Flavia Domitilla"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 22,
-      "question": "Diocletian’s first edict against the Christians, issued in 303 A.D., called for what?",
+      "question": "N.B. Choose the best possible answer. Diocletian’s first edict against the Christians, issued in 303 A.D., called for what?",
       "options": {
         "A": "imprisonment of Christian clergy of all ranks",
         "B": "mandatory sacrifices to the state gods",
@@ -311,13 +334,14 @@
         "D": "immediate loss of privileges for Christians of higher classes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 23,
-      "question": "Who was Constantine’s mother whose conversion to Christianity has been distorted by the biases of Christian boosters and pagan distractors?",
+      "question": "N.B. Choose the best possible answer. Who was Constantine’s mother whose conversion to Christianity has been",
       "options": {
         "A": "Fausta",
         "B": "Helena",
@@ -325,13 +349,14 @@
         "D": "Eutropia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 24,
-      "question": "What German was the virtual ruler of the western Empire from 456 A.D. until his death in 472 A.D.?",
+      "question": "N.B. Choose the best possible answer. What German was the virtual ruler of the western Empire from 456 A.D. until his",
       "options": {
         "A": "Aetius",
         "B": "Majorian",
@@ -339,13 +364,14 @@
         "D": "Glycerius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 25,
-      "question": "Of whom was Boadicea/Boudicca the queen?",
+      "question": "N.B. Choose the best possible answer. Of whom was Boadicea/Boudicca the queen?",
       "options": {
         "A": "Trinovantes",
         "B": "Segontiaci",
@@ -353,13 +379,14 @@
         "D": "Iceni"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 26,
-      "question": "What future emperor once fled Rome in the disguise of a priest of Isis?",
+      "question": "N.B. Choose the best possible answer. What future emperor once fled Rome in the disguise of a priest of Isis?",
       "options": {
         "A": "Claudius",
         "B": "Otho",
@@ -367,13 +394,14 @@
         "D": "Nerva"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 27,
-      "question": "In 73 A.D., what sheer rock fortress was taken by the Romans after a six-month siege and the construction of a large earthern ramp?",
+      "question": "N.B. Choose the best possible answer. In 73 A.D., what sheer rock fortress was taken by the Romans after a six-month",
       "options": {
         "A": "Herodium",
         "B": "Masada",
@@ -381,13 +409,14 @@
         "D": "Jerusalem"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 28,
-      "question": "Three catastrophes marred the brief reign of Titus: the violent eruption of Vesuvius and subsequent destruction of Herculaneum, Stabiae and Pompeii; a great fire in Rome which raged for three days; and…",
+      "question": "N.B. Choose the best possible answer. Three catastrophes marred the brief reign of Titus: the violent eruption of",
       "options": {
         "A": "a plague descended on Campania",
         "B": "a massive rebellion by the people of Judaea",
@@ -395,13 +424,14 @@
         "D": "a significant military loss at the hands of a Sarmatian tribe"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 29,
-      "question": "What king’s death is dramatically detailed on the column of Trajan?",
+      "question": "N.B. Choose the best possible answer. What king’s death is dramatically detailed on the column of Trajan?",
       "options": {
         "A": "Decebalus",
         "B": "Axidares",
@@ -409,13 +439,14 @@
         "D": "Parthamaspates"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 30,
-      "question": "What province did Pescennius Niger govern prior to his revolt against Didius Julianus and Septimius Severus?",
+      "question": "N.B. Choose the best possible answer. What province did Pescennius Niger govern prior to his revolt against Didius",
       "options": {
         "A": "Cilicia",
         "B": "Syria",
@@ -423,13 +454,14 @@
         "D": "Pisidia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 31,
-      "question": "Who was the first princeps to reach the throne without prior membership in the Senate?",
+      "question": "N.B. Choose the best possible answer. Who was the first princeps to reach the throne without prior membership in the Senate?",
       "options": {
         "A": "Severus Alexander",
         "B": "Caracalla",
@@ -437,13 +469,14 @@
         "D": "Lucius Verus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 32,
-      "question": "At what battle did Constantine order the chi and rho to be placed upon the shields of his soldiers?",
+      "question": "N.B. Choose the best possible answer. At what battle did Constantine order the chi and rho to be placed upon the shields",
       "options": {
         "A": "Edessa",
         "B": "Mons Seleucus",
@@ -451,13 +484,14 @@
         "D": "Milvian Bridge"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 33,
-      "question": "Where did Maximian establish his imperial residence?",
+      "question": "N.B. Choose the best possible answer. Where did Maximian establish his imperial residence?",
       "options": {
         "A": "Thessalonica",
         "B": "Milan",
@@ -465,13 +499,14 @@
         "D": "Rome"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 34,
-      "question": "In 429 A.D. whom did Gaiseric lead to begin seizing North Africa?",
+      "question": "N.B. Choose the best possible answer. In 429 A.D. whom did Gaiseric lead to begin seizing North Africa?",
       "options": {
         "A": "Vandals",
         "B": "Suevi",
@@ -479,13 +514,14 @@
         "D": "Franks"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 35,
-      "question": "Against what bishop of Constantinople did the Augusta Eudoxia conspire?",
+      "question": "N.B. Choose the best possible answer. Against what bishop of Constantinople did the Augusta Eudoxia conspire?",
       "options": {
         "A": "John Chrysostom",
         "B": "Theophilus",
@@ -493,13 +529,14 @@
         "D": "Proclus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 36,
-      "question": "Augustus personally led the fight against the Cantabrians and Asturians around BC in what location?",
+      "question": "N.B. Choose the best possible answer. Augustus personally led the fight against the Cantabrians and Asturians around",
       "options": {
         "A": "Armenia",
         "B": "Illyricum",
@@ -507,13 +544,14 @@
         "D": "Macedonia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 37,
-      "question": "Who successfully urged Tiberius into semi-retirement in 26 A.D.?",
+      "question": "N.B. Choose the best possible answer. Who successfully urged Tiberius into semi-retirement in 26 A.D.?",
       "options": {
         "A": "Agrippina",
         "B": "Sejanus",
@@ -521,13 +559,14 @@
         "D": "Livia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 38,
-      "question": "Which emperor affronted the Senate by becoming the first to hold the office of censor and purging that body of some old members?",
+      "question": "N.B. Choose the best possible answer. Which emperor affronted the Senate by becoming the first to hold the office of",
       "options": {
         "A": "Augustus",
         "B": "Tiberius",
@@ -535,13 +574,14 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 39,
-      "question": "Where did Vespasian send Petilius Cerialis and Julius Frontinus to resume Rome’s conquest?",
+      "question": "N.B. Choose the best possible answer. Where did Vespasian send Petilius Cerialis and Julius Frontinus to resume Rome’s conquest?",
       "options": {
         "A": "Germany",
         "B": "Armenia",
@@ -549,13 +589,14 @@
         "D": "Syria"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 40,
-      "question": "Who was the first emperor of provincial origin?",
+      "question": "N.B. Choose the best possible answer. Who was the first emperor of provincial origin?",
       "options": {
         "A": "Vespasian",
         "B": "Trajan",
@@ -563,13 +604,14 @@
         "D": "Commodus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 41,
-      "question": "Whom did Hadrian commission to draw up an edictum perpetuum binding all present and future praetors to a set code of laws and court procedures?",
+      "question": "N.B. Choose the best possible answer. Whom did Hadrian commission to draw up an edictum perpetuum binding all",
       "options": {
         "A": "Salvius Julianus",
         "B": "Lusius Quietus",
@@ -577,13 +619,14 @@
         "D": "Annius Verus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 42,
-      "question": "Which council did Constantine summon in Bithynia in 325 A.D.?",
+      "question": "N.B. Choose the best possible answer. Which council did Constantine summon in Bithynia in 325 A.D.?",
       "options": {
         "A": "Chalcedon",
         "B": "Nicaea",
@@ -591,13 +634,14 @@
         "D": "Ancyra"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 43,
-      "question": "What emperor served as the last to rule over both the western and eastern halves of the empire?",
+      "question": "N.B. Choose the best possible answer. What emperor served as the last to rule over both the western and eastern halves",
       "options": {
         "A": "Valens",
         "B": "Honorius",
@@ -605,13 +649,14 @@
         "D": "Gratian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 44,
-      "question": "Romulus Augustulus was appointed emperor by whom?",
+      "question": "N.B. Choose the best possible answer. Romulus Augustulus was appointed emperor by whom?",
       "options": {
         "A": "the Roman people",
         "B": "his armies",
@@ -619,13 +664,14 @@
         "D": "his father"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 45,
-      "question": "When did Augustus revive the Ludi Saeculares?",
+      "question": "N.B. Choose the best possible answer. When did Augustus revive the Ludi Saeculares?",
       "options": {
         "A": "21 BC",
         "B": "19 BC",
@@ -633,13 +679,14 @@
         "D": "15 BC"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 46,
-      "question": "Who was Augustus’ first choice as successor?",
+      "question": "N.B. Choose the best possible answer. Who was Augustus’ first choice as successor?",
       "options": {
         "A": "M. Claudius Marcellus",
         "B": "M. Vipsanius Agrippa",
@@ -647,13 +694,14 @@
         "D": "Ti. Claudius Nero"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 47,
-      "question": "What Danubian officer killed Arrius Aper with his own hand and was then proclaimed emperor by his troops?",
+      "question": "N.B. Choose the best possible answer. What Danubian officer killed Arrius Aper with his own hand and was then",
       "options": {
         "A": "Diocletian",
         "B": "Numerian",
@@ -661,13 +709,14 @@
         "D": "Florianus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 48,
-      "question": "What was the name of the Armenian king who was killed by his own nephew Radamistus with some assistance from the Romans in 52?",
+      "question": "N.B. Choose the best possible answer. What was the name of the Armenian king who was killed by his own nephew",
       "options": {
         "A": "Gotarzes",
         "B": "Tiridates",
@@ -675,13 +724,14 @@
         "D": "Artabanus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 49,
-      "question": "Who taught rhetoric to Marcus Aurelius?",
+      "question": "N.B. Choose the best possible answer. Who taught rhetoric to Marcus Aurelius?",
       "options": {
         "A": "Cassiodorus",
         "B": "Quintilian",
@@ -689,13 +739,14 @@
         "D": "Fronto"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 50,
-      "question": "Under whose leadership was Mauretania divided into two imperial provinces?",
+      "question": "N.B. Choose the best possible answer. Under whose leadership was Mauretania divided into two imperial provinces?",
       "options": {
         "A": "Augustus",
         "B": "Tiberius",
@@ -703,8 +754,9 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "N.B. Choose the best possible answer.",
+      "section_context": "N.B. Choose the best possible answer.",
+      "instruction": null,
       "correct_answer": "D"
     }
   ]

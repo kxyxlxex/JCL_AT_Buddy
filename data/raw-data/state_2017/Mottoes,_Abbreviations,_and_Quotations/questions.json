@@ -19,6 +19,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -33,6 +34,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
@@ -47,6 +49,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
@@ -61,6 +64,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -75,11 +79,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 6,
-      "question": "There’s always that one guy who has to add something of nonsense, who is called ______.",
+      "question": "There’s always that one guy who has to add something of nonsense, who",
       "options": {
         "A": "vox populi",
         "B": "vox clamantis",
@@ -89,6 +94,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -103,6 +109,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -117,11 +124,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 9,
-      "question": "After the continent America was discovered, every major European country thought of it as ______.",
+      "question": "After the continent America was discovered, every major European",
       "options": {
         "A": "res nullius",
         "B": "res publica",
@@ -131,6 +139,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
@@ -145,6 +154,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -159,6 +169,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
@@ -173,6 +184,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -187,11 +199,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 14,
-      "question": "Both Rollins Colege and Angelo State University share the same Latin motto. What is it? Match the motto with the state, city, university or group.",
+      "question": "Both Rollins Colege and Angelo State University share the same Latin",
       "options": {
         "A": "Lux esto",
         "B": "Fiat lux",
@@ -201,6 +214,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -215,6 +229,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "C"
     },
     {
@@ -229,6 +244,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "B"
     },
     {
@@ -243,6 +259,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "D"
     },
     {
@@ -257,6 +274,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "B"
     },
     {
@@ -271,6 +289,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "A"
     },
     {
@@ -285,6 +304,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "D"
     },
     {
@@ -299,6 +319,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "D"
     },
     {
@@ -313,6 +334,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "C"
     },
     {
@@ -327,6 +349,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "C"
     },
     {
@@ -341,6 +364,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "B"
     },
     {
@@ -355,6 +379,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "B"
     },
     {
@@ -369,6 +394,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "D"
     },
     {
@@ -383,11 +409,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "B"
     },
     {
       "question_number": 28,
-      "question": "If someone has “r.” and dates following their name, those dates refer to the person’s ____.",
+      "question": "If someone has “r.” and dates following their name, those dates refer to",
       "options": {
         "A": "life and death",
         "B": "being famous",
@@ -397,6 +424,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "A"
     },
     {
@@ -411,6 +439,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "C"
     },
     {
@@ -425,6 +454,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "B"
     },
     {
@@ -439,6 +469,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "D"
     },
     {
@@ -453,6 +484,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "A"
     },
     {
@@ -467,6 +499,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "C"
     },
     {
@@ -481,6 +514,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "B"
     },
     {
@@ -495,6 +529,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "D"
     },
     {
@@ -509,11 +544,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "Which of the following abbreviations has nothing to do with prescriptions? Give the author attributed with the given quotation.",
+      "question": "Which of the following abbreviations has nothing to do with prescriptions?",
       "options": {
         "A": "Q.D.",
         "B": "stat.",
@@ -523,6 +559,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Match the motto with the state, city, university or group.",
       "correct_answer": "A"
     },
     {
@@ -537,6 +574,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author attributed with the given quotation.",
       "correct_answer": "C"
     },
     {
@@ -551,6 +589,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author attributed with the given quotation.",
       "correct_answer": "B"
     },
     {
@@ -565,6 +604,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author attributed with the given quotation.",
       "correct_answer": "D"
     },
     {
@@ -579,6 +619,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author attributed with the given quotation.",
       "correct_answer": "C"
     },
     {
@@ -593,6 +634,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author attributed with the given quotation.",
       "correct_answer": "C"
     },
     {
@@ -607,11 +649,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author attributed with the given quotation.",
       "correct_answer": "D"
     },
     {
       "question_number": 45,
-      "question": "Stat magni nominis umbra 46 . Lasciva est nobis pagina, vita proba.",
+      "question": "Stat magni nominis umbra",
       "options": {
         "A": "Martial",
         "B": "Ennius",
@@ -621,6 +664,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author attributed with the given quotation.",
       "correct_answer": "A"
     },
     {
@@ -635,6 +679,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author attributed with the given quotation.",
       "correct_answer": "D"
     },
     {
@@ -649,6 +694,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author attributed with the given quotation.",
       "correct_answer": "A"
     },
     {
@@ -663,6 +709,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author attributed with the given quotation.",
       "correct_answer": "A"
     },
     {
@@ -677,6 +724,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author attributed with the given quotation.",
       "correct_answer": "C"
     }
   ]

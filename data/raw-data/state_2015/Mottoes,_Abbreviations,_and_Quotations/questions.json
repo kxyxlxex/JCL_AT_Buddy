@@ -19,6 +19,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -33,6 +34,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -47,6 +49,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -61,6 +64,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "?"
     },
     {
@@ -75,6 +79,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -89,6 +94,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -103,6 +109,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -117,6 +124,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -131,6 +139,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -145,6 +154,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -159,6 +169,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -173,6 +184,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -187,6 +199,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -201,6 +214,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -215,6 +229,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -229,11 +244,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 18,
-      "question": "What do the following college mottoes have in common? Univ. of Colorado, Boston College, Smith College, West Virginia Univ.",
+      "question": "What do the following college mottoes have in common?",
       "options": {
         "A": "They contain the word “lux.”",
         "B": "They are Greek.",
@@ -243,6 +259,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -257,6 +274,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -271,6 +289,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -285,6 +304,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -299,6 +319,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -313,6 +334,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -327,11 +349,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 25,
-      "question": "Which motto has been adopted by many U.S. labor unions? Part III : Abbreviations",
+      "question": "Which motto has been adopted by many U.S. labor unions?",
       "options": {
         "A": "labor ipse voluptas",
         "B": "labor omnia vincit",
@@ -341,6 +364,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -355,6 +379,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -369,6 +394,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -383,6 +409,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -397,6 +424,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -411,6 +439,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -425,6 +454,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -439,6 +469,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -453,6 +484,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -467,6 +499,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -481,6 +514,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -495,6 +529,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -509,6 +544,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -523,6 +559,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -537,11 +574,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 40,
-      "question": "What is the meaning of “ft”? Part IV: Quotations Give the author of the quotation.",
+      "question": "What is the meaning of “ft”?",
       "options": {
         "A": "he made",
         "B": "she will make",
@@ -551,6 +589,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -565,6 +604,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author of the quotation.",
       "correct_answer": "B"
     },
     {
@@ -579,6 +619,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author of the quotation.",
       "correct_answer": "C"
     },
     {
@@ -593,6 +634,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author of the quotation.",
       "correct_answer": "A"
     },
     {
@@ -607,6 +649,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author of the quotation.",
       "correct_answer": "C"
     },
     {
@@ -621,6 +664,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author of the quotation.",
       "correct_answer": "B"
     },
     {
@@ -635,6 +679,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author of the quotation.",
       "correct_answer": "C"
     },
     {
@@ -649,6 +694,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author of the quotation.",
       "correct_answer": "C"
     },
     {
@@ -663,6 +709,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author of the quotation.",
       "correct_answer": "B"
     },
     {
@@ -677,6 +724,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author of the quotation.",
       "correct_answer": "D"
     },
     {
@@ -691,6 +739,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Give the author of the quotation.",
       "correct_answer": "B"
     }
   ]

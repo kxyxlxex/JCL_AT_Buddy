@@ -4,7 +4,10 @@
     "year": "state_2013",
     "subject": "Derivatives_II",
     "total_questions": 43,
-    "sections": []
+    "sections": [
+      "given word.",
+      "*Part III. For each of these questions, select the Latin word that is at the root of each given English"
+    ]
   },
   "questions": [
     {
@@ -19,6 +22,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part I. Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": "B"
     },
     {
@@ -33,6 +37,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part I. Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": "A"
     },
     {
@@ -47,6 +52,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part I. Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": "D"
     },
     {
@@ -61,6 +67,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part I. Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": "C"
     },
     {
@@ -75,6 +82,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part I. Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": "C"
     },
     {
@@ -89,6 +97,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part I. Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": "D"
     },
     {
@@ -103,6 +112,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part I. Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": "B"
     },
     {
@@ -117,6 +127,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part I. Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": "A"
     },
     {
@@ -131,11 +142,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part I. Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": "B"
     },
     {
       "question_number": 10,
-      "question": "The earthquake created undulations on the earth's surface that made the buildings very unsteady. Part II. For each of these questions, select the English word that is derived from the given Latin word.",
+      "question": "The earthquake created undulations on the earth's surface that made the buildings very unsteady.",
       "options": {
         "A": "explosions",
         "B": "burning",
@@ -145,6 +157,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part I. Give the best meaning of each English word based on its Latin derivation.",
       "correct_answer": "D"
     },
     {
@@ -159,6 +172,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "C"
     },
     {
@@ -173,6 +187,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "A"
     },
     {
@@ -187,6 +202,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "B"
     },
     {
@@ -201,6 +217,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "A"
     },
     {
@@ -215,6 +232,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "D"
     },
     {
@@ -229,6 +247,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "B"
     },
     {
@@ -243,6 +262,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "A"
     },
     {
@@ -257,6 +277,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "A"
     },
     {
@@ -271,11 +292,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "B"
     },
     {
       "question_number": 22,
-      "question": "postulate",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English postulate",
       "options": {
         "A": "possum",
         "B": "posco",
@@ -283,13 +305,14 @@
         "D": "peto"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "B"
     },
     {
       "question_number": 23,
-      "question": "obsolete",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English obsolete",
       "options": {
         "A": "solvo",
         "B": "somnus",
@@ -297,13 +320,14 @@
         "D": "soleo"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "D"
     },
     {
       "question_number": 24,
-      "question": "chateau",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English chateau",
       "options": {
         "A": "capio",
         "B": "casa",
@@ -311,13 +335,14 @@
         "D": "catena"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "C"
     },
     {
       "question_number": 25,
-      "question": "celestial",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English celestial",
       "options": {
         "A": "cilium",
         "B": "celo",
@@ -325,13 +350,14 @@
         "D": "caelum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "D"
     },
     {
       "question_number": 26,
-      "question": "society",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English society",
       "options": {
         "A": "socius",
         "B": "sacer",
@@ -339,13 +365,14 @@
         "D": "somnus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "A"
     },
     {
       "question_number": 27,
-      "question": "troublesome",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English troublesome",
       "options": {
         "A": "terreo",
         "B": "traho",
@@ -353,13 +380,14 @@
         "D": "tremo"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "C"
     },
     {
       "question_number": 28,
-      "question": "piano",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English piano",
       "options": {
         "A": "placeo",
         "B": "plenus",
@@ -367,13 +395,14 @@
         "D": "planus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "D"
     },
     {
       "question_number": 29,
-      "question": "enjoy",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English enjoy",
       "options": {
         "A": "gero",
         "B": "iungo",
@@ -381,13 +410,14 @@
         "D": "gaudeo"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "D"
     },
     {
       "question_number": 30,
-      "question": "unconscious Part IV. Give the MEANING of the Latin word at the root of each English word.",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English unconscious",
       "options": {
         "A": "censeo",
         "B": "nosco",
@@ -395,13 +425,14 @@
         "D": "scelus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part II. For each of these questions, select the English word that is derived from the given Latin word.",
       "correct_answer": "C"
     },
     {
       "question_number": 31,
-      "question": "regulate",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English regulate",
       "options": {
         "A": "to rule",
         "B": "to measure",
@@ -409,13 +440,14 @@
         "D": "to lead"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "A"
     },
     {
       "question_number": 32,
-      "question": "perjure",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English perjure",
       "options": {
         "A": "lie",
         "B": "order",
@@ -423,13 +455,14 @@
         "D": "speak"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "C"
     },
     {
       "question_number": 33,
-      "question": "convince",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English convince",
       "options": {
         "A": "obey",
         "B": "conquer",
@@ -437,13 +470,14 @@
         "D": "twist"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "B"
     },
     {
       "question_number": 34,
-      "question": "universal",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English universal",
       "options": {
         "A": "overcome",
         "B": "oppose",
@@ -451,13 +485,14 @@
         "D": "turn"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "D"
     },
     {
       "question_number": 35,
-      "question": "obsequeous",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English obsequeous",
       "options": {
         "A": "write",
         "B": "teach",
@@ -465,13 +500,14 @@
         "D": "follow"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "D"
     },
     {
       "question_number": 36,
-      "question": "claim",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English claim",
       "options": {
         "A": "shout",
         "B": "clash",
@@ -479,13 +515,14 @@
         "D": "take"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "A"
     },
     {
       "question_number": 37,
-      "question": "mess",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English mess",
       "options": {
         "A": "eat",
         "B": "send",
@@ -493,13 +530,14 @@
         "D": "scatter"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "B"
     },
     {
       "question_number": 38,
-      "question": "attain",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English attain",
       "options": {
         "A": "law",
         "B": "honor",
@@ -507,13 +545,14 @@
         "D": "hold"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "C"
     },
     {
       "question_number": 39,
-      "question": "savage",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English savage",
       "options": {
         "A": "woods",
         "B": "fierce",
@@ -521,13 +560,14 @@
         "D": "safe"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "A"
     },
     {
       "question_number": 40,
-      "question": "adieu Part V. For each of the following questions, select the word that does NOT have the same derivation as the others.",
+      "question": "*Part III. For each of these questions, select the Latin word that is at the root of each given English adieu",
       "options": {
         "A": "arrive",
         "B": "hear",
@@ -535,13 +575,14 @@
         "D": "god"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "section_context": "*Part III. For each of these questions, select the Latin word that is at the root of each given English",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "D"
     },
     {
       "question_number": 46,
-      "question": "efficient",
+      "question": "given word. efficient",
       "options": {
         "A": "facet",
         "B": "effigy",
@@ -549,13 +590,14 @@
         "D": "affix"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "given word.",
+      "section_context": "given word.",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "A"
     },
     {
       "question_number": 47,
-      "question": "lettuce",
+      "question": "given word. lettuce",
       "options": {
         "A": "lactic",
         "B": "lackluster",
@@ -563,13 +605,14 @@
         "D": "deluge"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "given word.",
+      "section_context": "given word.",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "A"
     },
     {
       "question_number": 48,
-      "question": "cook",
+      "question": "given word. cook",
       "options": {
         "A": "biscuit",
         "B": "comb",
@@ -577,13 +620,14 @@
         "D": "charcoal"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "given word.",
+      "section_context": "given word.",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "A"
     },
     {
       "question_number": 49,
-      "question": "noun",
+      "question": "given word. noun",
       "options": {
         "A": "novelty",
         "B": "agnostic",
@@ -591,13 +635,14 @@
         "D": "noble"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "given word.",
+      "section_context": "given word.",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "C"
     },
     {
       "question_number": 50,
-      "question": "amorous",
+      "question": "given word. amorous",
       "options": {
         "A": "ambulance",
         "B": "amiable",
@@ -605,8 +650,9 @@
         "D": "amenity"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "given word.",
+      "section_context": "given word.",
+      "instruction": "Part IV. Give the MEANING of the Latin word at the root of each English word.",
       "correct_answer": "B"
     }
   ]

@@ -9,7 +9,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Who was Octavian’s right-hand man throughout his life, the commander of the fleet at Actium?",
+      "question": "Who was Octavian’s right-hand man throughout his life, the commander of the",
       "options": {
         "A": "Marc Antony",
         "B": "Marcus Lepidus",
@@ -19,6 +19,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -33,6 +34,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -47,6 +49,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -61,6 +64,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -75,6 +79,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -89,6 +94,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -103,11 +109,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 8,
-      "question": "What religious counselor to Numa Pompilius has been associated with the Greek goddess of childbirth, Eileithyia?",
+      "question": "What religious counselor to Numa Pompilius has been associated with the Greek",
       "options": {
         "A": "Livia",
         "B": "Hersilia",
@@ -117,11 +124,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 9,
-      "question": "In the mid-5th century, a Roman commission was sent to Greece to study the laws of what Athenian?",
+      "question": "In the mid-5th century, a Roman commission was sent to Greece to study the",
       "options": {
         "A": "Solon",
         "B": "Draco",
@@ -131,6 +139,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -145,6 +154,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -159,6 +169,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -173,6 +184,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -187,6 +199,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -201,11 +214,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 15,
-      "question": "What consul proposed the Lex Pompeia which granted citizenship to all free persons living in Cisalpine Gaul south of the Po?",
+      "question": "What consul proposed the Lex Pompeia which granted citizenship to all free",
       "options": {
         "A": "Silvanus",
         "B": "Strabo",
@@ -215,6 +229,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -229,6 +244,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -243,6 +259,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -257,6 +274,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -271,6 +289,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -285,6 +304,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -299,6 +319,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -313,6 +334,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -327,6 +349,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -341,6 +364,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -355,11 +379,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 27,
-      "question": "What king of Numidia greedily seized most of the Carthaginian coastal colonies around 155?",
+      "question": "What king of Numidia greedily seized most of the Carthaginian coastal colonies",
       "options": {
         "A": "Jugurtha",
         "B": "Masinissa",
@@ -369,6 +394,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -383,6 +409,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -397,6 +424,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -411,6 +439,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -425,6 +454,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -439,6 +469,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -453,6 +484,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -467,6 +499,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -481,11 +514,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 36,
-      "question": "Who steadfastly demanded, ”Carthago delenda est,” at the end of each speech he gave in the Senate?",
+      "question": "Who steadfastly demanded, ”Carthago delenda est,” at the end of each speech",
       "options": {
         "A": "Scipio",
         "B": "Cato",
@@ -495,6 +529,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -509,6 +544,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -523,6 +559,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -537,6 +574,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -551,6 +589,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -565,6 +604,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -579,6 +619,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -593,6 +634,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -607,6 +649,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -621,11 +664,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 46,
-      "question": "Queen Teuta of Illyria encouraged what group of people to defy Rome and kill Roman envoys?",
+      "question": "Queen Teuta of Illyria encouraged what group of people to defy Rome and kill",
       "options": {
         "A": "slaves",
         "B": "farmers",
@@ -635,6 +679,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -649,6 +694,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -663,11 +709,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 49,
-      "question": "What Vestal Virgin allowed the Sabines into Rome and whose name was applied to a notorious place for punishment?",
+      "question": "What Vestal Virgin allowed the Sabines into Rome and whose name was applied to",
       "options": {
         "A": "Tarpeia",
         "B": "Lucretia",
@@ -677,6 +724,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -691,6 +739,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     }
   ]

@@ -19,6 +19,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -33,6 +34,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -47,6 +49,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -61,11 +64,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 5,
-      "question": "The city of Salonae, modern Split in Croatia, was located in ancient _________. N.B. Questions 6-10 pertain to ancient places and their modern equivalents",
+      "question": "The city of Salonae, modern Split in Croatia, was located in ancient _________.",
       "options": {
         "A": "Dalmatia",
         "B": "Moesia",
@@ -75,6 +79,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -89,6 +94,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -103,6 +109,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -117,6 +124,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -131,11 +139,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 10,
-      "question": "The ancient city of Oea was located in modern _________. N.B. Questions 11-15 pertain to directional geography",
+      "question": "The ancient city of Oea was located in modern _________.",
       "options": {
         "A": "Libya",
         "B": "Portugal",
@@ -145,6 +154,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -159,6 +169,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -173,6 +184,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -187,11 +199,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 14,
-      "question": "In which direction would you travel in the city of Rome to go from the Baths of Diocletian to the Baths of Caracalla?",
+      "question": "In which direction would you travel in the city of Rome to go from the Baths of Diocletian to the",
       "options": {
         "A": "North",
         "B": "South",
@@ -201,11 +214,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 15,
-      "question": "Which sequence is correct in the Roman Forum from West to East: N.B. Questions 16-20 pertain to provinces of the Roman Empire",
+      "question": "Which sequence is correct in the Roman Forum from West to East:",
       "options": {
         "A": "Arch of Septimius Severus, Regia, Curia",
         "B": "Curia, Temple of Antoninus & Faustina, Arch of Titus",
@@ -215,6 +229,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -229,6 +244,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -243,6 +259,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -257,6 +274,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -271,11 +289,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 20,
-      "question": "The provinces of Syria and Assyria both bordered which province? N.B. Questions 21-30 map of Roman Empire (Map 1)",
+      "question": "The provinces of Syria and Assyria both bordered which province?",
       "options": {
         "A": "Cappadocia",
         "B": "Mesopotamia",
@@ -285,6 +304,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -299,6 +319,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -313,6 +334,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -327,6 +349,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -341,6 +364,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -355,6 +379,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -369,6 +394,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -383,6 +409,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -397,6 +424,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -411,6 +439,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -425,6 +454,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -439,6 +469,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -453,6 +484,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -467,6 +499,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -481,6 +514,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -495,11 +529,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 50,
-      "question": "Pantheon Map 1 (for questions 21-30) Map 2 (for questions 31-40) Map 3 (for questions 41-50)",
+      "question": "Pantheon",
       "options": {
         "A": "35",
         "B": "10",
@@ -508,6 +543,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     }
   ]

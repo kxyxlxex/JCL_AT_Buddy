@@ -4,7 +4,9 @@
     "year": "state_2010",
     "subject": "History_of_the_Monarchy_and_Republic",
     "total_questions": 42,
-    "sections": []
+    "sections": [
+      "Italian social cause?"
+    ]
   },
   "questions": [
     {
@@ -19,11 +21,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 2,
-      "question": "Who so impressed the Falerii in 394 BC by his handling of a treacherous teacher that they surrendered immediately to Rome?",
+      "question": "Who so impressed the Falerii in 394 BC by his handling of a treacherous teacher that they",
       "options": {
         "A": "M. Furius Camillus",
         "B": "L. Cornelius Scipio",
@@ -33,6 +36,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -47,6 +51,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -61,6 +66,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -75,6 +81,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -89,6 +96,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -103,6 +111,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -117,6 +126,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -131,6 +141,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -145,11 +156,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 15,
-      "question": "During the beginning of the Republic, who destroyed his palatial house so that he would not be compared to L. Tarquinius Superbus?",
+      "question": "During the beginning of the Republic, who destroyed his palatial house so that he would not be",
       "options": {
         "A": "L. Tarquinius Collatinus",
         "B": "L. Iunius Brutus",
@@ -159,6 +171,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -173,11 +186,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 17,
-      "question": "After the death of Alexander the Great, the Asiatic portion of his empire, including Syria, Babylonia, and the Eastern regions fell under whose control?",
+      "question": "After the death of Alexander the Great, the Asiatic portion of his empire, including Syria, Babylonia,",
       "options": {
         "A": "Antiochus",
         "B": "Ptolemy",
@@ -187,6 +201,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -201,6 +216,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -215,6 +231,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -229,6 +246,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -243,11 +261,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 22,
-      "question": "Who was indicted on a charge that he had encouraged M. Livius Drusus in his sympathy for the Italian social cause?",
+      "question": "Who was indicted on a charge that he had encouraged M. Livius Drusus in his sympathy for the",
       "options": {
         "A": "Q. Servilius Caepio",
         "B": "P. Rutilius Rufus",
@@ -257,11 +276,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 23,
-      "question": "What city was the capital of the Italians during the Social War?",
+      "question": "Italian social cause? What city was the capital of the Italians during the Social War?",
       "options": {
         "A": "Mutina",
         "B": "Ravenna",
@@ -269,13 +289,14 @@
         "D": "Sentinum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 24,
-      "question": "In 77 BC, who was in control of Spain?",
+      "question": "Italian social cause? In 77 BC, who was in control of Spain?",
       "options": {
         "A": "Q. Sertorius",
         "B": "Cn. Pompeius Strabo Magnus",
@@ -283,13 +304,14 @@
         "D": "L. Licinius Lucullus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 25,
-      "question": "Crassus planned in 53 to travel along the Euphrates River to what capital of Parthia?",
+      "question": "Italian social cause? Crassus planned in 53 to travel along the Euphrates River to what capital of Parthia?",
       "options": {
         "A": "Seleucia",
         "B": "Babylon",
@@ -297,13 +319,14 @@
         "D": "Edessa"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 26,
-      "question": "In 45 BC, ironically on March 15, at what battle was Caesar victorious?",
+      "question": "Italian social cause? In 45 BC, ironically on March 15, at what battle was Caesar victorious?",
       "options": {
         "A": "Alexandria",
         "B": "Munda",
@@ -311,13 +334,14 @@
         "D": "Utica"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 27,
-      "question": "Demaratus, the father of the Roman king L. Tarquinius Priscus, originally came from what city?",
+      "question": "Italian social cause? Demaratus, the father of the Roman king L. Tarquinius Priscus, originally came from what city?",
       "options": {
         "A": "Troy",
         "B": "Alba Longa",
@@ -325,13 +349,14 @@
         "D": "Elis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 28,
-      "question": "The battle won at what site ended the hope of L. Tarquinius Superbus' restoration as king of Rome?",
+      "question": "Italian social cause? The battle won at what site ended the hope of L. Tarquinius Superbus' restoration as king of Rome?",
       "options": {
         "A": "Pons Sublicius",
         "B": "Lake Regillus",
@@ -339,13 +364,14 @@
         "D": "Corioli"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 29,
-      "question": "In 350 BC, who were the only two peoples who represented dangers to Rome?",
+      "question": "Italian social cause? In 350 BC, who were the only two peoples who represented dangers to Rome?",
       "options": {
         "A": "Etruscans and Germans",
         "B": "Syracusans and Carthaginians",
@@ -353,13 +379,14 @@
         "D": "Macedonians and Epirotes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 30,
-      "question": "After the Roman victory at Sentinum in 295 BC, what tribe took no further part in the Samnite Wars?",
+      "question": "Italian social cause? After the Roman victory at Sentinum in 295 BC, what tribe took no further part in the Samnite Wars?",
       "options": {
         "A": "Hispanians",
         "B": "Gauls",
@@ -367,13 +394,14 @@
         "D": "Carthaginians"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 32,
-      "question": "What city never fell during wars against both Pyrrhus and Rome, but was ceded to Rome as a provision of the peace treaty at the end of the First Punic War?",
+      "question": "Italian social cause? What city never fell during wars against both Pyrrhus and Rome, but was ceded to Rome as a",
       "options": {
         "A": "Agrigentum",
         "B": "Lilybaeum",
@@ -381,13 +409,14 @@
         "D": "Panormus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 33,
-      "question": "In 197 BC, after succeeding his father Attalus of Pergamum, who begged Flamininus to order Antiochus out of Asia Minor?",
+      "question": "Italian social cause? In 197 BC, after succeeding his father Attalus of Pergamum, who begged Flamininus to order",
       "options": {
         "A": "Attalus II",
         "B": "Eumenes II",
@@ -395,13 +424,14 @@
         "D": "Ptolemy II"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 34,
-      "question": "What leader was finally defeated in 148 BC by Q. Caecilius Metellus to end the Fourth Macedonian War?",
+      "question": "Italian social cause? What leader was finally defeated in 148 BC by Q. Caecilius Metellus to end the Fourth Macedonian War?",
       "options": {
         "A": "Andriscus",
         "B": "Demetrius Soter",
@@ -409,13 +439,14 @@
         "D": "Syphax"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 37,
-      "question": "What city in 125 BC complained about the Gauls to Rome who then sent M. Fulvius Flaccus?",
+      "question": "Italian social cause? What city in 125 BC complained about the Gauls to Rome who then sent M. Fulvius Flaccus?",
       "options": {
         "A": "Aquae Sextiae",
         "B": "Verona",
@@ -423,13 +454,14 @@
         "D": "Massilia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 38,
-      "question": "Which of these events in the life of Clodius happened in 62 BC?",
+      "question": "Italian social cause? Which of these events in the life of Clodius happened in 62 BC?",
       "options": {
         "A": "He ran for the office of tribunus plebis",
         "B": "He violated the rites of the Bona Dea festival",
@@ -437,13 +469,14 @@
         "D": "He was kidnapped by Cilician pirates"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 39,
-      "question": "Pompey the Great was murdered in Egypt due to the influence of which minister of Ptolemy XIII?",
+      "question": "Italian social cause? Pompey the Great was murdered in Egypt due to the influence of which minister of Ptolemy XIII?",
       "options": {
         "A": "Pothinus",
         "B": "Lysimachus",
@@ -451,13 +484,14 @@
         "D": "Cyrus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 41,
-      "question": "The Samnites were able to focus their full attention on Rome after the defeat of what other enemy in 326 BC?",
+      "question": "Italian social cause? The Samnites were able to focus their full attention on Rome after the defeat of what other enemy",
       "options": {
         "A": "Alexander of Epirus",
         "B": "Philip II of Macedon",
@@ -465,13 +499,14 @@
         "D": "Pyrrhus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 42,
-      "question": "After his victory at Heraclea, what ambassador and friend did Pyrrhus send to negotiate a peace settlement?",
+      "question": "Italian social cause? After his victory at Heraclea, what ambassador and friend did Pyrrhus send to negotiate a peace settlement?",
       "options": {
         "A": "Cineas",
         "B": "Agathocles",
@@ -479,13 +514,14 @@
         "D": "Phineas"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 43,
-      "question": "After the First Illyrian War, what Greek island did Rome take possession of?",
+      "question": "Italian social cause? After the First Illyrian War, what Greek island did Rome take possession of?",
       "options": {
         "A": "Leucas",
         "B": "Ithaca",
@@ -493,13 +529,14 @@
         "D": "Zacynthos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 44,
-      "question": "What city reneged on an alliance with Rome after it was weakened by the Gauls in 390 BC before being pacified and defeated by Cincinnatus?",
+      "question": "Italian social cause? What city reneged on an alliance with Rome after it was weakened by the Gauls in 390 BC before",
       "options": {
         "A": "Praeneste",
         "B": "Corioli",
@@ -507,13 +544,14 @@
         "D": "Arpinum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 45,
-      "question": "Where did Hannibal retire to for 4 years before he returned to Carthage in 203 BC?",
+      "question": "Italian social cause? Where did Hannibal retire to for 4 years before he returned to Carthage in 203 BC?",
       "options": {
         "A": "Apulia",
         "B": "Bruttium",
@@ -521,13 +559,14 @@
         "D": "Lucania"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 46,
-      "question": "In terms of numbers killed, what was the worst non-Civil War defeat in Roman history?",
+      "question": "Italian social cause? In terms of numbers killed, what was the worst non-Civil War defeat in Roman history?",
       "options": {
         "A": "Caudine Forks",
         "B": "Cannae",
@@ -535,13 +574,14 @@
         "D": "Arausio"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 47,
-      "question": "Who, resenting the small war bonus he was given because of his avarice, tried to block L. Aemilius Paullus' triumph in 167 BC?",
+      "question": "Italian social cause? Who, resenting the small war bonus he was given because of his avarice, tried to block L. Aemilius",
       "options": {
         "A": "M. Porcius Cato",
         "B": "P. Cornelius Scipio Aemilianus",
@@ -549,13 +589,14 @@
         "D": "Cn. Servilius Caepio"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 48,
-      "question": "What law(s) opened the consulship to the plebeians in 367 BC?",
+      "question": "Italian social cause? What law(s) opened the consulship to the plebeians in 367 BC?",
       "options": {
         "A": "Lex Villia Annalis",
         "B": "Lex Porcia",
@@ -563,13 +604,14 @@
         "D": "Leges Liciniae Sextiae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 49,
-      "question": "Spartacus made an agreement with Cilician pirates to do which of these? C. Iulius Caesar",
+      "question": "Italian social cause? Spartacus made an agreement with Cilician pirates to do which of these?",
       "options": {
         "A": "assassinate M. Licinius Crassus",
         "B": "hinder the advancement of Cn. Pompeius Strabo Magnus",
@@ -577,13 +619,14 @@
         "D": "kidnap"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 50,
-      "question": "Caesarian forces under Curio were defeated in 49 BC by Pompeians led by whom?",
+      "question": "Italian social cause? Caesarian forces under Curio were defeated in 49 BC by Pompeians led by whom?",
       "options": {
         "A": "Hiempsal II",
         "B": "Juba",
@@ -591,8 +634,9 @@
         "D": "Tacfarinas"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Italian social cause?",
+      "section_context": "Italian social cause?",
+      "instruction": null,
       "correct_answer": "C"
     }
   ]

@@ -4,7 +4,11 @@
     "year": "state_2014",
     "subject": "History_of_the_Monarchy_and_Republic",
     "total_questions": 50,
-    "sections": []
+    "sections": [
+      "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "Syracuse repulse Roman attacks?",
+      "They knew to do this because who had heard the honking of Juno’s geese?"
+    ]
   },
   "questions": [
     {
@@ -19,6 +23,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -33,6 +38,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -47,11 +53,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 4,
-      "question": "During the Battle of Vesuvius in 340, which Roman commander executed his own son for refusing to follow orders?",
+      "question": "During the Battle of Vesuvius in 340, which Roman commander executed his own",
       "options": {
         "A": "Publius Decius Mus",
         "B": "Marcus Valerius Corvus",
@@ -61,6 +68,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -75,11 +83,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 6,
-      "question": "According to some sources, Rome’s sixth king, Servius Tullius, was actually an Etruscan mercenary named ______________?",
+      "question": "According to some sources, Rome’s sixth king, Servius Tullius, was actually an",
       "options": {
         "A": "Pyrrhus",
         "B": "Mastarna",
@@ -89,11 +98,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 7,
-      "question": "What engineering feat—used first at the Battle of Mylae—aided Rome’s navy during the First Punic War?",
+      "question": "What engineering feat—used first at the Battle of Mylae—aided Rome’s navy",
       "options": {
         "A": "the lorica segmentata",
         "B": "the corvus",
@@ -103,6 +113,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -117,6 +128,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -131,6 +143,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -145,6 +158,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -159,11 +173,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 12,
-      "question": "Which king of Rome is credited for settling an entire town—Palitorium—on the Aventine Hill?",
+      "question": "Which king of Rome is credited for settling an entire town—Palitorium—on the",
       "options": {
         "A": "Numa",
         "B": "Romulus",
@@ -173,6 +188,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -187,6 +203,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -201,11 +218,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 15,
-      "question": "Which of Caesar’s trusted lieutenants abandoned him right before crossing the Rubicon so that he could bring warning to Rome?",
+      "question": "Which of Caesar’s trusted lieutenants abandoned him right before crossing the",
       "options": {
         "A": "Maecenas",
         "B": "Publilius Sulla",
@@ -215,6 +233,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -229,11 +248,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 17,
-      "question": "Who was the Vestal Virgin who let invading Sabines into Rome for mere bracelets—and was summarily trampled by the Sabines as they entered?",
+      "question": "Who was the Vestal Virgin who let invading Sabines into Rome for mere",
       "options": {
         "A": "Cloelia",
         "B": "Tullia",
@@ -243,11 +263,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 18,
-      "question": "After exiling himself, Hannibal aided which Seleucid king in his preparations for war on Rome?",
+      "question": "After exiling himself, Hannibal aided which Seleucid king in his preparations for",
       "options": {
         "A": "Mithridates IV",
         "B": "Mausoleus I",
@@ -257,11 +278,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 19,
-      "question": "Cincinnatus’ son, ___________, was put on trial for murder, absconded on bail, and left his father to pay an exorbitant fine.",
+      "question": "Cincinnatus’ son, ___________, was put on trial for murder, absconded on bail,",
       "options": {
         "A": "Quartus",
         "B": "Tiberius",
@@ -271,6 +293,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -285,6 +308,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -299,11 +323,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 22,
-      "question": "Before which battle in 45 B.C. did the omen of a palm shoot sprouting overnight convince Caesar to adopt Octavian as his heir?",
+      "question": "Before which battle in 45 B.C. did the omen of a palm shoot sprouting overnight",
       "options": {
         "A": "Munda",
         "B": "Thapsus",
@@ -313,11 +338,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 23,
-      "question": "The rape of which woman ignited the war against Tarquin the Proud and led to the installation of the Roman Republic?",
+      "question": "The rape of which woman ignited the war against Tarquin the Proud and led to",
       "options": {
         "A": "Cloelia",
         "B": "Camilla",
@@ -327,11 +353,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 24,
-      "question": "At the Battle of Silva Arsia, Lucius Junius Brutus simultaneously died while locked in combat with which son of Tarquin the Proud?",
+      "question": "At the Battle of Silva Arsia, Lucius Junius Brutus simultaneously died while",
       "options": {
         "A": "Sextus",
         "B": "Aruns",
@@ -341,11 +368,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 25,
-      "question": "During the 2nd Punic War, what Greek scientist/mathematician helped his native Syracuse repulse Roman attacks?",
+      "question": "During the 2nd Punic War, what Greek scientist/mathematician helped his native",
       "options": {
         "A": "Pythagoras",
         "B": "Diogenes",
@@ -355,11 +383,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 26,
-      "question": "Which law authorized Pompey’s command against Mithradates VI?",
+      "question": "Syracuse repulse Roman attacks? Which law authorized Pompey’s command against Mithradates VI?",
       "options": {
         "A": "Manilia",
         "B": "Valeria",
@@ -367,13 +396,14 @@
         "D": "Iulia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Syracuse repulse Roman attacks?",
+      "section_context": "Syracuse repulse Roman attacks?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 27,
-      "question": "Who was Romulus’ Sabine wife?",
+      "question": "Syracuse repulse Roman attacks? Who was Romulus’ Sabine wife?",
       "options": {
         "A": "Volumnia",
         "B": "Egeria",
@@ -381,13 +411,14 @@
         "D": "Hersilia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Syracuse repulse Roman attacks?",
+      "section_context": "Syracuse repulse Roman attacks?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 28,
-      "question": "In 222, Marcus Claudius Marcellus defeated which Gallic chieftain to receive that last Spolia Opima?",
+      "question": "Syracuse repulse Roman attacks? In 222, Marcus Claudius Marcellus defeated which Gallic chieftain to receive",
       "options": {
         "A": "Mago",
         "B": "Lar Tolumnius",
@@ -395,13 +426,14 @@
         "D": "Acro"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Syracuse repulse Roman attacks?",
+      "section_context": "Syracuse repulse Roman attacks?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 29,
-      "question": "Which of the following DID NOT occur during the course of 63?",
+      "question": "Syracuse repulse Roman attacks? Which of the following DID NOT occur during the course of 63?",
       "options": {
         "A": "Octavian born",
         "B": "Caesar is Pontifex Maximus",
@@ -409,13 +441,14 @@
         "D": "Pompey defeats Mithridates"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Syracuse repulse Roman attacks?",
+      "section_context": "Syracuse repulse Roman attacks?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 30,
-      "question": "Who defeated an advancing army of Boii near Lake Vadimo in 283?",
+      "question": "Syracuse repulse Roman attacks? Who defeated an advancing army of Boii near Lake Vadimo in 283?",
       "options": {
         "A": "Dollabella",
         "B": "Dentatus",
@@ -423,13 +456,14 @@
         "D": "Rullianus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Syracuse repulse Roman attacks?",
+      "section_context": "Syracuse repulse Roman attacks?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 31,
-      "question": "After which battle in 216 B.C. did Hannibal’s cavalry commander, Maharbal, remark, “You, Hannibal, know how to gain a victory; you do not know how to use it?\"",
+      "question": "Syracuse repulse Roman attacks? After which battle in 216 B.C. did Hannibal’s cavalry commander, Maharbal, it?\"",
       "options": {
         "A": "Cannae",
         "B": "Lake Trasimene",
@@ -437,13 +471,14 @@
         "D": "Trebia River"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "Syracuse repulse Roman attacks?",
+      "section_context": "Syracuse repulse Roman attacks?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 32,
-      "question": "Clodius Pulcher had a vendetta against Cicero following the orator’s use of power in the Catilinarian Conspiracy. Who physically protected Cicero from Pulcher’s gang of thugs?",
+      "question": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use Clodius Pulcher had a vendetta against Cicero following the orator’s use of",
       "options": {
         "A": "Atticus",
         "B": "Milo",
@@ -451,13 +486,14 @@
         "D": "Tamphilus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "section_context": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 33,
-      "question": "Which king’s run-in with the Sibyl of Cumae resulted in obtaining only three of the nine Sibylline Books?",
+      "question": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use Which king’s run-in with the Sibyl of Cumae resulted in obtaining only three of",
       "options": {
         "A": "Tullus Hostilius",
         "B": "Servius Tullius",
@@ -465,13 +501,14 @@
         "D": "Tarquinius Superbus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "section_context": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 34,
-      "question": "What mythological characters are said to have fought for Rome at the Battle of Lake Regillus?",
+      "question": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use What mythological characters are said to have fought for Rome at the Battle of",
       "options": {
         "A": "Apollo & Neptune",
         "B": "Achilles & Ajax",
@@ -479,13 +516,14 @@
         "D": "Hercules & Iolaus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "section_context": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 35,
-      "question": "Caesar’s second invasion of Britain was primarily spent subduing which warlord from north of the Thames?",
+      "question": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use Caesar’s second invasion of Britain was primarily spent subduing which warlord",
       "options": {
         "A": "Ariovistus",
         "B": "Orgetorix",
@@ -493,13 +531,14 @@
         "D": "Cassivellaunus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "section_context": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 36,
-      "question": "At the end of the 3rd Punic War, which city became the capital of the new Roman province of Africa?",
+      "question": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use At the end of the 3rd Punic War, which city became the capital of the new",
       "options": {
         "A": "Utica",
         "B": "Clupea",
@@ -507,13 +546,14 @@
         "D": "Alexandria"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "section_context": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 37,
-      "question": "When the Celts invaded Rome in 390, the Romans took shelter in the citadel. They knew to do this because who had heard the honking of Juno’s geese?",
+      "question": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use When the Celts invaded Rome in 390, the Romans took shelter in the citadel.",
       "options": {
         "A": "Marcus Camillus",
         "B": "Herennius Pointius",
@@ -521,13 +561,14 @@
         "D": "Manlius Capitolinus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "section_context": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 38,
-      "question": "At what battle of the Third Samnite War did another Publius Decius Mus perform his devotio?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? At what battle of the Third Samnite War did another Publius Decius Mus",
       "options": {
         "A": "Vesuvius",
         "B": "Lautulae",
@@ -535,13 +576,14 @@
         "D": "Antium"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 39,
-      "question": "What Carthaginian leader, against Hamilcar’s advice, advocated abandonment of the 1st Punic War (he also did the same during the 2nd Punic War!)?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? What Carthaginian leader, against Hamilcar’s advice, advocated abandonment",
       "options": {
         "A": "Hanno",
         "B": "Hasdrubal",
@@ -549,13 +591,14 @@
         "D": "Timoleon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 40,
-      "question": "What Consul was granted power under the first senatus consultum ultimum to go after the followers of C. Gracchus in 121?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? What Consul was granted power under the first senatus consultum ultimum to",
       "options": {
         "A": "M. Octavius",
         "B": "L. Opimius",
@@ -563,13 +606,14 @@
         "D": "Cn. Flavius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 41,
-      "question": "Who was the offspring of the union between Julius Caesar and Cleopatra?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? Who was the offspring of the union between Julius Caesar and Cleopatra?",
       "options": {
         "A": "Ptolemy VII",
         "B": "Octavian",
@@ -577,13 +621,14 @@
         "D": "Cleopatros"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 42,
-      "question": "Which of the following DID NOT happen in 133?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? Which of the following DID NOT happen in 133?",
       "options": {
         "A": "defeat of Carthage",
         "B": "Attalus III gave his kingdom to Rome",
@@ -591,13 +636,14 @@
         "D": "Tiberius Gracchus becomes tribune"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 43,
-      "question": "After Cannae, which king of Macedon allied himself with Hannibal, thus igniting the concurrent First Macedonian War?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? After Cannae, which king of Macedon allied himself with Hannibal, thus igniting",
       "options": {
         "A": "Eumenides",
         "B": "Pyrrhus",
@@ -605,13 +651,14 @@
         "D": "Philip V"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 44,
-      "question": "Of the following, which WAS NOT a tribe whom Camillus was elected dictator to defeat?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? Of the following, which WAS NOT a tribe whom Camillus was elected dictator to defeat?",
       "options": {
         "A": "Senones",
         "B": "Iceni",
@@ -619,13 +666,14 @@
         "D": "Aequii"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 45,
-      "question": "At the onset of the 1st Samnite War, what city cleverly forced Rome to protect it from the Samnites by surrending the city entirely to Rome?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? At the onset of the 1st Samnite War, what city cleverly forced Rome to protect it",
       "options": {
         "A": "Capua",
         "B": "Tarentum",
@@ -633,13 +681,14 @@
         "D": "Brundisium"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 46,
-      "question": "What is the name of the bridge upon which Horatius Cocles made his famous stand?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? What is the name of the bridge upon which Horatius Cocles made his famous stand?",
       "options": {
         "A": "Milvian",
         "B": "Cestius",
@@ -647,13 +696,14 @@
         "D": "Sublician"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 47,
-      "question": "What law of 445 finally allowed patricians and plebeians to intermarry?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? What law of 445 finally allowed patricians and plebeians to intermarry?",
       "options": {
         "A": "Lex Canuleia",
         "B": "Lex Hortensia",
@@ -661,13 +711,14 @@
         "D": "Lex Iulia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 48,
-      "question": "Who was the first Plebeian to serve as Censor in 351?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? Who was the first Plebeian to serve as Censor in 351?",
       "options": {
         "A": "Philo",
         "B": "Rutilus",
@@ -675,13 +726,14 @@
         "D": "Stolo"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 49,
-      "question": "Who was the Gallic chieftain who first defeated, but was ultimately defeated by Caesar at the Battle of Alesia?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? Who was the Gallic chieftain who first defeated, but was ultimately defeated by",
       "options": {
         "A": "Arminius",
         "B": "Brennus",
@@ -689,13 +741,14 @@
         "D": "Vercingentorix"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 50,
-      "question": "Who was the father of #49 who had tried to unite Celts under one banner and was executed by his own tribesmen for trying to fight Caesar?",
+      "question": "They knew to do this because who had heard the honking of Juno’s geese? Who was the father of #49 who had tried to unite Celts under one banner and",
       "options": {
         "A": "Celtillus",
         "B": "Luernios",
@@ -703,8 +756,9 @@
         "D": "Congonnetiacus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
+      "section": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "section_context": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "instruction": null,
       "correct_answer": "A"
     }
   ]

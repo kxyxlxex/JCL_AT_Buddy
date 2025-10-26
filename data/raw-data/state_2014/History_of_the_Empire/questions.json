@@ -9,7 +9,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Which emperor fell in love with Berenice but conceded to public opinion and did not marry her?",
+      "question": "Which emperor fell in love with Berenice but conceded to public opinion and did",
       "options": {
         "A": "Titus",
         "B": "Commodus",
@@ -19,11 +19,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 2,
-      "question": "Because he was childless, Nerva adopted Trajan. Before this time, an emperor had not adopted his successor since when?",
+      "question": "Because he was childless, Nerva adopted Trajan. Before this time, an emperor",
       "options": {
         "A": "Augustus adopting Tiberius",
         "B": "Claudius adopting Nero",
@@ -33,6 +34,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -47,6 +49,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -61,6 +64,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -75,6 +79,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -89,6 +94,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -103,11 +109,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 10,
-      "question": "Who was appointed in 308 at the Conference of Caruntum to replace the co- Augustus, Flavius Valerius Severus?",
+      "question": "Who was appointed in 308 at the Conference of Caruntum to replace the co-",
       "options": {
         "A": "Maxentius",
         "B": "Licinius",
@@ -117,6 +124,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -131,11 +139,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 12,
-      "question": "At which 293 battle did Asclepiodotus defeat Allectus and re-establish Roman rule in Britain?",
+      "question": "At which 293 battle did Asclepiodotus defeat Allectus and re-establish Roman",
       "options": {
         "A": "Mons Graupius",
         "B": "Londinium",
@@ -145,6 +154,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -159,6 +169,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -173,6 +184,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -187,11 +199,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 16,
-      "question": "Which of Valerian’s sons was perhaps more successful in his writing of poetry than in his governing of the empire?",
+      "question": "Which of Valerian’s sons was perhaps more successful in his writing of poetry",
       "options": {
         "A": "Aurelian",
         "B": "Gallienus",
@@ -201,6 +214,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -215,11 +229,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 18,
-      "question": "Septimius Severus secured his throne in 197 by defeating the forces of Clodius Albinus at what battle?",
+      "question": "Septimius Severus secured his throne in 197 by defeating the forces of Clodius",
       "options": {
         "A": "Interamna",
         "B": "Lugdunum",
@@ -229,6 +244,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -243,6 +259,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -257,6 +274,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -271,11 +289,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 22,
-      "question": "When Valentinian I came to power in 364 and realized he could not rule alone, whom did he appoint as co-emperor?",
+      "question": "When Valentinian I came to power in 364 and realized he could not rule alone,",
       "options": {
         "A": "Valens",
         "B": "Valerian",
@@ -285,6 +304,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -299,6 +319,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -313,11 +334,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 26,
-      "question": "Who was Theodosius II’s sister who held the true power in Rome, even though he was their father’s successor?",
+      "question": "Who was Theodosius II’s sister who held the true power in Rome, even though",
       "options": {
         "A": "Aelia",
         "B": "Pulcheria",
@@ -327,6 +349,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -341,11 +364,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 28,
-      "question": "Which emperor promised not to sentence a senator to death unless the Senate itself condemned him?",
+      "question": "Which emperor promised not to sentence a senator to death unless the Senate",
       "options": {
         "A": "Augustus",
         "B": "Marcus Aurelius",
@@ -355,6 +379,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -369,11 +394,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 30,
-      "question": "Which emperor maintained the censorship for financial reasons and recruited many new members, both Italian and provincial, to the Senate?",
+      "question": "Which emperor maintained the censorship for financial reasons and recruited",
       "options": {
         "A": "Caligula",
         "B": "Trajan",
@@ -383,11 +409,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 31,
-      "question": "While Augustus ruled Rome from 27 B.C. until A.D. 14, he allowed others to hold the consulship during his principate. What famous figure was consul in 1?",
+      "question": "While Augustus ruled Rome from 27 B.C. until A.D. 14, he allowed others to",
       "options": {
         "A": "Tiberius",
         "B": "Germanicus",
@@ -397,6 +424,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -411,6 +439,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -425,6 +454,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -439,6 +469,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -453,6 +484,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -467,6 +499,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -481,6 +514,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -495,6 +529,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -509,6 +544,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -523,6 +559,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -537,6 +574,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -551,6 +589,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -565,6 +604,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -579,6 +619,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -593,6 +634,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -607,6 +649,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -621,11 +664,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 49,
-      "question": "Which emperor initially focused on strengthening the frontiers, particularly those along the Rhine, but eventually was most active in the confiscation of property and execution of dissenters?",
+      "question": "Which emperor initially focused on strengthening the frontiers, particularly",
       "options": {
         "A": "Caracalla",
         "B": "Domitian",
@@ -635,11 +679,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 50,
-      "question": "One of Septimius Severus’ early acts was presenting which of his possible rivals with the title Caesar?",
+      "question": "One of Septimius Severus’ early acts was presenting which of his possible rivals",
       "options": {
         "A": "Pescennius Niger",
         "B": "Clodius Albinus",
@@ -649,6 +694,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     }
   ]

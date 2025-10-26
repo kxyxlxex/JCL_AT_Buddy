@@ -20,6 +20,7 @@ def parse_test_file_fixed(test_file_path):
     current_question = None
     current_section = None
     section_context = None
+    current_instruction = None
     question_buffer = []
     
     # Determine if this is pre-2018 or post-2018 format
@@ -50,21 +51,48 @@ def parse_test_file_fixed(test_file_path):
             # Check for "I. Identify the ..." format (Roman numeral followed by period)
             roman_period_match = re.match(r'^([IVX]+)\.\s*(.+)$', line)
             if roman_period_match:
-                current_section = line
-                section_context = line
+                # Strip the "I." prefix and keep only the instruction
+                instruction_text = roman_period_match.group(2).strip()
+                current_section = instruction_text
+                section_context = instruction_text
                 continue
             
-            # Check for "Part x)" format
+            # Check for "Part x)" format (useful section headers with instructions)
             part_match = re.match(r'^Part\s+(\d+)\)\s*(.+)$', line)
             if part_match:
-                current_section = line
-                section_context = line
+                # Only treat as section if it contains instruction keywords
+                if any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions']):
+                    # Strip the "Part x)" prefix and keep only the instruction
+                    instruction_text = part_match.group(2).strip()
+                    current_section = instruction_text
+                    section_context = instruction_text
                 continue
             
             # Skip "Part x – Description" format (2017 style) - these are just dividers, not real sections
             part_dash_match = re.match(r'^Part\s+(\d+)\s*–\s*(.+)$', line)
             if part_dash_match:
                 # Don't treat these as sections, just skip them entirely
+                continue
+            
+            # Skip "Part x- Description" format (hyphen style) - these are also just dividers
+            part_hyphen_match = re.match(r'^Part\s+(\d+)-\s*(.+)$', line)
+            if part_hyphen_match:
+                # Don't treat these as sections, just skip them entirely
+                continue
+            
+            # Check for instruction patterns (excluding N.B. instructions and section dividers)
+            # Instructions are lines that tell students how to solve the next few problems
+            if (not re.match(r'^N\.B\.', line) and  # Not N.B. instructions
+                not re.match(r'^\d+\.', line) and  # Not question numbers
+                not re.match(r'^([a-d])\.\s*(.+)$', line) and  # Not answer options
+                not re.match(r'^\d{4}\s+FJCL\s+State\s+Latin\s+Forum', line) and  # Not headers
+                not re.match(r'^Part\s+\d+\s*[-–]\s*(.+)$', line) and  # Not "Part x - Description" dividers
+                line.endswith(('.', ':')) and  # Ends with period or colon
+                len(line.split()) > 2 and  # Has multiple words
+                any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions'])):  # Contains instruction keywords
+                
+                # This is an instruction line
+                current_instruction = line
                 continue
             
             # Check for question numbers
@@ -89,9 +117,41 @@ def parse_test_file_fixed(test_file_path):
                     "options": {},
                     "type": "multiple_choice",
                     "section": current_section,
-                    "section_context": section_context
+                    "section_context": section_context,
+                    "instruction": current_instruction
                 }
                 continue
+            
+            # Check for section headers that appear between questions (no number at start)
+            # This handles cases where a section header appears after option D but before the next question
+            if not question_match and not re.match(r'^([a-d])\.\s*(.+)$', line) and line.strip() and not re.match(r'^\d{4}\s+FJCL\s+State\s+Latin\s+Forum', line):
+                # This could be a section header - check if it looks like one
+                # Look for patterns like "I. Something", "Part x) Something", or just plain text
+                if (re.match(r'^([IVX]+)\.\s*(.+)$', line) or  # Roman numeral with period
+                    re.match(r'^Part\s+(\d+)\)\s*(.+)$', line) or  # Part x) format
+                    re.match(r'^Part\s+(\d+)\s*–\s*(.+)$', line) or  # Part x – format (skip these)
+                    (not re.match(r'^\d+\.', line) and len(line.split()) > 1)):  # Multi-word text that's not a question number
+                    
+                    # Skip "Part x – Description" format as we decided earlier
+                    if re.match(r'^Part\s+(\d+)\s*–\s*(.+)$', line):
+                        continue
+                    
+                    # Only treat as section if it contains instruction keywords (not just titles)
+                    if any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions']):
+                        # Strip common prefixes from section headers
+                        instruction_text = line
+                        # Remove "Part x)" prefix
+                        part_match = re.match(r'^Part\s+(\d+)\)\s*(.+)$', line)
+                        if part_match:
+                            instruction_text = part_match.group(2).strip()
+                        # Remove "I." prefix
+                        roman_match = re.match(r'^([IVX]+)\.\s*(.+)$', line)
+                        if roman_match:
+                            instruction_text = roman_match.group(2).strip()
+                        
+                        current_section = instruction_text
+                        section_context = instruction_text
+                    continue
             
             # If we have a current question and this line doesn't start with an option, 
             # it might be a continuation of the question statement
@@ -130,6 +190,21 @@ def parse_test_file_fixed(test_file_path):
         
         # Handle post-2018 format (no sections)
         else:
+            # Check for instruction patterns (excluding N.B. instructions and section dividers)
+            # Instructions are lines that tell students how to solve the next few problems
+            if (not re.match(r'^N\.B\.', line) and  # Not N.B. instructions
+                not re.match(r'^\d+\.', line) and  # Not question numbers
+                not re.match(r'^([A-D])\.\s*(.+)$', line) and  # Not answer options
+                not re.match(r'^\d{4}\s+FJCL\s+State\s+Latin\s+Forum', line) and  # Not headers
+                not re.match(r'^Part\s+\d+\s*[-–]\s*(.+)$', line) and  # Not "Part x - Description" dividers
+                line.endswith(('.', ':')) and  # Ends with period or colon
+                len(line.split()) > 2 and  # Has multiple words
+                any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions'])):  # Contains instruction keywords
+                
+                # This is an instruction line
+                current_instruction = line
+                continue
+            
             # Check for question numbers
             question_match = re.match(r'^(\d+)\.\s*(.+)$', line)
             if question_match:
@@ -147,7 +222,8 @@ def parse_test_file_fixed(test_file_path):
                     "options": {},
                     "type": "multiple_choice",
                     "section": None,
-                    "section_context": None
+                    "section_context": None,
+                    "instruction": current_instruction
                 }
                 continue
             

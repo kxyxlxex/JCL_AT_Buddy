@@ -9,7 +9,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Caligula’s Praetorian prefect who went before the Senate to invalidate Tiberius Gemellus’ part in imperial rule was",
+      "question": "Caligula’s Praetorian prefect who went before the Senate to invalidate Tiberius",
       "options": {
         "A": "Clemens",
         "B": "Chaerea",
@@ -19,11 +19,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 2,
-      "question": "When Nerva took power, the Senate enacted a ‘rescissio actorum’, declaring for Domitian a posthumous",
+      "question": "When Nerva took power, the Senate enacted a ‘rescissio actorum’, declaring for",
       "options": {
         "A": "damnatio memoriae",
         "B": "prorogatio imperi",
@@ -33,6 +34,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -47,6 +49,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -61,6 +64,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -75,6 +79,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -89,6 +94,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -103,6 +109,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -117,6 +124,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -131,11 +139,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 10,
-      "question": "Nerva and his successors are credited with greatly enhancing the ‘alimenta’ in Rome, a system which provided for the needs of",
+      "question": "Nerva and his successors are credited with greatly enhancing the ‘alimenta’ in",
       "options": {
         "A": "freed slaves",
         "B": "the poor",
@@ -145,6 +154,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -159,6 +169,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -173,11 +184,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 13,
-      "question": "Built on the Vatican Hill in Rome, Saint Peter’s Basilica was begun under: 2016 FJCL State Forum – Empire -",
+      "question": "Built on the Vatican Hill in Rome, Saint Peter’s Basilica was begun under:",
       "options": {
         "A": "Constantine",
         "B": "Honorius",
@@ -187,6 +199,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -201,6 +214,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -215,6 +229,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -229,11 +244,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 17,
-      "question": "You can visit a sumptuous mausoleum in Ravenna said to have been built for Galla Placidia, who was:",
+      "question": "You can visit a sumptuous mausoleum in Ravenna said to have been built for",
       "options": {
         "A": "the daughter of Theodosius",
         "B": "the wife of Alaric",
@@ -243,6 +259,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -257,11 +274,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 19,
-      "question": "Who ordered the massacre in Thessalonica when the local inhabitants were protesting the presence of a Gothic garrison in their city?",
+      "question": "Who ordered the massacre in Thessalonica when the local inhabitants were",
       "options": {
         "A": "Commodus",
         "B": "Gratian",
@@ -271,6 +289,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -285,6 +304,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -299,11 +319,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 22,
-      "question": "The Marcomannic Wars more or less defined the military record of Marcus Aurelius. Which of the following might be another name for this conflict?",
+      "question": "The Marcomannic Wars more or less defined the military record of Marcus",
       "options": {
         "A": "Bellum Batonianum",
         "B": "Bellum in Judaeos",
@@ -313,6 +334,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -327,11 +349,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 24,
-      "question": "Which emperor committed suicide? 2016 FJCL State Forum – Empire -",
+      "question": "Which emperor committed suicide?",
       "options": {
         "A": "Galba",
         "B": "Otho",
@@ -341,6 +364,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -355,6 +379,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -369,11 +394,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 27,
-      "question": "This Jewish historian and scholar initially fought against the Romans but later became an advisor to Titus.",
+      "question": "This Jewish historian and scholar initially fought against the Romans but later",
       "options": {
         "A": "Eleazer",
         "B": "Gasco",
@@ -383,6 +409,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -397,6 +424,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -411,6 +439,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -425,11 +454,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 31,
-      "question": "This term refers to the process used by the Flavian Emperors to choose someone for the Roman Senate.",
+      "question": "This term refers to the process used by the Flavian Emperors to choose",
       "options": {
         "A": "adlectio",
         "B": "declamatio",
@@ -439,6 +469,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -453,6 +484,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -467,11 +499,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 34,
-      "question": "Which emperor came to power as a result of the mutiny at Moguntiacum which overthrew Severus Alexander?",
+      "question": "Which emperor came to power as a result of the mutiny at Moguntiacum which",
       "options": {
         "A": "Caracalla",
         "B": "Elagabalus",
@@ -481,6 +514,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -495,11 +529,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
       "question_number": 37,
-      "question": "In 27 B.C., Gaius Iulius Octavianus received what title of honor used by all Roman emperors except Vitellius?",
+      "question": "In 27 B.C., Gaius Iulius Octavianus received what title of honor used by all",
       "options": {
         "A": "Romulus",
         "B": "Augustus",
@@ -509,11 +544,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
       "question_number": 38,
-      "question": "What honorific title did Vitellius use as emperor? 2016 FJCL State Forum – Empire -",
+      "question": "What honorific title did Vitellius use as emperor?",
       "options": {
         "A": "Germanicus",
         "B": "Perpetuus",
@@ -523,6 +559,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -537,6 +574,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -551,11 +589,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 41,
-      "question": "In 40, Caligula received an ovation in Rome on his birthday for his “campaign” at the English Channel from which he brought back what unusual plunder?",
+      "question": "In 40, Caligula received an ovation in Rome on his birthday for his “campaign”",
       "options": {
         "A": "parrots",
         "B": "seashells",
@@ -565,6 +604,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "B"
     },
     {
@@ -579,6 +619,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
@@ -593,11 +634,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "D"
     },
     {
       "question_number": 44,
-      "question": "Those fears turned out to be valid when, in spite of the relocation, ________ was deposed in the new capital, thus bringing an end to the western empire.",
+      "question": "Those fears turned out to be valid when, in spite of the relocation, ________",
       "options": {
         "A": "Julius Nepos",
         "C": "Romulus Augustulus",
@@ -607,11 +649,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 45,
-      "question": "Julia Mamaea, who bribed the Praetorian Guard in 222 AD to assassinate both her sister and her nephew, was the daughter of Julia ______.",
+      "question": "Julia Mamaea, who bribed the Praetorian Guard in 222 AD to assassinate both",
       "options": {
         "A": "Domna",
         "B": "Flavia",
@@ -621,11 +664,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 46,
-      "question": "The eruption of Mount Vesuvius destroyed the cities of Pompeii and Herculaneum during the reign of:",
+      "question": "The eruption of Mount Vesuvius destroyed the cities of Pompeii and",
       "options": {
         "A": "Galba",
         "B": "Nero",
@@ -635,6 +679,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -649,6 +694,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "A"
     },
     {
@@ -663,11 +709,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
       "question_number": 49,
-      "question": "After a few years of ruling, Tiberius retired to Capri and appointed this Praetorian prefect to execute the duties of emperor.",
+      "question": "After a few years of ruling, Tiberius retired to Capri and appointed this",
       "options": {
         "A": "Burrus",
         "B": "Macro",
@@ -677,6 +724,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     },
     {
@@ -691,6 +739,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": null,
       "correct_answer": "C"
     }
   ]

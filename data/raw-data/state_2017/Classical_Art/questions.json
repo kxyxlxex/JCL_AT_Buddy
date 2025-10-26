@@ -19,6 +19,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -33,6 +34,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -47,6 +49,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -61,6 +64,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -75,6 +79,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -89,6 +94,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -103,6 +109,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -117,6 +124,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -131,6 +139,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -145,6 +154,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -159,6 +169,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -173,6 +184,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -187,6 +199,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -201,6 +214,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
@@ -215,6 +229,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -229,6 +244,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -243,6 +259,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -257,6 +274,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -271,6 +289,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -285,6 +304,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -299,6 +319,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -313,6 +334,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -327,6 +349,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -341,6 +364,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -355,6 +379,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -369,6 +394,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -383,6 +409,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
@@ -397,11 +424,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "?"
     },
     {
       "question_number": 29,
-      "question": "Where in Pompeii was this painting found? The remaining questions are not related to the images on the test.",
+      "question": "Where in Pompeii was this painting found?",
       "options": {
         "A": "The House of the Tragic Poet",
         "B": "The House of Menander",
@@ -411,6 +439,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -425,11 +454,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 31,
-      "question": "In a Doric frieze, what is the space between two triglyphs sometimes filled with a block carved with relief sculpture?",
+      "question": "In a Doric frieze, what is the space between two triglyphs sometimes filled with",
       "options": {
         "A": "Cornice",
         "B": "Architrave",
@@ -439,11 +469,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
       "question_number": 32,
-      "question": "In a Greek or Roman temple, what is the term for the top step of the platform on which the temple is built?",
+      "question": "In a Greek or Roman temple, what is the term for the top step of the platform",
       "options": {
         "A": "Naos",
         "B": "Opisthodomos",
@@ -453,6 +484,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -467,6 +499,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -481,11 +514,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
       "question_number": 35,
-      "question": "Which style of pottery features pots decorated with black bands, wavy lines, and concentric circles?",
+      "question": "Which style of pottery features pots decorated with black bands, wavy lines,",
       "options": {
         "A": "Orientalizing",
         "B": "Geometric",
@@ -495,6 +529,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -509,6 +544,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -523,11 +559,12 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
       "question_number": 38,
-      "question": "What is the term for the triangular space between the springing and center of an arch?",
+      "question": "What is the term for the triangular space between the springing and center of",
       "options": {
         "A": "Voussoir",
         "B": "Spandrel",
@@ -537,6 +574,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -551,6 +589,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
@@ -565,6 +604,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
@@ -579,6 +619,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -593,6 +634,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -607,6 +649,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -621,6 +664,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -635,6 +679,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -649,6 +694,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "C"
     },
     {
@@ -663,6 +709,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "A"
     },
     {
@@ -677,6 +724,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "D"
     },
     {
@@ -691,6 +739,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "B"
     },
     {
@@ -705,6 +754,7 @@
       "type": "multiple_choice",
       "section": null,
       "section_context": null,
+      "instruction": "Choose the best possible answer.",
       "correct_answer": "D"
     }
   ]
