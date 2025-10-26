@@ -202,8 +202,9 @@ class TestGenerator {
         // Display instruction if available
         const instructionBox = document.getElementById('instructionBox');
         const instructionText = document.getElementById('instructionText');
-        if (question.question_instruction) {
-            instructionText.textContent = question.question_instruction;
+        const instruction = question.question_instruction || question.instruction;
+        if (instruction) {
+            instructionText.textContent = instruction;
             instructionBox.style.display = 'block';
         } else {
             instructionBox.style.display = 'none';
@@ -219,7 +220,8 @@ class TestGenerator {
         const optionsContainer = document.getElementById('optionsContainer');
         optionsContainer.innerHTML = '';
         
-        Object.entries(question.question_options || question.options).forEach(([key, value]) => {
+        const options = question.question_options || question.options;
+        Object.entries(options).forEach(([key, value]) => {
             const optionDiv = document.createElement('div');
             optionDiv.className = 'option';
             
@@ -351,9 +353,11 @@ class TestGenerator {
             let questionText = question.question_body || question.question || '';
             questionText = questionText.replace(/^Question\s+\d+\.?\s*/i, '');
             
-            const instructionHTML = question.question_instruction ? 
-                `<div class="review-instruction">${question.question_instruction}</div>` : '';
+            const instruction = question.question_instruction || question.instruction;
+            const instructionHTML = instruction ? 
+                `<div class="review-instruction">${instruction}</div>` : '';
             
+            const options = question.question_options || question.options;
             questionDiv.innerHTML = `
                 <div class="question-header">
                     <h4>Question ${index + 1} ${isCorrect ? '✓' : '✗'}</h4>
@@ -364,7 +368,7 @@ class TestGenerator {
                 ${instructionHTML}
                 <div class="question-text">${questionText}</div>
                 <div class="options-review">
-                    ${Object.entries(question.question_options || question.options).map(([key, value]) => `
+                    ${Object.entries(options).map(([key, value]) => `
                         <div class="option-review ${key === correctAnswer ? 'correct-answer' : ''} ${key === userAnswer && !isCorrect ? 'user-answer-wrong' : ''}">
                             <span class="option-letter">${key}.</span>
                             <span class="option-text">${value}</span>
