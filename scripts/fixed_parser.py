@@ -86,6 +86,12 @@ def parse_test_file_fixed(test_file_path):
                 # Don't treat these as sections, just skip them entirely
                 continue
             
+            # Skip subject headers like "Derivatives I - States 2019 -" - these are just dividers
+            subject_header_match = re.match(r'^[A-Za-z\s]+I{0,3}\s*-\s*States?\s+\d{4}\s*-?\s*$', line)
+            if subject_header_match:
+                # Don't treat these as sections, just skip them entirely
+                continue
+            
             # Check for instruction patterns (excluding N.B. instructions and section dividers)
             # Instructions are lines that tell students how to solve the next few problems
             if (not re.match(r'^N\.B\.', line) and  # Not N.B. instructions
@@ -156,6 +162,7 @@ def parse_test_file_fixed(test_file_path):
                 not re.match(r'^Part\s+(\d+)\s*[-–]\s*(.+)$', line) and  # Not a section divider
                 not re.match(r'^Part\s+(\d+)-\s*(.+)$', line) and  # Not a section divider (hyphen)
                 not re.match(r'^Part\s+([IVX]+):\s*(.+)$', line) and  # Not a Part II: Mottoes divider
+                not re.match(r'^[A-Za-z\s]+I{0,3}\s*-\s*States?\s+\d{4}\s*-?\s*$', line) and  # Not subject headers
                 not re.match(r'^([IVX]+)\.\s*(.+)$', line) and  # Not a Roman numeral section
                 not re.match(r'^Part\s+(\d+)\)\s*(.+)$', line) and  # Not a Part x) section
                 not re.match(r'^N\.B\.', line) and  # Not an N.B. instruction
@@ -259,6 +266,7 @@ def parse_test_file_fixed(test_file_path):
                 not re.match(r'^Part\s+(\d+)\s*[-–]\s*(.+)$', line) and  # Not a section divider
                 not re.match(r'^Part\s+(\d+)-\s*(.+)$', line) and  # Not a section divider (hyphen)
                 not re.match(r'^Part\s+([IVX]+):\s*(.+)$', line) and  # Not a Part II: Mottoes divider
+                not re.match(r'^[A-Za-z\s]+I{0,3}\s*-\s*States?\s+\d{4}\s*-?\s*$', line) and  # Not subject headers
                 not re.match(r'^([IVX]+)\.\s*(.+)$', line) and  # Not a Roman numeral section
                 not re.match(r'^Part\s+(\d+)\)\s*(.+)$', line) and  # Not a Part x) section
                 not re.match(r'^N\.B\.', line) and  # Not an N.B. instruction

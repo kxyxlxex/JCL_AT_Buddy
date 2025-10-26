@@ -479,8 +479,8 @@ class TestGenerator {
     formatInstruction(raw) {
         try {
             let s = String(raw).trim();
-            // Remove trailing period(s) and colon(s)
-            s = s.replace(/[\.:]+\s*$/, '');
+            // Remove trailing punctuation (periods, colons, etc.)
+            s = s.replace(/[\.:!?]+\s*$/, '');
             // Always add a single colon
             s = `${s}:`;
             return s;
