@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "History_of_the_Monarchy_and_Republic",
-    "year": "state_2018",
-    "subject": "History_of_the_Monarchy_and_Republic",
-    "total_questions": 44,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "Massalia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,10 +23,8 @@
         "D": "Comitia Curiata"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 3,
@@ -47,10 +36,8 @@
         "D": "Marcus Livius Drusus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,8 @@
         "D": "Numa Pompilius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 5,
@@ -77,10 +62,8 @@
         "D": "Gaius Gracchus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -92,10 +75,8 @@
         "D": "Cn. Pompeius Magnus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -107,10 +88,8 @@
         "D": "Mantua"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -122,10 +101,8 @@
         "D": "Nola"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -137,10 +114,8 @@
         "D": "Sabines"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -152,10 +127,8 @@
         "D": "Gaius Julius Caesar"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -167,10 +140,8 @@
         "D": "Servius Tullius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -182,10 +153,8 @@
         "D": "Cannae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -197,10 +166,8 @@
         "D": "Lucius Quinctius Cincinnatus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -212,10 +179,8 @@
         "D": "Segura"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 17,
@@ -227,10 +192,8 @@
         "D": "Brennus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -242,10 +205,8 @@
         "D": "Vetluna"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -257,10 +218,8 @@
         "D": "Lucius Cornelius Sulla"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -272,10 +231,8 @@
         "D": "Vercellae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -287,10 +244,8 @@
         "D": "Etruscans"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -302,10 +257,8 @@
         "D": "Zama"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 24,
@@ -317,10 +270,8 @@
         "D": "Marcus Marcellus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -332,10 +283,8 @@
         "D": "Hanno the Great"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -347,10 +296,8 @@
         "D": "Lake Trasimene"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 28,
@@ -362,10 +309,8 @@
         "D": "Numa Pompilius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -377,10 +322,8 @@
         "D": "Quintus Caecilius Metellus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 30,
@@ -392,10 +335,8 @@
         "D": "Tarraco"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 31,
@@ -407,10 +348,8 @@
         "D": "Ap. Claudius Pulcher"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 32,
@@ -422,10 +361,8 @@
         "D": "Lex Hortensia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 33,
@@ -437,10 +374,8 @@
         "D": "RomePyrrhic War"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 34,
@@ -452,10 +387,8 @@
         "D": "Drepana"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 35,
@@ -467,10 +400,8 @@
         "D": "Lake Trasimene"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 36,
@@ -482,10 +413,8 @@
         "D": "Second Samnite War"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -497,10 +426,8 @@
         "D": "Lex Cincia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 38,
@@ -512,10 +439,8 @@
         "D": "Lex Cornelia de Maiestate"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 39,
@@ -527,10 +452,8 @@
         "D": "Marcus Licinius Crassus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 40,
@@ -542,10 +465,8 @@
         "D": "Oezalces"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 41,
@@ -557,10 +478,8 @@
         "D": "Publius Clodius Pulcher"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -572,10 +491,8 @@
         "D": "Gnaeus Papirius Carbo"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 44,
@@ -587,10 +504,8 @@
         "D": "Chalcedon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 45,
@@ -602,10 +517,8 @@
         "D": "Servius Sulpicius Galba"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 46,
@@ -617,10 +530,8 @@
         "D": "Gaius Marcius Coriolanus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 47,
@@ -632,10 +543,8 @@
         "D": "Clusium"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 49,
@@ -647,10 +556,8 @@
         "D": "Lepidus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 50,
@@ -662,10 +569,13 @@
         "D": "Livius Drusus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2018,
+    "format": "post_2018",
+    "total_questions": 44
+  }
 }

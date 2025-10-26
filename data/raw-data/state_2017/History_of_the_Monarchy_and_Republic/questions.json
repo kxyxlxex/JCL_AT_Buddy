@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "History_of_the_Monarchy_and_Republic",
-    "year": "state_2017",
-    "subject": "History_of_the_Monarchy_and_Republic",
-    "total_questions": 43,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "Amphipolis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,14 +23,12 @@
         "D": "Lex Gabinia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "Choose the best possible answer.",
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "Which temple was built to celebrate the end of Class Struggle between the patricians and plebeians?",
+      "question": "Which temple was built to celebrate the end of Class Struggle between the",
       "options": {
         "A": "Peace",
         "B": "Concord",
@@ -47,10 +36,8 @@
         "D": "Jupiter Stator"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,8 @@
         "D": "a great fire in Samnium"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "B"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 5,
@@ -77,10 +62,8 @@
         "D": "Pergamum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "A"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -92,10 +75,20 @@
         "D": "Nicomedes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "How many total number of Servile Wars was fought between 135-71?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3 d."
+      },
+      "type": "multiple_choice",
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -107,10 +100,8 @@
         "D": "Gala"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "A"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -122,10 +113,8 @@
         "D": "Hieronymus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -137,10 +126,8 @@
         "D": "Tarracina"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -152,10 +139,8 @@
         "D": "Tribunus Celerum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "B"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -167,10 +152,19 @@
         "D": "Dictator"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "A"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
+    },
+    {
+      "question_number": 13,
+      "question": "Who was co-consul with Cicero in 63?",
+      "options": {
+        "A": "P. Cornelius Lentulus c.",
+        "B": "L. Iulius Caesar d."
+      },
+      "type": "multiple_choice",
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -182,10 +176,20 @@
         "D": "Massilia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "C"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
+    },
+    {
+      "question_number": 15,
+      "question": "What Roman displayed legendary rectitude and incorruptibility to Pyrrhus?",
+      "options": {
+        "A": "Ap. Claudius Caecus",
+        "C": "M’. Curius Dentatus",
+        "B": "P. Cornelius Rufinus d."
+      },
+      "type": "multiple_choice",
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -197,10 +201,8 @@
         "D": "quaestor"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "B"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 17,
@@ -212,10 +214,8 @@
         "D": "Veii"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "C"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -227,10 +227,8 @@
         "D": "Ancus Marcius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "B"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -242,10 +240,8 @@
         "D": "Lupa"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -257,10 +253,8 @@
         "D": "Ptolemy Ceraunus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "A"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -272,10 +266,8 @@
         "D": "Ahenobarbus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "B"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -287,10 +279,8 @@
         "D": "Orgetorix"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -302,10 +292,8 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "C"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 24,
@@ -317,10 +305,8 @@
         "D": "Calvinus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "C"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -332,10 +318,8 @@
         "D": "Pompey"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "A"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 26,
@@ -347,10 +331,8 @@
         "D": "Saturninus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "B"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -362,10 +344,8 @@
         "D": "Mauretania"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 28,
@@ -377,10 +357,8 @@
         "D": "Sextius Calvinus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "B"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -392,14 +370,12 @@
         "D": "Minurus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "C"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Who proposed acceptance to the Roman terms for the surrender of Carthage after the Battle of Zama?",
+      "question": "Who proposed acceptance to the Roman terms for the surrender of Carthage",
       "options": {
         "A": "Hasdrubal",
         "B": "Himilco",
@@ -407,10 +383,8 @@
         "D": "Hampsicora"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "instruction": "Choose the best possible answer. patricians and plebeians?",
+      "correct_answer": null
     },
     {
       "question_number": 31,
@@ -422,10 +396,20 @@
         "D": "defeat of Hasdrubal at the Metaurus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "C"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama?",
+      "correct_answer": null
+    },
+    {
+      "question_number": 32,
+      "question": "What Roman general stayed behind in Spain after Hannibal reached the Alps?",
+      "options": {
+        "A": "Cn. Cornelius Scipio",
+        "C": "L. Manlius Vulso",
+        "B": "Cn. Servilius Geminus d."
+      },
+      "type": "multiple_choice",
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama?",
+      "correct_answer": null
     },
     {
       "question_number": 33,
@@ -437,10 +421,8 @@
         "D": "Mylae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama?",
+      "correct_answer": null
     },
     {
       "question_number": 34,
@@ -452,10 +434,8 @@
         "D": "Mylae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "A"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama?",
+      "correct_answer": null
     },
     {
       "question_number": 35,
@@ -467,10 +447,20 @@
         "D": "Agathocles"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "B"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama?",
+      "correct_answer": null
+    },
+    {
+      "question_number": 36,
+      "question": "Who sponsored the law in 287 made all plebiscita binding on all citizens?",
+      "options": {
+        "A": "Quintus Hortensius",
+        "C": "Cnaeus Ogulnius",
+        "B": "Lucius Genucius d."
+      },
+      "type": "multiple_choice",
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama?",
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -482,14 +472,12 @@
         "D": "Venusia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "A"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama?",
+      "correct_answer": null
     },
     {
       "question_number": 38,
-      "question": "Which law effected the replacement of consuls with military tribunes and allowed plebians to marry patricians?",
+      "question": "Which law effected the replacement of consuls with military tribunes and",
       "options": {
         "A": "Lex Icilia",
         "C": "Lex Hortensia",
@@ -497,10 +485,8 @@
         "D": "Lex Canuleia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "C"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama?",
+      "correct_answer": null
     },
     {
       "question_number": 39,
@@ -512,10 +498,8 @@
         "D": "Volaterrae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "B"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama? allowed plebians to marry patricians?",
+      "correct_answer": null
     },
     {
       "question_number": 40,
@@ -527,10 +511,8 @@
         "D": "Alexandria"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama? allowed plebians to marry patricians?",
+      "correct_answer": null
     },
     {
       "question_number": 41,
@@ -542,10 +524,8 @@
         "D": "Surena"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "A"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama? allowed plebians to marry patricians?",
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -557,10 +537,8 @@
         "D": "Cassivellaunus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "B"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama? allowed plebians to marry patricians?",
+      "correct_answer": null
     },
     {
       "question_number": 43,
@@ -572,10 +550,8 @@
         "D": "Aemilius Lepidus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "C"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama? allowed plebians to marry patricians?",
+      "correct_answer": null
     },
     {
       "question_number": 44,
@@ -587,10 +563,8 @@
         "D": "Livia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama? allowed plebians to marry patricians?",
+      "correct_answer": null
     },
     {
       "question_number": 45,
@@ -602,10 +576,20 @@
         "D": "Sequani"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "D"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama? allowed plebians to marry patricians?",
+      "correct_answer": null
+    },
+    {
+      "question_number": 46,
+      "question": "Although the Dictator Mamercus was granted a triumph, who claimed the",
+      "options": {
+        "A": "L. Roscius",
+        "C": "S. Antius",
+        "B": "M. Claudius Marcellus d."
+      },
+      "type": "multiple_choice",
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama? allowed plebians to marry patricians?",
+      "correct_answer": null
     },
     {
       "question_number": 47,
@@ -617,10 +601,8 @@
         "D": "Appius Herdonius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "C"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama? allowed plebians to marry patricians? spolia opima?",
+      "correct_answer": null
     },
     {
       "question_number": 48,
@@ -632,10 +614,20 @@
         "D": "P. Postumius Tubertus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "A"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama? allowed plebians to marry patricians? spolia opima?",
+      "correct_answer": null
+    },
+    {
+      "question_number": 49,
+      "question": "According to Livy, who first explained the deification of Romulus to the people?",
+      "options": {
+        "A": "Numa Pompilius",
+        "B": "M. Valerius",
+        "C": "Proculus Iulius d."
+      },
+      "type": "multiple_choice",
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama? allowed plebians to marry patricians? spolia opima?",
+      "correct_answer": null
     },
     {
       "question_number": 50,
@@ -647,10 +639,13 @@
         "D": "fortify the Palatine"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Choose the best possible answer.",
-      "correct_answer": "A"
+      "instruction": "Choose the best possible answer. patricians and plebeians? after the Battle of Zama? allowed plebians to marry patricians? spolia opima?",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2017,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }

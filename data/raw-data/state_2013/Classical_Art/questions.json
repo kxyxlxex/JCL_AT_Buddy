@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "Classical_Art",
-    "year": "state_2013",
-    "subject": "Classical_Art",
-    "total_questions": 50,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "the Parthenon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,14 +23,12 @@
         "D": "Antoninus Pius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "Image 1: According to the inscription over the porch, an earlier version of this building was built during the reign of…",
+      "question": "Image 1: According to the inscription over the porch, an earlier version of this building was built",
       "options": {
         "A": "Julius Caesar",
         "B": "Nero",
@@ -47,10 +36,8 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint",
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,8 @@
         "D": "Myron"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 5,
@@ -77,10 +62,8 @@
         "D": "Aeneas and Ascanius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -92,10 +75,8 @@
         "D": "Mycenaean"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -107,10 +88,8 @@
         "D": "Amphorae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -122,10 +101,8 @@
         "D": "Pompeiian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -137,10 +114,8 @@
         "D": "Dylos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -152,10 +127,8 @@
         "D": "Altar of Peace"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -167,10 +140,8 @@
         "D": "Caligula"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -182,10 +153,8 @@
         "D": "4th Pompeiian style"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 13,
@@ -197,10 +166,8 @@
         "D": "Ionic Order"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -212,10 +179,8 @@
         "D": "Tholos Temple"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -227,10 +192,8 @@
         "D": "Hephaestus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -242,10 +205,8 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 17,
@@ -257,10 +218,8 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -272,14 +231,12 @@
         "D": "The return of standards lost to the Parthians"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 19,
-      "question": "Image 10: Found off the island of Samothrace, this beautiful sculpture is believed to depict the goddess…",
+      "question": "Image 10: Found off the island of Samothrace, this beautiful sculpture is believed to depict the",
       "options": {
         "A": "Aphrodite",
         "B": "Nike",
@@ -287,10 +244,8 @@
         "D": "Artemis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of…",
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -302,10 +257,8 @@
         "D": "Archaic Style"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess…",
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -317,10 +270,8 @@
         "D": "Erechtheion"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess…",
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -332,10 +283,8 @@
         "D": "Aphrodite and Ares"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess…",
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -347,10 +296,8 @@
         "D": "the Graces"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess…",
+      "correct_answer": null
     },
     {
       "question_number": 24,
@@ -362,10 +309,8 @@
         "D": "circus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess…",
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -377,10 +322,8 @@
         "D": "Titus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess…",
+      "correct_answer": null
     },
     {
       "question_number": 26,
@@ -392,10 +335,8 @@
         "D": "Tuscan, Corinthian, Ionic"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess…",
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -407,10 +348,8 @@
         "D": "Bilingual"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess…",
+      "correct_answer": null
     },
     {
       "question_number": 28,
@@ -422,14 +361,12 @@
         "D": "The Niobid Painter"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess…",
+      "correct_answer": null
     },
     {
       "question_number": 29,
-      "question": "Image 14: What famous archaeologist, when he discovered this beautiful gold mask, is reported to have said “I have looked upon the face of Agamemnon”?",
+      "question": "Image 14: What famous archaeologist, when he discovered this beautiful gold mask, is reported to",
       "options": {
         "A": "Sir Arthur Evans",
         "B": "Spiridon Marinatos",
@@ -437,10 +374,8 @@
         "D": "Carl Blegen"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess…",
+      "correct_answer": null
     },
     {
       "question_number": 30,
@@ -452,10 +387,8 @@
         "D": "Pylos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”?",
+      "correct_answer": null
     },
     {
       "question_number": 31,
@@ -467,14 +400,12 @@
         "D": "Jason & Medea"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”?",
+      "correct_answer": null
     },
     {
       "question_number": 32,
-      "question": "Name the Emperor who commissioned the building of an Imperial Forum in Rome that included a market building several stories high and a commemorative column?",
+      "question": "Name the Emperor who commissioned the building of an Imperial Forum in Rome that included a",
       "options": {
         "A": "Trajan",
         "B": "Nerva",
@@ -482,10 +413,8 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”?",
+      "correct_answer": null
     },
     {
       "question_number": 33,
@@ -497,10 +426,8 @@
         "D": "the death of Julius Caesar"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”? market building several stories high and a commemorative column?",
+      "correct_answer": null
     },
     {
       "question_number": 34,
@@ -512,14 +439,12 @@
         "D": "Kallikrates"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”? market building several stories high and a commemorative column?",
+      "correct_answer": null
     },
     {
       "question_number": 35,
-      "question": "Roman wall construction made up of diamond shaped bricks set in cement at a 45 degree angle so as to create a diagonal pattern is called…",
+      "question": "Roman wall construction made up of diamond shaped bricks set in cement at a 45 degree angle so",
       "options": {
         "A": "opus incertum",
         "B": "opus signinum",
@@ -527,10 +452,8 @@
         "D": "opus reticulatum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”? market building several stories high and a commemorative column?",
+      "correct_answer": null
     },
     {
       "question_number": 36,
@@ -542,10 +465,8 @@
         "D": "House of the Surgeon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”? market building several stories high and a commemorative column? as to create a diagonal pattern is called…",
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -557,10 +478,8 @@
         "D": "a statue of a clothed female standing upright facing forward"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”? market building several stories high and a commemorative column? as to create a diagonal pattern is called…",
+      "correct_answer": null
     },
     {
       "question_number": 38,
@@ -572,10 +491,8 @@
         "D": "The Temple of Mars Ultor"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”? market building several stories high and a commemorative column? as to create a diagonal pattern is called…",
+      "correct_answer": null
     },
     {
       "question_number": 39,
@@ -587,10 +504,8 @@
         "D": "Diadoumenos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”? market building several stories high and a commemorative column? as to create a diagonal pattern is called…",
+      "correct_answer": null
     },
     {
       "question_number": 40,
@@ -602,10 +517,8 @@
         "D": "the top step of a building leading to the front entrance"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”? market building several stories high and a commemorative column? as to create a diagonal pattern is called…",
+      "correct_answer": null
     },
     {
       "question_number": 41,
@@ -617,10 +530,8 @@
         "D": "pozzolano"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”? market building several stories high and a commemorative column? as to create a diagonal pattern is called…",
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -632,10 +543,8 @@
         "D": "Tuscan…Ionic"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "N.b. For questions 1-30, please refer to the slides on the powerpoint during the reign of… goddess… have said “I have looked upon the face of Agamemnon”? market building several stories high and a commemorative column? as to create a diagonal pattern is called…",
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -647,10 +556,8 @@
         "D": "4, 3, 2,"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 44,
@@ -662,14 +569,12 @@
         "D": "The Arch Hadrian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 45,
-      "question": "This emperor was often depicted in art wearing a beard. He played a major role in making beards fashionable again among the Roman Aristocracy.",
+      "question": "This emperor was often depicted in art wearing a beard. He played a major role in making beards",
       "options": {
         "A": "Hadrian",
         "B": "Trajan",
@@ -677,10 +582,8 @@
         "D": "Antoninus Pius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -692,14 +595,12 @@
         "D": "4, 1, 2,"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
-      "correct_answer": "A"
+      "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple. fashionable again among the Roman Aristocracy.",
+      "correct_answer": null
     },
     {
       "question_number": 47,
-      "question": "What is the name of the tiny pieces made of stone, glass or terracotta used in making Roman mosaics?",
+      "question": "What is the name of the tiny pieces made of stone, glass or terracotta used in making Roman",
       "options": {
         "A": "oxides",
         "B": "pastels",
@@ -707,10 +608,8 @@
         "D": "pebbles"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
-      "correct_answer": "C"
+      "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple. fashionable again among the Roman Aristocracy.",
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -722,10 +621,8 @@
         "D": "4, 1, 2,"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
-      "correct_answer": "A"
+      "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple. fashionable again among the Roman Aristocracy. mosaics?",
+      "correct_answer": null
     },
     {
       "question_number": 49,
@@ -737,10 +634,8 @@
         "D": "barracks"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
-      "correct_answer": "C"
+      "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple. fashionable again among the Roman Aristocracy. mosaics?",
+      "correct_answer": null
     },
     {
       "question_number": 50,
@@ -752,10 +647,13 @@
         "D": "basilicae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple.",
-      "correct_answer": "D"
+      "instruction": "temple, but was not completed until the 2nd century A.D. as a ____________ temple. fashionable again among the Roman Aristocracy. mosaics?",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2013,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }

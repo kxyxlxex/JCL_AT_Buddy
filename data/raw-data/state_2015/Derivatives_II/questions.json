@@ -1,21 +1,8 @@
 {
-  "test_info": {
-    "name": "Derivatives_II",
-    "year": "state_2015",
-    "subject": "Derivatives_II",
-    "total_questions": 45,
-    "sections": [
-      "Choose the response which means the same as the underlined word.",
-      "Choose the word derived from the same Latin root as the given word.",
-      "Choose the meaning of the Latin word from which the English word is",
-      "Choose the English word which is derived from the given Latin word.",
-      "Choose the Latin word from which the given English word is derived."
-    ]
-  },
   "questions": [
     {
       "question_number": 1,
-      "question": "Choose the response which means the same as the underlined word. The classicists are studying the nascent civilization of ancient Greece.",
+      "question": "The classicists are studying the nascent civilization of ancient Greece.",
       "options": {
         "A": "intelligent",
         "B": "advanced",
@@ -23,14 +10,12 @@
         "D": "beginning"
       },
       "type": "multiple_choice",
-      "section": "Choose the response which means the same as the underlined word.",
-      "section_context": "Choose the response which means the same as the underlined word.",
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "I. Choose the response which means the same as the underlined word.",
+      "correct_answer": null
     },
     {
       "question_number": 2,
-      "question": "Choose the response which means the same as the underlined word. The answer was conjectured from the facts given in the paper.",
+      "question": "The answer was conjectured from the facts given in the paper.",
       "options": {
         "A": "guessed",
         "B": "proven",
@@ -38,14 +23,12 @@
         "D": "proven false"
       },
       "type": "multiple_choice",
-      "section": "Choose the response which means the same as the underlined word.",
-      "section_context": "Choose the response which means the same as the underlined word.",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "I. Choose the response which means the same as the underlined word.",
+      "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "Choose the response which means the same as the underlined word. A sedentary lifestyle has been linked to a higher risk of heart disease.",
+      "question": "A sedentary lifestyle has been linked to a higher risk of heart disease.",
       "options": {
         "A": "mobile",
         "B": "itinerant",
@@ -53,14 +36,12 @@
         "D": "thrill-seeking"
       },
       "type": "multiple_choice",
-      "section": "Choose the response which means the same as the underlined word.",
-      "section_context": "Choose the response which means the same as the underlined word.",
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "I. Choose the response which means the same as the underlined word.",
+      "correct_answer": null
     },
     {
       "question_number": 4,
-      "question": "Choose the response which means the same as the underlined word. The defendant’s rule of lenity argument was deemed meritorious.",
+      "question": "The defendant’s rule of lenity argument was deemed meritorious.",
       "options": {
         "A": "clemency",
         "B": "ambiguity",
@@ -68,14 +49,12 @@
         "D": "torts"
       },
       "type": "multiple_choice",
-      "section": "Choose the response which means the same as the underlined word.",
-      "section_context": "Choose the response which means the same as the underlined word.",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "I. Choose the response which means the same as the underlined word.",
+      "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "Choose the response which means the same as the underlined word. After years of obloquy from her father, the girl was glad to move in with her mother and step-father.",
+      "question": "After years of obloquy from her father, the girl was glad to move in with her",
       "options": {
         "A": "rigidity",
         "B": "verbal abuse",
@@ -83,14 +62,12 @@
         "D": "permissiveness"
       },
       "type": "multiple_choice",
-      "section": "Choose the response which means the same as the underlined word.",
-      "section_context": "Choose the response which means the same as the underlined word.",
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "I. Choose the response which means the same as the underlined word.",
+      "correct_answer": null
     },
     {
       "question_number": 6,
-      "question": "Choose the response which means the same as the underlined word. Pliny the Elder wrote extensively about horticulture in the 1st century C.E.",
+      "question": "Pliny the Elder wrote extensively about horticulture in the 1st century C.E.",
       "options": {
         "A": "history",
         "B": "philosophy",
@@ -98,14 +75,12 @@
         "D": "arts"
       },
       "type": "multiple_choice",
-      "section": "Choose the response which means the same as the underlined word.",
-      "section_context": "Choose the response which means the same as the underlined word.",
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "I. Choose the response which means the same as the underlined word. mother and step-father.",
+      "correct_answer": null
     },
     {
       "question_number": 7,
-      "question": "Choose the response which means the same as the underlined word. The boys were embarrassed by the profuse laudatory comments by their teacher.",
+      "question": "The boys were embarrassed by the profuse laudatory comments by their",
       "options": {
         "A": "scant",
         "B": "excessive",
@@ -113,14 +88,12 @@
         "D": "inopportune"
       },
       "type": "multiple_choice",
-      "section": "Choose the response which means the same as the underlined word.",
-      "section_context": "Choose the response which means the same as the underlined word.",
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "I. Choose the response which means the same as the underlined word. mother and step-father.",
+      "correct_answer": null
     },
     {
       "question_number": 8,
-      "question": "Choose the response which means the same as the underlined word. It was incumbent upon the president to react very quickly to the threat of such an attack.",
+      "question": "It was incumbent upon the president to react very quickly to the threat of such",
       "options": {
         "A": "necessary for",
         "B": "reckless for",
@@ -128,14 +101,12 @@
         "D": "credible for"
       },
       "type": "multiple_choice",
-      "section": "Choose the response which means the same as the underlined word.",
-      "section_context": "Choose the response which means the same as the underlined word.",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "I. Choose the response which means the same as the underlined word. mother and step-father. teacher.",
+      "correct_answer": null
     },
     {
       "question_number": 9,
-      "question": "Choose the response which means the same as the underlined word. They presented a cogent argument for the passage of the constitutional amendment.",
+      "question": "They presented a cogent argument for the passage of the constitutional",
       "options": {
         "A": "flimsy",
         "B": "serious",
@@ -143,14 +114,12 @@
         "D": "compelling"
       },
       "type": "multiple_choice",
-      "section": "Choose the response which means the same as the underlined word.",
-      "section_context": "Choose the response which means the same as the underlined word.",
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "I. Choose the response which means the same as the underlined word. mother and step-father. teacher. an attack.",
+      "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "Choose the response which means the same as the underlined word. Although he was somnambulant, he never seemed to get into trouble. derived.",
+      "question": "Although he was somnambulant, he never seemed to get into trouble.",
       "options": {
         "A": "defiant",
         "B": "an overeater",
@@ -158,14 +127,12 @@
         "D": "a sleepwalker"
       },
       "type": "multiple_choice",
-      "section": "Choose the response which means the same as the underlined word.",
-      "section_context": "Choose the response which means the same as the underlined word.",
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "I. Choose the response which means the same as the underlined word. mother and step-father. teacher. an attack. amendment.",
+      "correct_answer": null
     },
     {
       "question_number": 11,
-      "question": "Choose the meaning of the Latin word from which the English word is decay",
+      "question": "decay",
       "options": {
         "A": "fall",
         "B": "receive",
@@ -173,14 +140,12 @@
         "D": "dog"
       },
       "type": "multiple_choice",
-      "section": "Choose the meaning of the Latin word from which the English word is",
-      "section_context": "Choose the meaning of the Latin word from which the English word is",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "II. Choose the meaning of the Latin word from which the English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 12,
-      "question": "Choose the meaning of the Latin word from which the English word is cessation",
+      "question": "cessation",
       "options": {
         "A": "learn",
         "B": "hollow",
@@ -188,14 +153,12 @@
         "D": "beware"
       },
       "type": "multiple_choice",
-      "section": "Choose the meaning of the Latin word from which the English word is",
-      "section_context": "Choose the meaning of the Latin word from which the English word is",
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "II. Choose the meaning of the Latin word from which the English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 13,
-      "question": "Choose the meaning of the Latin word from which the English word is renown",
+      "question": "renown",
       "options": {
         "A": "learn",
         "B": "name",
@@ -203,14 +166,12 @@
         "D": "new"
       },
       "type": "multiple_choice",
-      "section": "Choose the meaning of the Latin word from which the English word is",
-      "section_context": "Choose the meaning of the Latin word from which the English word is",
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "II. Choose the meaning of the Latin word from which the English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 14,
-      "question": "Choose the meaning of the Latin word from which the English word is alert",
+      "question": "alert",
       "options": {
         "A": "rule",
         "B": "read",
@@ -218,14 +179,12 @@
         "D": "couch"
       },
       "type": "multiple_choice",
-      "section": "Choose the meaning of the Latin word from which the English word is",
-      "section_context": "Choose the meaning of the Latin word from which the English word is",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "II. Choose the meaning of the Latin word from which the English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "Choose the meaning of the Latin word from which the English word is sociologist",
+      "question": "sociologist",
       "options": {
         "A": "public",
         "B": "mind",
@@ -233,14 +192,12 @@
         "D": "outsider"
       },
       "type": "multiple_choice",
-      "section": "Choose the meaning of the Latin word from which the English word is",
-      "section_context": "Choose the meaning of the Latin word from which the English word is",
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "II. Choose the meaning of the Latin word from which the English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 16,
-      "question": "Choose the meaning of the Latin word from which the English word is controversial",
+      "question": "controversial",
       "options": {
         "A": "make",
         "B": "fear",
@@ -248,14 +205,12 @@
         "D": "word"
       },
       "type": "multiple_choice",
-      "section": "Choose the meaning of the Latin word from which the English word is",
-      "section_context": "Choose the meaning of the Latin word from which the English word is",
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "II. Choose the meaning of the Latin word from which the English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 17,
-      "question": "Choose the meaning of the Latin word from which the English word is viaduct",
+      "question": "viaduct",
       "options": {
         "A": "win",
         "B": "street",
@@ -263,14 +218,12 @@
         "D": "house"
       },
       "type": "multiple_choice",
-      "section": "Choose the meaning of the Latin word from which the English word is",
-      "section_context": "Choose the meaning of the Latin word from which the English word is",
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "II. Choose the meaning of the Latin word from which the English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 18,
-      "question": "Choose the meaning of the Latin word from which the English word is oboe",
+      "question": "oboe",
       "options": {
         "A": "good",
         "B": "owl",
@@ -278,14 +231,12 @@
         "D": "high"
       },
       "type": "multiple_choice",
-      "section": "Choose the meaning of the Latin word from which the English word is",
-      "section_context": "Choose the meaning of the Latin word from which the English word is",
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "II. Choose the meaning of the Latin word from which the English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 19,
-      "question": "Choose the meaning of the Latin word from which the English word is auspice",
+      "question": "auspice",
       "options": {
         "A": "omen",
         "B": "dare",
@@ -293,14 +244,12 @@
         "D": "bird"
       },
       "type": "multiple_choice",
-      "section": "Choose the meaning of the Latin word from which the English word is",
-      "section_context": "Choose the meaning of the Latin word from which the English word is",
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "II. Choose the meaning of the Latin word from which the English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "Choose the meaning of the Latin word from which the English word is congestion",
+      "question": "congestion",
       "options": {
         "A": "carry on",
         "B": "thicken",
@@ -308,14 +257,12 @@
         "D": "crowd"
       },
       "type": "multiple_choice",
-      "section": "Choose the meaning of the Latin word from which the English word is",
-      "section_context": "Choose the meaning of the Latin word from which the English word is",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "II. Choose the meaning of the Latin word from which the English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 21,
-      "question": "Choose the English word which is derived from the given Latin word. gaudeo",
+      "question": "gaudeo",
       "options": {
         "A": "groan",
         "B": "gaudy",
@@ -323,14 +270,12 @@
         "D": "conjoin"
       },
       "type": "multiple_choice",
-      "section": "Choose the English word which is derived from the given Latin word.",
-      "section_context": "Choose the English word which is derived from the given Latin word.",
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "III. Choose the English word which is derived from the given Latin word.",
+      "correct_answer": null
     },
     {
       "question_number": 22,
-      "question": "Choose the English word which is derived from the given Latin word. caput",
+      "question": "caput",
       "options": {
         "A": "mischievous",
         "B": "decoy",
@@ -338,14 +283,12 @@
         "D": "dishevelled"
       },
       "type": "multiple_choice",
-      "section": "Choose the English word which is derived from the given Latin word.",
-      "section_context": "Choose the English word which is derived from the given Latin word.",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "III. Choose the English word which is derived from the given Latin word.",
+      "correct_answer": null
     },
     {
       "question_number": 23,
-      "question": "Choose the English word which is derived from the given Latin word. puto",
+      "question": "puto",
       "options": {
         "A": "impurity",
         "B": "approval",
@@ -353,14 +296,12 @@
         "D": "appoint"
       },
       "type": "multiple_choice",
-      "section": "Choose the English word which is derived from the given Latin word.",
-      "section_context": "Choose the English word which is derived from the given Latin word.",
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "III. Choose the English word which is derived from the given Latin word.",
+      "correct_answer": null
     },
     {
       "question_number": 24,
-      "question": "Choose the English word which is derived from the given Latin word. dens",
+      "question": "dens",
       "options": {
         "A": "condense",
         "B": "dent",
@@ -368,14 +309,12 @@
         "D": "deny"
       },
       "type": "multiple_choice",
-      "section": "Choose the English word which is derived from the given Latin word.",
-      "section_context": "Choose the English word which is derived from the given Latin word.",
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "III. Choose the English word which is derived from the given Latin word.",
+      "correct_answer": null
     },
     {
       "question_number": 25,
-      "question": "Choose the English word which is derived from the given Latin word. domus",
+      "question": "domus",
       "options": {
         "A": "diminution",
         "B": "indomitable",
@@ -383,14 +322,12 @@
         "D": "dungeon"
       },
       "type": "multiple_choice",
-      "section": "Choose the English word which is derived from the given Latin word.",
-      "section_context": "Choose the English word which is derived from the given Latin word.",
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "III. Choose the English word which is derived from the given Latin word.",
+      "correct_answer": null
     },
     {
       "question_number": 26,
-      "question": "Choose the English word which is derived from the given Latin word. cupio",
+      "question": "cupio",
       "options": {
         "A": "covet",
         "B": "coverlet",
@@ -398,14 +335,12 @@
         "D": "comeuppance"
       },
       "type": "multiple_choice",
-      "section": "Choose the English word which is derived from the given Latin word.",
-      "section_context": "Choose the English word which is derived from the given Latin word.",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "III. Choose the English word which is derived from the given Latin word.",
+      "correct_answer": null
     },
     {
       "question_number": 27,
-      "question": "Choose the English word which is derived from the given Latin word. dignitas",
+      "question": "dignitas",
       "options": {
         "A": "digital",
         "B": "dainty",
@@ -413,14 +348,12 @@
         "D": "condone"
       },
       "type": "multiple_choice",
-      "section": "Choose the English word which is derived from the given Latin word.",
-      "section_context": "Choose the English word which is derived from the given Latin word.",
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "III. Choose the English word which is derived from the given Latin word.",
+      "correct_answer": null
     },
     {
       "question_number": 28,
-      "question": "Choose the English word which is derived from the given Latin word. dies",
+      "question": "dies",
       "options": {
         "A": "dirigible",
         "B": "ditty",
@@ -428,14 +361,12 @@
         "D": "journeyman"
       },
       "type": "multiple_choice",
-      "section": "Choose the English word which is derived from the given Latin word.",
-      "section_context": "Choose the English word which is derived from the given Latin word.",
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "III. Choose the English word which is derived from the given Latin word.",
+      "correct_answer": null
     },
     {
       "question_number": 29,
-      "question": "Choose the English word which is derived from the given Latin word. utor",
+      "question": "utor",
       "options": {
         "A": "abstruse",
         "B": "torpor",
@@ -443,14 +374,12 @@
         "D": "torrid"
       },
       "type": "multiple_choice",
-      "section": "Choose the English word which is derived from the given Latin word.",
-      "section_context": "Choose the English word which is derived from the given Latin word.",
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "III. Choose the English word which is derived from the given Latin word.",
+      "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Choose the English word which is derived from the given Latin word. sto",
+      "question": "sto",
       "options": {
         "A": "storage",
         "B": "distress",
@@ -458,14 +387,12 @@
         "D": "bonanza"
       },
       "type": "multiple_choice",
-      "section": "Choose the English word which is derived from the given Latin word.",
-      "section_context": "Choose the English word which is derived from the given Latin word.",
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "III. Choose the English word which is derived from the given Latin word.",
+      "correct_answer": null
     },
     {
       "question_number": 31,
-      "question": "Choose the Latin word from which the given English word is derived. indolent",
+      "question": "indolent",
       "options": {
         "A": "doleo",
         "B": "dolus",
@@ -473,14 +400,12 @@
         "D": "induco"
       },
       "type": "multiple_choice",
-      "section": "Choose the Latin word from which the given English word is derived.",
-      "section_context": "Choose the Latin word from which the given English word is derived.",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "IV. Choose the Latin word from which the given English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 32,
-      "question": "Choose the Latin word from which the given English word is derived. farrior",
+      "question": "farrior",
       "options": {
         "A": "facio",
         "B": "ferrum",
@@ -488,14 +413,12 @@
         "D": "arx"
       },
       "type": "multiple_choice",
-      "section": "Choose the Latin word from which the given English word is derived.",
-      "section_context": "Choose the Latin word from which the given English word is derived.",
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "IV. Choose the Latin word from which the given English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 33,
-      "question": "Choose the Latin word from which the given English word is derived. savor",
+      "question": "savor",
       "options": {
         "A": "salveo",
         "B": "devoro",
@@ -503,14 +426,12 @@
         "D": "vos"
       },
       "type": "multiple_choice",
-      "section": "Choose the Latin word from which the given English word is derived.",
-      "section_context": "Choose the Latin word from which the given English word is derived.",
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "IV. Choose the Latin word from which the given English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 34,
-      "question": "Choose the Latin word from which the given English word is derived. experience",
+      "question": "experience",
       "options": {
         "A": "pereo",
         "B": "perimo",
@@ -518,14 +439,12 @@
         "D": "experior"
       },
       "type": "multiple_choice",
-      "section": "Choose the Latin word from which the given English word is derived.",
-      "section_context": "Choose the Latin word from which the given English word is derived.",
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "IV. Choose the Latin word from which the given English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 35,
-      "question": "Choose the Latin word from which the given English word is derived. festoon",
+      "question": "festoon",
       "options": {
         "A": "orno",
         "B": "sto",
@@ -533,14 +452,12 @@
         "D": "festus"
       },
       "type": "multiple_choice",
-      "section": "Choose the Latin word from which the given English word is derived.",
-      "section_context": "Choose the Latin word from which the given English word is derived.",
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "IV. Choose the Latin word from which the given English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 36,
-      "question": "Choose the Latin word from which the given English word is derived. ravine",
+      "question": "ravine",
       "options": {
         "A": "vinum",
         "B": "rapio",
@@ -548,14 +465,12 @@
         "D": "vinco"
       },
       "type": "multiple_choice",
-      "section": "Choose the Latin word from which the given English word is derived.",
-      "section_context": "Choose the Latin word from which the given English word is derived.",
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "IV. Choose the Latin word from which the given English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 37,
-      "question": "Choose the Latin word from which the given English word is derived. interrogate",
+      "question": "interrogate",
       "options": {
         "A": "rogo",
         "B": "rogus",
@@ -563,14 +478,12 @@
         "D": "rex"
       },
       "type": "multiple_choice",
-      "section": "Choose the Latin word from which the given English word is derived.",
-      "section_context": "Choose the Latin word from which the given English word is derived.",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "IV. Choose the Latin word from which the given English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 38,
-      "question": "Choose the Latin word from which the given English word is derived. prosecute",
+      "question": "prosecute",
       "options": {
         "A": "sequor",
         "B": "seco",
@@ -578,14 +491,12 @@
         "D": "secedo"
       },
       "type": "multiple_choice",
-      "section": "Choose the Latin word from which the given English word is derived.",
-      "section_context": "Choose the Latin word from which the given English word is derived.",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "IV. Choose the Latin word from which the given English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 39,
-      "question": "Choose the Latin word from which the given English word is derived. invective",
+      "question": "invective",
       "options": {
         "A": "vinco",
         "B": "vicus",
@@ -593,14 +504,12 @@
         "D": "verto"
       },
       "type": "multiple_choice",
-      "section": "Choose the Latin word from which the given English word is derived.",
-      "section_context": "Choose the Latin word from which the given English word is derived.",
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "IV. Choose the Latin word from which the given English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "Choose the Latin word from which the given English word is derived. purvey",
+      "question": "purvey",
       "options": {
         "A": "venio",
         "B": "video",
@@ -608,14 +517,12 @@
         "D": "verro"
       },
       "type": "multiple_choice",
-      "section": "Choose the Latin word from which the given English word is derived.",
-      "section_context": "Choose the Latin word from which the given English word is derived.",
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "IV. Choose the Latin word from which the given English word is derived.",
+      "correct_answer": null
     },
     {
       "question_number": 46,
-      "question": "Choose the word derived from the same Latin root as the given word. altar",
+      "question": "altar",
       "options": {
         "A": "unaltered",
         "B": "adulterate",
@@ -623,14 +530,12 @@
         "D": "inertia"
       },
       "type": "multiple_choice",
-      "section": "Choose the word derived from the same Latin root as the given word.",
-      "section_context": "Choose the word derived from the same Latin root as the given word.",
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "VI. Choose the word derived from the same Latin root as the given word.",
+      "correct_answer": null
     },
     {
       "question_number": 47,
-      "question": "Choose the word derived from the same Latin root as the given word. preclude",
+      "question": "preclude",
       "options": {
         "A": "closet",
         "B": "circlet",
@@ -638,14 +543,12 @@
         "D": "allusion"
       },
       "type": "multiple_choice",
-      "section": "Choose the word derived from the same Latin root as the given word.",
-      "section_context": "Choose the word derived from the same Latin root as the given word.",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "VI. Choose the word derived from the same Latin root as the given word.",
+      "correct_answer": null
     },
     {
       "question_number": 48,
-      "question": "Choose the word derived from the same Latin root as the given word. opportunity",
+      "question": "opportunity",
       "options": {
         "A": "portable",
         "B": "purport",
@@ -653,14 +556,12 @@
         "D": "passport"
       },
       "type": "multiple_choice",
-      "section": "Choose the word derived from the same Latin root as the given word.",
-      "section_context": "Choose the word derived from the same Latin root as the given word.",
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "VI. Choose the word derived from the same Latin root as the given word.",
+      "correct_answer": null
     },
     {
       "question_number": 49,
-      "question": "Choose the word derived from the same Latin root as the given word. entertain",
+      "question": "entertain",
       "options": {
         "A": "contaminate",
         "B": "lieutenant",
@@ -668,14 +569,12 @@
         "D": "intense"
       },
       "type": "multiple_choice",
-      "section": "Choose the word derived from the same Latin root as the given word.",
-      "section_context": "Choose the word derived from the same Latin root as the given word.",
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "VI. Choose the word derived from the same Latin root as the given word.",
+      "correct_answer": null
     },
     {
       "question_number": 50,
-      "question": "Choose the word derived from the same Latin root as the given word. prove",
+      "question": "prove",
       "options": {
         "A": "approbation",
         "B": "appropriate",
@@ -683,10 +582,13 @@
         "D": "reproach"
       },
       "type": "multiple_choice",
-      "section": "Choose the word derived from the same Latin root as the given word.",
-      "section_context": "Choose the word derived from the same Latin root as the given word.",
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "VI. Choose the word derived from the same Latin root as the given word.",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2015,
+    "format": "pre_2018",
+    "total_questions": 45
+  }
 }

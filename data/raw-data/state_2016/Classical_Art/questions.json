@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "Classical_Art",
-    "year": "state_2016",
-    "subject": "Classical_Art",
-    "total_questions": 47,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "Red-figure"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image",
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,14 +23,12 @@
         "D": "Kylix"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image",
+      "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "What is this cup called? Image",
+      "question": "What is this cup called?",
       "options": {
         "A": "Dipylon Vase",
         "B": "Bronze Vase from Derveni",
@@ -47,10 +36,8 @@
         "D": "François Vase"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image",
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,14 +49,12 @@
         "D": "Fourth Style"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "Where are these frescoes located? Image",
+      "question": "Where are these frescoes located?",
       "options": {
         "A": "Villa of Mysteries",
         "B": "Domus Aurea",
@@ -77,10 +62,44 @@
         "D": "Villa of Agrippa Postumus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image",
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "In this plan of a Greek temple, identify the pronaos.",
+      "options": {
+        "A": "1",
+        "B": "6",
+        "C": "4 d."
+      },
+      "type": "multiple_choice",
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image",
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "In this plan of a Greek temple, identify the peristyle.",
+      "options": {
+        "A": "5",
+        "B": "2",
+        "C": "8 d."
+      },
+      "type": "multiple_choice",
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image",
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "In this plan of a Greek temple, identify the room in which the statue of the god",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "3 d."
+      },
+      "type": "multiple_choice",
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -92,14 +111,12 @@
         "D": "faience"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image",
+      "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "Where was this statue found? Image",
+      "question": "Where was this statue found?",
       "options": {
         "A": "Crete",
         "B": "Cyclades",
@@ -107,10 +124,8 @@
         "D": "Thebes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image",
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -122,14 +137,12 @@
         "D": "Hera"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 12,
-      "question": "Who among these oversaw this temple’s sculptural decorations? Image",
+      "question": "Who among these oversaw this temple’s sculptural decorations?",
       "options": {
         "A": "Iktinos",
         "B": "Phidias",
@@ -137,14 +150,12 @@
         "D": "Kallikrates"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 13,
-      "question": "This statue, called “Moschophoros,” or “Calf-Bearer,” exemplifies which period of sculpture? Image",
+      "question": "This statue, called “Moschophoros,” or “Calf-Bearer,” exemplifies which period",
       "options": {
         "A": "Cycladic",
         "B": "Archaic",
@@ -152,10 +163,8 @@
         "D": "Hellenistic"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -167,14 +176,12 @@
         "D": "Jason"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image Image of sculpture? Image",
+      "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "Where was this statue discovered? Image",
+      "question": "Where was this statue discovered?",
       "options": {
         "A": "Roman Forum",
         "B": "Baths of Caracalla",
@@ -182,10 +189,8 @@
         "D": "Forum of Trajan"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image Image of sculpture? Image",
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -197,14 +202,12 @@
         "D": "Brutus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image Image of sculpture? Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 17,
-      "question": "What style does this bust exemplify? Image",
+      "question": "What style does this bust exemplify?",
       "options": {
         "A": "Idealism",
         "B": "Illusionism",
@@ -212,10 +215,8 @@
         "D": "Hellenism"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image Image of sculpture? Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -227,10 +228,8 @@
         "D": "3rd c BC"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image Image of sculpture? Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -242,14 +241,12 @@
         "D": "Apollo"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image Image of sculpture? Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "What is this statue made of? Image",
+      "question": "What is this statue made of?",
       "options": {
         "A": "marble",
         "B": "bronze",
@@ -257,10 +254,8 @@
         "D": "wood"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image Image of sculpture? Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -272,14 +267,12 @@
         "D": "Temple of Jupiter Capitolinus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image Image of sculpture? Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 22,
-      "question": "What do we call the scroll-like capitals on Ionic columns? Image",
+      "question": "What do we call the scroll-like capitals on Ionic columns?",
       "options": {
         "A": "Volutes",
         "B": "Acanthus",
@@ -287,10 +280,8 @@
         "D": "Flute"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image Image of sculpture? Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -302,14 +293,12 @@
         "D": "triclinium"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the pictures at the end of the test. Image Image Image was kept. Image Image Image of sculpture? Image Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 24,
-      "question": "In what city was this villa located? Image",
+      "question": "In what city was this villa located?",
       "options": {
         "A": "Rome",
         "B": "Naples",
@@ -317,10 +306,8 @@
         "D": "Pompeii"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "D"
+      "instruction": "which part of the house?",
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -332,14 +319,12 @@
         "D": "Imperial portraiture"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "C"
+      "instruction": "which part of the house? Image",
+      "correct_answer": null
     },
     {
       "question_number": 26,
-      "question": "Which of the following describes the sculptor’s technique for creating this piece? Image",
+      "question": "Which of the following describes the sculptor’s technique for creating this piece?",
       "options": {
         "A": "carving",
         "B": "hollow-casting",
@@ -347,10 +332,8 @@
         "D": "repousée"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "C"
+      "instruction": "which part of the house? Image",
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -362,10 +345,8 @@
         "D": "Sisyphus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "A"
+      "instruction": "which part of the house? Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 28,
@@ -377,14 +358,12 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "D"
+      "instruction": "which part of the house? Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 29,
-      "question": "Where is this villa located? Image",
+      "question": "Where is this villa located?",
       "options": {
         "A": "Rhodes",
         "B": "Sperlonga",
@@ -392,14 +371,12 @@
         "D": "Tarentum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "which part of the house? Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "What is the subject of this vase-painting? The remaining questions are not related to images on the test.",
+      "question": "What is the subject of this vase-painting?",
       "options": {
         "A": "Gigantomachy",
         "B": "Trojan War",
@@ -407,10 +384,8 @@
         "D": "Dacian Wars"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "C"
+      "instruction": "which part of the house? Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 31,
@@ -422,10 +397,8 @@
         "D": "naos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test.",
+      "correct_answer": null
     },
     {
       "question_number": 32,
@@ -437,10 +410,8 @@
         "D": "Arch of Constantine"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test.",
+      "correct_answer": null
     },
     {
       "question_number": 33,
@@ -452,14 +423,12 @@
         "D": "Fourth Style"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "A"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test.",
+      "correct_answer": null
     },
     {
       "question_number": 34,
-      "question": "Which Greek sculptor used mathematical formulas to write a treatise on how to create a perfectly proportioned statue?",
+      "question": "Which Greek sculptor used mathematical formulas to write a treatise on how to",
       "options": {
         "A": "Polydoros",
         "B": "Praxiteles",
@@ -467,14 +436,12 @@
         "D": "Polykleitos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "D"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test.",
+      "correct_answer": null
     },
     {
       "question_number": 35,
-      "question": "The Roman Pantheon, a temple to “all the gods,” is topped by a dome. What is the term for the circular opening at the apex of the dome?",
+      "question": "The Roman Pantheon, a temple to “all the gods,” is topped by a dome. What is",
       "options": {
         "A": "auris",
         "B": "manus",
@@ -482,10 +449,8 @@
         "D": "nasus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "C"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue?",
+      "correct_answer": null
     },
     {
       "question_number": 36,
@@ -497,10 +462,8 @@
         "D": "Lord Elgin"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "A"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome?",
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -512,10 +475,8 @@
         "D": "Composite"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "A"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome?",
+      "correct_answer": null
     },
     {
       "question_number": 38,
@@ -527,10 +488,8 @@
         "D": "Marcus Aurelius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome?",
+      "correct_answer": null
     },
     {
       "question_number": 39,
@@ -542,14 +501,12 @@
         "D": "Temple of Zeus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "D"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome?",
+      "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "What is the term for a bronze “safety-pin”, which was often elaborately decorated?",
+      "question": "What is the term for a bronze “safety-pin”, which was often elaborately",
       "options": {
         "A": "inaures",
         "B": "anulus",
@@ -557,10 +514,8 @@
         "D": "cameo"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "C"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome?",
+      "correct_answer": null
     },
     {
       "question_number": 41,
@@ -572,10 +527,8 @@
         "D": "Pathos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "D"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome? decorated?",
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -587,14 +540,12 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome? decorated?",
+      "correct_answer": null
     },
     {
       "question_number": 43,
-      "question": "Which of the following describes the process of removing all mention of a dishonorable Roman citizen from public monuments?",
+      "question": "Which of the following describes the process of removing all mention of a",
       "options": {
         "A": "damnatio memoriae",
         "B": "spoliation",
@@ -602,10 +553,8 @@
         "D": "largitio"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "A"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome? decorated?",
+      "correct_answer": null
     },
     {
       "question_number": 44,
@@ -617,10 +566,8 @@
         "D": "frieze"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "D"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome? decorated? dishonorable Roman citizen from public monuments?",
+      "correct_answer": null
     },
     {
       "question_number": 45,
@@ -632,10 +579,8 @@
         "D": "Diocletian’s Palace"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "C"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome? decorated? dishonorable Roman citizen from public monuments?",
+      "correct_answer": null
     },
     {
       "question_number": 46,
@@ -647,10 +592,8 @@
         "D": "Red-figure"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "A"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome? decorated? dishonorable Roman citizen from public monuments?",
+      "correct_answer": null
     },
     {
       "question_number": 47,
@@ -662,10 +605,8 @@
         "D": "Kantharos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "B"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome? decorated? dishonorable Roman citizen from public monuments?",
+      "correct_answer": null
     },
     {
       "question_number": 48,
@@ -677,10 +618,8 @@
         "D": "Numidian Marble"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "C"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome? decorated? dishonorable Roman citizen from public monuments?",
+      "correct_answer": null
     },
     {
       "question_number": 49,
@@ -692,10 +631,8 @@
         "D": "308 AD"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "A"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome? decorated? dishonorable Roman citizen from public monuments?",
+      "correct_answer": null
     },
     {
       "question_number": 50,
@@ -707,10 +644,13 @@
         "D": "Lysippus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the pictures at the end of the test.",
-      "correct_answer": "D"
+      "instruction": "which part of the house? Image Image Image The remaining questions are not related to images on the test. create a perfectly proportioned statue? the term for the circular opening at the apex of the dome? decorated? dishonorable Roman citizen from public monuments?",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2016,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }

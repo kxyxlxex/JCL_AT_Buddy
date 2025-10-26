@@ -1,12 +1,17 @@
 {
-  "test_info": {
-    "name": "History_of_the_Empire",
-    "year": "state_2012",
-    "subject": "History_of_the_Empire",
-    "total_questions": 46,
-    "sections": []
-  },
   "questions": [
+    {
+      "question_number": 1,
+      "question": "The tetrarchy began in _________________with the designation of Constantius Chlorus and Galerius as “Caesars.”",
+      "options": {
+        "A": "304",
+        "B": "293",
+        "C": "285 d."
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
     {
       "question_number": 2,
       "question": "The beginning of the Roman Empire is often dated from 27 BC. when",
@@ -17,10 +22,20 @@
         "D": "Sextus Pompey was finally defeated."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "The fist time that Rome had more than one emperor at a time was",
+      "options": {
+        "A": "69",
+        "B": "304",
+        "C": "161 d."
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -32,10 +47,8 @@
         "D": "Vespasian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 5,
@@ -47,10 +60,8 @@
         "D": "Dacia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -62,10 +73,8 @@
         "D": "Caracalla."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -77,10 +86,8 @@
         "D": "Germanicus."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -92,10 +99,8 @@
         "D": "Caesonia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -107,10 +112,8 @@
         "D": "Domitian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -122,10 +125,8 @@
         "D": "Vespasian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -137,10 +138,8 @@
         "D": "Jugurtha"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -152,10 +151,8 @@
         "D": "Augustus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 13,
@@ -167,10 +164,8 @@
         "D": "Iona"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -182,10 +177,8 @@
         "D": "Caligula"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -197,10 +190,8 @@
         "D": "Agrippina the Younger"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -212,10 +203,8 @@
         "D": "Aelius Sejanus."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 17,
@@ -227,10 +216,8 @@
         "D": "Electus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -242,10 +229,8 @@
         "D": "Caracalla."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -257,10 +242,8 @@
         "D": "Otho."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -272,10 +255,8 @@
         "D": "Arrecina"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -287,10 +268,8 @@
         "D": "Marcus Aurelius."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -302,10 +281,8 @@
         "D": "Constantinus II."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -317,10 +294,8 @@
         "D": "Theodosius I"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 24,
@@ -332,10 +307,8 @@
         "D": "Chalons"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -347,10 +320,8 @@
         "D": "Didius Julianus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 26,
@@ -362,10 +333,20 @@
         "D": "Perennis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
+    },
+    {
+      "question_number": 27,
+      "question": "Caracalla extended citizenship to all free men within the borders of the empire in ____________.",
+      "options": {
+        "A": "215",
+        "B": "209",
+        "C": "218 d."
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 28,
@@ -377,10 +358,8 @@
         "D": "Aemilian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -392,10 +371,8 @@
         "D": "Julia Domna."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 30,
@@ -407,10 +384,8 @@
         "D": "Lentulus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 31,
@@ -422,10 +397,8 @@
         "D": "Romulus Augustulus."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 32,
@@ -437,10 +410,8 @@
         "D": "The Battle of Locus Castrorum."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 33,
@@ -452,10 +423,8 @@
         "D": "Decius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 34,
@@ -467,10 +436,8 @@
         "D": "Philip the Arab."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 35,
@@ -482,10 +449,8 @@
         "D": "Lugdunensis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 36,
@@ -497,10 +462,8 @@
         "D": "Laelianus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -512,10 +475,8 @@
         "D": "Valerian."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 38,
@@ -527,10 +488,8 @@
         "D": "Numerian."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 39,
@@ -542,10 +501,20 @@
         "D": "Battle of the Metaurus River"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
+    },
+    {
+      "question_number": 40,
+      "question": "Diocletian and Maximian retired from power in ____.",
+      "options": {
+        "A": "337",
+        "B": "310",
+        "C": "305 d."
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 41,
@@ -557,10 +526,8 @@
         "D": "Shapur II."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -572,10 +539,8 @@
         "D": "Septimius Severus."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 43,
@@ -587,10 +552,8 @@
         "D": "Valentinain I."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 44,
@@ -602,10 +565,8 @@
         "D": "Jovian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 45,
@@ -617,10 +578,8 @@
         "D": "Agrippina the Younger"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 46,
@@ -632,10 +591,8 @@
         "D": "Licinius."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 47,
@@ -647,10 +604,8 @@
         "D": "Gaiseric"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 48,
@@ -662,10 +617,8 @@
         "D": "Naissus."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 49,
@@ -677,10 +630,8 @@
         "D": "Nero"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 50,
@@ -692,10 +643,13 @@
         "D": "Aemilian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2012,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }

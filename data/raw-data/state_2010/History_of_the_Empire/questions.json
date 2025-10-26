@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "History_of_the_Empire",
-    "year": "state_2010",
-    "subject": "History_of_the_Empire",
-    "total_questions": 46,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "Decius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,10 +23,8 @@
         "D": "Vitellius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 3,
@@ -47,10 +36,8 @@
         "D": "Clodia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,8 @@
         "D": "Vespasian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 5,
@@ -77,10 +62,8 @@
         "D": "Julia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -92,10 +75,20 @@
         "D": "L. Flavius Silva"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "What is the total of the number of Julio-Claudian, Flavian, and “Good” emperors?",
+      "options": {
+        "A": "7",
+        "B": "9",
+        "C": "10 d."
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -107,10 +100,8 @@
         "D": "oligarchy"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -122,10 +113,8 @@
         "D": "Aurelian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -137,10 +126,8 @@
         "D": "M. Salviderius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -152,10 +139,8 @@
         "D": "Germanicus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -167,10 +152,8 @@
         "D": "Maxentius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 13,
@@ -182,10 +165,8 @@
         "D": "It extended citizenship to all free inhabitants of the Empire."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -197,10 +178,8 @@
         "D": "Caesennius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -212,10 +191,8 @@
         "D": "They wanted immunity from Roman law"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -227,10 +204,20 @@
         "D": "Aemilius Laetus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
+    },
+    {
+      "question_number": 17,
+      "question": "In what year was the famed Battle of the Milvian Bridge?",
+      "options": {
+        "A": "231",
+        "B": "305",
+        "C": "312 d."
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -242,10 +229,8 @@
         "D": "Quintus Scapula"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -257,10 +242,8 @@
         "D": "Maximinus himself"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -272,10 +255,8 @@
         "D": "Manichaeus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -287,10 +268,8 @@
         "D": "Terentia Albia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -302,10 +281,8 @@
         "D": "Licinius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -317,10 +294,8 @@
         "D": "Maximinus Daia dies"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 24,
@@ -332,10 +307,8 @@
         "D": "strong one"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -347,10 +320,8 @@
         "D": "Aemilianus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 26,
@@ -362,10 +333,8 @@
         "D": "Jovian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -377,10 +346,8 @@
         "D": "Sasan"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -392,10 +359,8 @@
         "D": "uncle-nephew"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 30,
@@ -407,10 +372,8 @@
         "D": "Berenice"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 31,
@@ -422,10 +385,8 @@
         "D": "Tiberius Gemellus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 32,
@@ -437,10 +398,8 @@
         "D": "Crispus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 33,
@@ -452,10 +411,8 @@
         "D": "Crociatonum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 35,
@@ -467,10 +424,8 @@
         "D": "Sucidava"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 36,
@@ -482,10 +437,8 @@
         "D": "Honorius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -497,10 +450,8 @@
         "D": "Antinous"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 38,
@@ -512,14 +463,12 @@
         "D": "Persians"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 39,
-      "question": "Which emperor, who liked his attendants to call him Hercules, was strangled in his bath on the last day of 192?",
+      "question": "Which emperor, who liked his attendants to call him Hercules, was strangled in his bath on the last",
       "options": {
         "A": "Commodus",
         "B": "Pertinax",
@@ -527,10 +476,8 @@
         "D": "Lucius Verus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "settle in Roman territory because of the raids and pressure of what other people?",
+      "correct_answer": null
     },
     {
       "question_number": 40,
@@ -542,10 +489,8 @@
         "D": "9 AD"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "settle in Roman territory because of the raids and pressure of what other people? day of 192?",
+      "correct_answer": null
     },
     {
       "question_number": 41,
@@ -557,10 +502,8 @@
         "D": "Jovian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "settle in Roman territory because of the raids and pressure of what other people? day of 192?",
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -572,10 +515,8 @@
         "D": "Germania"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "settle in Roman territory because of the raids and pressure of what other people? day of 192?",
+      "correct_answer": null
     },
     {
       "question_number": 43,
@@ -587,14 +528,12 @@
         "D": "Plautia Urgulanilla"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "settle in Roman territory because of the raids and pressure of what other people? day of 192?",
+      "correct_answer": null
     },
     {
       "question_number": 44,
-      "question": "What son of Macrinus served as his Caesar for just over a year before being killed along with his father?",
+      "question": "What son of Macrinus served as his Caesar for just over a year before being killed along with his",
       "options": {
         "A": "Celsus",
         "B": "Diadumenianus",
@@ -602,10 +541,8 @@
         "D": "Menapian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "settle in Roman territory because of the raids and pressure of what other people? day of 192?",
+      "correct_answer": null
     },
     {
       "question_number": 45,
@@ -617,14 +554,12 @@
         "D": "Leo I"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "settle in Roman territory because of the raids and pressure of what other people? day of 192? father?",
+      "correct_answer": null
     },
     {
       "question_number": 46,
-      "question": "When Claudius invaded Britain, he actually did so at the invitation of several British chieftains who feared what man’s power?",
+      "question": "When Claudius invaded Britain, he actually did so at the invitation of several British chieftains who",
       "options": {
         "A": "Cunobelinus",
         "B": "Caratacus",
@@ -632,10 +567,8 @@
         "D": "Vaballathus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "settle in Roman territory because of the raids and pressure of what other people? day of 192? father?",
+      "correct_answer": null
     },
     {
       "question_number": 47,
@@ -647,10 +580,8 @@
         "D": "Rambam"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "settle in Roman territory because of the raids and pressure of what other people? day of 192? father? feared what man’s power?",
+      "correct_answer": null
     },
     {
       "question_number": 48,
@@ -662,10 +593,8 @@
         "D": "Dalmatia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "settle in Roman territory because of the raids and pressure of what other people? day of 192? father? feared what man’s power?",
+      "correct_answer": null
     },
     {
       "question_number": 49,
@@ -677,14 +606,12 @@
         "D": "mathematics"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "settle in Roman territory because of the raids and pressure of what other people? day of 192? father? feared what man’s power?",
+      "correct_answer": null
     },
     {
       "question_number": 50,
-      "question": "What Illyrian commander, the military equal of the great Aurelian, was declared emperor by the army of the assassination of the transitory emperor Tacitus?",
+      "question": "What Illyrian commander, the military equal of the great Aurelian, was declared emperor by the",
       "options": {
         "A": "Florianus",
         "B": "Carus",
@@ -692,10 +619,13 @@
         "D": "Probus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "settle in Roman territory because of the raids and pressure of what other people? day of 192? father? feared what man’s power?",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2010,
+    "format": "pre_2018",
+    "total_questions": 48
+  }
 }

@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "Mythology",
-    "year": "state_2015",
-    "subject": "Mythology",
-    "total_questions": 50,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "Mt. Helicon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,10 +23,8 @@
         "D": "Nyx"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 3,
@@ -47,10 +36,8 @@
         "D": "Daffodil"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,8 @@
         "D": "Themis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 5,
@@ -77,10 +62,8 @@
         "D": "Eos & Astraios"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -92,10 +75,8 @@
         "D": "Mopsus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -107,10 +88,8 @@
         "D": "Ascalaphus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -122,10 +101,8 @@
         "D": "Electra"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -137,10 +114,8 @@
         "D": "Polydora"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -152,10 +127,8 @@
         "D": "Tarentum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -167,10 +140,8 @@
         "D": "Euryale"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -182,10 +153,8 @@
         "D": "Orestes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 13,
@@ -197,10 +166,8 @@
         "D": "Eteocles"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -212,10 +179,8 @@
         "D": "Pygmalion"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -227,10 +192,8 @@
         "D": "Eurytion"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -242,10 +205,8 @@
         "D": "Tethys"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 17,
@@ -257,10 +218,8 @@
         "D": "Medea"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -272,10 +231,8 @@
         "D": "Sinis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -287,10 +244,8 @@
         "D": "Thamyris"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -302,10 +257,8 @@
         "D": "Tiberinus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -317,10 +270,8 @@
         "D": "Pontus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -332,10 +283,8 @@
         "D": "Daphne"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -347,10 +296,8 @@
         "D": "Leukippe"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 24,
@@ -362,10 +309,8 @@
         "D": "Iolaus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -377,10 +322,8 @@
         "D": "Cilix"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 26,
@@ -392,10 +335,8 @@
         "D": "Palamades"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -407,10 +348,8 @@
         "D": "Vesta"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 28,
@@ -422,10 +361,8 @@
         "D": "Mantineus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "unleashing the Calydonian Boar, and helping her mother give birth to her brother?",
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -437,14 +374,12 @@
         "D": "Iole"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "unleashing the Calydonian Boar, and helping her mother give birth to her brother?",
+      "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Ignoring the natural order, who fell in love with her own brother, Caunus, forcing him into self-exile when her handmaiden delivered a love note to him?",
+      "question": "Ignoring the natural order, who fell in love with her own brother, Caunus, forcing him",
       "options": {
         "A": "Byblis",
         "B": "Tiphys",
@@ -452,14 +387,12 @@
         "D": "Oenone"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "unleashing the Calydonian Boar, and helping her mother give birth to her brother?",
+      "correct_answer": null
     },
     {
       "question_number": 31,
-      "question": "For having chopped down a tree sacred to Ceres, Famine caused whom to eventually consume nearly everything in his kingdom—even himself?",
+      "question": "For having chopped down a tree sacred to Ceres, Famine caused whom to eventually",
       "options": {
         "A": "Sabazius",
         "B": "Iobates",
@@ -467,10 +400,8 @@
         "D": "Limos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "unleashing the Calydonian Boar, and helping her mother give birth to her brother? into self-exile when her handmaiden delivered a love note to him?",
+      "correct_answer": null
     },
     {
       "question_number": 32,
@@ -482,14 +413,12 @@
         "D": "Lemnos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "unleashing the Calydonian Boar, and helping her mother give birth to her brother? into self-exile when her handmaiden delivered a love note to him? consume nearly everything in his kingdom—even himself?",
+      "correct_answer": null
     },
     {
       "question_number": 33,
-      "question": "Known for being a master thief, what son of Mercury is also the one credited with teaching a young Hercules how to wrestle?",
+      "question": "Known for being a master thief, what son of Mercury is also the one credited with",
       "options": {
         "A": "Autolycus",
         "B": "Eurytus",
@@ -497,10 +426,8 @@
         "D": "Iphitus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "unleashing the Calydonian Boar, and helping her mother give birth to her brother? into self-exile when her handmaiden delivered a love note to him? consume nearly everything in his kingdom—even himself?",
+      "correct_answer": null
     },
     {
       "question_number": 34,
@@ -512,14 +439,12 @@
         "D": "Athena"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "unleashing the Calydonian Boar, and helping her mother give birth to her brother? into self-exile when her handmaiden delivered a love note to him? consume nearly everything in his kingdom—even himself? teaching a young Hercules how to wrestle?",
+      "correct_answer": null
     },
     {
       "question_number": 35,
-      "question": "Who was the princess of Megara who betrayed her father, Nisus, by cutting of his purple lock of hair (that granted him invincibility) and presenting it to Minos?",
+      "question": "Who was the princess of Megara who betrayed her father, Nisus, by cutting of his purple",
       "options": {
         "A": "Iole",
         "B": "Scylla",
@@ -527,14 +452,12 @@
         "D": "Anticleia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "day that Achilles abused it?",
+      "correct_answer": null
     },
     {
       "question_number": 36,
-      "question": "Life After The Iliad, Pt. Three: Clytemnestra, along with her lover, murdered Agamemnon soon after his return to Mycenae. Who was her lover and accomplice?",
+      "question": "Life After The Iliad, Pt. Three: Clytemnestra, along with her lover, murdered",
       "options": {
         "A": "Andromache",
         "B": "Antinous",
@@ -542,14 +465,12 @@
         "D": "Aegisthus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos?",
+      "correct_answer": null
     },
     {
       "question_number": 37,
-      "question": "C.S.I: Iolcus—At it again, Peleus is drawn into a love triangle between Iolcus’ king, Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus?",
+      "question": "C.S.I: Iolcus—At it again, Peleus is drawn into a love triangle between Iolcus’ king,",
       "options": {
         "A": "Anone",
         "B": "Ino",
@@ -557,14 +478,12 @@
         "D": "Iasion"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice?",
+      "correct_answer": null
     },
     {
       "question_number": 38,
-      "question": "3,200-YEAR-OLD SPOILER! At the close of The Iliad, Priam finally convinced Achilles to hand over Hector’s body. How does the book end?",
+      "question": "3,200-YEAR-OLD SPOILER! At the close of The Iliad, Priam finally convinced Achilles to",
       "options": {
         "A": "Achaeans conquer Troy",
         "B": "Priam & Achilles embrace and cry",
@@ -572,14 +491,12 @@
         "D": "Priam declares the war over"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "?"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus?",
+      "correct_answer": null
     },
     {
       "question_number": 39,
-      "question": "When Io wandered into Egypt, she returned to human form and gave birth to what progenitor of Egyptian royalty?",
+      "question": "When Io wandered into Egypt, she returned to human form and gave birth to what",
       "options": {
         "A": "Aegyptus",
         "B": "Memphis",
@@ -587,14 +504,12 @@
         "D": "Dardanus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus? hand over Hector’s body. How does the book end?",
+      "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "What woman was spirited away by Jupiter in the form of a bull and lends her name to a continent?",
+      "question": "What woman was spirited away by Jupiter in the form of a bull and lends her name to a",
       "options": {
         "A": "Antarctica",
         "B": "Asia",
@@ -602,14 +517,12 @@
         "D": "Europa"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus? hand over Hector’s body. How does the book end? progenitor of Egyptian royalty?",
+      "correct_answer": null
     },
     {
       "question_number": 41,
-      "question": "Life After The Iliad, Pt. Four: receiving her comeuppance when Troy fell, which daughter of Priam tricked Achilles into revealing his weakness to her?",
+      "question": "Life After The Iliad, Pt. Four: receiving her comeuppance when Troy fell, which daughter",
       "options": {
         "A": "Polyxena",
         "B": "Astyanax",
@@ -617,10 +530,8 @@
         "D": "Cleopatra"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus? hand over Hector’s body. How does the book end? progenitor of Egyptian royalty? continent?",
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -632,14 +543,12 @@
         "D": "Demophon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus? hand over Hector’s body. How does the book end? progenitor of Egyptian royalty? continent? of Priam tricked Achilles into revealing his weakness to her?",
+      "correct_answer": null
     },
     {
       "question_number": 43,
-      "question": "Who was the Libyan giant whom Hercules defeated by lifting him off the earth (from whom he received his strength)?",
+      "question": "Who was the Libyan giant whom Hercules defeated by lifting him off the earth (from",
       "options": {
         "A": "Athamas",
         "B": "Eurymedon",
@@ -647,14 +556,12 @@
         "D": "Antaeus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus? hand over Hector’s body. How does the book end? progenitor of Egyptian royalty? continent? of Priam tricked Achilles into revealing his weakness to her?",
+      "correct_answer": null
     },
     {
       "question_number": 44,
-      "question": "C.S.I.: Corinth—What hero and future rider of Pegasus murdered a kinsman and therefore set out to atone for his crime?",
+      "question": "C.S.I.: Corinth—What hero and future rider of Pegasus murdered a kinsman and",
       "options": {
         "A": "Ceyx",
         "B": "Meleager",
@@ -662,14 +569,12 @@
         "D": "Asterion"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus? hand over Hector’s body. How does the book end? progenitor of Egyptian royalty? continent? of Priam tricked Achilles into revealing his weakness to her? whom he received his strength)?",
+      "correct_answer": null
     },
     {
       "question_number": 45,
-      "question": "In the Gigantomachy, who was the only giant to survive…because Gaia turned him into a dung beetle?",
+      "question": "In the Gigantomachy, who was the only giant to survive…because Gaia turned him into",
       "options": {
         "A": "Otis",
         "B": "Philoctetes",
@@ -677,10 +582,8 @@
         "D": "Mimas"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus? hand over Hector’s body. How does the book end? progenitor of Egyptian royalty? continent? of Priam tricked Achilles into revealing his weakness to her? whom he received his strength)? therefore set out to atone for his crime?",
+      "correct_answer": null
     },
     {
       "question_number": 46,
@@ -692,14 +595,12 @@
         "D": "Ganymede"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus? hand over Hector’s body. How does the book end? progenitor of Egyptian royalty? continent? of Priam tricked Achilles into revealing his weakness to her? whom he received his strength)? therefore set out to atone for his crime? a dung beetle?",
+      "correct_answer": null
     },
     {
       "question_number": 47,
-      "question": "Atreus murdered his brother’s sons and fed them to him. Who was this uncle of the Atreidai who sired a son by his own daughter to get his revenge upon his brother?",
+      "question": "Atreus murdered his brother’s sons and fed them to him. Who was this uncle of the",
       "options": {
         "A": "Evander",
         "B": "Pleisthenes",
@@ -707,14 +608,12 @@
         "D": "Thyestes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus? hand over Hector’s body. How does the book end? progenitor of Egyptian royalty? continent? of Priam tricked Achilles into revealing his weakness to her? whom he received his strength)? therefore set out to atone for his crime? a dung beetle?",
+      "correct_answer": null
     },
     {
       "question_number": 48,
-      "question": "Which Greek goddess is known for presiding over strategic warfare, handicrafts, and wisdom?",
+      "question": "Which Greek goddess is known for presiding over strategic warfare, handicrafts, and",
       "options": {
         "A": "Persephone",
         "B": "Athena",
@@ -722,14 +621,12 @@
         "D": "Demeter"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus? hand over Hector’s body. How does the book end? progenitor of Egyptian royalty? continent? of Priam tricked Achilles into revealing his weakness to her? whom he received his strength)? therefore set out to atone for his crime? a dung beetle? Atreidai who sired a son by his own daughter to get his revenge upon his brother?",
+      "correct_answer": null
     },
     {
       "question_number": 49,
-      "question": "Life After The Iliad, Part Five: This aged king of Pylos shows up (even more aged) in Homer’s Odyssey instructing Odysseus’ son, Telemachus?",
+      "question": "Life After The Iliad, Part Five: This aged king of Pylos shows up (even more aged) in",
       "options": {
         "A": "Nestor",
         "B": "Idomeneus",
@@ -737,10 +634,8 @@
         "D": "Phoenix"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus? hand over Hector’s body. How does the book end? progenitor of Egyptian royalty? continent? of Priam tricked Achilles into revealing his weakness to her? whom he received his strength)? therefore set out to atone for his crime? a dung beetle? Atreidai who sired a son by his own daughter to get his revenge upon his brother? wisdom?",
+      "correct_answer": null
     },
     {
       "question_number": 50,
@@ -752,10 +647,13 @@
         "D": "Laertes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "day that Achilles abused it? lock of hair (that granted him invincibility) and presenting it to Minos? Agamemnon soon after his return to Mycenae. Who was her lover and accomplice? Acastus, and his queen. After Acastus tries to have him killed by centaurs, Peleus sacks Iolcus and dismembers the queen. Who was this woman murdered by the vengeful Peleus? hand over Hector’s body. How does the book end? progenitor of Egyptian royalty? continent? of Priam tricked Achilles into revealing his weakness to her? whom he received his strength)? therefore set out to atone for his crime? a dung beetle? Atreidai who sired a son by his own daughter to get his revenge upon his brother? wisdom? Homer’s Odyssey instructing Odysseus’ son, Telemachus?",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2015,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }

@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "Classical_Geography",
-    "year": "state_2019",
-    "subject": "Classical_Geography",
-    "total_questions": 34,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "Lutetia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,10 +23,8 @@
         "D": "Salona"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 3,
@@ -47,10 +36,8 @@
         "D": "Portugal"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,8 @@
         "D": "Britain"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 5,
@@ -77,10 +62,8 @@
         "D": "Massilia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -92,10 +75,8 @@
         "D": "Algeria"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -107,10 +88,8 @@
         "D": "Rhenus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -122,10 +101,8 @@
         "D": "Oea"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -137,10 +114,8 @@
         "D": "Iulia Aemona"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -152,10 +127,8 @@
         "D": "Scotland"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -167,10 +140,8 @@
         "D": "Atlas"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -182,10 +153,8 @@
         "D": "northeast"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 13,
@@ -197,10 +166,8 @@
         "D": "northwest"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -212,10 +179,8 @@
         "D": "Thebes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -227,10 +192,8 @@
         "D": "Saguntum, Drepanum, Cyrene, Carthago"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -242,10 +205,8 @@
         "D": "Syria"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 17,
@@ -257,10 +218,8 @@
         "D": "Lusitania"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -272,10 +231,8 @@
         "D": "Tingitana"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -287,10 +244,8 @@
         "D": "Mauretania"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -302,10 +257,8 @@
         "D": "Colonia Junonia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -317,10 +270,8 @@
         "D": "Geography - States 2019 -"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 30,
@@ -332,10 +283,8 @@
         "D": "Questions 31–40 refer to Map 2: Ancient Greece and Asia Minor"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 31,
@@ -347,10 +296,8 @@
         "D": "Athos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 32,
@@ -362,10 +309,8 @@
         "D": "Thessalonika"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 35,
@@ -377,10 +322,8 @@
         "D": "F"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 36,
@@ -392,10 +335,8 @@
         "D": "N"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -407,10 +348,8 @@
         "D": "M"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 38,
@@ -422,10 +361,8 @@
         "D": "Questions 41–50 refer to Map 3: Ancient Rome"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 41,
@@ -437,10 +374,8 @@
         "D": "Viminal"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -452,10 +387,8 @@
         "D": "Aurelian Walls"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 43,
@@ -467,10 +400,8 @@
         "D": "Circus Flaminius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 46,
@@ -482,10 +413,8 @@
         "D": "O"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 47,
@@ -497,14 +426,12 @@
         "D": "B"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     },
     {
       "question_number": 48,
-      "question": "Castra Praetoria Map 1: The Roman Empire (Questions 21–30) Map 2: Ancient Greece and Asia Minor (Questions 31–40) Map 3: Ancient Rome (Questions 41–50)",
+      "question": "Castra Praetoria",
       "options": {
         "A": "2",
         "B": "5",
@@ -512,10 +439,13 @@
         "D": "Geography - States 2019 -"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "Questions 21–30 refer to Map 1: The Roman Empire",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2019,
+    "format": "post_2018",
+    "total_questions": 34
+  }
 }

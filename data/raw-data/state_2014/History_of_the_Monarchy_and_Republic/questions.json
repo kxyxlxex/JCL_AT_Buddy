@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "History_of_the_Monarchy_and_Republic",
-    "year": "state_2014",
-    "subject": "History_of_the_Monarchy_and_Republic",
-    "total_questions": 50,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "Etruscans"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,10 +23,8 @@
         "D": "Mucius Scaevola"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 3,
@@ -47,10 +36,8 @@
         "D": "Alba"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,8 @@
         "D": "Manlius Torquatus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 5,
@@ -77,10 +62,8 @@
         "D": "Cassius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -92,10 +75,8 @@
         "D": "Spartacus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -107,10 +88,8 @@
         "D": "the pugio"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -122,10 +101,8 @@
         "D": "Cornelia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -137,10 +114,8 @@
         "D": "Zama"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -152,10 +127,8 @@
         "D": "Pharnaces"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -167,10 +140,8 @@
         "D": "Rufix"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -182,10 +153,8 @@
         "D": "Ancus Marcius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 13,
@@ -197,10 +166,8 @@
         "D": "Decemviri"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -212,10 +179,8 @@
         "D": "Etruscans"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -227,10 +192,8 @@
         "D": "Antony"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -242,10 +205,8 @@
         "D": "Atilius Catilinus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 17,
@@ -257,10 +218,8 @@
         "D": "Tarpeia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -272,10 +231,8 @@
         "D": "Eumenes II"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -287,10 +244,8 @@
         "D": "Caeso"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -302,10 +257,8 @@
         "D": "aurochses"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -317,10 +270,8 @@
         "D": "Cinna"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -332,10 +283,8 @@
         "D": "Pharsalus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -347,10 +296,8 @@
         "D": "Mettia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 24,
@@ -362,10 +309,8 @@
         "D": "Zephyrus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -377,10 +322,8 @@
         "D": "Archimedes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 26,
@@ -392,10 +335,8 @@
         "D": "Iulia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Syracuse repulse Roman attacks?",
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -407,14 +348,12 @@
         "D": "Hersilia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Syracuse repulse Roman attacks?",
+      "correct_answer": null
     },
     {
       "question_number": 28,
-      "question": "In 222, Marcus Claudius Marcellus defeated which Gallic chieftain to receive that last Spolia Opima?",
+      "question": "In 222, Marcus Claudius Marcellus defeated which Gallic chieftain to receive",
       "options": {
         "A": "Mago",
         "B": "Lar Tolumnius",
@@ -422,10 +361,8 @@
         "D": "Acro"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "Syracuse repulse Roman attacks?",
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -437,10 +374,8 @@
         "D": "Pompey defeats Mithridates"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Syracuse repulse Roman attacks? that last Spolia Opima?",
+      "correct_answer": null
     },
     {
       "question_number": 30,
@@ -452,14 +387,12 @@
         "D": "Rullianus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Syracuse repulse Roman attacks? that last Spolia Opima?",
+      "correct_answer": null
     },
     {
       "question_number": 31,
-      "question": "After which battle in 216 B.C. did Hannibal’s cavalry commander, Maharbal, it?\"",
+      "question": "After which battle in 216 B.C. did Hannibal’s cavalry commander, Maharbal,",
       "options": {
         "A": "Cannae",
         "B": "Lake Trasimene",
@@ -467,14 +400,12 @@
         "D": "Trebia River"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Syracuse repulse Roman attacks? that last Spolia Opima?",
+      "correct_answer": null
     },
     {
       "question_number": 32,
-      "question": "Clodius Pulcher had a vendetta against Cicero following the orator’s use of power in the Catilinarian Conspiracy. Who physically protected Cicero from Pulcher’s gang of thugs?",
+      "question": "Clodius Pulcher had a vendetta against Cicero following the orator’s use of",
       "options": {
         "A": "Atticus",
         "B": "Milo",
@@ -482,14 +413,12 @@
         "D": "Tamphilus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use it?\"",
+      "correct_answer": null
     },
     {
       "question_number": 33,
-      "question": "Which king’s run-in with the Sibyl of Cumae resulted in obtaining only three of the nine Sibylline Books?",
+      "question": "Which king’s run-in with the Sibyl of Cumae resulted in obtaining only three of",
       "options": {
         "A": "Tullus Hostilius",
         "B": "Servius Tullius",
@@ -497,14 +426,12 @@
         "D": "Tarquinius Superbus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use it?\" power in the Catilinarian Conspiracy. Who physically protected Cicero from Pulcher’s gang of thugs?",
+      "correct_answer": null
     },
     {
       "question_number": 34,
-      "question": "What mythological characters are said to have fought for Rome at the Battle of Lake Regillus?",
+      "question": "What mythological characters are said to have fought for Rome at the Battle of",
       "options": {
         "A": "Apollo & Neptune",
         "B": "Achilles & Ajax",
@@ -512,14 +439,12 @@
         "D": "Hercules & Iolaus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use it?\" power in the Catilinarian Conspiracy. Who physically protected Cicero from Pulcher’s gang of thugs? the nine Sibylline Books?",
+      "correct_answer": null
     },
     {
       "question_number": 35,
-      "question": "Caesar’s second invasion of Britain was primarily spent subduing which warlord from north of the Thames?",
+      "question": "Caesar’s second invasion of Britain was primarily spent subduing which warlord",
       "options": {
         "A": "Ariovistus",
         "B": "Orgetorix",
@@ -527,14 +452,12 @@
         "D": "Cassivellaunus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use it?\" power in the Catilinarian Conspiracy. Who physically protected Cicero from Pulcher’s gang of thugs? the nine Sibylline Books? Lake Regillus?",
+      "correct_answer": null
     },
     {
       "question_number": 36,
-      "question": "At the end of the 3rd Punic War, which city became the capital of the new Roman province of Africa?",
+      "question": "At the end of the 3rd Punic War, which city became the capital of the new",
       "options": {
         "A": "Utica",
         "B": "Clupea",
@@ -542,10 +465,8 @@
         "D": "Alexandria"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use it?\" power in the Catilinarian Conspiracy. Who physically protected Cicero from Pulcher’s gang of thugs? the nine Sibylline Books? Lake Regillus? from north of the Thames?",
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -557,14 +478,12 @@
         "D": "Manlius Capitolinus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "remark, “You, Hannibal, know how to gain a victory; you do not know how to use it?\" power in the Catilinarian Conspiracy. Who physically protected Cicero from Pulcher’s gang of thugs? the nine Sibylline Books? Lake Regillus? from north of the Thames? Roman province of Africa?",
+      "correct_answer": null
     },
     {
       "question_number": 38,
-      "question": "At what battle of the Third Samnite War did another Publius Decius Mus perform his devotio?",
+      "question": "At what battle of the Third Samnite War did another Publius Decius Mus",
       "options": {
         "A": "Vesuvius",
         "B": "Lautulae",
@@ -572,14 +491,12 @@
         "D": "Antium"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese?",
+      "correct_answer": null
     },
     {
       "question_number": 39,
-      "question": "What Carthaginian leader, against Hamilcar’s advice, advocated abandonment of the 1st Punic War (he also did the same during the 2nd Punic War!)?",
+      "question": "What Carthaginian leader, against Hamilcar’s advice, advocated abandonment",
       "options": {
         "A": "Hanno",
         "B": "Hasdrubal",
@@ -587,14 +504,12 @@
         "D": "Timoleon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese? perform his devotio?",
+      "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "What Consul was granted power under the first senatus consultum ultimum to go after the followers of C. Gracchus in 121?",
+      "question": "What Consul was granted power under the first senatus consultum ultimum to",
       "options": {
         "A": "M. Octavius",
         "B": "L. Opimius",
@@ -602,10 +517,8 @@
         "D": "Cn. Flavius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese? perform his devotio? of the 1st Punic War (he also did the same during the 2nd Punic War!)?",
+      "correct_answer": null
     },
     {
       "question_number": 41,
@@ -617,10 +530,8 @@
         "D": "Cleopatros"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese? perform his devotio? of the 1st Punic War (he also did the same during the 2nd Punic War!)? go after the followers of",
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -632,14 +543,12 @@
         "D": "Tiberius Gracchus becomes tribune"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese? perform his devotio? of the 1st Punic War (he also did the same during the 2nd Punic War!)? go after the followers of",
+      "correct_answer": null
     },
     {
       "question_number": 43,
-      "question": "After Cannae, which king of Macedon allied himself with Hannibal, thus igniting the concurrent First Macedonian War?",
+      "question": "After Cannae, which king of Macedon allied himself with Hannibal, thus igniting",
       "options": {
         "A": "Eumenides",
         "B": "Pyrrhus",
@@ -647,14 +556,12 @@
         "D": "Philip V"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese? perform his devotio? of the 1st Punic War (he also did the same during the 2nd Punic War!)? go after the followers of",
+      "correct_answer": null
     },
     {
       "question_number": 44,
-      "question": "Of the following, which WAS NOT a tribe whom Camillus was elected dictator to defeat?",
+      "question": "Of the following, which WAS NOT a tribe whom Camillus was elected dictator to",
       "options": {
         "A": "Senones",
         "B": "Iceni",
@@ -662,14 +569,12 @@
         "D": "Aequii"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese? perform his devotio? of the 1st Punic War (he also did the same during the 2nd Punic War!)? go after the followers of the concurrent First Macedonian War?",
+      "correct_answer": null
     },
     {
       "question_number": 45,
-      "question": "At the onset of the 1st Samnite War, what city cleverly forced Rome to protect it from the Samnites by surrending the city entirely to Rome?",
+      "question": "At the onset of the 1st Samnite War, what city cleverly forced Rome to protect it",
       "options": {
         "A": "Capua",
         "B": "Tarentum",
@@ -677,14 +582,12 @@
         "D": "Brundisium"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese? perform his devotio? of the 1st Punic War (he also did the same during the 2nd Punic War!)? go after the followers of the concurrent First Macedonian War? defeat?",
+      "correct_answer": null
     },
     {
       "question_number": 46,
-      "question": "What is the name of the bridge upon which Horatius Cocles made his famous stand?",
+      "question": "What is the name of the bridge upon which Horatius Cocles made his famous",
       "options": {
         "A": "Milvian",
         "B": "Cestius",
@@ -692,10 +595,8 @@
         "D": "Sublician"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese? perform his devotio? of the 1st Punic War (he also did the same during the 2nd Punic War!)? go after the followers of the concurrent First Macedonian War? defeat? from the Samnites by surrending the city entirely to Rome?",
+      "correct_answer": null
     },
     {
       "question_number": 47,
@@ -707,10 +608,8 @@
         "D": "Lex Iulia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese? perform his devotio? of the 1st Punic War (he also did the same during the 2nd Punic War!)? go after the followers of the concurrent First Macedonian War? defeat? from the Samnites by surrending the city entirely to Rome? stand?",
+      "correct_answer": null
     },
     {
       "question_number": 48,
@@ -722,14 +621,12 @@
         "D": "Stolo"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese? perform his devotio? of the 1st Punic War (he also did the same during the 2nd Punic War!)? go after the followers of the concurrent First Macedonian War? defeat? from the Samnites by surrending the city entirely to Rome? stand?",
+      "correct_answer": null
     },
     {
       "question_number": 49,
-      "question": "Who was the Gallic chieftain who first defeated, but was ultimately defeated by Caesar at the Battle of Alesia?",
+      "question": "Who was the Gallic chieftain who first defeated, but was ultimately defeated by",
       "options": {
         "A": "Arminius",
         "B": "Brennus",
@@ -737,14 +634,12 @@
         "D": "Vercingentorix"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese? perform his devotio? of the 1st Punic War (he also did the same during the 2nd Punic War!)? go after the followers of the concurrent First Macedonian War? defeat? from the Samnites by surrending the city entirely to Rome? stand?",
+      "correct_answer": null
     },
     {
       "question_number": 50,
-      "question": "Who was the father of #49 who had tried to unite Celts under one banner and was executed by his own tribesmen for trying to fight Caesar?",
+      "question": "Who was the father of #49 who had tried to unite Celts under one banner and",
       "options": {
         "A": "Celtillus",
         "B": "Luernios",
@@ -752,10 +647,13 @@
         "D": "Congonnetiacus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "They knew to do this because who had heard the honking of Juno’s geese? perform his devotio? of the 1st Punic War (he also did the same during the 2nd Punic War!)? go after the followers of the concurrent First Macedonian War? defeat? from the Samnites by surrending the city entirely to Rome? stand? Caesar at the Battle of Alesia?",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2014,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }

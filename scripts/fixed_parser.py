@@ -18,8 +18,6 @@ def parse_test_file_fixed(test_file_path):
     
     questions = []
     current_question = None
-    current_section = None
-    section_context = None
     current_instruction = None
     question_buffer = []
     
@@ -55,6 +53,7 @@ def parse_test_file_fixed(test_file_path):
                 instruction_text = roman_period_match.group(2).strip()
                 current_section = instruction_text
                 section_context = instruction_text
+                current_instruction = instruction_text  # Also set as instruction for multi-line handling
                 continue
             
             # Check for "Part x)" format (useful section headers with instructions)
@@ -66,6 +65,7 @@ def parse_test_file_fixed(test_file_path):
                     instruction_text = part_match.group(2).strip()
                     current_section = instruction_text
                     section_context = instruction_text
+                    current_instruction = instruction_text  # Also set as instruction for multi-line handling
                 continue
             
             # Skip "Part x – Description" format (2017 style) - these are just dividers, not real sections
@@ -102,12 +102,24 @@ def parse_test_file_fixed(test_file_path):
                 not re.match(r'^\d{4}\s+FJCL\s+State\s+Forum.*\s+-\s*$', line) and  # Not headers ending with space-dash-space
                 not re.match(r'^Part\s+\d+\s*[-–]\s*(.+)$', line) and  # Not "Part x - Description" dividers
                 not re.match(r'^Part\s+(\d+)\)\s*(.+)$', line) and  # Not Part x) lines (handled separately)
-                line.endswith(('.', ':')) and  # Ends with period or colon
                 len(line.split()) > 2 and  # Has multiple words
                 any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions'])):  # Contains instruction keywords
                 
-                # This is an instruction line
+                # This is an instruction line (don't require ending punctuation for multi-line instructions)
                 current_instruction = line
+                continue
+            
+            # Check for multi-line instruction continuation (lines that continue an instruction)
+            if (current_instruction and  # We have a current instruction
+                not re.match(r'^\d+\.', line) and  # Not a question number
+                not re.match(r'^([a-d])\.\s*(.+)$', line) and  # Not an answer option
+                not re.match(r'^\d{4}\s+FJCL\s+State\s+(Latin\s+)?Forum', line) and  # Not a header
+                not re.match(r'^Part\s+(\d+)\)\s*(.+)$', line) and  # Not a Part x) line
+                line.strip() and  # Not empty
+                not any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions'])):  # Not a new instruction
+                
+                # This is a continuation of the current instruction
+                current_instruction += " " + line.strip()
                 continue
             
             # Check for question numbers
@@ -211,12 +223,23 @@ def parse_test_file_fixed(test_file_path):
                 not re.match(r'^\d{4}\s+FJCL\s+State\s+Forum.*-$', line) and  # Not headers ending with dash
                 not re.match(r'^\d{4}\s+FJCL\s+State\s+Forum.*\s+-\s*$', line) and  # Not headers ending with space-dash-space
                 not re.match(r'^Part\s+\d+\s*[-–]\s*(.+)$', line) and  # Not "Part x - Description" dividers
-                line.endswith(('.', ':')) and  # Ends with period or colon
                 len(line.split()) > 2 and  # Has multiple words
                 any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions'])):  # Contains instruction keywords
                 
-                # This is an instruction line
+                # This is an instruction line (don't require ending punctuation for multi-line instructions)
                 current_instruction = line
+                continue
+            
+            # Check for multi-line instruction continuation (lines that continue an instruction)
+            if (current_instruction and  # We have a current instruction
+                not re.match(r'^\d+\.', line) and  # Not a question number
+                not re.match(r'^([A-D])\.\s*(.+)$', line) and  # Not an answer option
+                not re.match(r'^\d{4}\s+FJCL\s+State\s+(Latin\s+)?Forum', line) and  # Not a header
+                line.strip() and  # Not empty
+                not any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions'])):  # Not a new instruction
+                
+                # This is a continuation of the current instruction
+                current_instruction += " " + line.strip()
                 continue
             
             # Check for question numbers

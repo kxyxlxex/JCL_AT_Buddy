@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "Mythology",
-    "year": "state_2011",
-    "subject": "Mythology",
-    "total_questions": 50,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "Hephaestus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,10 +23,8 @@
         "D": "Lycaon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 3,
@@ -47,10 +36,8 @@
         "D": "Hera"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,8 @@
         "D": "Odysseus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 5,
@@ -77,10 +62,8 @@
         "D": "Hesperides"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -92,10 +75,8 @@
         "D": "Delphi"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -107,10 +88,8 @@
         "D": "Pasiphae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -122,10 +101,8 @@
         "D": "Polydectes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -137,10 +114,8 @@
         "D": "Juno"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -152,10 +127,8 @@
         "D": "Belus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -167,10 +140,8 @@
         "D": "Nestor"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -182,10 +153,8 @@
         "D": "Patroclus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 13,
@@ -197,10 +166,8 @@
         "D": "Tyro"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -212,10 +179,8 @@
         "D": "lyre"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -227,10 +192,8 @@
         "D": "Zethus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -242,10 +205,8 @@
         "D": "the Furies"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 17,
@@ -257,10 +218,8 @@
         "D": "He cut down a sacred tree"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -272,10 +231,8 @@
         "D": "Delphi"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -287,10 +244,8 @@
         "D": "Centaurs"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -302,10 +257,8 @@
         "D": "Heracles"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -317,10 +270,8 @@
         "D": "Nike"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -332,10 +283,8 @@
         "D": "Poseidon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -347,10 +296,8 @@
         "D": "Hestia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 24,
@@ -362,10 +309,8 @@
         "D": "Epeius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -377,10 +322,8 @@
         "D": "Iphitus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 26,
@@ -392,10 +335,8 @@
         "D": "Apollo"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -407,10 +348,8 @@
         "D": "Dysaules"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 28,
@@ -422,10 +361,8 @@
         "D": "Parthenopaeus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -437,10 +374,8 @@
         "D": "Ceisus and Phalces"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 30,
@@ -452,10 +387,8 @@
         "D": "Ericthoneus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 31,
@@ -467,10 +400,8 @@
         "D": "Ortygia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 32,
@@ -482,10 +413,8 @@
         "D": "Aegialeus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 33,
@@ -497,10 +426,8 @@
         "D": "Passalus and Acmon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 34,
@@ -512,10 +439,8 @@
         "D": "Virbius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 35,
@@ -527,10 +452,8 @@
         "D": "Procris"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 36,
@@ -542,10 +465,8 @@
         "D": "Acheron"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -557,10 +478,8 @@
         "D": "Oeneus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 38,
@@ -572,10 +491,8 @@
         "D": "Laelaps the hound"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 39,
@@ -587,10 +504,8 @@
         "D": "Poseidon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 40,
@@ -602,10 +517,8 @@
         "D": "Sinis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 41,
@@ -617,10 +530,8 @@
         "D": "Bellona"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -632,10 +543,8 @@
         "D": "Cephalus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 43,
@@ -647,14 +556,12 @@
         "D": "Mars"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "birth—did the king of Ithaca receive the wound on his thigh which later served to identify him?",
+      "correct_answer": null
     },
     {
       "question_number": 44,
-      "question": "What Titan ruled during a golden age in which men lived like gods and death was no more than a sleep, then later became king of the Islands of the Blessed?",
+      "question": "What Titan ruled during a golden age in which men lived like gods and death was no more than a",
       "options": {
         "A": "Cronus",
         "B": "Hyperion",
@@ -662,14 +569,12 @@
         "D": "Oceanus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "grain because it represented the beginning of the crop?",
+      "correct_answer": null
     },
     {
       "question_number": 45,
-      "question": "Against what invaders from Crete, followers of Dionysus called the ‘Women of the Sea’ did Perseus fight and with whom he eventually reached a truce that allowed Dionysus to bury Ariadne in Argos?",
+      "question": "Against what invaders from Crete, followers of Dionysus called the ‘Women of the Sea’ did Perseus",
       "options": {
         "A": "Issedones",
         "B": "Mariandynians",
@@ -677,10 +582,8 @@
         "D": "Plotae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "grain because it represented the beginning of the crop? sleep, then later became king of the Islands of the Blessed?",
+      "correct_answer": null
     },
     {
       "question_number": 46,
@@ -692,14 +595,12 @@
         "D": "Nyctimene"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "grain because it represented the beginning of the crop? sleep, then later became king of the Islands of the Blessed? fight and with whom he eventually reached a truce that allowed Dionysus to bury Ariadne in Argos?",
+      "correct_answer": null
     },
     {
       "question_number": 47,
-      "question": "According to Vergil’s Aeneid, which of the following was NOT one of the heroes hidden in the Trojan horse?",
+      "question": "According to Vergil’s Aeneid, which of the following was NOT one of the heroes hidden in the Trojan",
       "options": {
         "A": "Ulysses",
         "B": "Diomedes",
@@ -707,14 +608,12 @@
         "D": "Pyrrhus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "because of her shame, did Athena pity and change into an owl?",
+      "correct_answer": null
     },
     {
       "question_number": 48,
-      "question": "What woman, born because Aphrodite caused a goddess, Derceto, with a woman’s face and the body of a fish to fall in love with a mortal, was rescued by doves, raised by shepherds, married the king’s advisor Onnes, then married King Ninus after Onnes killed himself, and became queen in her own right after Ninus died?",
+      "question": "What woman, born because Aphrodite caused a goddess, Derceto, with a woman’s face and the",
       "options": {
         "A": "Semiramis",
         "B": "Rhoeo",
@@ -722,14 +621,12 @@
         "D": "Omphale"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "because of her shame, did Athena pity and change into an owl? horse?",
+      "correct_answer": null
     },
     {
       "question_number": 49,
-      "question": "What mortal was taught the lyre by Linus, supposedly taught Homer to sing, and foolishly of his musical talent?",
+      "question": "What mortal was taught the lyre by Linus, supposedly taught Homer to sing, and foolishly",
       "options": {
         "A": "Orpheus",
         "B": "Amphion",
@@ -737,14 +634,12 @@
         "D": "Demodocus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "because of her shame, did Athena pity and change into an owl? horse? body of a fish to fall in love with a mortal, was rescued by doves, raised by shepherds, married the king’s advisor Onnes, then married King Ninus after Onnes killed himself, and became queen in her own right after Ninus died?",
+      "correct_answer": null
     },
     {
       "question_number": 50,
-      "question": "What nobleman exacted revenge on king Demiphon for the unjust death of his own daughters by mixing the king’s daughters’ blood in a bowl with wine and serving it to the king, who when he realized what he had drunk, flung the bowl and the nobleman into the sea?",
+      "question": "What nobleman exacted revenge on king Demiphon for the unjust death of his own daughters by",
       "options": {
         "A": "Mastusius",
         "B": "Icmalius",
@@ -752,10 +647,13 @@
         "D": "Lycoreus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "challenged the Muses to a musical contest which he lost, and as a result, was struck blind and stripped of his musical talent?",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2011,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }

@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "Mythology",
-    "year": "state_2010",
-    "subject": "Mythology",
-    "total_questions": 50,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "Jason"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,10 +23,8 @@
         "D": "Hera"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 3,
@@ -47,10 +36,8 @@
         "D": "talking dog"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,8 @@
         "D": "Ares"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 5,
@@ -77,10 +62,8 @@
         "D": "Fornax"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -92,10 +75,8 @@
         "D": "Cocytus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -107,10 +88,8 @@
         "D": "Psyche"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -122,10 +101,8 @@
         "D": "Iapetus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -137,10 +114,8 @@
         "D": "Sylvanus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -152,10 +127,8 @@
         "D": "Giants"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -167,10 +140,8 @@
         "D": "The invention of the Syrinx pipes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -182,10 +153,8 @@
         "D": "The Styx stopped flowing"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 13,
@@ -197,10 +166,8 @@
         "D": "Paphos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -212,10 +179,8 @@
         "D": "Thoas"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -227,10 +192,8 @@
         "D": "Sisyphus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -242,10 +205,8 @@
         "D": "Medus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 17,
@@ -257,10 +218,8 @@
         "D": "Thespian Lion"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -272,10 +231,8 @@
         "D": "Poseidon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -287,10 +244,8 @@
         "D": "Instantly growing wine, olives, and grain"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -302,10 +257,8 @@
         "D": "Teucer"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -317,10 +270,8 @@
         "D": "Clymene"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -332,10 +283,8 @@
         "D": "Diomedes & Aegialeia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -347,10 +296,8 @@
         "D": "Aeson"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 24,
@@ -362,10 +309,8 @@
         "D": "Hephaestus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -377,10 +322,8 @@
         "D": "Eumenides"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 26,
@@ -392,10 +335,8 @@
         "D": "Polydorus & Ilione"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -407,14 +348,12 @@
         "D": "Alcathoe, Leucippe, & Arsippe"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 28,
-      "question": "According to Euripides’ Orestes, what woman arrived in Argos on the day of Orestes’ trial, only to be charge of matricide?",
+      "question": "According to Euripides’ Orestes, what woman arrived in Argos on the day of Orestes’ trial, only to be",
       "options": {
         "A": "Helen",
         "B": "Polydamna",
@@ -422,10 +361,8 @@
         "D": "Erigone"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -437,14 +374,12 @@
         "D": "She could change men into women"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide?",
+      "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "What king of Troy refused to pay Apollo and Poseidon for building the walls of the city, which resulted in Troy being attacked by a sea monster and a plague?",
+      "question": "What king of Troy refused to pay Apollo and Poseidon for building the walls of the city, which",
       "options": {
         "A": "Priam",
         "B": "Tros",
@@ -452,14 +387,12 @@
         "D": "Laomedon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide?",
+      "correct_answer": null
     },
     {
       "question_number": 31,
-      "question": "What baby with injured feet was exposed on Mt. Cithaeron, found by shepherds, and raised by King Polybus and Queen Merope as their own son?",
+      "question": "What baby with injured feet was exposed on Mt. Cithaeron, found by shepherds, and raised by King",
       "options": {
         "A": "Orchomenus",
         "B": "Opheltes",
@@ -467,14 +400,12 @@
         "D": "Orion"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague?",
+      "correct_answer": null
     },
     {
       "question_number": 32,
-      "question": "Who avenged his son Palamedes’ murder at Troy by causing many wives of Greek heroes to be unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus?",
+      "question": "Who avenged his son Palamedes’ murder at Troy by causing many wives of Greek heroes to be",
       "options": {
         "A": "Nauplius",
         "B": "Palaemon",
@@ -482,10 +413,8 @@
         "D": "Hippocoon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son?",
+      "correct_answer": null
     },
     {
       "question_number": 33,
@@ -497,14 +426,12 @@
         "D": "Thespius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus?",
+      "correct_answer": null
     },
     {
       "question_number": 34,
-      "question": "What daughter of Phorcys and Ceto was the so-called ‘Mother of Monsters,’ because she bore the Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus?",
+      "question": "What daughter of Phorcys and Ceto was the so-called ‘Mother of Monsters,’ because she bore the",
       "options": {
         "A": "Lamia",
         "B": "Echidna",
@@ -512,10 +439,8 @@
         "D": "Delphyne"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus?",
+      "correct_answer": null
     },
     {
       "question_number": 35,
@@ -527,10 +452,8 @@
         "D": "Tartarus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus?",
+      "correct_answer": null
     },
     {
       "question_number": 36,
@@ -542,10 +465,8 @@
         "D": "Apollo"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus?",
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -557,10 +478,8 @@
         "D": "Soranus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus?",
+      "correct_answer": null
     },
     {
       "question_number": 38,
@@ -572,14 +491,12 @@
         "D": "Diomedes & Nestor"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus?",
+      "correct_answer": null
     },
     {
       "question_number": 39,
-      "question": "After the Epigoni marched on and conquered Thebes, to whom did the Argive army turn over the rule of Thebes when they left?",
+      "question": "After the Epigoni marched on and conquered Thebes, to whom did the Argive army turn over the",
       "options": {
         "A": "Alcmeon",
         "B": "Diomedes",
@@ -587,14 +504,12 @@
         "D": "Sthenelus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus?",
+      "correct_answer": null
     },
     {
       "question_number": 40,
-      "question": "What aggressive, meddlesome member of Odysseus’ crew escaped Circe’s pig-spell and caused Odysseus to land on Thrinacia to kill Helius’ cattle?",
+      "question": "What aggressive, meddlesome member of Odysseus’ crew escaped Circe’s pig-spell and caused",
       "options": {
         "A": "Eumolpus",
         "B": "Maron",
@@ -602,14 +517,12 @@
         "D": "Eurylochus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus? rule of Thebes when they left?",
+      "correct_answer": null
     },
     {
       "question_number": 41,
-      "question": "What Thessalian Greek, upon leaving Troy found a chest containing an image of Dionysus, which had been cursed by Cassandra, and which drove him mad?",
+      "question": "What Thessalian Greek, upon leaving Troy found a chest containing an image of Dionysus, which",
       "options": {
         "A": "Eurypylus",
         "B": "Eumaeon",
@@ -617,10 +530,8 @@
         "D": "Epeius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus? rule of Thebes when they left? Odysseus to land on Thrinacia to kill Helius’ cattle?",
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -632,14 +543,12 @@
         "D": "Cercyon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus? rule of Thebes when they left? Odysseus to land on Thrinacia to kill Helius’ cattle? had been cursed by Cassandra, and which drove him mad?",
+      "correct_answer": null
     },
     {
       "question_number": 43,
-      "question": "What nymph, a companion of Artemis, did Minos pursue for nine months, until, in order to avoid his advances, she jumped off a cliff into the sea, but was saved by being caught in fishermen’s nets?",
+      "question": "What nymph, a companion of Artemis, did Minos pursue for nine months, until, in order to avoid his",
       "options": {
         "A": "Britomartis",
         "B": "Chione",
@@ -647,14 +556,12 @@
         "D": "Niobe"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus? rule of Thebes when they left? Odysseus to land on Thrinacia to kill Helius’ cattle? had been cursed by Cassandra, and which drove him mad?",
+      "correct_answer": null
     },
     {
       "question_number": 44,
-      "question": "What Roman god was a deity of fertility and agriculture and was thought to protect crops against diseases? Sacrifices to him would be red in color as that was the color of wheat rust.",
+      "question": "What Roman god was a deity of fertility and agriculture and was thought to protect crops against",
       "options": {
         "A": "Jupiter Indiges",
         "B": "Robigus",
@@ -662,14 +569,12 @@
         "D": "Statanus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus? rule of Thebes when they left? Odysseus to land on Thrinacia to kill Helius’ cattle? had been cursed by Cassandra, and which drove him mad? advances, she jumped off a cliff into the sea, but was saved by being caught in fishermen’s nets?",
+      "correct_answer": null
     },
     {
       "question_number": 45,
-      "question": "What Greek warrior took Helenus, one of Troy’s prophets, as a slave after the Trojan War, and was advised by this seer not to travel home by sea, but to return by land instead?",
+      "question": "What Greek warrior took Helenus, one of Troy’s prophets, as a slave after the Trojan War, and was",
       "options": {
         "A": "Diomedes",
         "B": "Neoptolemus",
@@ -677,10 +582,8 @@
         "D": "Ajax the Lesser"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus? rule of Thebes when they left? Odysseus to land on Thrinacia to kill Helius’ cattle? had been cursed by Cassandra, and which drove him mad? advances, she jumped off a cliff into the sea, but was saved by being caught in fishermen’s nets? diseases? Sacrifices to him would be red in color as that was the color of wheat rust.",
+      "correct_answer": null
     },
     {
       "question_number": 46,
@@ -692,10 +595,8 @@
         "D": "Laertes’ funeral"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus? rule of Thebes when they left? Odysseus to land on Thrinacia to kill Helius’ cattle? had been cursed by Cassandra, and which drove him mad? advances, she jumped off a cliff into the sea, but was saved by being caught in fishermen’s nets? diseases? Sacrifices to him would be red in color as that was the color of wheat rust. advised by this seer not to travel home by sea, but to return by land instead?",
+      "correct_answer": null
     },
     {
       "question_number": 47,
@@ -707,10 +608,8 @@
         "D": "Aetolus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus? rule of Thebes when they left? Odysseus to land on Thrinacia to kill Helius’ cattle? had been cursed by Cassandra, and which drove him mad? advances, she jumped off a cliff into the sea, but was saved by being caught in fishermen’s nets? diseases? Sacrifices to him would be red in color as that was the color of wheat rust. advised by this seer not to travel home by sea, but to return by land instead?",
+      "correct_answer": null
     },
     {
       "question_number": 48,
@@ -722,14 +621,12 @@
         "D": "Limnades"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus? rule of Thebes when they left? Odysseus to land on Thrinacia to kill Helius’ cattle? had been cursed by Cassandra, and which drove him mad? advances, she jumped off a cliff into the sea, but was saved by being caught in fishermen’s nets? diseases? Sacrifices to him would be red in color as that was the color of wheat rust. advised by this seer not to travel home by sea, but to return by land instead?",
+      "correct_answer": null
     },
     {
       "question_number": 49,
-      "question": "According to Ovid, what mortal playmate of the child Zeus was turned into magnetic stone for saying that Zeus was mortal?",
+      "question": "According to Ovid, what mortal playmate of the child Zeus was turned into magnetic stone for",
       "options": {
         "A": "Cerambus",
         "B": "Caunus",
@@ -737,14 +634,12 @@
         "D": "Cebren"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus? rule of Thebes when they left? Odysseus to land on Thrinacia to kill Helius’ cattle? had been cursed by Cassandra, and which drove him mad? advances, she jumped off a cliff into the sea, but was saved by being caught in fishermen’s nets? diseases? Sacrifices to him would be red in color as that was the color of wheat rust. advised by this seer not to travel home by sea, but to return by land instead?",
+      "correct_answer": null
     },
     {
       "question_number": 50,
-      "question": "When he created mankind, Prometheus created a series of clay human prototypes for Zeus’ was the name of this clay proto-human, whom Zeus kidnapped and turned into the planet Jupiter?",
+      "question": "When he created mankind, Prometheus created a series of clay human prototypes for Zeus’",
       "options": {
         "A": "Phaenon",
         "B": "Paraebius",
@@ -752,10 +647,13 @@
         "D": "Hierax"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "taken hostage by Orestes and Pylades when her husband refused to defend his own nephew against the charge of matricide? resulted in Troy being attacked by a sea monster and a plague? Polybus and Queen Merope as their own son? unfaithful, and by destroying many of the returning ships with a false beacon-fire off cape Caphareus? Chimaera, the Hydra, the Sphinx, the Nemean Lion, the Crommyonian Sow, and the eagle that tortured Prometheus? rule of Thebes when they left? Odysseus to land on Thrinacia to kill Helius’ cattle? had been cursed by Cassandra, and which drove him mad? advances, she jumped off a cliff into the sea, but was saved by being caught in fishermen’s nets? diseases? Sacrifices to him would be red in color as that was the color of wheat rust. advised by this seer not to travel home by sea, but to return by land instead? saying that Zeus was mortal?",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2010,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }

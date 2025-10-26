@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "History_of_the_Empire",
-    "year": "state_2013",
-    "subject": "History_of_the_Empire",
-    "total_questions": 47,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "promoted tolerance of Christianity"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,10 +23,8 @@
         "D": "Nero Claudius Caesar Augustus Germanicus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 3,
@@ -47,10 +36,8 @@
         "D": "Elagabalus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,20 @@
         "D": "Cestius’ Bridge"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "The Roman Empire reached its greatest size at the time of Trajan's death in:",
+      "options": {
+        "A": "107",
+        "B": "117",
+        "C": "118 d."
+      },
+      "type": "multiple_choice",
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -77,10 +74,8 @@
         "D": "Petronius Maximus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -92,10 +87,8 @@
         "D": "Ostrogoths"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -107,10 +100,8 @@
         "D": "Five Good Emperors"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -122,10 +113,8 @@
         "D": "Titus'"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -137,10 +126,8 @@
         "D": "Burebistas"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -152,10 +139,8 @@
         "D": "retired to Salona"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -167,14 +152,12 @@
         "D": "Constantine"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 13,
-      "question": "Which emperor, upon taking power, wrote a letter to the Jews of Alexandria declaring his toleration of their way of life?",
+      "question": "Which emperor, upon taking power, wrote a letter to the Jews of Alexandria declaring his toleration",
       "options": {
         "A": "Geta",
         "B": "Marcus Aurelius",
@@ -182,10 +165,8 @@
         "D": "Gordian I"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -197,10 +178,8 @@
         "D": "Gaius Cestius Gallus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "B"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life?",
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -212,10 +191,8 @@
         "D": "Claudius II"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "D"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life?",
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -227,14 +204,12 @@
         "D": "Septimius Severus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life?",
+      "correct_answer": null
     },
     {
       "question_number": 17,
-      "question": "The senior fleet of the imperial navy, given barracks near the Colosseum where it assisted with the naumachia, was stationed in what town?",
+      "question": "The senior fleet of the imperial navy, given barracks near the Colosseum where it assisted with the",
       "options": {
         "A": "Brundisium",
         "B": "Messana",
@@ -242,10 +217,8 @@
         "D": "Misenum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "D"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life?",
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -257,14 +230,12 @@
         "D": "Cispius Daelianus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town?",
+      "correct_answer": null
     },
     {
       "question_number": 19,
-      "question": "Which emperor withdrew the Roman legions from Armenia and Assyria and established the eastern border on the Euphrates River?",
+      "question": "Which emperor withdrew the Roman legions from Armenia and Assyria and established the eastern",
       "options": {
         "A": "Hadrian",
         "B": "Elagabalus",
@@ -272,10 +243,8 @@
         "D": "Lucius Verus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town?",
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -287,10 +256,8 @@
         "D": "plague"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "D"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River?",
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -302,10 +269,8 @@
         "D": "Florian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "C"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River?",
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -317,10 +282,8 @@
         "D": "Ostrogoths"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "B"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River?",
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -332,14 +295,12 @@
         "D": "Mursa"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "B"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River?",
+      "correct_answer": null
     },
     {
       "question_number": 24,
-      "question": "This man was Egypt’s first prefect; an elegist, friend of Augustus, and general who led an expedition against the Ethiopians in 29 B.C.",
+      "question": "This man was Egypt’s first prefect; an elegist, friend of Augustus, and general who led an expedition",
       "options": {
         "A": "Pollio",
         "B": "Gallus",
@@ -347,10 +308,8 @@
         "D": "Tiberius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "B"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River?",
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -362,10 +321,8 @@
         "D": "February"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "B"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C.",
+      "correct_answer": null
     },
     {
       "question_number": 26,
@@ -377,10 +334,8 @@
         "D": "imperium populi"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C.",
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -392,10 +347,20 @@
         "D": "Commodus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C.",
+      "correct_answer": null
+    },
+    {
+      "question_number": 28,
+      "question": "The six-month siege after which Jerusalem was sacked ended in what year?",
+      "options": {
+        "A": "476",
+        "B": "106",
+        "C": "70 d."
+      },
+      "type": "multiple_choice",
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C.",
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -407,14 +372,12 @@
         "D": "Severus Alexander"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "B"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C.",
+      "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "Angry ghosts of the people he threw off a nearby cliff are rumored to have pulled down Tiberius’ statue from his villa in:",
+      "question": "Angry ghosts of the people he threw off a nearby cliff are rumored to have pulled down Tiberius’",
       "options": {
         "A": "Tivoli",
         "B": "Baiae",
@@ -422,10 +385,20 @@
         "D": "Stabiae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "C"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C.",
+      "correct_answer": null
+    },
+    {
+      "question_number": 31,
+      "question": "The traditional date for the founding of the Principate is:",
+      "options": {
+        "A": "27 B.C.",
+        "B": "476",
+        "C": "753 B.C. d."
+      },
+      "type": "multiple_choice",
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in:",
+      "correct_answer": null
     },
     {
       "question_number": 32,
@@ -437,10 +410,8 @@
         "D": "Romulus Augustulus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "C"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in:",
+      "correct_answer": null
     },
     {
       "question_number": 33,
@@ -452,10 +423,8 @@
         "D": "Philip the Arab"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "D"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in:",
+      "correct_answer": null
     },
     {
       "question_number": 34,
@@ -467,10 +436,8 @@
         "D": "Verginius Rufus'"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "D"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in:",
+      "correct_answer": null
     },
     {
       "question_number": 35,
@@ -482,14 +449,12 @@
         "D": "Praetorian Guard"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in:",
+      "correct_answer": null
     },
     {
       "question_number": 36,
-      "question": "Cassius Dio reports the dying words of this emperor were, “Vae, puto deus fio!” (Oh dear, I think I am becoming a god!)",
+      "question": "Cassius Dio reports the dying words of this emperor were, “Vae, puto deus fio!” (Oh dear, I think I",
       "options": {
         "A": "Nero",
         "B": "Caligula",
@@ -497,10 +462,8 @@
         "D": "Vitellius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "C"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in:",
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -512,10 +475,8 @@
         "D": "Valerian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "D"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!)",
+      "correct_answer": null
     },
     {
       "question_number": 38,
@@ -527,10 +488,8 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!)",
+      "correct_answer": null
     },
     {
       "question_number": 39,
@@ -542,10 +501,8 @@
         "D": "Gaius Caesar"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "C"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!)",
+      "correct_answer": null
     },
     {
       "question_number": 40,
@@ -557,14 +514,12 @@
         "D": "Petilius Cerialus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "B"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!)",
+      "correct_answer": null
     },
     {
       "question_number": 41,
-      "question": "Macrinus was defeated at the Battle of Antioch by the forces of Julia Maesa, a wealthy woman who paid the legions of Syria to recognize Elagabalus as emperor. What was Maesa's relationship to the Elagabalus?",
+      "question": "Macrinus was defeated at the Battle of Antioch by the forces of Julia Maesa, a wealthy woman who",
       "options": {
         "A": "mother",
         "B": "aunt",
@@ -572,10 +527,8 @@
         "D": "sister"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "C"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!)",
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -587,10 +540,8 @@
         "D": "Julia Soaemias"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!) paid the legions of Syria to recognize Elagabalus as emperor. What was Maesa's relationship to the Elagabalus?",
+      "correct_answer": null
     },
     {
       "question_number": 43,
@@ -602,10 +553,8 @@
         "D": "Capri"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!) paid the legions of Syria to recognize Elagabalus as emperor. What was Maesa's relationship to the Elagabalus?",
+      "correct_answer": null
     },
     {
       "question_number": 44,
@@ -617,14 +566,12 @@
         "D": "marched on Rome"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "B"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!) paid the legions of Syria to recognize Elagabalus as emperor. What was Maesa's relationship to the Elagabalus?",
+      "correct_answer": null
     },
     {
       "question_number": 45,
-      "question": "Which emperor was strangled to death in his bath at the order of his mistress but at the hands of his favorite wrestling partner, a professional athlete named Narcissus?",
+      "question": "Which emperor was strangled to death in his bath at the order of his mistress but at the hands of his",
       "options": {
         "A": "Commodus",
         "B": "Didius Julianus",
@@ -632,10 +579,8 @@
         "D": "Numerian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!) paid the legions of Syria to recognize Elagabalus as emperor. What was Maesa's relationship to the Elagabalus?",
+      "correct_answer": null
     },
     {
       "question_number": 46,
@@ -647,10 +592,8 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!) paid the legions of Syria to recognize Elagabalus as emperor. What was Maesa's relationship to the Elagabalus? favorite wrestling partner, a professional athlete named Narcissus?",
+      "correct_answer": null
     },
     {
       "question_number": 47,
@@ -662,10 +605,8 @@
         "D": "Livia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "C"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!) paid the legions of Syria to recognize Elagabalus as emperor. What was Maesa's relationship to the Elagabalus? favorite wrestling partner, a professional athlete named Narcissus?",
+      "correct_answer": null
     },
     {
       "question_number": 48,
@@ -677,10 +618,8 @@
         "D": "Zeno"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "D"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!) paid the legions of Syria to recognize Elagabalus as emperor. What was Maesa's relationship to the Elagabalus? favorite wrestling partner, a professional athlete named Narcissus?",
+      "correct_answer": null
     },
     {
       "question_number": 49,
@@ -692,14 +631,12 @@
         "D": "Seneca Minor"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "B"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!) paid the legions of Syria to recognize Elagabalus as emperor. What was Maesa's relationship to the Elagabalus? favorite wrestling partner, a professional athlete named Narcissus?",
+      "correct_answer": null
     },
     {
       "question_number": 50,
-      "question": "What magister militum was responsible for the elevation of the young Valentinain II to the rank co-Augustus?",
+      "question": "What magister militum was responsible for the elevation of the young Valentinain II to the rank",
       "options": {
         "A": "Merobaudes",
         "B": "Allecteus",
@@ -707,10 +644,13 @@
         "D": "Argobast"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "nickname, his referring to the hooded tunic he brought into fashion.",
-      "correct_answer": "A"
+      "instruction": "nickname, his referring to the hooded tunic he brought into fashion. of their way of life? naumachia, was stationed in what town? border on the Euphrates River? against the Ethiopians in 29 B.C. statue from his villa in: am becoming a god!) paid the legions of Syria to recognize Elagabalus as emperor. What was Maesa's relationship to the Elagabalus? favorite wrestling partner, a professional athlete named Narcissus?",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2013,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }

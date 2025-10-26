@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "History_of_the_Monarchy_and_Republic",
-    "year": "state_2009",
-    "subject": "History_of_the_Monarchy_and_Republic",
-    "total_questions": 42,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "Tarquinius Priscus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,10 +23,8 @@
         "D": "Caesar"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 3,
@@ -47,10 +36,8 @@
         "D": "Marius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,8 @@
         "D": "Baecula"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 5,
@@ -77,10 +62,8 @@
         "D": "Aegates Islands"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -92,10 +75,8 @@
         "D": "Verginia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -107,10 +88,8 @@
         "D": "Munda"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -122,10 +101,8 @@
         "D": "Beneventum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -137,10 +114,8 @@
         "D": "Curio"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -152,10 +127,8 @@
         "D": "Gaius Gracchus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -167,10 +140,8 @@
         "D": "Phillip V"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -182,10 +153,8 @@
         "D": "Appius Claudius Caudex"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 13,
@@ -197,10 +166,8 @@
         "D": "Arausio"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -212,10 +179,8 @@
         "D": "Sp. Lucretius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -227,10 +192,8 @@
         "D": "lex Canuleia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -242,10 +205,8 @@
         "D": "Ecnomus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 17,
@@ -257,10 +218,8 @@
         "D": "Sulla"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -272,10 +231,8 @@
         "D": "Vercellae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -287,10 +244,8 @@
         "D": "Q. Caecilius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -302,10 +257,8 @@
         "D": "Cornelius Dollabella"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -317,10 +270,8 @@
         "D": "Nemean"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -332,10 +283,19 @@
         "D": "Saguntum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
+    },
+    {
+      "question_number": 23,
+      "question": "Which general, known as the “Sword of Rome,” sacked Syracuse in 211?",
+      "options": {
+        "A": "Fulvius Flaccus",
+        "B": "Q. Fabius Maximus c."
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 24,
@@ -347,10 +307,8 @@
         "D": "L. Hirtuleius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -362,10 +320,19 @@
         "D": "lex Titia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
+    },
+    {
+      "question_number": 26,
+      "question": "Against which man was the first Senatus Consultum Ultimum directed?",
+      "options": {
+        "A": "Marius",
+        "B": "Cinna c."
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -377,10 +344,8 @@
         "D": "Cassius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 28,
@@ -392,10 +357,8 @@
         "D": "T. Quinctius Flamininus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -407,10 +370,20 @@
         "D": "Tarquinius Priscus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
+    },
+    {
+      "question_number": 30,
+      "question": "What tribune’s death precipitated the outbreak of the Social War?",
+      "options": {
+        "A": "Livius Drusus’",
+        "B": "Saturninus’",
+        "C": "Clodius Pulcher’s d."
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 32,
@@ -422,10 +395,8 @@
         "D": "Antium"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 33,
@@ -437,10 +408,8 @@
         "D": "L. Cornelius Scipio Barbatus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 34,
@@ -452,10 +421,8 @@
         "D": "Licinius Crassus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 35,
@@ -467,10 +434,8 @@
         "D": "Aristonicus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 36,
@@ -482,10 +447,19 @@
         "D": "Cleopatra"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
+    },
+    {
+      "question_number": 37,
+      "question": "In 200 the consul _____________ called for the Comitia Centuriata to declare war on Phillip II. c.",
+      "options": {
+        "A": "M. Porcius Cato",
+        "B": "M. Valerius Messala"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 39,
@@ -497,10 +471,8 @@
         "D": "Salvius’"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 40,
@@ -512,10 +484,8 @@
         "D": "Aesernia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 41,
@@ -527,10 +497,8 @@
         "D": "Jugurtha"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -542,10 +510,8 @@
         "D": "Appius Claudius Caudex"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 43,
@@ -557,10 +523,8 @@
         "D": "Sosigenes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 44,
@@ -572,10 +536,8 @@
         "D": "L. Mummius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 45,
@@ -587,10 +549,8 @@
         "D": "Nicopolis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 46,
@@ -602,14 +562,34 @@
         "D": "Caelian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
+    },
+    {
+      "question_number": 47,
+      "question": "Which of these men was the first plebeian to become censor? a.",
+      "options": {
+        "C": "L. Manlius Torquatus",
+        "D": "L. Sextius"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 48,
+      "question": "After Octavian marched on Rome in 43, who served as his co-consul?",
+      "options": {
+        "A": "Metellus Celer",
+        "B": "Q. Pedius c."
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 49,
-      "question": "Where was C. Triarius defeated by Mithridates in 67?",
+      "question": "Where was",
       "options": {
         "A": "Tigranocerta",
         "B": "Cabira",
@@ -617,10 +597,8 @@
         "D": "Cyzicus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 50,
@@ -632,10 +610,13 @@
         "D": "Cyprus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2009,
+    "format": "pre_2018",
+    "total_questions": 48
+  }
 }

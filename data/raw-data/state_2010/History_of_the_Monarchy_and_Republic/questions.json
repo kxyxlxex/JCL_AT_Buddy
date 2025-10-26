@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "History_of_the_Monarchy_and_Republic",
-    "year": "state_2010",
-    "subject": "History_of_the_Monarchy_and_Republic",
-    "total_questions": 42,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "Servius Tullius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,10 +23,8 @@
         "D": "App. Claudius Caecus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 3,
@@ -47,10 +36,8 @@
         "D": "Genua"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,31 @@
         "D": "Naples"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "In 263 BC, which Roman commander defeated Hiero II in Sicily?",
+      "options": {
+        "A": "App. Claudius Caudex",
+        "B": "M. Atilius Regulus",
+        "C": "Cn. Cornelius Scipio Asina d."
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "Whom did Tiberius Sempronius Longus join at the Trebia River in 218 BC against Hannibal? c.",
+      "options": {
+        "A": "M. Claudius Marcellus",
+        "B": "Q. Fabius Maximus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -77,10 +85,8 @@
         "D": "P. Cornelius Scipio Nasica"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -92,10 +98,8 @@
         "D": "Sardinia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -107,10 +111,8 @@
         "D": "Q. Caecilus Metellus Pius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -122,10 +124,8 @@
         "D": "Manilia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -137,10 +137,20 @@
         "D": "He delivered the Philippic orations against him"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
+    },
+    {
+      "question_number": 13,
+      "question": "In an agreement in 39 BC, who was given Sicily, Sardinia, Corsica, and the southern part of Greece?",
+      "options": {
+        "A": "M. Vipsanius Agrippa b.",
+        "C": "M. Antonius",
+        "D": "Sext. Pompeius Strabo"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 14,
@@ -152,10 +162,8 @@
         "D": "Tarquinius Superbus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -167,10 +175,8 @@
         "D": "P. Valerius Poplicola"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -182,10 +188,8 @@
         "D": "Cavarinus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 17,
@@ -197,10 +201,8 @@
         "D": "Mithridates"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -212,10 +214,8 @@
         "D": "Syracuse"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -227,10 +227,8 @@
         "D": "Hasdrubal (Hamilcar’s son)"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -242,10 +240,8 @@
         "D": "Pydna"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -257,10 +253,8 @@
         "D": "Judaeans"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -272,10 +266,8 @@
         "D": "M. Aemilius Scaurus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -287,10 +279,8 @@
         "D": "Sentinum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Italian social cause?",
+      "correct_answer": null
     },
     {
       "question_number": 24,
@@ -302,10 +292,8 @@
         "D": "L. Licinius Lucullus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "Italian social cause?",
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -317,10 +305,8 @@
         "D": "Edessa"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "Italian social cause?",
+      "correct_answer": null
     },
     {
       "question_number": 26,
@@ -332,10 +318,8 @@
         "D": "Utica"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Italian social cause?",
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -347,10 +331,8 @@
         "D": "Elis"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Italian social cause?",
+      "correct_answer": null
     },
     {
       "question_number": 28,
@@ -362,10 +344,8 @@
         "D": "Corioli"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "Italian social cause?",
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -377,14 +357,12 @@
         "D": "Macedonians and Epirotes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Italian social cause?",
+      "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "After the Roman victory at Sentinum in 295 BC, what tribe took no further part in the Samnite Wars?",
+      "question": "After the Roman victory at Sentinum in 295 BC, what tribe took no further part in the Samnite",
       "options": {
         "A": "Hispanians",
         "B": "Gauls",
@@ -392,14 +370,24 @@
         "D": "Carthaginians"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Italian social cause?",
+      "correct_answer": null
+    },
+    {
+      "question_number": 31,
+      "question": "What Roman made the first invasion of Africa during the First Carthaginian War?",
+      "options": {
+        "A": "P. Claudius Pulcher",
+        "B": "M. Atilius Regulus",
+        "C": "Cn. Pompeius Strabo Magnus d."
+      },
+      "type": "multiple_choice",
+      "instruction": "Italian social cause? Wars?",
+      "correct_answer": null
     },
     {
       "question_number": 32,
-      "question": "What city never fell during wars against both Pyrrhus and Rome, but was ceded to Rome as a provision of the peace treaty at the end of the First Punic War?",
+      "question": "What city never fell during wars against both Pyrrhus and Rome, but was ceded to Rome as a",
       "options": {
         "A": "Agrigentum",
         "B": "Lilybaeum",
@@ -407,14 +395,12 @@
         "D": "Panormus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "Italian social cause? Wars?",
+      "correct_answer": null
     },
     {
       "question_number": 33,
-      "question": "In 197 BC, after succeeding his father Attalus of Pergamum, who begged Flamininus to order Antiochus out of Asia Minor?",
+      "question": "In 197 BC, after succeeding his father Attalus of Pergamum, who begged Flamininus to order",
       "options": {
         "A": "Attalus II",
         "B": "Eumenes II",
@@ -422,14 +408,12 @@
         "D": "Ptolemy II"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War?",
+      "correct_answer": null
     },
     {
       "question_number": 34,
-      "question": "What leader was finally defeated in 148 BC by Q. Caecilius Metellus to end the Fourth Macedonian War?",
+      "question": "What leader was finally defeated in 148 BC by Q. Caecilius Metellus to end the Fourth Macedonian",
       "options": {
         "A": "Andriscus",
         "B": "Demetrius Soter",
@@ -437,10 +421,32 @@
         "D": "Syphax"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor?",
+      "correct_answer": null
+    },
+    {
+      "question_number": 35,
+      "question": "Which of these men was NOT a supporter of Ti. Sempronius Gracchus during his first tribunate?",
+      "options": {
+        "A": "Ap. Claudius Pulcher",
+        "B": "P. Licinius Crassus",
+        "C": "M. Octavius d."
+      },
+      "type": "multiple_choice",
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War?",
+      "correct_answer": null
+    },
+    {
+      "question_number": 36,
+      "question": "Against whom was the Senatus Consultum Ultimum first used?",
+      "options": {
+        "A": "Hannibal b.",
+        "C": "Jugurtha",
+        "D": "L. Saturninus"
+      },
+      "type": "multiple_choice",
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War?",
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -452,10 +458,8 @@
         "D": "Massilia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War?",
+      "correct_answer": null
     },
     {
       "question_number": 38,
@@ -467,10 +471,8 @@
         "D": "He was kidnapped by Cilician pirates"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War?",
+      "correct_answer": null
     },
     {
       "question_number": 39,
@@ -482,14 +484,23 @@
         "D": "Cyrus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War?",
+      "correct_answer": null
+    },
+    {
+      "question_number": 40,
+      "question": "What consul of 495 BC helped push the plebeians to secede due to his strict enforcement of harsh",
+      "options": {
+        "C": "L. Quinctius Cincinnatus",
+        "D": "Appius Claudius"
+      },
+      "type": "multiple_choice",
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War?",
+      "correct_answer": null
     },
     {
       "question_number": 41,
-      "question": "The Samnites were able to focus their full attention on Rome after the defeat of what other enemy in 326 BC?",
+      "question": "The Samnites were able to focus their full attention on Rome after the defeat of what other enemy",
       "options": {
         "A": "Alexander of Epirus",
         "B": "Philip II of Macedon",
@@ -497,14 +508,12 @@
         "D": "Pyrrhus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War? laws? a.",
+      "correct_answer": null
     },
     {
       "question_number": 42,
-      "question": "After his victory at Heraclea, what ambassador and friend did Pyrrhus send to negotiate a peace settlement?",
+      "question": "After his victory at Heraclea, what ambassador and friend did Pyrrhus send to negotiate a peace",
       "options": {
         "A": "Cineas",
         "B": "Agathocles",
@@ -512,10 +521,8 @@
         "D": "Phineas"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War? laws? a. in 326 BC?",
+      "correct_answer": null
     },
     {
       "question_number": 43,
@@ -527,14 +534,12 @@
         "D": "Zacynthos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War? laws? a. in 326 BC? settlement?",
+      "correct_answer": null
     },
     {
       "question_number": 44,
-      "question": "What city reneged on an alliance with Rome after it was weakened by the Gauls in 390 BC before being pacified and defeated by Cincinnatus?",
+      "question": "What city reneged on an alliance with Rome after it was weakened by the Gauls in 390 BC before",
       "options": {
         "A": "Praeneste",
         "B": "Corioli",
@@ -542,10 +547,8 @@
         "D": "Arpinum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War? laws? a. in 326 BC? settlement?",
+      "correct_answer": null
     },
     {
       "question_number": 45,
@@ -557,10 +560,8 @@
         "D": "Lucania"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War? laws? a. in 326 BC? settlement? being pacified and defeated by Cincinnatus?",
+      "correct_answer": null
     },
     {
       "question_number": 46,
@@ -572,14 +573,12 @@
         "D": "Arausio"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War? laws? a. in 326 BC? settlement? being pacified and defeated by Cincinnatus?",
+      "correct_answer": null
     },
     {
       "question_number": 47,
-      "question": "Who, resenting the small war bonus he was given because of his avarice, tried to block L. Aemilius Paullus' triumph in 167 BC?",
+      "question": "Who, resenting the small war bonus he was given because of his avarice, tried to block L. Aemilius",
       "options": {
         "A": "M. Porcius Cato",
         "B": "P. Cornelius Scipio Aemilianus",
@@ -587,10 +586,8 @@
         "D": "Cn. Servilius Caepio"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War? laws? a. in 326 BC? settlement? being pacified and defeated by Cincinnatus?",
+      "correct_answer": null
     },
     {
       "question_number": 48,
@@ -602,14 +599,12 @@
         "D": "Leges Liciniae Sextiae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War? laws? a. in 326 BC? settlement? being pacified and defeated by Cincinnatus? Paullus' triumph in 167 BC?",
+      "correct_answer": null
     },
     {
       "question_number": 49,
-      "question": "Spartacus made an agreement with Cilician pirates to do which of these? C. Iulius Caesar",
+      "question": "Spartacus made an agreement with Cilician pirates to do which of these?",
       "options": {
         "A": "assassinate M. Licinius Crassus",
         "B": "hinder the advancement of Cn. Pompeius Strabo Magnus",
@@ -617,10 +612,8 @@
         "D": "kidnap"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War? laws? a. in 326 BC? settlement? being pacified and defeated by Cincinnatus? Paullus' triumph in 167 BC?",
+      "correct_answer": null
     },
     {
       "question_number": 50,
@@ -632,10 +625,13 @@
         "D": "Tacfarinas"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "Italian social cause? Wars? provision of the peace treaty at the end of the First Punic War? Antiochus out of Asia Minor? War? laws? a. in 326 BC? settlement? being pacified and defeated by Cincinnatus? Paullus' triumph in 167 BC?",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2010,
+    "format": "pre_2018",
+    "total_questions": 49
+  }
 }

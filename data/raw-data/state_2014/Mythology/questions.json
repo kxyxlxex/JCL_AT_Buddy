@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "Mythology",
-    "year": "state_2014",
-    "subject": "Mythology",
-    "total_questions": 48,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,10 +10,8 @@
         "D": "dance"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 2,
@@ -32,10 +23,8 @@
         "D": "Clotho, Lachesis, Atropos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 3,
@@ -47,10 +36,8 @@
         "D": "Agenor"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 4,
@@ -62,10 +49,8 @@
         "D": "spring"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 5,
@@ -77,10 +62,8 @@
         "D": "Zephyr"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 6,
@@ -92,10 +75,8 @@
         "D": "Arethusa"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -107,10 +88,8 @@
         "D": "Poseidon and Iphigenia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 8,
@@ -122,10 +101,8 @@
         "D": "Tantalus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 9,
@@ -137,10 +114,8 @@
         "D": "Thanatos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 10,
@@ -152,10 +127,8 @@
         "D": "Hermes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -167,10 +140,8 @@
         "D": "Juventa"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 12,
@@ -182,10 +153,8 @@
         "D": "Butes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 13,
@@ -197,14 +166,12 @@
         "D": "Sinon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 14,
-      "question": "Who fed Diomedes to his own man-eating mares? 2014 FJCL State Forum Mythology -",
+      "question": "Who fed Diomedes to his own man-eating mares?",
       "options": {
         "A": "Iolaus",
         "B": "Myrtilus",
@@ -212,10 +179,8 @@
         "D": "Heracles"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 15,
@@ -227,10 +192,8 @@
         "D": "Palamedes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -242,10 +205,20 @@
         "D": "Naxos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
+    },
+    {
+      "question_number": 17,
+      "question": "Which of these was Aeneas’ ally in the Italian war?",
+      "options": {
+        "A": "Evander",
+        "B": "Turnus",
+        "C": "Camilla"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -257,10 +230,8 @@
         "D": "Calais"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 19,
@@ -272,10 +243,8 @@
         "D": "Parthenopaeus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 20,
@@ -287,10 +256,8 @@
         "D": "Lynceus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 21,
@@ -302,10 +269,8 @@
         "D": "Orpheus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 22,
@@ -317,10 +282,8 @@
         "D": "Amphitryon"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 23,
@@ -332,10 +295,8 @@
         "D": "buried alive"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 24,
@@ -347,10 +308,8 @@
         "D": "Thoas"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -362,10 +321,8 @@
         "D": "Helios"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 26,
@@ -377,10 +334,8 @@
         "D": "Euphemus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -392,14 +347,12 @@
         "D": "Symphalus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": null,
-      "correct_answer": "B"
+      "correct_answer": null
     },
     {
       "question_number": 28,
-      "question": "Which of the following was NOT a judge in Hades? 2014 FJCL State Forum Mythology -",
+      "question": "Which of the following was NOT a judge in Hades?",
       "options": {
         "A": "Charon",
         "B": "Rhadamanthys",
@@ -407,10 +360,8 @@
         "D": "Aeacus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Argive river god?",
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -422,10 +373,8 @@
         "D": "Dionysus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Argive river god?",
+      "correct_answer": null
     },
     {
       "question_number": 30,
@@ -437,10 +386,8 @@
         "D": "Dolopes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Argive river god?",
+      "correct_answer": null
     },
     {
       "question_number": 31,
@@ -452,10 +399,8 @@
         "D": "Rhea Silvia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Argive river god?",
+      "correct_answer": null
     },
     {
       "question_number": 32,
@@ -467,10 +412,8 @@
         "D": "Laestrygoinans, Polyphemus, Lotus Eaters, Circe, Calypso"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "Argive river god?",
+      "correct_answer": null
     },
     {
       "question_number": 33,
@@ -482,14 +425,12 @@
         "D": "Clytie and Helios"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "Argive river god?",
+      "correct_answer": null
     },
     {
       "question_number": 34,
-      "question": "What river became known as the Evenus after the father of Marpessa drowned himself in it?",
+      "question": "What river became known as the Evenus after the father of Marpessa drowned",
       "options": {
         "A": "Cephissus",
         "B": "Anaurus",
@@ -497,10 +438,8 @@
         "D": "Maeander"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "C"
+      "instruction": "Argive river god?",
+      "correct_answer": null
     },
     {
       "question_number": 35,
@@ -512,10 +451,8 @@
         "D": "Moirae"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Argive river god? himself in it?",
+      "correct_answer": null
     },
     {
       "question_number": 36,
@@ -527,10 +464,8 @@
         "D": "Argus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "D"
+      "instruction": "Argive river god? himself in it?",
+      "correct_answer": null
     },
     {
       "question_number": 37,
@@ -542,10 +477,20 @@
         "D": "Because he was invulnerable"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "A"
+      "instruction": "Argive river god? himself in it?",
+      "correct_answer": null
+    },
+    {
+      "question_number": 38,
+      "question": "What two men, the brothers of Briseïs, did Achilles kill when he sacked",
+      "options": {
+        "A": "Maeon and Polyphontes",
+        "B": "Mynes and Epistrophus",
+        "C": "Cteatus and Eurytus"
+      },
+      "type": "multiple_choice",
+      "instruction": "Argive river god? himself in it?",
+      "correct_answer": null
     },
     {
       "question_number": 39,
@@ -557,10 +502,8 @@
         "D": "Furies"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": null,
-      "correct_answer": "B"
+      "instruction": "Argive river god? himself in it? Lyrnessus?",
+      "correct_answer": null
     },
     {
       "question_number": 40,
@@ -572,14 +515,12 @@
         "D": "Athena"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "are usually referred to by their Greek names, or by their group name, the:",
-      "correct_answer": "D"
+      "correct_answer": null
     },
     {
       "question_number": 41,
-      "question": "What squire of Idomenus was second-in-command of the Cretans at Troy? 2014 FJCL State Forum Mythology -",
+      "question": "What squire of Idomenus was second-in-command of the Cretans at Troy?",
       "options": {
         "A": "Ialmenus",
         "B": "Leucas",
@@ -587,10 +528,8 @@
         "D": "Amphidamus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "are usually referred to by their Greek names, or by their group name, the:",
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -602,14 +541,12 @@
         "D": "Simois"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "are usually referred to by their Greek names, or by their group name, the:",
-      "correct_answer": "C"
+      "correct_answer": null
     },
     {
       "question_number": 43,
-      "question": "Who won the archery contest at the funeral games of Anchises when his arrow burst into flame?",
+      "question": "Who won the archery contest at the funeral games of Anchises when his arrow",
       "options": {
         "A": "Acestes",
         "B": "Nisus",
@@ -617,10 +554,8 @@
         "D": "Entellus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
       "instruction": "are usually referred to by their Greek names, or by their group name, the:",
-      "correct_answer": "A"
+      "correct_answer": null
     },
     {
       "question_number": 44,
@@ -632,14 +567,12 @@
         "D": "Oebalus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "are usually referred to by their Greek names, or by their group name, the:",
-      "correct_answer": "C"
+      "instruction": "are usually referred to by their Greek names, or by their group name, the: burst into flame?",
+      "correct_answer": null
     },
     {
       "question_number": 45,
-      "question": "What Thespian youth offered to sacrifice himself to a dragon in order to save his lover?",
+      "question": "What Thespian youth offered to sacrifice himself to a dragon in order to save",
       "options": {
         "A": "Melanippus",
         "B": "Menestratus",
@@ -647,14 +580,12 @@
         "D": "Menoeceus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "are usually referred to by their Greek names, or by their group name, the:",
-      "correct_answer": "B"
+      "instruction": "are usually referred to by their Greek names, or by their group name, the: burst into flame?",
+      "correct_answer": null
     },
     {
       "question_number": 46,
-      "question": "To what god of the Getae did the Thracians sacrifice a man every year by flinging him onto three spears?",
+      "question": "To what god of the Getae did the Thracians sacrifice a man every year by",
       "options": {
         "A": "Carnabon",
         "B": "Ktesios",
@@ -662,10 +593,8 @@
         "D": "Consus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "are usually referred to by their Greek names, or by their group name, the:",
-      "correct_answer": "C"
+      "instruction": "are usually referred to by their Greek names, or by their group name, the: burst into flame? his lover?",
+      "correct_answer": null
     },
     {
       "question_number": 47,
@@ -677,14 +606,12 @@
         "D": "Diomedes & Nestor"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "are usually referred to by their Greek names, or by their group name, the:",
-      "correct_answer": "C"
+      "instruction": "are usually referred to by their Greek names, or by their group name, the: burst into flame? his lover? flinging him onto three spears?",
+      "correct_answer": null
     },
     {
       "question_number": 48,
-      "question": "She was a daughter of Oceanus and, together with the Telchines, she brought up the infant Poseidon on the island of Rhodes.",
+      "question": "She was a daughter of Oceanus and, together with the Telchines, she brought",
       "options": {
         "A": "Macris",
         "B": "Hiera",
@@ -692,14 +619,12 @@
         "D": "Capheira"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "are usually referred to by their Greek names, or by their group name, the:",
-      "correct_answer": "D"
+      "instruction": "are usually referred to by their Greek names, or by their group name, the: burst into flame? his lover? flinging him onto three spears?",
+      "correct_answer": null
     },
     {
       "question_number": 49,
-      "question": "During a dangerous night expedition in the Iliad, two Greek soldiers captured and killed which Trojan spy?",
+      "question": "During a dangerous night expedition in the Iliad, two Greek soldiers captured",
       "options": {
         "A": "Memnon",
         "B": "Troilus",
@@ -707,10 +632,8 @@
         "D": "Rhesus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "are usually referred to by their Greek names, or by their group name, the:",
-      "correct_answer": "C"
+      "instruction": "are usually referred to by their Greek names, or by their group name, the: burst into flame? his lover? flinging him onto three spears? up the infant Poseidon on the island of Rhodes.",
+      "correct_answer": null
     },
     {
       "question_number": 50,
@@ -722,10 +645,13 @@
         "D": "Deiphobe"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "are usually referred to by their Greek names, or by their group name, the:",
-      "correct_answer": "A"
+      "instruction": "are usually referred to by their Greek names, or by their group name, the: burst into flame? his lover? flinging him onto three spears? up the infant Poseidon on the island of Rhodes. and killed which Trojan spy?",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2014,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }

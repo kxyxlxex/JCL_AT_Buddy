@@ -1,11 +1,4 @@
 {
-  "test_info": {
-    "name": "Classical_Art",
-    "year": "state_2014",
-    "subject": "Classical_Art",
-    "total_questions": 48,
-    "sections": []
-  },
   "questions": [
     {
       "question_number": 1,
@@ -17,14 +10,12 @@
         "D": "Ajax battling Hector"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image",
+      "correct_answer": null
     },
     {
       "question_number": 2,
-      "question": "Identify the painter, famous for his black-figure vase-paintings with strong themes of tragedy and pathos. Image",
+      "question": "Identify the painter, famous for his black-figure vase-paintings with strong",
       "options": {
         "A": "the Andokides painter",
         "B": "Euphronias",
@@ -32,14 +23,12 @@
         "D": "Exekias"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the images on the screen. Image",
+      "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "What part of the Parthenon did this low-relief sculpture belong? Image",
+      "question": "What part of the Parthenon did this low-relief sculpture belong?",
       "options": {
         "A": "South Metopes",
         "B": "the Frieze",
@@ -47,14 +36,12 @@
         "D": "East Metopes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image",
+      "correct_answer": null
     },
     {
       "question_number": 4,
-      "question": "This painting commemorates riots that broke out in what city’s amphitheatre in 59 AD after a gladiatorial fight with a rival city got out of hand? Image",
+      "question": "This painting commemorates riots that broke out in what city’s amphitheatre in",
       "options": {
         "A": "Pompeii",
         "B": "Neapolis",
@@ -62,14 +49,12 @@
         "D": "Surrentum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "While the image shows a husband and wife reclining on their marriage bed, what was the function of the object in the image?",
+      "question": "While the image shows a husband and wife reclining on their marriage bed,",
       "options": {
         "A": "apotropaic votive",
         "B": "religious dedication",
@@ -77,14 +62,12 @@
         "D": "sarcophagus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image",
+      "correct_answer": null
     },
     {
       "question_number": 6,
-      "question": "What people created the object? Image",
+      "question": "What people created the object?",
       "options": {
         "A": "Samnites",
         "B": "Etruscans",
@@ -92,10 +75,8 @@
         "D": "Umbri"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image?",
+      "correct_answer": null
     },
     {
       "question_number": 7,
@@ -107,14 +88,12 @@
         "D": "Akrotiri"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image",
+      "correct_answer": null
     },
     {
       "question_number": 8,
-      "question": "What event preserved the wall painting Image",
+      "question": "What event preserved the wall painting",
       "options": {
         "A": "mudslide",
         "B": "palace fire",
@@ -122,14 +101,12 @@
         "D": "collapse of the building into the ocean"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image",
+      "correct_answer": null
     },
     {
       "question_number": 9,
-      "question": "This structure, which formed the entrance to the Acropolis, is called the Image 2014 FJCL State Forum – Classical Art -",
+      "question": "This structure, which formed the entrance to the Acropolis, is called the",
       "options": {
         "A": "Propylaia",
         "B": "Parthenon",
@@ -137,14 +114,12 @@
         "D": "Kerameikos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 10,
-      "question": "This statue of Hermes and Dionysos is controversially attributed to which 4th century Athenian sculptor? Image",
+      "question": "This statue of Hermes and Dionysos is controversially attributed to which 4th",
       "options": {
         "A": "Skopas",
         "B": "Praxiteles",
@@ -152,10 +127,8 @@
         "D": "Kephisodotos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 11,
@@ -167,14 +140,35 @@
         "D": "Apollo of Chiusi"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image",
+      "correct_answer": null
+    },
+    {
+      "question_number": 12,
+      "question": "Where in the vicinity of an Etruscan temple would this statue have been",
+      "options": {
+        "A": "at the entrance",
+        "B": "inside",
+        "C": "on"
+      },
+      "type": "multiple_choice",
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image",
+      "correct_answer": null
+    },
+    {
+      "question_number": 13,
+      "question": "What battle is likely shown in this mosaic?",
+      "options": {
+        "A": "Battle of Granicus",
+        "B": "Battle of the Persian Gate c."
+      },
+      "type": "multiple_choice",
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image",
+      "correct_answer": null
     },
     {
       "question_number": 14,
-      "question": "To what style of Greek vase painting is this scene by the Dipylon Master attributed?",
+      "question": "To what style of Greek vase painting is this scene by the Dipylon Master",
       "options": {
         "A": "LHIII",
         "B": "Geometric",
@@ -182,14 +176,12 @@
         "D": "Black-Figure"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image",
+      "correct_answer": null
     },
     {
       "question_number": 15,
-      "question": "What traditional scene is being depicted? Image",
+      "question": "What traditional scene is being depicted?",
       "options": {
         "A": "prothesis",
         "B": "ekphora",
@@ -197,10 +189,8 @@
         "D": "psychopomp"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed?",
+      "correct_answer": null
     },
     {
       "question_number": 16,
@@ -212,14 +202,12 @@
         "D": "tablinum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image",
+      "correct_answer": null
     },
     {
       "question_number": 17,
-      "question": "In a traditional patrician house, what room is designated by the blue number 2? Image",
+      "question": "In a traditional patrician house, what room is designated by the blue number",
       "options": {
         "A": "atrium",
         "B": "vestibulum",
@@ -227,10 +215,8 @@
         "D": "tablinum"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image",
+      "correct_answer": null
     },
     {
       "question_number": 18,
@@ -242,14 +228,12 @@
         "D": "alai"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image",
+      "correct_answer": null
     },
     {
       "question_number": 19,
-      "question": "What does the central figure represent? Image",
+      "question": "What does the central figure represent?",
       "options": {
         "A": "patron god of the household",
         "B": "Vesta",
@@ -257,14 +241,12 @@
         "D": "the spirit of the household"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image",
+      "correct_answer": null
     },
     {
       "question_number": 20,
-      "question": "Which emperor is honored by this column? 2014 FJCL State Forum – Classical Art -",
+      "question": "Which emperor is honored by this column?",
       "options": {
         "A": "Trajan",
         "B": "Augustus",
@@ -272,14 +254,12 @@
         "D": "Marcus Aurelius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 21,
-      "question": "What figure currently stands atop this column? Image",
+      "question": "What figure currently stands atop this column?",
       "options": {
         "A": "Jupiter",
         "B": "Trajan",
@@ -287,14 +267,12 @@
         "D": "St. Stephen"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 22,
-      "question": "This famous stoa in Athens, named for the paintings it held, is called the Stoa ____________.",
+      "question": "This famous stoa in Athens, named for the paintings it held, is called the Stoa",
       "options": {
         "A": "Chromatos",
         "B": "Aglaou",
@@ -302,14 +280,12 @@
         "D": "Poikile"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 23,
-      "question": "This stoa gave its name to ______________. Image",
+      "question": "This stoa gave its name to ______________.",
       "options": {
         "A": "a style of architecture",
         "B": "a school of philosophy",
@@ -317,14 +293,12 @@
         "D": "a style of painting"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________.",
+      "correct_answer": null
     },
     {
       "question_number": 24,
-      "question": "From what region does this famous bronze chimera come? Image",
+      "question": "From what region does this famous bronze chimera come?",
       "options": {
         "A": "Dalmatia",
         "B": "Ostia",
@@ -332,10 +306,8 @@
         "D": "Sicily"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image",
+      "correct_answer": null
     },
     {
       "question_number": 25,
@@ -347,14 +319,12 @@
         "D": "Fourth Style"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 26,
-      "question": "What was NOT a feature of this wall painting style? Image",
+      "question": "What was NOT a feature of this wall painting style?",
       "options": {
         "A": "popular in the mid-1st century AD",
         "B": "strong architectural themes",
@@ -362,10 +332,8 @@
         "D": "rejection of a linear perspective"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 27,
@@ -377,14 +345,12 @@
         "D": "Francois Vase"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 28,
-      "question": "What makes this olpe so famous? Image",
+      "question": "What makes this olpe so famous?",
       "options": {
         "A": "earliest use of multiple colors in a vase painting",
         "B": "earliest representation of a religious procession",
@@ -392,10 +358,8 @@
         "D": "earliest use of using multiple bands on a single vase to tell multiple stories"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 29,
@@ -407,14 +371,12 @@
         "D": "Malia"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 30,
-      "question": "What script is represented on the disc 2014 FJCL State Forum – Classical Art - Image",
+      "question": "What script is represented on the disc",
       "options": {
         "A": "Linear A",
         "B": "Linear B",
@@ -422,14 +384,12 @@
         "D": "Unknown"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 31,
-      "question": "What is this carved gem, commemorating the transfer of power from Augustus to Tiberius, called?",
+      "question": "What is this carved gem, commemorating the transfer of power from Augustus",
       "options": {
         "A": "Gemma Augustea",
         "B": "Gemma Romana",
@@ -437,14 +397,12 @@
         "D": "Gemma Tiberii"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 32,
-      "question": "What material is the carved gem made from? Image",
+      "question": "What material is the carved gem made from?",
       "options": {
         "A": "Obsidian",
         "B": "Lapis Lazuli",
@@ -452,14 +410,12 @@
         "D": "Peridot"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called?",
+      "correct_answer": null
     },
     {
       "question_number": 33,
-      "question": "To what Doric temple does this pediment belong? Image",
+      "question": "To what Doric temple does this pediment belong?",
       "options": {
         "A": "Temple of Aphaia at Aegina",
         "B": "Older Parthenon at the Acropolis",
@@ -467,10 +423,8 @@
         "D": "Temple of Artemis at Kerkyra"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image",
+      "correct_answer": null
     },
     {
       "question_number": 34,
@@ -482,14 +436,12 @@
         "D": "Tropaeum Alpium"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 35,
-      "question": "Where was the object located? Image",
+      "question": "Where was the object located?",
       "options": {
         "A": "Ostia",
         "B": "Capitoline Hill",
@@ -497,10 +449,8 @@
         "D": "Campus Martius"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 36,
@@ -512,14 +462,12 @@
         "D": "Aeolic"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 37,
-      "question": "When was it first introduced? Image",
+      "question": "When was it first introduced?",
       "options": {
         "A": "late 7th Century BC",
         "B": "mid 6th Century BC",
@@ -527,10 +475,8 @@
         "D": "late 5th Century BC"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 38,
@@ -542,14 +488,12 @@
         "D": "chryselephantine"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 39,
-      "question": "The statues have been linked to what legend described in Herodotus? Image",
+      "question": "The statues have been linked to what legend described in Herodotus?",
       "options": {
         "A": "Harmodius and Aristogeiton",
         "B": "Kleobis and Biton",
@@ -557,10 +501,8 @@
         "D": "Socrates and Alcibiades"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 40,
@@ -572,14 +514,12 @@
         "D": "Kritios boy"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 41,
-      "question": "This statue is the earliest example of what sculptural technique? 2014 FJCL State Forum – Classical Art - Image",
+      "question": "This statue is the earliest example of what sculptural technique?",
       "options": {
         "A": "repoussoir",
         "B": "contrapposto",
@@ -587,10 +527,8 @@
         "D": "effets de soir"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 42,
@@ -602,14 +540,12 @@
         "D": "Gare de Nîmes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 43,
-      "question": "To whom was the temple dedicated? Image",
+      "question": "To whom was the temple dedicated?",
       "options": {
         "A": "Jupiter Optimus Maximus",
         "B": "Venus Genitor",
@@ -617,14 +553,12 @@
         "D": "Caesar Augustus"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 44,
-      "question": "What room in the Mycenaean palace at Pylos is represented in the image? Image",
+      "question": "What room in the Mycenaean palace at Pylos is represented in the image?",
       "options": {
         "A": "propylon",
         "B": "pronaos",
@@ -632,14 +566,12 @@
         "D": "megaron"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 45,
-      "question": "Why is this Etruscan statue’s association with the Romulus and Remus myth uncertain? Image",
+      "question": "Why is this Etruscan statue’s association with the Romulus and Remus myth",
       "options": {
         "A": "The suckling babes are not original to the statue.",
         "B": "Etruscans had a separate, unrelated myth about babes suckling a she-wolf.",
@@ -647,14 +579,12 @@
         "D": "The statue long predates the earliest accounts of Romulus and Remus."
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image Image Image Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 46,
-      "question": "Where does this 2nd century AD mosaic of centaurs battling wild beasts come from?",
+      "question": "Where does this 2nd century AD mosaic of centaurs battling wild beasts come",
       "options": {
         "A": "Hadrian’s Library",
         "B": "Hadrian’s Villa",
@@ -662,14 +592,12 @@
         "D": "Hadrian’s Tree Fort"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "B"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image Image Image Image Image uncertain? Image",
+      "correct_answer": null
     },
     {
       "question_number": 47,
-      "question": "Which 400 BC Greek artist is this mosaic likely copying? Image",
+      "question": "Which 400 BC Greek artist is this mosaic likely copying?",
       "options": {
         "A": "Micon",
         "B": "Euphranor",
@@ -677,14 +605,12 @@
         "D": "Androcydes"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image Image Image Image Image uncertain? Image from?",
+      "correct_answer": null
     },
     {
       "question_number": 48,
-      "question": "This bath complex, completed in 216 AD in Rome, was known as what? Image",
+      "question": "This bath complex, completed in 216 AD in Rome, was known as what?",
       "options": {
         "A": "Baths of Agrippa",
         "B": "Baths of Constantine",
@@ -692,10 +618,8 @@
         "D": "Baths of Diocletian"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "C"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image Image Image Image Image uncertain? Image from? Image",
+      "correct_answer": null
     },
     {
       "question_number": 49,
@@ -707,14 +631,12 @@
         "D": "Knossos"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "D"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image Image Image Image Image uncertain? Image from? Image Image",
+      "correct_answer": null
     },
     {
       "question_number": 50,
-      "question": "What do the griffins flanking the throne traditionally signify in contemporary Near East cultures?",
+      "question": "What do the griffins flanking the throne traditionally signify in contemporary",
       "options": {
         "A": "Supernatural authority",
         "B": "Autochthonous heritage",
@@ -722,10 +644,13 @@
         "D": "Matriarchal authority"
       },
       "type": "multiple_choice",
-      "section": null,
-      "section_context": null,
-      "instruction": "Answer the questions related to the images on the screen.",
-      "correct_answer": "A"
+      "instruction": "Answer the questions related to the images on the screen. Image themes of tragedy and pathos. Image Image 59 AD after a gladiatorial fight with a rival city got out of hand? Image what was the function of the object in the image? Image Image Image century Athenian sculptor? Image located? the approach to the temple d. on the roof Image Battle of Issus d. Battle of the Hydaspes Image attributed? Image 2? Image Image Image ____________. Image Image Image Image Image to Tiberius, called? Image Image Image Image Image Image Image Image uncertain? Image from? Image Image",
+      "correct_answer": null
     }
-  ]
+  ],
+  "metadata": {
+    "year": 2014,
+    "format": "pre_2018",
+    "total_questions": 50
+  }
 }
