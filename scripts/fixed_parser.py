@@ -25,7 +25,7 @@ def parse_test_file_fixed(test_file_path):
     # Determine if this is pre-2018 or post-2018 format
     year_match = re.search(r'state_(\d{4})', str(test_file_path))
     year = int(year_match.group(1)) if year_match else 2018
-    is_pre_2018 = year < 2018
+    is_pre_2018 = year <= 2017  # 2017 and earlier use pre-2018 format with sections
     
     print(f"  Parsing {test_file_path.name} ({'pre-2018' if is_pre_2018 else 'post-2018'} format)")
     
@@ -59,6 +59,12 @@ def parse_test_file_fixed(test_file_path):
             if part_match:
                 current_section = line
                 section_context = line
+                continue
+            
+            # Skip "Part x – Description" format (2017 style) - these are just dividers, not real sections
+            part_dash_match = re.match(r'^Part\s+(\d+)\s*–\s*(.+)$', line)
+            if part_dash_match:
+                # Don't treat these as sections, just skip them entirely
                 continue
             
             # Check for question numbers
