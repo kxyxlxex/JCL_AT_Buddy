@@ -1,0 +1,603 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "Where did Caesar defeat Pompey in 48, forcing the latter to flee to Egypt?",
+    "question_options": {
+      "A": "Pharsalus",
+      "B": "Brundisium",
+      "C": "Thapsus",
+      "D": "Massalia"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 2,
+    "question_body": "What was the name of the earliest Roman popular assembly?",
+    "question_options": {
+      "A": "Comitia Populi Tributa",
+      "B": "Concilium Plebis",
+      "C": "Comitia Centuriata",
+      "D": "Comitia Curiata"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 3,
+    "question_body": "What third-century Roman statesman and general earned the agnomen \"Cunctator\"?",
+    "question_options": {
+      "A": "Gaius Terentius Varro",
+      "B": "Lucius Aemilius Paullus",
+      "C": "Quintus Fabius Maximus",
+      "D": "Marcus Livius Drusus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 4,
+    "question_body": "What king was said to have a relationship with a nymph named Egeria?",
+    "question_options": {
+      "A": "Tullus Hostilius",
+      "B": "Tarquinius Priscus",
+      "C": "Ancus Marcius",
+      "D": "Numa Pompilius"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 5,
+    "question_body": "Elected tribune in 133, who fought for allotments of public land which the Republic acquired in the Second Punic War?",
+    "question_options": {
+      "A": "Metellus Macedonius",
+      "B": "Scipio Nasica",
+      "C": "Tiberius Gracchus",
+      "D": "Gaius Gracchus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 6,
+    "question_body": "Along with C. Antonius Hybrida, what consular candidate in the election of 64 enjoyed the support of Caesar and Crassus?",
+    "question_options": {
+      "A": "L. Licinius Lucullus",
+      "B": "L. Sergius Catilina",
+      "C": "M. Tullius Cicero",
+      "D": "Cn. Pompeius Magnus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 7,
+    "question_body": "Caesar, Pompey, and Crassus met in what town during the winter of 56?",
+    "question_options": {
+      "A": "Luca",
+      "B": "Aceria",
+      "C": "Saepinum",
+      "D": "Mantua"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 8,
+    "question_body": "From what city did Spartacus break loose to start the slave rebellion in 73?",
+    "question_options": {
+      "A": "Capua",
+      "B": "Apulia",
+      "C": "Brundisium",
+      "D": "Nola"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 9,
+    "question_body": "Titus Tatius served with Romulus to rule Rome. What tribe was Titus from?",
+    "question_options": {
+      "A": "Volsci",
+      "B": "Latins",
+      "C": "Aequi",
+      "D": "Sabines"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 10,
+    "question_body": "Although Pompey took credit for quelling Spartacus' rebellion, who actually conducted the bulk of the action against the army of slaves?",
+    "question_options": {
+      "A": "Cornelius Scipio Africanus",
+      "B": "Marcus Licinius Crassus",
+      "C": "Marcus Tullius Cicero",
+      "D": "Gaius Julius Caesar"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 11,
+    "question_body": "A crown of flames adorned the youthful sleeping head of which future Roman king?",
+    "question_options": {
+      "A": "Tullus Hostilius",
+      "B": "Romulus",
+      "C": "Numa Pompilius",
+      "D": "Servius Tullius"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 12,
+    "question_body": "The Laws of the Twelve Tables were enacted in what year?",
+    "question_options": {
+      "A": "475",
+      "B": "445",
+      "C": "404",
+      "D": "449"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 13,
+    "question_body": "In what year did Lars Porsena begin his siege of Rome?",
+    "question_options": {
+      "A": "496",
+      "B": "505",
+      "C": "508",
+      "D": "451"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 14,
+    "question_body": "Caesar built walls around a fort holding Vercingetorix's army in what battle?",
+    "question_options": {
+      "A": "Alesia",
+      "B": "Pharsalus",
+      "C": "Thapsus",
+      "D": "Cannae"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 15,
+    "question_body": "Which famous Roman was called to be dictator in 458?",
+    "question_options": {
+      "A": "Gaius Nautius",
+      "B": "Gaius Marius",
+      "C": "Lucius Cornelius Sulla",
+      "D": "Lucius Quinctius Cincinnatus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 16,
+    "question_body": "Hasdrubal the Fair of Carthage signed a treaty stating that Carthage would not expand north past what river?",
+    "question_options": {
+      "A": "Ebro",
+      "B": "Tagus",
+      "C": "Cinca",
+      "D": "Segura"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Perhaps wrongly named, who was the Senonian chieftain that led the Gauls into Etruria?",
+    "question_options": {
+      "A": "M. Furius Camillus",
+      "B": "Quirinalis",
+      "C": "Tolmunius",
+      "D": "Brennus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 18,
+    "question_body": "Aside from Tarquinii, what city supported Tarquinius Superbus in the Battle of Silva Arsia?",
+    "question_options": {
+      "A": "Velzna",
+      "B": "Veii",
+      "C": "Velch",
+      "D": "Vetluna"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 19,
+    "question_body": "Which Roman statesman earned his seventh consulship then died a few days later in 86?",
+    "question_options": {
+      "A": "Gaius Marius",
+      "B": "Marcus Aurelius Scaurus",
+      "C": "Gaius Atilius Serranus",
+      "D": "Lucius Cornelius Sulla"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 20,
+    "question_body": "In what year did Sulla begin his siege of Athens during the First Mithradatic War?",
+    "question_options": {
+      "A": "88",
+      "B": "79",
+      "C": "85",
+      "D": "87"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 21,
+    "question_body": "The Cimbri and the Teutones devastated the Roman army in 105 at what battle?",
+    "question_options": {
+      "A": "Noreia",
+      "B": "Arausio",
+      "C": "Brugidia",
+      "D": "Vercellae"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 22,
+    "question_body": "In 343 the Romans renounced their amity, breaking a treaty with what group of people?",
+    "question_options": {
+      "A": "Sabines",
+      "B": "Capuans",
+      "C": "Samnites",
+      "D": "Etruscans"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 23,
+    "question_body": "Gaius Flaminius Nepos suffered a major loss and was killed within minutes at what battle?",
+    "question_options": {
+      "A": "Lake Trasimene",
+      "B": "Cannae",
+      "C": "Teutoburg Forest",
+      "D": "Zama"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 24,
+    "question_body": "What general was so successful in Spain that his Spanish allies tried to hail him as king?",
+    "question_options": {
+      "A": "Cornelius Scipio",
+      "B": "Gnaeus Fulvius",
+      "C": "Titus Flaminius",
+      "D": "Marcus Marcellus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 25,
+    "question_body": "What year did the Battle of Carrhae take place?",
+    "question_options": {
+      "A": "53",
+      "B": "55",
+      "C": "54",
+      "D": "52"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 26,
+    "question_body": "Who commanded the Carthaginian army during the latter portion of the First Punic War?",
+    "question_options": {
+      "A": "Agathocles of Syracuse",
+      "B": "Hamilcar Barca",
+      "C": "Hannibal Barca",
+      "D": "Hanno the Great"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 27,
+    "question_body": "Which was the first naval victory for the Romans in the First Punic War?",
+    "question_options": {
+      "A": "Aegates Island",
+      "B": "Trebia River",
+      "C": "Mylae",
+      "D": "Lake Trasimene"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 28,
+    "question_body": "Which of the kings of Rome is believed to have built the REGIA?",
+    "question_options": {
+      "A": "Tarquinius Priscus",
+      "B": "Tarquinius Superbus",
+      "C": "Ancus Marcius",
+      "D": "Numa Pompilius"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 29,
+    "question_body": "Which Roman convinced Bocchus to change sides and kidnap Jugurtha, thus ending a conflict in Africa?",
+    "question_options": {
+      "A": "Lucius Cornelius Sulla",
+      "B": "Gaius Marius",
+      "C": "Lucius Calpurnius Bestia",
+      "D": "Quintus Caecilius Metellus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 30,
+    "question_body": "What site saw the defeat of Catiline's army and his death in 62?",
+    "question_options": {
+      "A": "Aquileia",
+      "B": "Belum",
+      "C": "Pistoria",
+      "D": "Tarraco"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 31,
+    "question_body": "Which Roman statesman in 55 introduced his candidacy for the consulship by stating he would recall Caesar from Gaul?",
+    "question_options": {
+      "A": "T. Annius Milo",
+      "B": "L. Domitius Ahenobarbus",
+      "C": "M. Tullius Cicero",
+      "D": "Ap. Claudius Pulcher"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 32,
+    "question_body": "Which law gave the Roman king supreme military and judicial power?",
+    "question_options": {
+      "A": "Lex Cornelia de Maiestate",
+      "B": "Lex Curiata De Imperio",
+      "C": "Lex Canuleia",
+      "D": "Lex Hortensia"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 33,
+    "question_body": "Which war was brought about by the establishment of a colony at Fragellae (328) and the siege of Naples (327)?",
+    "question_options": {
+      "A": "Mantua",
+      "B": "Third Samnite",
+      "C": "Second Samnite",
+      "D": "RomePyrrhic War"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 34,
+    "question_body": "Which city did the Romans conquer to secure the eastern portion of Sicily in 254?",
+    "question_options": {
+      "A": "Hercte",
+      "B": "Panormus",
+      "C": "Eryx",
+      "D": "Drepana"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 35,
+    "question_body": "What battle in 207 was responsible for the death of Hasdrubal?",
+    "question_options": {
+      "A": "Carrahae",
+      "B": "Zama",
+      "C": "Metarus River",
+      "D": "Lake Trasimene"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 36,
+    "question_body": "What war lasted from 340 to 338?",
+    "question_options": {
+      "A": "First Punic War",
+      "B": "First Samnite War",
+      "C": "Great Latin War",
+      "D": "Second Samnite War"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 37,
+    "question_body": "What law established the first permanent court, presided over by a praetor?",
+    "question_options": {
+      "A": "Lex Canuleia",
+      "B": "Lex Aemilia",
+      "C": "Lex Calpurnia",
+      "D": "Lex Cincia"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 38,
+    "question_body": "What law allowed marriage between the plebeians and patricians?",
+    "question_options": {
+      "A": "Lex Junia Norbana",
+      "B": "Lex Gabinia",
+      "C": "Lex Canuleia",
+      "D": "Lex Cornelia de Maiestate"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 39,
+    "question_body": "What rogue Roman statesman did Pompey fight against in Spain between 76 and 71?",
+    "question_options": {
+      "A": "Quintus Sertorius",
+      "B": "Gnaeus Papirius Carbo",
+      "C": "Lucius Cornelius Sulla",
+      "D": "Marcus Licinius Crassus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 40,
+    "question_body": "After the Second Punic War, Carthage was forced to accept _______ as the legitimate Numidian king.",
+    "question_options": {
+      "A": "Micipsa",
+      "B": "Masinissa",
+      "C": "Syphax",
+      "D": "Oezalces"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 41,
+    "question_body": "What statesman of Rome passed laws giving free gifts of grain to the public?",
+    "question_options": {
+      "A": "Marcus Tullius Cicero",
+      "B": "Gnaeus Pompeius Magnus",
+      "C": "Gaius Gracchus",
+      "D": "Publius Clodius Pulcher"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 42,
+    "question_body": "In what year was the cult of the Great Mother formally established in Rome?",
+    "question_options": {
+      "A": "204",
+      "B": "335",
+      "C": "217",
+      "D": "201"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 43,
+    "question_body": "What consul allowed himself to be lured by the Tigurni and was killed in an ambush in 107?",
+    "question_options": {
+      "A": "Quintus Lutatius Catulus",
+      "B": "Lucius Cassius Longinus",
+      "C": "Marcus Junius Silanus",
+      "D": "Gnaeus Papirius Carbo"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 44,
+    "question_body": "At what city was Marcus Aurelius Cotta's fleet burned and captured by the Kingdom of Pontus?",
+    "question_options": {
+      "A": "Phasis",
+      "B": "Cyzicus",
+      "C": "Heraclea",
+      "D": "Chalcedon"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 45,
+    "question_body": "Viriathus spared what consul after outmaneuvering him in 141 in exchange for a favorable peace treaty?",
+    "question_options": {
+      "A": "Fabius Maximus Servilianus",
+      "B": "L. Licinius Lucullus",
+      "C": "Fulvius Nobilior",
+      "D": "Servius Sulpicius Galba"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 46,
+    "question_body": "Which Roman general argued that grain should only be distributed if pro-plebeian legislation were reversed?",
+    "question_options": {
+      "A": "Spurius Nautius Rutilus",
+      "B": "Aulus Sempronius",
+      "C": "Marcus Minucius",
+      "D": "Gaius Marcius Coriolanus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 47,
+    "question_body": "Manius Valerius invaded and failed to capture the territory of Hiero in what year?",
+    "question_options": {
+      "A": "258",
+      "B": "268",
+      "C": "272",
+      "D": "263"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 48,
+    "question_body": "After the death of Tarquinius Priscus, to where did the sons of Ancus Marcius flee?",
+    "question_options": {
+      "A": "Veii",
+      "B": "Corniculum",
+      "C": "Suessa Pometia",
+      "D": "Clusium"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 49,
+    "question_body": "In 49 Caesar, heading east to face Pompey, appointed what son of a rebel leader to take charge of the affairs of the city of Rome?",
+    "question_options": {
+      "A": "P. Clodius",
+      "B": "Curio",
+      "C": "M. Antonius",
+      "D": "Lepidus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Who harshly prosecuted followers of Tiberius Gracchus while consul in 132, went into self-imposed exile when targeted by Gaius Gracchus, and returned to Rome after Gaius's death?",
+    "question_options": {
+      "A": "Popillius Laenas",
+      "B": "Lucius Opimius",
+      "C": "Fulvius Flaccus",
+      "D": "Livius Drusus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question. Note: All dates are BC."
+  }
+]
+

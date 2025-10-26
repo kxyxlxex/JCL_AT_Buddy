@@ -1,0 +1,542 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "The irate customer demanded a refund.",
+    "question_options": {
+      "A": "busy",
+      "B": "patient",
+      "C": "angry",
+      "D": "dishonest"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "Mount Rainier is actually a dormant volcano.",
+    "question_options": {
+      "A": "dangerous",
+      "B": "active",
+      "C": "inactive",
+      "D": "beautiful"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "The advent of the Internet revolutionized social and business communication.",
+    "question_options": {
+      "A": "invention",
+      "B": "arrival",
+      "C": "success",
+      "D": "knowledge"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "Arthur’s family sued the hospital for the negligence which led to his death.",
+    "question_options": {
+      "A": "care",
+      "B": "malice",
+      "C": "doctor",
+      "D": "carelessness"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "Jamie feels that teaching is a vocation.",
+    "question_options": {
+      "A": "calling",
+      "B": "job",
+      "C": "punishment",
+      "D": "goal"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "The apparent reason for my car trouble was a leaky battery.",
+    "question_options": {
+      "A": "hidden",
+      "B": "obvious",
+      "C": "complicated",
+      "D": "serious"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "Successful agrarian societies often transition into industrial societies.",
+    "question_options": {
+      "A": "equal",
+      "B": "urban",
+      "C": "farming",
+      "D": "warlike"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "The senator’s facile smile at the emergency press conference struck some as inappropriate.",
+    "question_options": {
+      "A": "effortless",
+      "B": "fake",
+      "C": "awkward",
+      "D": "ugly"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "In the tumult following the earthquake, many stores were looted.",
+    "question_options": {
+      "A": "moments",
+      "B": "evening",
+      "C": "order",
+      "D": "chaos"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "The document was very old and illegible.",
+    "question_options": {
+      "A": "torn",
+      "B": "unreadable",
+      "C": "falsified",
+      "D": "valuable"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "amiable",
+    "question_options": {
+      "A": "truth",
+      "B": "love",
+      "C": "guard",
+      "D": "lazy"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "subvert",
+    "question_options": {
+      "A": "repair",
+      "B": "ground",
+      "C": "open",
+      "D": "turn"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "audition",
+    "question_options": {
+      "A": "judge",
+      "B": "hear",
+      "C": "opportunity",
+      "D": "enter"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "munitions",
+    "question_options": {
+      "A": "fortify",
+      "B": "guard",
+      "C": "find",
+      "D": "mother"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "science",
+    "question_options": {
+      "A": "be",
+      "B": "be able",
+      "C": "know",
+      "D": "discuss"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "portable",
+    "question_options": {
+      "A": "free",
+      "B": "give",
+      "C": "prepare",
+      "D": "carry"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "pugnacious",
+    "question_options": {
+      "A": "stand",
+      "B": "prepare",
+      "C": "enter",
+      "D": "fight"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "auxilary",
+    "question_options": {
+      "A": "stick",
+      "B": "bed",
+      "C": "help",
+      "D": "water"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "secede",
+    "question_options": {
+      "A": "move",
+      "B": "rise",
+      "C": "without",
+      "D": "drag"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "infestation",
+    "question_options": {
+      "A": "celebrate",
+      "B": "molest",
+      "C": "father",
+      "D": "easy"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "femina",
+    "question_options": {
+      "A": "femur",
+      "B": "feminine",
+      "C": "defend",
+      "D": "factual"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "decimus",
+    "question_options": {
+      "A": "duke",
+      "B": "redemption",
+      "C": "decimal",
+      "D": "condense"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "scribo",
+    "question_options": {
+      "A": "prescription",
+      "B": "screen",
+      "C": "landscape",
+      "D": "escape"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "accipio",
+    "question_options": {
+      "A": "acidic",
+      "B": "accept",
+      "C": "acme",
+      "D": "advantage"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "vinco",
+    "question_options": {
+      "A": "viper",
+      "B": "vineyard",
+      "C": "convince",
+      "D": "violet"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "navis",
+    "question_options": {
+      "A": "new",
+      "B": "navigate",
+      "C": "betray",
+      "D": "numb"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "unda",
+    "question_options": {
+      "A": "unify",
+      "B": "and",
+      "C": "futuristic",
+      "D": "inundate"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "terra",
+    "question_options": {
+      "A": "tract",
+      "B": "terrify",
+      "C": "inter",
+      "D": "terrorist"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "rex",
+    "question_options": {
+      "A": "regent",
+      "B": "register",
+      "C": "regress",
+      "D": "rent"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "vita",
+    "question_options": {
+      "A": "vicious",
+      "B": "initiate",
+      "C": "trivial",
+      "D": "viable"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "patriot",
+    "question_options": {
+      "A": "postea",
+      "B": "pax",
+      "C": "patria",
+      "D": "parvus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "donation",
+    "question_options": {
+      "A": "do",
+      "B": "debeo",
+      "C": "nox",
+      "D": "narro"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "announcement",
+    "question_options": {
+      "A": "notus",
+      "B": "amitto",
+      "C": "ante",
+      "D": "nuntio"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "journal",
+    "question_options": {
+      "A": "do",
+      "B": "debeo",
+      "C": "dies",
+      "D": "de"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "feral",
+    "question_options": {
+      "A": "ferus",
+      "B": "felix",
+      "C": "flexus",
+      "D": "fax"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "mural",
+    "question_options": {
+      "A": "moneo",
+      "B": "maneo",
+      "C": "facio",
+      "D": "murus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "conscience",
+    "question_options": {
+      "A": "scribo",
+      "B": "surgo",
+      "C": "scio",
+      "D": "sum"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "futuristic",
+    "question_options": {
+      "A": "venio",
+      "B": "sum",
+      "C": "fortis",
+      "D": "fumus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "amity",
+    "question_options": {
+      "A": "ambulo",
+      "B": "amitto",
+      "C": "amicitia",
+      "D": "ager"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "literature",
+    "question_options": {
+      "A": "littera",
+      "B": "litus",
+      "C": "lumen",
+      "D": "ludo"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "debt",
+    "question_options": {
+      "A": "doctor",
+      "B": "decline",
+      "C": "dud",
+      "D": "due"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "surge",
+    "question_options": {
+      "A": "insurrection",
+      "B": "grow",
+      "C": "send",
+      "D": "place"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "defiant",
+    "question_options": {
+      "A": "firm",
+      "B": "flammable",
+      "C": "field",
+      "D": "fidelity"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "declare",
+    "question_options": {
+      "A": "clear",
+      "B": "decagon",
+      "C": "decadent",
+      "D": "with"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "novelty",
+    "question_options": {
+      "A": "nocturnal",
+      "B": "noticeable",
+      "C": "renovate",
+      "D": "null"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  }
+]

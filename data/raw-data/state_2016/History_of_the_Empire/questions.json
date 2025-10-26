@@ -2,643 +2,371 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Caligula’s Praetorian prefect who went before the Senate to invalidate Tiberius Gemellus’ part in imperial rule was",
+      "question": "Caligula’s Praetorian prefect who went before the Senate to invalidate Tiberius\nGemellus’ part in imperial rule was",
       "options": {
-        "A": "Clemens",
-        "B": "Chaerea",
-        "C": "Macro",
-        "D": "Sejanus"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 2,
-      "question": "When Nerva took power, the Senate enacted a ‘rescissio actorum’, declaring for Domitian a posthumous",
+      "question": "When Nerva took power, the Senate enacted a ‘rescissio actorum’, declaring for\nDomitian a posthumous",
       "options": {
-        "A": "damnatio memoriae",
-        "B": "prorogatio imperi",
-        "C": "praefectura morum",
-        "D": "senatus consultum ultimum"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "In 194 AD, Septimius Severus split what large province into two – Coele and Phoenice?",
+      "question": "In 194 AD, Septimius Severus split what large province into two – Coele and\nPhoenice?",
       "options": {
-        "A": "Armenia",
-        "B": "Galatia",
-        "C": "Mesopotamia",
-        "D": "Syria"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 4,
       "question": "The province of Phoenice was the birthplace of which future emperor?",
       "options": {
-        "A": "Caracalla",
-        "B": "Elagabalus",
-        "C": "Macrinus",
-        "D": "Severus Alexander"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 5,
       "question": "Who was the last of the “Good Emperors”?",
       "options": {
-        "A": "Antoninus Pius",
-        "B": "Hadrian",
-        "C": "Marcus Aurelius",
-        "D": "Pertinax"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 6,
       "question": "Camillus Scribonianus led a revolt in Dalmatia against",
       "options": {
-        "A": "Claudius",
-        "B": "Domitian",
-        "C": "Hadiran",
-        "D": "Otho"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 7,
       "question": "Which Praetorian prefect killed Caracalla in 217 AD?",
       "options": {
-        "A": "Antiochianus",
         "B": "Laetus",
-        "C": "Macrinus",
-        "D": "Papinianus"
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 8,
       "question": "The mother of Constantine the Great was a concubine named",
       "options": {
-        "A": "Constantia",
-        "B": "Helena",
-        "C": "Theodora",
-        "D": "Veria"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 9,
       "question": "Who retired to a lavish palace in Dalmatia?",
       "options": {
-        "A": "Constantine",
-        "B": "Diocletian",
-        "C": "Hadrian",
-        "D": "Tiberius"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 10,
-      "question": "Nerva and his successors are credited with greatly enhancing the ‘alimenta’ in Rome, a system which provided for the needs of",
+      "question_number": 0,
+      "question": "Nerva and his successors are credited with greatly enhancing the ‘alimenta’ in\nRome, a system which provided for the needs of",
       "options": {
-        "A": "freed slaves",
-        "B": "the poor",
-        "C": "resident aliens",
-        "D": "veterans"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 11,
+      "question_number": 1,
       "question": "Septimius Severus was the first emperor to have come from:",
       "options": {
-        "A": "Africa",
-        "B": "Gaul",
-        "C": "Greece",
-        "D": "Spain"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 12,
+      "question_number": 2,
       "question": "The philosopher who tutored and later advised Nero was",
       "options": {
-        "A": "Epictetus",
-        "B": "Petronius",
-        "C": "Quintilian",
-        "D": "Seneca"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 13,
+      "question_number": 3,
       "question": "Built on the Vatican Hill in Rome, Saint Peter’s Basilica was begun under:",
       "options": {
-        "A": "Constantine",
-        "B": "Honorius",
-        "C": "Justinian",
-        "D": "Theodosius"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 14,
+      "question_number": 4,
       "question": "Which of the following did Diocletian NOT do?",
       "options": {
-        "A": "divide the Empire into twelve dioceses",
-        "B": "persecute Christians",
-        "C": "issue the Edict of prices",
-        "D": "abdicate in 316 AD"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 15,
-      "question": "For what purpose did Caracalla grant citizenship to all freeborn residents of the Empire?",
+      "question_number": 5,
+      "question": "For what purpose did Caracalla grant citizenship to all freeborn residents of the\nEmpire?",
       "options": {
-        "A": "to strengthen his popular support",
-        "B": "to replenish the treasury",
-        "C": "to strengthen the Empire with unification",
-        "D": "to increase the soldier population"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 16,
-      "question": "Who coordinated the ambush in 9 AD that resulted in Augustus losing legions?",
+      "question_number": 6,
+      "question": "Who coordinated the ambush in 9 AD that resulted in Augustus losing\nlegions?",
       "options": {
-        "A": "Arminius",
-        "B": "Ariovistus",
-        "C": "Boudica",
-        "D": "Varus"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 17,
-      "question": "You can visit a sumptuous mausoleum in Ravenna said to have been built for Galla Placidia, who was:",
+      "question_number": 7,
+      "question": "You can visit a sumptuous mausoleum in Ravenna said to have been built for\nGalla Placidia, who was:",
       "options": {
-        "A": "the daughter of Theodosius",
-        "B": "the wife of Alaric",
-        "C": "the sister of Odacer",
-        "D": "the wife of Honorius"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 18,
+      "question_number": 8,
       "question": "During whose reign did Pontius Pilate served as governor of Judea?",
       "options": {
-        "A": "Augustus",
-        "B": "Caligula",
-        "C": "Nero",
-        "D": "Tiberius"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 19,
-      "question": "Who ordered the massacre in Thessalonica when the local inhabitants were protesting the presence of a Gothic garrison in their city?",
+      "question_number": 9,
+      "question": "Who ordered the massacre in Thessalonica when the local inhabitants were\nprotesting the presence of a Gothic garrison in their city?",
       "options": {
-        "A": "Commodus",
-        "B": "Gratian",
-        "C": "Justinian",
-        "D": "Theodosius"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 20,
+      "question_number": 0,
       "question": "Which of these so-called Barracks Emperors was NOT killed by his own soldiers?",
       "options": {
-        "A": "Aemilian",
-        "B": "Decius",
-        "C": "Gallus",
-        "D": "Volusianus"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 21,
+      "question_number": 1,
       "question": "The uprising in Palmyra led by Zenobia occurred during the reign of:",
       "options": {
-        "A": "Aemilian",
-        "B": "Aurelian",
-        "C": "Tacitus",
-        "D": "Valerian"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 22,
-      "question": "The Marcomannic Wars more or less defined the military record of Marcus Aurelius. Which of the following might be another name for this conflict?",
+      "question_number": 2,
+      "question": "The Marcomannic Wars more or less defined the military record of Marcus\nAurelius. Which of the following might be another name for this conflict?",
       "options": {
-        "A": "Bellum Batonianum",
-        "B": "Bellum in Judaeos",
-        "C": "Bellum Parthicum",
-        "D": "Bellum Germanicum et Sarmaticum"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 23,
-      "question": "Who was defeated and killed by the Visigoths in 378 AD at the Battle of Adrianople?",
+      "question_number": 3,
+      "question": "Who was defeated and killed by the Visigoths in 378 AD at the Battle of\nAdrianople?",
       "options": {
-        "A": "Gratian",
-        "B": "Theodosius I",
-        "C": "Valens",
-        "D": "Valentinian I"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 24,
+      "question_number": 4,
       "question": "Which emperor committed suicide?",
       "options": {
-        "A": "Galba",
-        "B": "Otho",
-        "C": "Vitellius",
-        "D": "Vespasian"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 25,
+      "question_number": 5,
       "question": "Whom did G. Calpurnius Crassus fail to remove from power in 97 AD?",
       "options": {
-        "A": "Aelianus",
-        "B": "Nerva",
-        "C": "Norbanus",
-        "D": "Trajan"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 26,
+      "question_number": 6,
       "question": "During the reign of Domitian, Agricola let fierce fighting against what group?",
       "options": {
-        "A": "Alamanni",
-        "B": "Britons",
-        "C": "Chatti",
-        "D": "Dacians"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 27,
-      "question": "This Jewish historian and scholar initially fought against the Romans but later became an advisor to Titus.",
+      "question_number": 7,
+      "question": "This Jewish historian and scholar initially fought against the Romans but later\nbecame an advisor to Titus.",
       "options": {
-        "A": "Eleazer",
-        "B": "Gasco",
-        "C": "Josephus",
-        "D": "Paul"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 28,
-      "question": "Who appointed P. Salvius Aper and Q. Ostorius Scapula as the first Praetorian prefects?",
+      "question_number": 8,
+      "question": "Who appointed P. Salvius Aper and Q. Ostorius Scapula as the first Praetorian\nprefects?",
       "options": {
-        "A": "Agrippa",
-        "B": "Caesar",
-        "C": "Tiberius",
-        "D": "Augustus"
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 29,
-      "question": "What duty did Augustus take up as a result of widespread famine in 22 B.C.?",
-      "options": {
-        "A": "censor",
-        "B": "dictator",
-        "C": "cura annonae",
-        "D": "tribunicia potestas perpetua"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 30,
-      "question": "Which city did Commodus rename as a colony after himself?",
-      "options": {
-        "A": "Carthage",
-        "B": "Lyon",
-        "C": "Paris",
-        "D": "Rome"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 31,
-      "question": "This term refers to the process used by the Flavian Emperors to choose someone for the Roman Senate.",
-      "options": {
-        "A": "adlectio",
-        "B": "declamatio",
-        "C": "proscriptio",
-        "D": "relegatio"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 32,
-      "question": "Who was the longest reigning Roman emperor?",
-      "options": {
-        "A": "Augustus",
-        "B": "Constantine",
-        "C": "Theodosius II",
-        "D": "Tiberius"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 33,
-      "question": "What was one of Hadrian’s nicknames?",
-      "options": {
-        "A": "Graeculus",
-        "B": "Herculeus",
-        "C": "Jovius",
-        "D": "Beatissimus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 34,
-      "question": "Which emperor came to power as a result of the mutiny at Moguntiacum which overthrew Severus Alexander?",
-      "options": {
-        "A": "Caracalla",
-        "B": "Elagabalus",
-        "C": "Maximinus Thrax",
-        "D": "Philip the Arab"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 35,
-      "question": "The first to sack Rome since Brennus the Gaul was:",
-      "options": {
-        "A": "Alaric",
-        "B": "Attila",
-        "C": "Geiseric",
-        "D": "Odoacer"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 36,
-      "question": "During what year of Nero’s reign did a great fire destroy a large part of Rome?",
-      "options": {
-        "A": "58",
-        "B": "62",
-        "C": "64 d."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 37,
-      "question": "In 27 B.C., Gaius Iulius Octavianus received what title of honor used by all Roman emperors except Vitellius?",
-      "options": {
-        "A": "Romulus",
-        "B": "Augustus",
-        "C": "Princeps",
-        "D": "Pater Patriae"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 38,
-      "question": "What honorific title did Vitellius use as emperor?",
-      "options": {
-        "A": "Germanicus",
-        "B": "Perpetuus",
-        "C": "Pontifex Max.",
-        "D": "Sebastos"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 39,
-      "question": "The Basilica Ulpia was constructed by",
-      "options": {
-        "A": "Constantine",
-        "B": "Hadrian",
-        "C": "Trajan",
-        "D": "Titus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 40,
-      "question": "Who was the rich senator who purchased his reign at auction in 193?",
-      "options": {
-        "A": "Clodius Albinus",
-        "B": "Pescennius Niger",
-        "C": "Didius Julianus",
-        "D": "Septimius Severus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 41,
-      "question": "In 40, Caligula received an ovation in Rome on his birthday for his “campaign” at the English Channel from which he brought back what unusual plunder?",
-      "options": {
-        "A": "parrots",
-        "B": "seashells",
-        "C": "torques",
-        "D": "200 blonde boys"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 42,
-      "question": "Domitian is notorious for all of the following reasons EXCEPT:",
-      "options": {
-        "A": "He brought back the horrors of delatio and maiestas.",
-        "B": "He banished philosophers from Italy.",
-        "C": "He executed Vestal Virgins on charges of corruption.",
-        "D": "He denied himself divine honors in the Eastern fashion."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 43,
-      "question": "During the reign of Honorius, the capital was moved in fear of invasion to:",
-      "options": {
-        "A": "Brundisi",
-        "B": "Milan",
-        "C": "Naples",
-        "D": "Ravenna"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 44,
-      "question": "Those fears turned out to be valid when, in spite of the relocation, ________ was deposed in the new capital, thus bringing an end to the western empire.",
-      "options": {
-        "A": "Julius Nepos",
-        "C": "Romulus Augustulus",
-        "B": "Leo I",
-        "D": "Zeno"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 45,
-      "question": "Julia Mamaea, who bribed the Praetorian Guard in 222 AD to assassinate both her sister and her nephew, was the daughter of Julia ______.",
-      "options": {
-        "A": "Domna",
-        "B": "Flavia",
-        "C": "Maesa",
-        "D": "Soaemias"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 46,
-      "question": "The eruption of Mount Vesuvius destroyed the cities of Pompeii and Herculaneum during the reign of:",
-      "options": {
-        "A": "Galba",
-        "B": "Nero",
-        "C": "Titus",
-        "D": "Trajan"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 47,
-      "question": "Poppaea Sabina, wife of Nero, had previously been married to which future emperor?",
-      "options": {
-        "A": "Otho",
-        "B": "Titus",
-        "C": "Vespasian",
-        "D": "Vitellius"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 48,
-      "question": "Who was the wife of Trajan, admired for her simplicity, dignity, fidelity, and virtue?",
-      "options": {
-        "A": "Anna Galeria Faustina",
-        "C": "Pompeia Plotina",
-        "B": "Domitia Longina",
-        "D": "Vibia Sabina"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 49,
-      "question": "After a few years of ruling, Tiberius retired to Capri and appointed this Praetorian prefect to execute the duties of emperor.",
-      "options": {
-        "A": "Burrus",
-        "B": "Macro",
-        "C": "Sejanus",
-        "D": "Tigellinus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 50,
-      "question": "The following were Praetorian prefects under Commodus EXCEPT",
+      "question_number": 9,
+      "question": "What duty did Augustus take up as a result of widespread famine in 22",
       "options": {
         "A": "Cleander",
         "B": "Laetus",
@@ -646,7 +374,279 @@
         "D": "Perennis"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Which city did Commodus rename as a colony after himself?",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "This term refers to the process used by the Flavian Emperors to choose\nsomeone for the Roman Senate.",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "Who was the longest reigning Roman emperor?",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "What was one of Hadrian’s nicknames?",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "Which emperor came to power as a result of the mutiny at Moguntiacum which\noverthrew Severus Alexander?",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "The first to sack Rome since Brennus the Gaul was:",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "During what year of Nero’s reign did a great fire destroy a large part of Rome?",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "In 27",
+      "options": {
+        "A": "Cleander",
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "What honorific title did Vitellius use as emperor?",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "The Basilica Ulpia was constructed by",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Who was the rich senator who purchased his reign at auction in 193?",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "In 40, Caligula received an ovation in Rome on his birthday for his “campaign”\nat the English Channel from which he brought back what unusual plunder?",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "Domitian is notorious for all of the following reasons EXCEPT:",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "During the reign of Honorius, the capital was moved in fear of invasion to:",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "Those fears turned out to be valid when, in spite of the relocation, ________\nwas deposed in the new capital, thus bringing an end to the western empire.",
+      "options": {
+        "C": "Narcissus",
+        "B": "Laetus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "Julia Mamaea, who bribed the Praetorian Guard in 222 AD to assassinate both\nher sister and her nephew, was the daughter of Julia ______.",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "The eruption of Mount Vesuvius destroyed the cities of Pompeii and\nHerculaneum during the reign of:",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "Poppaea Sabina, wife of Nero, had previously been married to which future\nemperor?",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "Who was the wife of Trajan, admired for her simplicity, dignity, fidelity, and\nvirtue?",
+      "options": {
+        "C": "Narcissus",
+        "B": "Laetus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "After a few years of ruling, Tiberius retired to Capri and appointed this\nPraetorian prefect to execute the duties of emperor.",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis",
+        "A": "Cleander"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "The following were Praetorian prefects under Commodus EXCEPT",
+      "options": {
+        "B": "Laetus",
+        "C": "Narcissus",
+        "D": "Perennis"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
       "correct_answer": null
     }
   ],

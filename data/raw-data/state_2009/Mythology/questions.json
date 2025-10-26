@@ -2,644 +2,7 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Mercury married this mute nymph, who was a sister of Juturna.",
-      "options": {
-        "A": "Echo",
-        "B": "Lara",
-        "C": "Thetis",
-        "D": "Averna"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 2,
-      "question": "Although his mother’s name is disputed, what was the name of Jason’s father?",
-      "options": {
-        "A": "Atreus",
-        "B": "Laertes",
-        "C": "Peleus",
-        "D": "Aeson"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 3,
-      "question": "Which was not a Roman name for Hades?",
-      "options": {
-        "A": "Dis",
-        "B": "Orcus",
-        "C": "Pales",
-        "D": "Pluto"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 4,
-      "question": "What couple was responsible for repopulating the earth with stones?",
-      "options": {
-        "A": "Deucalion and Pyrrha",
-        "B": "Baucis and Philemon",
-        "C": "Pyramus and Thisbe",
-        "D": "Aurora and Tithonus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 5,
-      "question": "Athena’s mother was the Titaness named _________?",
-      "options": {
-        "A": "Themis",
-        "B": "Metis",
-        "C": "Phoebe",
-        "D": "Rhea"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 6,
-      "question": "Which deity was the father of the ram with the golden fleece?",
-      "options": {
-        "A": "Zeus",
-        "B": "Ares",
-        "C": "Poseidon",
-        "D": "Apollo"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 7,
-      "question": "The dead who were deemed neither good nor bad were sent to ____________ in the underworld.",
-      "options": {
-        "A": "the Elysian Fields",
-        "B": "the fields of Asphodel",
-        "C": "Tartarus",
-        "D": "the Isles of the blessed"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 8,
-      "question": "Zeus unfettered this island, to allow the mother of Artemis and Apollo to escape Hera’s wrath.",
-      "options": {
-        "A": "Delos",
-        "B": "Mykonos",
-        "C": "Samos",
-        "D": "Lemnos"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 9,
-      "question": "This child of Tantalus, bewitched by Artemis, threw himself/herself into flames.",
-      "options": {
-        "A": "Pelops",
-        "B": "Broteas",
-        "C": "Niobe",
-        "D": "Coddinus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 10,
-      "question": "In what form did Zeus visit Danae?",
-      "options": {
-        "A": "a bull",
-        "B": "an eagle",
-        "C": "a swan",
-        "D": "a beam of light"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 11,
-      "question": "Who taught Heracles to wrestle?",
-      "options": {
-        "A": "Autolycus",
-        "B": "Cheiron",
-        "C": "Castor",
-        "D": "Pollux"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 12,
-      "question": "Whom did Aphrodite cause to perpetually be in love because of the affair she had had with Ares?",
-      "options": {
-        "A": "Hebe",
-        "B": "Eos",
-        "C": "Iris",
-        "D": "Selene"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 13,
-      "question": "Which deity had the epithets Dithyrambos, Eleutherios, and Enorches?",
-      "options": {
-        "A": "Athena",
-        "B": "Dionysus",
-        "C": "Hermes",
-        "D": "Hephaestus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 14,
-      "question": "What beautiful woman is known to have the face that launched a thousand ships?",
-      "options": {
-        "A": "Iphigenia",
-        "B": "Briseis",
-        "C": "Helen",
-        "D": "Lavinia"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 15,
-      "question": "Which of these is most associated with Melampus?",
-      "options": {
-        "A": "his severe punishment in the underworld",
-        "B": "his ability to speak to animals",
-        "C": "his affair with Hera",
-        "D": "his musical ability"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 16,
-      "question": "Which of these mythological islands was home to the Sirens?",
-      "options": {
-        "A": "Anthemoessa",
-        "B": "Samothrace",
-        "C": "Ogygia",
-        "D": "Petelia"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 17,
-      "question": "Who trained the hero Achilles after Cherion?",
-      "options": {
-        "A": "Phoenix, king of the Dolopians",
-        "B": "Agamemnon, king of Mycenae",
-        "C": "Menelaus, king of Sparta",
-        "D": "Hippolyta, queen of the Amazons"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 18,
-      "question": "Which individual was NOT transformed into a flower?",
-      "options": {
-        "A": "Hyacinthus",
-        "B": "Krokus",
-        "C": "Smilax",
-        "D": "Cleodaeus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 19,
-      "question": "Inachus, a minor river god, was the father of which unfortunate maiden?",
-      "options": {
-        "A": "Helle",
-        "B": "Danae",
-        "C": "Io",
-        "D": "Daphne"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 20,
-      "question": "What caused Semele’s death?",
-      "options": {
-        "A": "being shot by Artemis",
-        "B": "burning after seeing Zeus",
-        "C": "being gored by a wild boar",
-        "D": "being hit by a javelin"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 21,
-      "question": "Which minor god of wealth was the child of Iasion and Demeter?",
-      "options": {
-        "A": "Celeus",
-        "B": "Plutus",
-        "C": "Demophon",
-        "D": "Triptolemus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 22,
-      "question": "What son of Oeneus, Meleager’s half-brother, was sent with the Argonauts to look after Meleager? He shares his name with a more well-known, ill-fated man.",
-      "options": {
-        "A": "Aegeus",
-        "B": "Acrisius",
-        "C": "Linus",
-        "D": "Laocoon"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 23,
-      "question": "At what body of water did the fleeing Syrinx beg the local nymphs to transform her, as she was unable to cross it in her flight from Pan?",
-      "options": {
-        "A": "Ladon",
-        "B": "Alpheus",
-        "C": "Peneus",
-        "D": "Hebrus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 24,
-      "question": "Which of these is one of the names for the evil brigand, defeated by Theseus, who ripped individuals apart with pine trees?",
-      "options": {
-        "A": "Periphetes",
-        "B": "Cercyon",
-        "C": "Sinis",
-        "D": "Procrustes"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 25,
-      "question": "What group of people mounted an attack on Hercules and Geryon’s cattle? Hercules used all his arrows defending himself against them.",
-      "options": {
-        "A": "the Thebans",
-        "B": "the Ligurians",
-        "C": "the Bebryces",
-        "D": "the Erycians"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 26,
-      "question": "Carna, a nymph, who later became goddess of the hinge, was wooed by what Roman god?",
-      "options": {
-        "A": "Mercury",
-        "B": "Janus",
-        "C": "Jupiter",
-        "D": "Apollo"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 27,
-      "question": "What disturbing thing did Demeter inadvertently eat?",
-      "options": {
-        "A": "shoulder of Pelops",
-        "B": "tongue of Procne",
-        "C": "eye of the Graeae",
-        "D": "blood of Medusa"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 28,
-      "question": "Which king of Sicily hosted Aeneas and his men during Anchises’ funeral games?",
-      "options": {
-        "A": "Achates",
-        "B": "Polydorus",
-        "C": "Coroebus",
-        "D": "Acestes"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 29,
-      "question": "Which two individuals recognized Odysseus on his return to Ithaca?",
-      "options": {
-        "A": "Penelope and Telemachus",
-        "B": "Circe and Teiresias",
-        "C": "Argus and Eurycleia",
-        "D": "Penelope and Argus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 30,
-      "question": "Which son of Zeus and early king of Troy was welcomed to the area by Teucer and given the hand of his daughter Bateia?",
-      "options": {
-        "A": "Tros",
-        "B": "Dardanus",
-        "C": "Zethus",
-        "D": "Ilus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 31,
-      "question": "The Graeae, the Gorgons, Echidna, and Ladon are all the children of whom?",
-      "options": {
-        "A": "Phorcys and Ceto",
-        "B": "Phorcys and Sterope",
-        "C": "Phorcys and Nyx",
-        "D": "Phorcys and Terpsichore"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 32,
-      "question": "Which of the following was not one of the Erinyes?",
-      "options": {
-        "A": "Alecto",
-        "B": "Tisiphone",
-        "C": "Megaera",
-        "D": "Enyo"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 33,
-      "question": "What queen of Libya bore Zeus’s children only to have them stolen away by a jealous Hera?",
-      "options": {
-        "A": "Nerio",
-        "B": "Iole",
-        "C": "Laodice",
-        "D": "Lamia"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 34,
-      "question": "Which of the Giants was killed by Heracles’ arrows as he attempted to rape Hera?",
-      "options": {
-        "A": "Alcyoneus",
-        "B": "Enceladus",
-        "C": "Porphyrion",
-        "D": "Polybotes"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 35,
-      "question": "What prize did the Sirens give to the Muses after being defeated in a musical contest?",
-      "options": {
-        "A": "their voices",
-        "B": "their feathers",
-        "C": "their talons",
-        "D": "sailors’ bones"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 36,
-      "question": "What names were given to the three Hesperides?",
-      "options": {
-        "A": "Hespere, Aegle, and Erytheis",
-        "B": "Aglaia, Euphrosyne, and Thalia",
-        "C": "Pasithea, Cale, and Auxo",
-        "D": "Enyo, Pemphredo, and Deino."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 37,
-      "question": "Which individual did not tend for Zeus as an infant?",
-      "options": {
-        "A": "Idaea",
-        "B": "Adrastia",
-        "C": "Alcippe",
-        "D": "Amalthea"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 38,
-      "question": "What is the general name for the giant sons of Iphimedia and Poseidon, Otus and Ephialtes?",
-      "options": {
-        "A": "the Laestrygonians",
-        "B": "the Deipyles",
-        "C": "the Aloedae",
-        "D": "the Dioscuri"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 39,
-      "question": "Which Greek god carried a bident?",
-      "options": {
-        "A": "Dionysus",
-        "B": "Ares",
-        "C": "Hades",
-        "D": "Poseidon"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 40,
-      "question": "Dictys succeeded Polydectes as king of which kingdom?",
-      "options": {
-        "A": "Paros",
-        "B": "Seriphos",
-        "C": "Thera",
-        "D": "Samothrace"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 41,
-      "question": "Which of the following were not sons of Apollo?",
-      "options": {
-        "A": "Echion and Autolycus",
-        "B": "Amphissus and Miletus",
-        "C": "Troilus and Asclepius",
-        "D": "Idmon and Aristaeus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 42,
-      "question": "Mars asked which woodland goddess for help in his wooing of Minerva?",
-      "options": {
-        "A": "Diana",
-        "B": "Rhea Silvia",
-        "C": "Anna Perenna",
-        "D": "Lara"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 43,
-      "question": "What uncatchable beast was turned to stone along with Laelaps, the inescapable hound?",
-      "options": {
-        "A": "Crommyonian Sow",
-        "B": "Teumessian vixen",
-        "C": "Calydonian boar",
-        "D": "Cretan bull"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 44,
-      "question": "What is the name of the magical flower used by Odysseus to ward off Circe’s magic?",
-      "options": {
-        "A": "nectar",
-        "B": "syrinx",
-        "C": "obol",
-        "D": "moly"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 45,
-      "question": "What Cretan stole the golden mastiff that guarded the infant Zeus?",
-      "options": {
-        "A": "Iasius",
-        "B": "Pandareus",
-        "C": "Pandion",
-        "D": "Panopeus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 46,
-      "question": "After Icarius was murdered by Athenian farmers unused to strong drink, how did his daughter Erigone find the body of her murdered father?",
-      "options": {
-        "A": "being led to the spot by Dionysus",
-        "B": "the wine missing from his farm",
-        "C": "the howling of his dog Maera",
-        "D": "the reports of the Attic farmers"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 47,
-      "question": "Which daughter of Anius could turn anything she touched into wine?",
-      "options": {
-        "A": "Deianira",
-        "B": "Oino",
-        "C": "Elais",
-        "D": "Spermo"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 48,
-      "question": "Selene and Eos were the daughters of the Titans named?",
-      "options": {
-        "A": "Theia and Hyperion",
-        "B": "Metis and Polybotes",
-        "C": "Cronus and Rhea",
-        "D": "Gaia and Tartarus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 49,
-      "question": "Of what island was Odysseus king?",
-      "options": {
-        "A": "Pylos",
-        "B": "Ogygia",
-        "C": "Thrinacia",
-        "D": "Ithaca"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 50,
-      "question": "Which miracle did not happen while Dionysus was captured by Tyrrhenian pirates?",
+      "question": "Mercury married this mute nymph, who was a sister of Juturn",
       "options": {
         "A": "the ship halted in frozen water",
         "B": "vines spread across the sails",
@@ -647,7 +10,643 @@
         "D": "wreaths crowned the thole pins of the ship"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "Although his mother’s name is disputed, what was the name of Jason’s father?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "Which was not a Roman name for Hades?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "What couple was responsible for repopulating the earth with stones?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "Athena’s mother was the Titaness named _________?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "Which deity was the father of the ram with the golden fleece?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "The dead who were deemed neither good nor bad were sent to ____________ in the underworl",
+      "options": {
+        "A": "the ship halted in frozen water",
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "Zeus unfettered this island, to allow the mother of Artemis and Apollo to escape Hera’s wrath.",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "This child of Tantalus, bewitched by Artemis, threw himself/herself into flames.",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "In what form did Zeus visit Danae?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "Who taught Heracles to wrestle?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "Whom did Aphrodite cause to perpetually be in love because of the affair she had had with Ares?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "Which deity had the epithets Dithyrambos, Eleutherios, and Enorches?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "What beautiful woman is known to have the face that launched a thousand ships?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "Which of these is most associated with Melampus?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "Which of these mythological islands was home to the Sirens?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "Who trained the hero Achilles after Cherion?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "Which individual was NOT transformed into a flower?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "Inachus, a minor river god, was the father of which unfortunate maiden?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "What caused Semele’s death?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "Which minor god of wealth was the child of Iasion and Demeter?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "What son of Oeneus, Meleager’s half-brother, was sent with the Argonauts to look after Meleager?\nHe shares his name with a more well-known, ill-fated man.",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "At what body of water did the fleeing Syrinx beg the local nymphs to transform her, as she was\nunable to cross it in her flight from Pan?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "Which of these is one of the names for the evil brigand, defeated by Theseus, who ripped\nindividuals apart with pine trees?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "What group of people mounted an attack on Hercules and Geryon’s cattle? Hercules used all his\narrows defending himself against them.",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "Carna, a nymph, who later became goddess of the hinge, was wooed by what Roman god?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "What disturbing thing did Demeter inadvertently eat?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "Which king of Sicily hosted Aeneas and his men during Anchises’ funeral games?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "Which two individuals recognized Odysseus on his return to Ithaca?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Which son of Zeus and early king of Troy was welcomed to the area by Teucer and given the hand of\nhis daughter Bateia?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "The Graeae, the Gorgons, Echidna, and Ladon are all the children of whom?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "Which of the following was not one of the Erinyes?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "What queen of Libya bore Zeus’s children only to have them stolen away by a jealous Hera?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "Which of the Giants was killed by Heracles’ arrows as he attempted to rape Hera?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "What prize did the Sirens give to the Muses after being defeated in a musical contest?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "What names were given to the three Hesperides?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "Which individual did not tend for Zeus as an infant?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "What is the general name for the giant sons of Iphimedia and Poseidon, Otus and Ephialtes?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "Which Greek god carried a bident?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Dictys succeeded Polydectes as king of which kingdom?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "Which of the following were not sons of Apollo?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "Mars asked which woodland goddess for help in his wooing of Minerva?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "What uncatchable beast was turned to stone along with Laelaps, the inescapable hound?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "What is the name of the magical flower used by Odysseus to ward off Circe’s magic?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "What Cretan stole the golden mastiff that guarded the infant Zeus?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "After Icarius was murdered by Athenian farmers unused to strong drink, how did his daughter\nErigone find the body of her murdered father?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "Which daughter of Anius could turn anything she touched into wine?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "Selene and Eos were the daughters of the Titans named?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "Of what island was Odysseus king?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship",
+        "A": "the ship halted in frozen water"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Which miracle did not happen while Dionysus was captured by Tyrrhenian pirates?",
+      "options": {
+        "B": "vines spread across the sails",
+        "C": "the sailors instantly became drunk",
+        "D": "wreaths crowned the thole pins of the ship"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
       "correct_answer": null
     }
   ],

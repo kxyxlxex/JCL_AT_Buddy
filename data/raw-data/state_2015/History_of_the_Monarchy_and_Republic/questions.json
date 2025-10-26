@@ -2,643 +2,644 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Who was Octavian’s right-hand man throughout his life, the commander of the fleet at Actium?",
+      "question": "Who was Octavian’s right-hand man throughout his life, the commander of the\nfleet at Actium?",
       "options": {
-        "A": "Marc Antony",
-        "B": "Marcus Lepidus",
-        "C": "Marcus Agrippa",
-        "D": "Marcus Clodius"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 2,
       "question": "Who served as co-consul with Caesar in 59?",
       "options": {
-        "A": "Bibulus",
-        "B": "Pompey",
-        "C": "Crassus",
-        "D": "Cato"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 3,
       "question": "What country did King Attalus III bequeath to Rome in 133?",
       "options": {
-        "A": "Macedon",
-        "B": "Epirus",
-        "C": "Numidia",
-        "D": "Pergamum"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 4,
       "question": "What animal did Pyrrhus introduce in a battle against the Romans?",
       "options": {
-        "A": "camel",
-        "B": "elephant",
-        "C": "llama",
-        "D": "yak"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 5,
       "question": "Upon his death, Romulus was worshipped as what god?",
       "options": {
-        "A": "Janus",
-        "B": "Lares",
-        "C": "Penates",
-        "D": "Quirinus"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 6,
       "question": "Whose incursion into Sicily hastened the 1st Punic War?",
       "options": {
-        "A": "Mamertines",
-        "B": "Aequi",
-        "C": "Belgae",
-        "D": "Etruscans"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 7,
       "question": "At which battle were the forces of Brutus and Cassius effectively defeated?",
       "options": {
-        "A": "Actium",
-        "B": "Philippi",
-        "C": "Misenum",
-        "D": "Tarentum"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 8,
-      "question": "What religious counselor to Numa Pompilius has been associated with the Greek goddess of childbirth, Eileithyia?",
+      "question": "What religious counselor to Numa Pompilius has been associated with the Greek\ngoddess of childbirth, Eileithyia?",
       "options": {
-        "A": "Livia",
-        "B": "Hersilia",
-        "C": "Egeria",
-        "D": "Lucretia"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 9,
-      "question": "In the mid-5th century, a Roman commission was sent to Greece to study the laws of what Athenian?",
+      "question": "In the mid-5th century, a Roman commission was sent to Greece to study the\nlaws of what Athenian?",
       "options": {
-        "A": "Solon",
-        "B": "Draco",
-        "C": "Cleisthenes",
-        "D": "Ephialtes"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 10,
-      "question": "What did Publius Claudius Pulcher throw into the sea before losing the battle at Drepana?",
+      "question_number": 0,
+      "question": "What did Publius Claudius Pulcher throw into the sea before losing the battle at\nDrepana?",
       "options": {
-        "A": "Neptune statue",
-        "B": "Lares",
-        "C": "wine",
-        "D": "chickens"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 11,
+      "question_number": 1,
       "question": "What Spartan strategist aided the Carthaginians during the 1st Punic War?",
       "options": {
-        "A": "Adeimantus",
-        "B": "Xanthippus",
-        "C": "Pausanias",
-        "D": "Lycurgus"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 12,
+      "question_number": 2,
       "question": "What Mauretanian king betrayed Jugurtha to Sulla?",
       "options": {
-        "A": "Bocchus",
-        "B": "Juba",
-        "C": "Atlas",
-        "D": "Ptolemy"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 13,
+      "question_number": 3,
       "question": "What Gallic chieftain defeated the Romans around 390?",
       "options": {
-        "A": "Cavarinos",
-        "B": "Moritasgos",
-        "C": "Drappes",
-        "D": "Brennus"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 14,
+      "question_number": 4,
       "question": "In 219 Hannibal’s siege of what city led to the 2nd Punic War?",
       "options": {
-        "A": "Massilia",
-        "B": "Ebro",
-        "C": "Saguntum",
-        "D": "Gades"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 15,
-      "question": "What consul proposed the Lex Pompeia which granted citizenship to all free persons living in Cisalpine Gaul south of the Po?",
+      "question_number": 5,
+      "question": "What consul proposed the Lex Pompeia which granted citizenship to all free\npersons living in Cisalpine Gaul south of the Po?",
       "options": {
-        "A": "Silvanus",
-        "B": "Strabo",
-        "C": "Sulla",
-        "D": "Pompey"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 16,
+      "question_number": 6,
       "question": "Who was Octavian’s first wife?",
       "options": {
-        "A": "Scribonia",
-        "B": "Livia",
-        "C": "Julia",
-        "D": "Claudia"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 17,
+      "question_number": 7,
       "question": "How many consulships did Marius achieve?",
       "options": {
-        "A": "3",
-        "B": "5",
-        "C": "7 d."
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 18,
+      "question_number": 8,
       "question": "Which king of Rome was supposedly born a slave?",
       "options": {
-        "A": "Numa Pompilius",
-        "B": "Ancus Marcius",
-        "C": "Tullus Hostilius",
-        "D": "Servius Tullius"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 19,
+      "question_number": 9,
       "question": "What former governor of Sicily did Cicero successfully prosecute in 70?",
       "options": {
-        "A": "Verres",
-        "B": "Piso",
-        "C": "Hortensius",
-        "D": "Rufus"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 20,
+      "question_number": 0,
       "question": "What river did Caesar cross with the immortal line, “Alea iacta est?”",
       "options": {
-        "A": "Tiber",
-        "B": "Rubicon",
-        "C": "Po",
-        "D": "Ebro"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 21,
+      "question_number": 1,
       "question": "After which battle in 168, did Perseus of Macedon flee to Samothrace?",
       "options": {
-        "A": "Cynoscephalae",
-        "B": "Magnesia",
-        "C": "Pydna",
-        "D": "Corinth"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 22,
+      "question_number": 2,
       "question": "Who served as dictator in 458 and is considered a model of pietas?",
       "options": {
-        "A": "Cincinnatus",
-        "B": "Scaevola",
-        "C": "Horatius",
-        "D": "Brutus"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 23,
+      "question_number": 3,
       "question": "Who begged her husband Coriolanus not attack the city of Rome?",
       "options": {
-        "A": "Cloelia",
-        "B": "Tullia",
-        "C": "Lucretia",
-        "D": "Volumnia"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 24,
+      "question_number": 4,
       "question": "What shepherd found and rescued Romulus and Remus?",
       "options": {
-        "A": "Faustulus",
-        "B": "Numitor",
-        "C": "Amulius",
-        "D": "Tiberinus"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 25,
+      "question_number": 5,
       "question": "What set of triples fought for Rome against Alba Longa?",
       "options": {
-        "A": "Curiatii",
-        "B": "Salii",
-        "C": "Luperci",
-        "D": "Horatii"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 26,
+      "question_number": 6,
       "question": "What supposed grandson of Marius was killed by Antony in 44?",
       "options": {
-        "A": "Lepidus",
-        "B": "Amatius",
-        "C": "Helvius",
-        "D": "Cinna"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 27,
-      "question": "What king of Numidia greedily seized most of the Carthaginian coastal colonies around 155?",
+      "question_number": 7,
+      "question": "What king of Numidia greedily seized most of the Carthaginian coastal colonies\naround 155?",
       "options": {
-        "A": "Jugurtha",
-        "B": "Masinissa",
-        "C": "Antiochus IV",
-        "D": "Philip V"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 28,
+      "question_number": 8,
       "question": "In 321 who lured a Roman army into a trap at Caudine Forks?",
       "options": {
-        "A": "Etruscans",
-        "B": "Umbrians",
-        "C": "Samnites",
-        "D": "Gauls"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 29,
+      "question_number": 9,
       "question": "Who received the enormous power created by the Lex Gabinia?",
       "options": {
-        "A": "Cicero",
-        "B": "Pompey",
-        "C": "Sulla",
-        "D": "Octavius"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 30,
+      "question_number": 0,
       "question": "What king of the Veians was killed by Cossus around 426?",
       "options": {
-        "A": "Tolumnius",
-        "B": "Herdonius",
-        "C": "Claudius",
-        "D": "Feretrius"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 31,
+      "question_number": 1,
       "question": "Who is credited with building the Mamertine prison?",
       "options": {
-        "A": "Numa Pompilius",
-        "B": "Tullus Hostilius",
-        "C": "Ancus Marcius",
-        "D": "Servius Tullius"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 32,
+      "question_number": 2,
       "question": "After the battle of Thapsus, which Roman statesman committed suicide?",
       "options": {
-        "A": "Cato",
-        "B": "Antony",
-        "C": "Nerva",
-        "D": "Piso"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 33,
+      "question_number": 3,
       "question": "Mago was the son of which Barcid general?",
       "options": {
-        "A": "Hannibal",
-        "B": "Hamilcar",
-        "C": "Hasdrubal",
-        "D": "Hanno"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 34,
+      "question_number": 4,
       "question": "Who was the Parthian commander at Carrhae?",
       "options": {
-        "A": "Artavasdes",
-        "B": "Orodes",
-        "C": "Surena",
-        "D": "Ariamnes"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 35,
-      "question": "Which Roman dictator successfully conquered the Latins in the Battle of Lake Regillus?",
+      "question_number": 5,
+      "question": "Which Roman dictator successfully conquered the Latins in the Battle of Lake\nRegillus?",
       "options": {
-        "A": "Postumius Albus",
-        "B": "Manius Tullius",
-        "C": "Servius Sulpicius",
-        "D": "Titus Aebutius"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 36,
-      "question": "Who steadfastly demanded, ”Carthago delenda est,” at the end of each speech he gave in the Senate?",
+      "question_number": 6,
+      "question": "Who steadfastly demanded, ”Carthago delenda est,” at the end of each speech\nhe gave in the Senate?",
       "options": {
-        "A": "Scipio",
-        "B": "Cato",
-        "C": "Brutus",
-        "D": "Metellus"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 37,
+      "question_number": 7,
       "question": "Who served as consul several times during the early years of the Republic?",
       "options": {
-        "A": "Galba",
-        "B": "Claudius",
-        "C": "Poplicola",
-        "D": "Brutus"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 38,
+      "question_number": 8,
       "question": "Which naval battle effectively ended the 1st Punic War?",
       "options": {
-        "A": "Drepanum",
-        "B": "Aegates",
-        "C": "Mylae",
-        "D": "Panormus"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 39,
+      "question_number": 9,
       "question": "Titus Tatius was the king of what people?",
       "options": {
-        "A": "Etruscans",
-        "B": "Volscians",
-        "C": "Sabines",
-        "D": "Aequi"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 40,
+      "question_number": 0,
       "question": "What gangplank with grappling hooks was introduced during the 1st Punic War?",
       "options": {
-        "A": "velum",
-        "B": "uncus",
-        "C": "pilum",
-        "D": "corvus"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 41,
-      "question": "According to Plutach, Gaius Fabricius Luscinus was unable to be bribed by what king?",
+      "question_number": 1,
+      "question": "According to Plutach, Gaius Fabricius Luscinus was unable to be bribed by what\nking?",
       "options": {
-        "A": "Pyrrhus",
-        "B": "Pharnaces",
-        "C": "Ptolemy",
-        "D": "Philip"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 42,
+      "question_number": 2,
       "question": "Who held the imperium in Rome, when the king was away from the city?",
       "options": {
-        "A": "consul",
-        "B": "praefectus urbi",
-        "C": "interrex",
-        "D": "pontifex maximus"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 43,
+      "question_number": 3,
       "question": "On which of the seven hills did Romulus build his first settlement at Rome?",
       "options": {
-        "A": "Quirinal",
-        "B": "Capitoline",
-        "C": "Palatine",
-        "D": "Viminal"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 44,
+      "question_number": 4,
       "question": "What Italian city rebelled against Rome and declared itself for Carthage in 216?",
       "options": {
-        "A": "Capua",
-        "B": "Caere",
-        "C": "Clusium",
-        "D": "Camerinum"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 45,
+      "question_number": 5,
       "question": "What woman did Antony officially divorce in 32?",
       "options": {
-        "A": "Fulvia",
-        "B": "Cleopatra",
-        "C": "Livia",
-        "D": "Octavia"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 46,
-      "question": "Queen Teuta of Illyria encouraged what group of people to defy Rome and kill Roman envoys?",
+      "question_number": 6,
+      "question": "Queen Teuta of Illyria encouraged what group of people to defy Rome and kill\nRoman envoys?",
       "options": {
-        "A": "slaves",
-        "B": "farmers",
-        "C": "pirates",
-        "D": "gladiators"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 47,
+      "question_number": 7,
       "question": "What king of Syracuse was murdered after pledging his loyalty to Carthage?",
       "options": {
-        "A": "Gelo",
-        "B": "Hieronymus",
-        "C": "Philistis",
-        "D": "Adranodoros"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 48,
+      "question_number": 8,
       "question": "What consul demanded unconditional surrender from the Aetolians in 191?",
       "options": {
-        "A": "Scipio",
-        "B": "Paullus",
-        "C": "Glabrio",
-        "D": "Licinius"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 49,
-      "question": "What Vestal Virgin allowed the Sabines into Rome and whose name was applied to a notorious place for punishment?",
+      "question_number": 9,
+      "question": "What Vestal Virgin allowed the Sabines into Rome and whose name was applied to\na notorious place for punishment?",
       "options": {
-        "A": "Tarpeia",
-        "B": "Lucretia",
-        "C": "Hersilia",
-        "D": "Livia"
+        "B": "Cinna",
+        "C": "Minucius Rufus",
+        "D": "Livius Salinator",
+        "A": "Rullianus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 50,
-      "question": "In 217 B.C., who served as Quintus Fabius Maximus' magister equitum?",
+      "question_number": 0,
+      "question": "In 217",
       "options": {
         "A": "Rullianus",
         "B": "Cinna",
@@ -646,7 +647,7 @@
         "D": "Livius Salinator"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Monarchy & Republic:",
+      "instruction": null,
       "correct_answer": null
     }
   ],

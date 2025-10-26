@@ -1,0 +1,590 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "When she messed up her speech midway, she decided to start _______.",
+    "question_options": {
+      "A": "ab initio",
+      "B": "ab intergro",
+      "C": "ab irato",
+      "D": "ab intra"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 2,
+    "question_body": "ad unguem",
+    "question_options": {
+      "A": "average",
+      "B": "perfectly",
+      "C": "needs work",
+      "D": "rough"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 3,
+    "question_body": "Prince Charming fell in love with Cinderella _______.",
+    "question_options": {
+      "A": "prima luce",
+      "B": "prima facie",
+      "C": "ex officio",
+      "D": "de facto"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 4,
+    "question_body": "Let the buyer beware",
+    "question_options": {
+      "A": "habeas corpus",
+      "B": "cave canem",
+      "C": "caveat emptor",
+      "D": "per se"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 5,
+    "question_body": "An empty threat",
+    "question_options": {
+      "A": "ab absurdo",
+      "B": "caetera desunt",
+      "C": "brutum flumen",
+      "D": "ex novo"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 6,
+    "question_body": "There’s always that one guy who has to add something of nonsense, who is called ______.",
+    "question_options": {
+      "A": "vox populi",
+      "B": "vox clamantis",
+      "C": "vox Dei",
+      "D": "vox nihil"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 7,
+    "question_body": "a constant companion",
+    "question_options": {
+      "A": "alma mater",
+      "B": "vade mecum",
+      "C": "pro bono",
+      "D": "per se"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 8,
+    "question_body": "Ad invicem",
+    "question_options": {
+      "A": "from below",
+      "B": "from judgment",
+      "C": "literally",
+      "D": "reciprocal"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 9,
+    "question_body": "After the continent America was discovered, every major European country thought of it as ______.",
+    "question_options": {
+      "A": "res nullius",
+      "B": "res publica",
+      "C": "terra nullius",
+      "D": "terra firma"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 10,
+    "question_body": "Immediately",
+    "question_options": {
+      "A": "stante pede",
+      "B": "festina lente",
+      "C": "in actu",
+      "D": "ex post"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 11,
+    "question_body": "In a debate, Sheila tries to prove that the opposition is wrong by ____.",
+    "question_options": {
+      "A": "reductio ad infinitum",
+      "C": "ratio decidendi",
+      "B": "res judicata",
+      "D": "reductio ad absurdum"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 12,
+    "question_body": "dicto simpliciter",
+    "question_options": {
+      "A": "as stated",
+      "B": "word is bond",
+      "C": "said and done",
+      "D": "a maxim"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 13,
+    "question_body": "Occam’s Razor is also called a lex _____.",
+    "question_options": {
+      "A": "ferenda",
+      "B": "paciferat",
+      "C": "parsimoniae",
+      "D": "in casu"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 14,
+    "question_body": "Both Rollins Colege and Angelo State University share the same Latin motto. What is it?",
+    "question_options": {
+      "A": "Lux esto",
+      "B": "Fiat lux",
+      "C": "Lux et Veritas",
+      "D": "Sit Lux"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the best possible answer. Part 1- Phrases"
+  },
+  {
+    "question_index": 15,
+    "question_body": "Veritas et Virtus",
+    "question_options": {
+      "A": "Methodist University",
+      "C": "John Hopkins University",
+      "B": "Mississippi College",
+      "D": "University of Pittsburgh"
+    },
+    "question_key": "C",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 16,
+    "question_body": "Washington, District of Columbia",
+    "question_options": {
+      "A": "Justitita omnibus",
+      "C": "Labor omnia vincit.",
+      "B": "Excelsior!",
+      "D": "Salus et opus"
+    },
+    "question_key": "B",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Superbia in proelio",
+    "question_options": {
+      "A": "Chelsea Football Club",
+      "C": "Paralympic Games",
+      "B": "AC Milan Football",
+      "D": "Manchester City Football Club"
+    },
+    "question_key": "D",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 18,
+    "question_body": "Ad astra per aspera",
+    "question_options": {
+      "A": "Maine",
+      "B": "Oklahoma",
+      "C": "Kansas",
+      "D": "Idaho"
+    },
+    "question_key": "B",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 19,
+    "question_body": "Quaecumque sunt vera",
+    "question_options": {
+      "A": "Northeastern University",
+      "C": "University of Richmond",
+      "B": "Northwestern University",
+      "D": "Southwestern University"
+    },
+    "question_key": "A",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 20,
+    "question_body": "Domine dirige nos",
+    "question_options": {
+      "A": "Paris",
+      "B": "Edinburgh",
+      "C": "Lisbon",
+      "D": "London"
+    },
+    "question_key": "D",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 21,
+    "question_body": "Tria Juncta in uno",
+    "question_options": {
+      "A": "Order of the Garter",
+      "C": "Order of the Bath",
+      "B": "The Benedictines",
+      "D": "Order of St. Sylvester"
+    },
+    "question_key": "D",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 22,
+    "question_body": "Qui transtulit sustinet",
+    "question_options": {
+      "A": "Connecticut",
+      "B": "Delaware",
+      "C": "Vermont",
+      "D": "Oregon"
+    },
+    "question_key": "C",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 23,
+    "question_body": "Sicut patribus sit deus nobis",
+    "question_options": {
+      "A": "Grand Rapids",
+      "B": "Chicago",
+      "C": "Boston",
+      "D": "Baltimore"
+    },
+    "question_key": "C",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 24,
+    "question_body": "Omnia pro patria",
+    "question_options": {
+      "A": "University of Nevada Las Vegas",
+      "C": "Niagara University",
+      "B": "Mount Olive College",
+      "D": "University of Minnesota"
+    },
+    "question_key": "B",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 25,
+    "question_body": "What is the Latin motto of Belize?",
+    "question_options": {
+      "A": "Sub umbra floreo",
+      "C": "Semper pro grediens",
+      "B": "Pergo et perago",
+      "D": "pro mundi beneficio"
+    },
+    "question_key": "B",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 26,
+    "question_body": "Who currently has the title “F.D.”?",
+    "question_options": {
+      "A": "Chief Justice Roberts",
+      "C": "Pope Francis",
+      "B": "Ban Ki-moon",
+      "D": "Queen Elizabeth II"
+    },
+    "question_key": "D",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 27,
+    "question_body": "s.p.d.",
+    "question_options": {
+      "A": "go away",
+      "C": "special police department",
+      "B": "wishing you good health",
+      "D": "sending condolences"
+    },
+    "question_key": "B",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 28,
+    "question_body": "If someone has “r.” and dates following their name, those dates refer to the person’s ____.",
+    "question_options": {
+      "A": "life and death",
+      "B": "being famous",
+      "C": "marriage",
+      "D": "reign"
+    },
+    "question_key": "A",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 29,
+    "question_body": "Medicine markes “c.c.” would need to be taken",
+    "question_options": {
+      "A": "with water",
+      "B": "next morning",
+      "C": "by spoonful",
+      "D": "with food"
+    },
+    "question_key": "C",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 30,
+    "question_body": "N.I.A. would designate the end of a ____.",
+    "question_options": {
+      "A": "presentation",
+      "B": "prayer",
+      "C": "proposal",
+      "D": "article"
+    },
+    "question_key": "B",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 31,
+    "question_body": "Ibid. is the same was what other abbreviation?",
+    "question_options": {
+      "A": "N.B.",
+      "B": "i.a.",
+      "C": "pro per.",
+      "D": "op. cit."
+    },
+    "question_key": "C",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 32,
+    "question_body": "“u.s.” best means ____.",
+    "question_options": {
+      "A": "last month",
+      "B": "see above",
+      "C": "as without",
+      "D": "as above"
+    },
+    "question_key": "D",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 33,
+    "question_body": "Medicine labeled “hor. tert.” needs to be taken",
+    "question_options": {
+      "A": "every third hour",
+      "C": "at patient’s bedtime",
+      "B": "at intermediate hours",
+      "D": "hours spelled with a letter “t”"
+    },
+    "question_key": "A",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 34,
+    "question_body": "“Sc.” Would introduce a type of _____ for the reader.",
+    "question_options": {
+      "A": "equivalence",
+      "B": "clarification",
+      "C": "footnote",
+      "D": "reference"
+    },
+    "question_key": "C",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 35,
+    "question_body": "“S.V.B.E.E.V.” would typically have been found",
+    "question_options": {
+      "A": "Roman’s tombstone",
+      "C": "start of a Roman’s letter",
+      "B": "Roman military orders",
+      "D": "Augustus’s political decrees"
+    },
+    "question_key": "B",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 36,
+    "question_body": "Which of the following abbreviations does NOT have the same general meaning?",
+    "question_options": {
+      "A": "ead.",
+      "B": "id.",
+      "C": "ibid.",
+      "D": "i.a."
+    },
+    "question_key": "D",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 37,
+    "question_body": "Which of the following abbreviations has to do with a degree in law?",
+    "question_options": {
+      "A": "D.D.",
+      "B": "O.D.",
+      "C": "Ll.D.",
+      "D": "D.M.D."
+    },
+    "question_key": "C",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 38,
+    "question_body": "Which of the following abbreviations has nothing to do with prescriptions?",
+    "question_options": {
+      "A": "Q.D.",
+      "B": "stat.",
+      "C": "PRN",
+      "D": "s.i.d."
+    },
+    "question_key": "A",
+    "question_instruction": "Match the motto with the state, city, university or group."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Puri sermonis amator",
+    "question_options": {
+      "A": "Julius Caesar",
+      "B": "Terentius",
+      "C": "Catullus",
+      "D": "Suetonius"
+    },
+    "question_key": "C",
+    "question_instruction": "Give the author attributed with the given quotation."
+  },
+  {
+    "question_index": 40,
+    "question_body": "Dum excusare credis, accusas",
+    "question_options": {
+      "A": "St. Jerome",
+      "B": "St. Augustine",
+      "C": "St. Francis",
+      "D": "St. Paul"
+    },
+    "question_key": "B",
+    "question_instruction": "Give the author attributed with the given quotation."
+  },
+  {
+    "question_index": 41,
+    "question_body": "Gladiator in arena consilium capit",
+    "question_options": {
+      "A": "Quintilian",
+      "B": "Marcus Aurelius",
+      "C": "Juvenal",
+      "D": "Seneca"
+    },
+    "question_key": "D",
+    "question_instruction": "Give the author attributed with the given quotation."
+  },
+  {
+    "question_index": 42,
+    "question_body": "Liberae sunt nostrae cogitationes",
+    "question_options": {
+      "A": "Pliny (elder)",
+      "B": "Sallust",
+      "C": "Nepos",
+      "D": "Cicero"
+    },
+    "question_key": "C",
+    "question_instruction": "Give the author attributed with the given quotation."
+  },
+  {
+    "question_index": 43,
+    "question_body": "In oculis animus habitat",
+    "question_options": {
+      "A": "Lucretius",
+      "B": "Pliny (Elder)",
+      "C": "Pliny (Younger)",
+      "D": "Terence"
+    },
+    "question_key": "C",
+    "question_instruction": "Give the author attributed with the given quotation."
+  },
+  {
+    "question_index": 44,
+    "question_body": "Vincite virtute vera",
+    "question_options": {
+      "A": "Plautus",
+      "B": "Terence",
+      "C": "Caesar",
+      "D": "Ennius"
+    },
+    "question_key": "D",
+    "question_instruction": "Give the author attributed with the given quotation."
+  },
+  {
+    "question_index": 45,
+    "question_body": "Stat magni nominis umbra",
+    "question_options": {
+      "A": "Pompey",
+      "B": "Caesar",
+      "C": "Sallust",
+      "D": "Lucan"
+    },
+    "question_key": "A",
+    "question_instruction": "Give the author attributed with the given quotation."
+  },
+  {
+    "question_index": 47,
+    "question_body": "Difficile est longum subito deponere amorem.",
+    "question_options": {
+      "A": "Horace",
+      "B": "Tibullus",
+      "C": "Catullus",
+      "D": "Ovid"
+    },
+    "question_key": "D",
+    "question_instruction": "Give the author attributed with the given quotation."
+  },
+  {
+    "question_index": 48,
+    "question_body": "Sunt superis sua iura",
+    "question_options": {
+      "A": "Petronius",
+      "B": "Apelius",
+      "C": "Lucan",
+      "D": "Ovid"
+    },
+    "question_key": "A",
+    "question_instruction": "Give the author attributed with the given quotation."
+  },
+  {
+    "question_index": 49,
+    "question_body": "Aequam memento rebus in arduis servare mentem.",
+    "question_options": {
+      "A": "Horace",
+      "B": "Petronius",
+      "C": "Martial",
+      "D": "Varro"
+    },
+    "question_key": "A",
+    "question_instruction": "Give the author attributed with the given quotation."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Arrectis auribus adsto.",
+    "question_options": {
+      "A": "Ovid",
+      "B": "Vergil",
+      "C": "Caesar",
+      "D": "Caesar"
+    },
+    "question_key": "C",
+    "question_instruction": "Give the author attributed with the given quotation."
+  }
+]

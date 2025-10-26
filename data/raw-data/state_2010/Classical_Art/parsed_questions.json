@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "At which of these sites would you find the famous “Lion Gate”?",
+    "question_options": {
+      "A": "Mycenae",
+      "B": "Tiryns",
+      "C": "Troy",
+      "D": "Knossos"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "Which of the following is not considered a work of Minoan Art?",
+    "question_options": {
+      "A": "Cycladic Figurines",
+      "B": "Toreador Fresco",
+      "C": "Snake Goddess",
+      "D": "Hagia Triada Sarcophagus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "What technique of architecture did the Myceneans use to build the dome of the “Treasury of Atreus”?",
+    "question_options": {
+      "A": "Block and lintel",
+      "B": "concrete",
+      "C": "korbeled arch",
+      "D": "Cyclopean masonry"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "The golden Vaphio cups, which are sometimes considered to be a creation of Minoan artists, has what subject running around the outside surface?",
+    "question_options": {
+      "A": "a lion hunt",
+      "B": "a bull hunt",
+      "C": "harvest scene",
+      "D": "departure for a war"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "Which sculptor created the chryselephantine scuplture of Athena in the Parthenon?",
+    "question_options": {
+      "A": "Polycleitus",
+      "B": "Phidias",
+      "C": "Praxiteles",
+      "D": "Ictinus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "Which correctly lists the order of Greek pottery styles from earliest to latest?",
+    "question_options": {
+      "A": "Black figure, Corinthian Ware, Red Figure, White Ground",
+      "B": "Geometric, Red Figure, Black Figure, White Ground",
+      "C": "White Ground, Black figure, Red Figure, Geometric",
+      "D": "Geometric, Black figure, Red Figure, White Ground"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "Choose the letter that best describes a kouros statue of the 6th century BC.",
+    "question_options": {
+      "A": "Fully clothed, stylized hair, protruding eyes and a contrapposto pose",
+      "B": "Left foot slightly advanced, nude, hands clenched at the side, archaic smile",
+      "C": "Partially clothed, geometric musculature, arms posed in action, left foot advanced",
+      "D": "Smooth and rounded features, nude, calm expression, tilted hips"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "What order of architecture had a column that sat directly on the stylobate, with tryglyphs and metopes in the entablature above the column?",
+    "question_options": {
+      "A": "Composite",
+      "B": "Corinthian",
+      "C": "Doric",
+      "D": "Ionic"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "What is the subject of the metopes on the Temple of Zeus at Olympia?",
+    "question_options": {
+      "A": "Chariot race of Pelops and Oenomaus",
+      "B": "Labors of Heracles",
+      "C": "The battle of Lapiths and Centaurs",
+      "D": "Titanomachy"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "The famous Discobolos (Discus-thrower), though only known from Roman copies, was originally made by which Greek sculptor?",
+    "question_options": {
+      "A": "Myron",
+      "B": "Libon",
+      "C": "Kresilas",
+      "D": "Isocrates"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "Which of the buildings on the Athenian Acropolis was built first?",
+    "question_options": {
+      "A": "Parthenon",
+      "B": "Propylaea",
+      "C": "Erechthion",
+      "D": "Temple of Athena Nike"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "Which 4th century BC sculptor was known for the shallow S curve of his standing figures most famously seen in the copies of the Cnidian Aphrodite?",
+    "question_options": {
+      "A": "Lysippos",
+      "B": "Praxiteles",
+      "C": "Leochares",
+      "D": "Scopas"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "The Roman Alexander mosaic from the ______ in Pompeii is thought to be a copy of an earlier Greek painting that depicts the turning point of the Battle of Issus.",
+    "question_options": {
+      "A": "House of the Vettii",
+      "B": "House of the Tragic Poet",
+      "C": "House of the Silver Wedding",
+      "D": "House of the Faun"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "The Gigantomachy was shown in sculpture on which of these?",
+    "question_options": {
+      "A": "the pediment of the Siphnian Treasury",
+      "B": "the Parthenon’s north metopes",
+      "C": "the Altar of Zeus at Pergamum",
+      "D": "both B and C"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "The triumphal arch closest to the Colosseum in Rome was built circa 312 AD by which emperor?",
+    "question_options": {
+      "A": "Maximian",
+      "B": "Aurelian",
+      "C": "Constantine I",
+      "D": "Maxentius"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "The Pantheon as it stands today was built during the reign of which emperor?",
+    "question_options": {
+      "A": "Trajan",
+      "B": "Hadrian",
+      "C": "Nero",
+      "D": "Vespasian"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "The Decumanus Maximus was a hallmark of what aspect of Roman art and architecture?",
+    "question_options": {
+      "A": "vaulting systems",
+      "B": "temple construction",
+      "C": "sculptural proportions",
+      "D": "city planning"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "The building now known as the Castel San Angelo was originally whose mausoleum?",
+    "question_options": {
+      "A": "Augustus",
+      "B": "Antoninus Pius",
+      "C": "Hadrian",
+      "D": "Maxentius"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "In addition to Trajan, what emperor also built a column in Rome to commemorate his campaigns?",
+    "question_options": {
+      "A": "Marcus Aurelius",
+      "B": "Aurelian",
+      "C": "Caracalla",
+      "D": "Septimius Severus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "Julius Caesar started and Augustus completed the building of the Forum Iulium. What building dominated the northern end of this forum?",
+    "question_options": {
+      "A": "Temple of the Divine Julius",
+      "B": "Temple of Venus Genetrix",
+      "C": "Temple of Mars Ultor",
+      "D": "Temple of Peace"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "A tomb chamber carved out of the rock to resemble the rooms of a house and containing a terracotta sarcophagus showing the husband and wife reclining together is most likely one made by which people?",
+    "question_options": {
+      "A": "Romans",
+      "B": "Greeks",
+      "C": "Etruscans",
+      "D": "Minoans"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "Which emperor built a triple gated triumphal arch in the Roman Forum itself, which still stands today next to the Senate house?",
+    "question_options": {
+      "A": "Septimius Severus",
+      "B": "Marcus Aurelius",
+      "C": "Augustus",
+      "D": "Titus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "What material was used to make the Etruscan statue of Apollo from Veii?",
+    "question_options": {
+      "A": "bronze",
+      "B": "marble",
+      "C": "ivory and gold",
+      "D": "terracotta"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "What was placed in the base to Trajan’s Column?",
+    "question_options": {
+      "A": "a golden funerary urn",
+      "B": "military records from his campaigns",
+      "C": "bullion from captured in war",
+      "D": "A and B"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "Which of the following is NOT one of the artists credited with the statue of Laocoon ?",
+    "question_options": {
+      "A": "Hagesandros",
+      "B": "Alcamenes",
+      "C": "Polydorus",
+      "D": "Athanodorus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "What is the usual name given to this building?",
+    "question_options": {
+      "A": "Temple of the Artemis",
+      "B": "Temple of Athena Pronaia",
+      "C": "Temple of Hestia",
+      "D": "Hera II Temple"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "About what date was this building made?",
+    "question_options": {
+      "A": "475 BC",
+      "B": "375 BC",
+      "C": "275 BC",
+      "D": "100 AD"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "What style(s) of columns decorated this temple?",
+    "question_options": {
+      "A": "Doric",
+      "B": "Doric and Ionic",
+      "C": "Doric, Ionic and Corinthian",
+      "D": "Doric and Corinthian"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "Who was the architect of this building?",
+    "question_options": {
+      "A": "Theodorus of Phocaea",
+      "B": "Apollophanes",
+      "C": "Ictinus",
+      "D": "Athandorus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "What style of vase painting is this?",
+    "question_options": {
+      "A": "Corinthian Ware",
+      "B": "Proto-Attic",
+      "C": "Black Figure",
+      "D": "Sub Mycenean"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "What would this pot have originally contained?",
+    "question_options": {
+      "A": "olive oil",
+      "B": "wine",
+      "C": "garum",
+      "D": "perfume"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "At which games would a man have won this amphora?",
+    "question_options": {
+      "A": "Nemean",
+      "B": "Panathenaic",
+      "C": "Pythian",
+      "D": "Isthmian"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "What name is generally given to this statue?",
+    "question_options": {
+      "A": "Auxerre Kore",
+      "B": "Antenor Kore",
+      "C": "Peplos Kore",
+      "D": "Berlin Kore"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "What style of sculpture is this?",
+    "question_options": {
+      "A": "Severe Classical",
+      "B": "Late Classical",
+      "C": "Daedalic",
+      "D": "Archaic"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "What date could be assigned to this statue?",
+    "question_options": {
+      "A": "620 BC",
+      "B": "540 BC",
+      "C": "480 BC",
+      "D": "420 BC"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "What style of architecture is this?",
+    "question_options": {
+      "A": "Doric",
+      "B": "Ionic",
+      "C": "Corinthian",
+      "D": "Tuscan"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "Where is this temple located?",
+    "question_options": {
+      "A": "Paestum",
+      "B": "Miletus",
+      "C": "Athens",
+      "D": "Argos"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "Who started the building of this structure?",
+    "question_options": {
+      "A": "Pyrrhus",
+      "B": "Antiochus IV of Syria",
+      "C": "Attalus III of Pergamum",
+      "D": "Sulla"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Which architect’s designs were used to build this structure?",
+    "question_options": {
+      "A": "Cossutius",
+      "B": "Hippodamus of Miletus",
+      "C": "Sostratus of Cnidus",
+      "D": "Mnesicles"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "During which emperor’s reign was it completed?",
+    "question_options": {
+      "A": "Augustus",
+      "B": "Claudius",
+      "C": "Hadrian",
+      "D": "Diocletian"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "What style of vase painting is this?",
+    "question_options": {
+      "A": "Proto-Attic",
+      "B": "Red Figure",
+      "C": "Bilingual",
+      "D": "White Ground"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "Which painter is credited with this pot?",
+    "question_options": {
+      "A": "Niobid Painter",
+      "B": "Euphronius",
+      "C": "Exekias",
+      "D": "Achilles Painter"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "From which building was this frieze taken?",
+    "question_options": {
+      "A": "Treasury of the Athenians",
+      "B": "Parthenon",
+      "C": "Temple of Artemis at Miletus",
+      "D": "Temple of Delian Apollo"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "What does this scene show?",
+    "question_options": {
+      "A": "The horse race at Delphi",
+      "B": "Part of the Panathenaic procession",
+      "C": "Battle of the Greeks and the Amazons",
+      "D": "The theft of the horses of Rhesus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "Of which emperor is this a statue?",
+    "question_options": {
+      "A": "Augustus",
+      "B": "Tiberius",
+      "C": "Titus",
+      "D": "Trajan"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "Where was this statue found?",
+    "question_options": {
+      "A": "Colline Gate in Rome",
+      "B": "On a triumphal arch in Beneventum",
+      "C": "In the Baths of Trajan",
+      "D": "In a villa belonging to Livia"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "What does the central image of the breastplate show?",
+    "question_options": {
+      "A": "Return of the legionary standards lost by Crassus",
+      "B": "Recovery of the legionary standards of Varus",
+      "C": "Surrender of the Germans to Tiberius",
+      "D": "Capture of Decebalus by Trajan"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "The netlike pattern to the concrete work seen here was known as what?",
+    "question_options": {
+      "A": "opus incertum",
+      "B": "opus laterum",
+      "C": "opus reticulatum",
+      "D": "opus trabeata"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "What title is generally given to this work?",
+    "question_options": {
+      "A": "The Tetrarchs",
+      "B": "Caesars and Augusti",
+      "C": "Quadra Columna de Imperio",
+      "D": "Lapis Niger"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Of what stone is it carved?",
+    "question_options": {
+      "A": "basalt",
+      "B": "marble",
+      "C": "granite",
+      "D": "porphyry"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  }
+]

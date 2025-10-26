@@ -7,18 +7,29 @@ import re
 import json
 from pathlib import Path
 
-def is_section_header(text):
-    """Check if text is a section header that should be ignored"""
-    if not text:
-        return False
+def handle_section_headers(text, mode='detect'):
+    """
+    Unified function to handle section headers - can detect or clean them
     
-    # Common section header patterns
+    Args:
+        text: The text to process
+        mode: 'detect' to return True/False if it's a header, 'clean' to remove headers from text
+    
+    Returns:
+        For 'detect' mode: True if text is a section header, False otherwise
+        For 'clean' mode: Cleaned text with headers removed
+    """
+    if not text:
+        return False if mode == 'detect' else ""
+    
+    # All patterns that indicate section headers
     section_patterns = [
+        # FJCL Forum patterns
         'Mythology:', 'Phrases:', 'Mottoes:', 'Abbreviations:', 'Quotations:', 
         'Derivatives:', 'History:', 'Vocabulary:', 'Classical Art:', 'Classical Geography:',
         'Empire:', 'Monarchy:', 'Republic:', 'Vocabulary I:', 'Vocabulary II:',
         'Derivatives I:', 'Derivatives II:', 'History of the Empire:', 
-        'History of the Monarchy and Republic:', 'MYTHOLOGY:', 'MOTTOES:', 'PHRASES:',
+        'History of the Monarchy and Republic:', 'History of the Monarchy & Republic:', 'MYTHOLOGY:', 'MOTTOES:', 'PHRASES:',
         'QUOTATIONS:', 'ABBREVIATIONS:', 'Chlorus:', 'Derived:', 'English word(s):',
         'Equivalents:', 'Extra questions:', 'Geography:', 'Image:', 'Miscellaneous:',
         'Word:', 'Phrases, Mottoes, Abbreviations, and Quotations:',
@@ -27,7 +38,7 @@ def is_section_header(text):
         'Derivatives', 'History', 'Vocabulary', 'Classical Art', 'Classical Geography',
         'Empire', 'Monarchy', 'Republic', 'Vocabulary I', 'Vocabulary II',
         'Derivatives I', 'Derivatives II', 'History of the Empire',
-        'History of the Monarchy and Republic', 'MYTHOLOGY', 'MOTTOES', 'PHRASES',
+        'History of the Monarchy and Republic', 'History of the Monarchy & Republic', 'MYTHOLOGY', 'MOTTOES', 'PHRASES',
         'QUOTATIONS', 'ABBREVIATIONS', 'Chlorus', 'Derived', 'English word(s)',
         'Equivalents', 'Extra questions', 'Geography', 'Image', 'Miscellaneous',
         'Word', 'Phrases, Mottoes, Abbreviations, and Quotations',
@@ -41,43 +52,168 @@ def is_section_header(text):
         'Part 1.', 'Part 2.', 'Part 3.', 'Part 4.', 'Part 5.'
     ]
     
-    # Direct match with known patterns
-    if text in section_patterns:
-        return True
+    # Headers to remove as prefixes (for clean mode)
+    prefix_headers = [
+        # FJCL Forum patterns
+        "FJCL State Latin Forum – Derivatives 1 -",
+        "FJCL State Latin Forum – Derivatives I -", 
+        "FJCL State Latin Forum – Derivatives II -",
+        "FJCL State Latin Forum – Derivatives -",
+        "FJCL State Latin Forum – Mythology -",
+        "FJCL State Latin Forum – Vocabulary 1 -",
+        "FJCL State Latin Forum – Vocabulary I -",
+        "FJCL State Latin Forum – Vocabulary II -",
+        "FJCL State Latin Forum – Vocabulary -",
+        "FJCL State Latin Forum – History -",
+        "FJCL State Latin Forum – Mottoes -",
+        "FJCL State Latin Forum – Phrases -",
+        "FJCL State Latin Forum – Abbreviations -",
+        "FJCL State Latin Forum – Quotations -",
+        "FJCL State Latin Forum – Classical Art -",
+        "FJCL State Latin Forum – Classical Geography -",
+        "FJCL State Latin Forum – History of the Empire -",
+        "FJCL State Latin Forum – History of the Monarchy and Republic -",
+        "FJCL State Latin Forum – History of the Monarchy & Republic -",
+        "FJCL State Latin Forum – Mottoes, Abbreviations, and Quotations -",
+        "FJCL State Latin Forum – Mottoes, Abbreviations, & Quotations -",
+        
+        # Year + FJCL patterns
+        "2015 FJCL State Latin Forum",
+        "2014 FJCL State Latin Forum", 
+        "2013 FJCL State Latin Forum",
+        "2012 FJCL State Latin Forum",
+        "2011 FJCL State Latin Forum",
+        "2010 FJCL State Latin Forum",
+        "2009 FJCL State Latin Forum",
+        "2019 FJCL State Forum",
+        "2018 FJCL State Forum",
+        "2017 FJCL State Forum",
+        "2016 FJCL State Forum",
+        "2015 FJCL State Forum",
+        "2014 FJCL State Forum",
+        "2013 FJCL State Forum",
+        "2012 FJCL State Forum",
+        "2011 FJCL State Forum",
+        "2010 FJCL State Forum",
+        "2009 FJCL State Forum",
+        
+        # Generic FJCL patterns
+        "FJCL State Latin Forum",
+        "FJCL State Forum",
+        
+        # Subject names
+        "Derivatives",
+        "Mythology", 
+        "Vocabulary",
+        "History",
+        "Classical Art",
+        "Classical Geography",
+        "Mottoes",
+        "Abbreviations",
+        "Quotations",
+        "Phrases",
+        
+        # Subject with numbers/descriptions
+        "Derivatives I",
+        "Derivatives II", 
+        "Vocabulary I",
+        "Vocabulary II",
+        "History of the Empire",
+        "History of the Monarchy and Republic",
+        "History of the Monarchy & Republic",
+        "Mottoes, Abbreviations, and Quotations",
+        "Mottoes, Abbreviations, & Quotations",
+        "Phrases, Mottoes, Abbreviations, and Quotations",
+        
+        # Roman numeral section headers
+        "I. Mottoes",
+        "II. Phrases", 
+        "III. Abbreviations",
+        "IV. Quotations",
+        "Part I: Phrases",
+        "Part II: Mottoes",
+        "Part III: Abbreviations", 
+        "Part IV: Quotations",
+        
+        # Other patterns
+        "N.B. There are no macra on this test.",
+    ]
     
-    # Pattern: single word + colon (likely section)
-    if len(text.split()) == 1 and text.endswith(':'):
-        return True
+    if mode == 'detect':
+        # Pattern: "STATE LATIN FORUM" or "FJCL State Forum" patterns
+        if re.match(r'^(STATE\s+LATIN\s+FORUM|FJCL\s+State\s+(Latin\s+)?Forum)', text, re.IGNORECASE):
+            return True
+        
+        # Pattern: "Subject - States YYYY -" patterns (like "Derivatives 2 - States 2018 -")
+        if re.match(r'^[A-Za-z\s]+I{0,3}\s*-\s*States?\s+\d{4}\s*-?\s*$', text):
+            return True
+        
+        # Pattern: "Subject YYYY -" patterns (like "Derivatives 2 - States 2018 -")
+        if re.match(r'^[A-Za-z\s]+\d{4}\s*-?\s*$', text):
+            return True
+        
+        # Direct match with known patterns
+        if text in section_patterns:
+            return True
+        
+        # Pattern: single word + colon (likely section)
+        if len(text.split()) == 1 and text.endswith(':'):
+            return True
+        
+        # Pattern: very short phrases (1-2 words) + colon
+        if len(text.split()) <= 2 and text.endswith(':'):
+            return True
+        
+        # Pattern: single word without colon (likely section)
+        if len(text.split()) == 1:
+            return True
+        
+        # Pattern: "Part X. Y" or "Part X) Y" or "Part X : Y" - ALL of these are section headers to be ignored
+        if re.match(r'^Part\s+[IVX\d]+[\.\)\s*:]\s*.*$', text):
+            return True
+        
+        # Pattern: "I. Y" or "II. Y" patterns (Roman numerals) - BUT NOT if it's followed by instruction text
+        # If it's more than 3 words, it's probably an instruction, not a section header
+        if re.match(r'^[IVX]+\.\s*.*$', text):
+            words = text.split()
+            if len(words) > 3:
+                return False  # It's an instruction, not a section header
+            # Also check if it contains instruction keywords
+            instruction_keywords = ['choose', 'identify', 'complete', 'select', 'match', 'find', 'determine', 'given']
+            text_lower = text.lower()
+            if any(keyword in text_lower for keyword in instruction_keywords):
+                return False  # It's an instruction, not a section header
+            return True  # It's a short section header
+        
+        # Pattern: "Items X-Y:" (section header to skip)
+        if re.match(r'^Items\s+\d+[–-]\d+:', text):
+            return True
+        
+        # Pattern: "N.B." patterns (skip these)
+        if re.match(r'^N\.B\.', text):
+            return True
+        
+        # Pattern: "Subject Test" (like "Mythology Test")
+        if re.match(r'^[A-Za-z\s]+Test$', text):
+            return True
+        
+        return False
     
-    # Pattern: very short phrases (1-2 words) + colon
-    if len(text.split()) <= 2 and text.endswith(':'):
-        return True
+    elif mode == 'clean':
+        # Remove useless headers as prefixes
+        cleaned_text = text
+        for header in prefix_headers:
+            # Remove as prefix (case insensitive)
+            if cleaned_text.lower().startswith(header.lower()):
+                cleaned_text = cleaned_text[len(header):].strip()
+                # Remove leading newlines
+                while cleaned_text.startswith('\n'):
+                    cleaned_text = cleaned_text[1:]
+        
+        return cleaned_text.strip()
     
-    # Pattern: single word without colon (likely section)
-    if len(text.split()) == 1:
-        return True
-    
-    # Pattern: "Part X. Y" or "Part X) Y" - ALL of these are section headers to be ignored
-    if re.match(r'^Part\s+[IVX\d]+[\.\)]\s*.*$', text):
-        return True
-    
-    # Pattern: "I. Y" or "II. Y" patterns (Roman numerals)
-    if re.match(r'^[IVX]+\.\s*.*$', text):
-        return True
-    
-    # Pattern: "Items X-Y:" (section header to skip)
-    if re.match(r'^Items\s+\d+[–-]\d+:', text):
-        return True
-    
-    # Pattern: "N.B." patterns (skip these)
-    if re.match(r'^N\.B\.', text):
-        return True
-    
-    # Pattern: "Subject Test" (like "Mythology Test")
-    if re.match(r'^[A-Za-z\s]+Test$', text):
-        return True
-    
-    return False
+    else:
+        raise ValueError("Mode must be 'detect' or 'clean'")
 
 def parse_test_file(test_file_path):
     """Parse a single test file and return questions as JSON"""
@@ -86,197 +222,205 @@ def parse_test_file(test_file_path):
     with open(test_file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Split into lines for processing
-    lines = content.split('\n')
-    
-    questions = []
-    current_question = None
-    current_instruction = None
-    between_questions = True  # Track if we're between questions (after option D)
-    
     # Determine if this is pre-2018 or post-2018 format
     year_match = re.search(r'state_(\d{4})', str(test_file_path))
     year = int(year_match.group(1)) if year_match else 2018
     is_pre_2018 = year <= 2017  # 2017 and earlier use pre-2018 format
     
-    for i, line in enumerate(lines):
-        line = line.strip()
-        if not line:
-            continue
-        
-        # Skip header lines
-        if re.match(r'^\d{4}\s+FJCL\s+State\s+(Latin\s+)?Forum', line):
-            continue
-        if re.match(r'^\d{4}\s+FJCL\s+State\s+Forum.*-$', line):
-            continue
-        if re.match(r'^\d{4}\s+FJCL\s+State\s+Forum.*\s+-\s*$', line):
-            continue
-        if re.match(r'^FJCL\s+State\s+Forum$', line):  # Skip standalone "FJCL State Forum"
-            continue
-        
-        # Skip subject headers like "Derivatives I - States 2019 -"
-        if re.match(r'^[A-Za-z\s]+I{0,3}\s*-\s*States?\s+\d{4}\s*-?\s*$', line):
-            continue
-        
-        # Skip section dividers
-        if re.match(r'^Part\s+(\d+)\s*[-–]\s*(.+)$', line):  # "Part 2 – Mottoes"
-            continue
-        if re.match(r'^Part\s+(\d+)-\s*(.+)$', line):  # "Part 1- Phrases"
-            continue
-        if re.match(r'^Part\s+([IVX]+):\s*(.+)$', line):  # "Part II: Mottoes"
-            continue
-        
-        # Handle "Items X-Y: instruction" pattern BEFORE section header check
-        if (between_questions and  # Only when between questions
-            not re.match(r'^\d+\.', line)):  # Not a question number
-            
-            items_match = re.match(r'^Items\s+\d+[–-]\d+:\s*(.+)$', line)
-            if items_match:
-                instruction_text = items_match.group(1).strip()
-                if current_instruction:
-                    current_instruction += " " + instruction_text
-                else:
-                    current_instruction = instruction_text
-                continue
-        
-        # SIMPLIFIED INSTRUCTION DETECTION (ONLY when between questions)
-        # Instructions continue until a question number + period is seen
-        if (between_questions and  # Only when between questions
-            not re.match(r'^\d+\.', line) and  # Not a question number
-            not is_section_header(line) and  # Not a section header
-            line.strip()):  # Not empty
-            
-            # Concatenate instruction lines
-            if current_instruction:
-                current_instruction += " " + line.strip()
-            else:
-                current_instruction = line.strip()
-            continue
-        
-        
-        # Check for question numbers (with or without question text)
-        question_match = re.match(r'^(\d+)\.\s*(.*)$', line)
-        if question_match:
-            # Save previous question if exists
-            if current_question and len(current_question["options"]) > 0:
-                questions.append(current_question)
-            
-            # Start new question with accumulated instruction
-            question_num = int(question_match.group(1))
-            question_text = question_match.group(2).strip()
-            
-            # Handle questions with no text (just number and options)
-            if not question_text:
-                question_text = ""
-            
-            # Determine instruction to use (inherit from previous if current is None)
-            instruction_to_use = current_instruction
-            if instruction_to_use is None and questions:
-                # Inherit instruction from previous question
-                instruction_to_use = questions[-1]["instruction"]
-            
-            current_question = {
-                "question_number": question_num,
-                "question": question_text,
-                "options": {},
-                "type": "multiple_choice",
-                "instruction": instruction_to_use,
-                "correct_answer": None
-            }
-            
-            # Clear instruction for next question
-            current_instruction = None
-            between_questions = False  # We're now building a question
-            continue
-        
-        # Check for answer options
-        if current_question:
-            # Handle pre-2018 format (lowercase options)
-            if is_pre_2018:
-                option_match = re.match(r'^([a-d])\.\s*(.+)$', line)
-                if option_match:
-                    option_letter = option_match.group(1).upper()
-                    remaining_text = option_match.group(2).strip()
-                    
-                    # Check if there are multiple options on this line by looking for "b.", "c.", "d."
-                    if re.search(r'\s+[b-d]\.\s+', remaining_text):
-                        # Multiple options on one line - split them
-                        parts = re.split(r'\s+([b-d])\.\s+', remaining_text)
-                        if len(parts) > 1:
-                            # First option (use the actual letter from the match)
-                            first_option = parts[0].strip()
-                            current_question["options"][option_letter] = first_option
-                            
-                            # Process remaining options
-                            for i in range(1, len(parts), 2):
-                                if i + 1 < len(parts):
-                                    letter = parts[i].upper()
-                                    text = parts[i + 1].strip()
-                                    current_question["options"][letter] = text
-                                    # If this was option D, we're now between questions
-                                    if letter == 'D':
-                                        between_questions = True
-                    else:
-                        # Single option on the line
-                        current_question["options"][option_letter] = remaining_text
-                        # If this was option D, we're now between questions
-                        if option_letter == 'D':
-                            between_questions = True
-                    continue
-            
-            # Handle post-2018 format (uppercase options)
-            else:
-                option_match = re.match(r'^([A-D])\.\s*(.+)$', line)
-                if option_match:
-                    option_letter = option_match.group(1)
-                    remaining_text = option_match.group(2).strip()
-                    
-                    # Check if there are multiple options on this line
-                    if re.search(r'\s+[B-D]\.\s+', remaining_text):
-                        # Multiple options on one line - split them
-                        parts = re.split(r'\s+([B-D])\.\s+', remaining_text)
-                        if len(parts) > 1:
-                            # First option (use the actual letter from the match)
-                            first_option = parts[0].strip()
-                            current_question["options"][option_letter] = first_option
-                            
-                            # Process remaining options
-                            for i in range(1, len(parts), 2):
-                                if i + 1 < len(parts):
-                                    letter = parts[i]
-                                    text = parts[i + 1].strip()
-                                    current_question["options"][letter] = text
-                                    # If this was option D, we're now between questions
-                                    if letter == 'D':
-                                        between_questions = True
-                    else:
-                        # Single option on the line
-                        current_question["options"][option_letter] = remaining_text
-                        # If this was option D, we're now between questions
-                        if option_letter == 'D':
-                            between_questions = True
-                    continue
-            
-            # If we have a current question and this line doesn't start with an option, 
-            # it might be a continuation of the question statement
-            if (not re.match(r'^([a-dA-D])\.\s*(.+)$', line) and  # Not an option
-                not re.match(r'^\d+\.', line) and  # Not a new question number
-                not re.match(r'^\d{4}\s+FJCL\s+State\s+(Latin\s+)?Forum', line) and  # Not a header
-                not re.match(r'^\d{4}\s+FJCL\s+State\s+Forum.*-$', line) and  # Not headers ending with dash
-                not re.match(r'^\d{4}\s+FJCL\s+State\s+Forum.*\s+-\s*$', line) and  # Not headers ending with space-dash-space
-                not re.match(r'^Part\s+(\d+)\s*[-–]\s*(.+)$', line) and  # Not a section divider
-                not re.match(r'^Part\s+(\d+)-\s*(.+)$', line) and  # Not a section divider (hyphen)
-                not re.match(r'^Part\s+([IVX]+):\s*(.+)$', line) and  # Not a Part II: Mottoes divider
-                not re.match(r'^[A-Za-z\s]+I{0,3}\s*-\s*States?\s+\d{4}\s*-?\s*$', line) and  # Not subject headers
-                line.strip()):  # Not empty
-                # This is a continuation of the question statement
-                current_question["question"] += " " + line.strip()
-                continue
-        
+    print(f"DEBUG: Processing {test_file_path}, year={year}, is_pre_2018={is_pre_2018}")
     
-    # Save the last question if it exists
-    if current_question and len(current_question["options"]) > 0:
-        questions.append(current_question)
+    questions = []
+    i = 0
+    
+    # State machine states
+    STATE_INSTRUCTION = 0
+    STATE_QUESTION = 1
+    STATE_OPTION_A = 2
+    STATE_OPTION_B = 3
+    STATE_OPTION_C = 4
+    STATE_OPTION_D = 5
+    
+    state = STATE_INSTRUCTION
+    current_instruction = ""
+    current_question_num = None
+    current_question_text = ""
+    current_options = {}
+    current_option_text = ""
+    
+    def is_number_period(pos):
+        """Check if position starts with number + period"""
+        if pos >= len(content):
+            return False, None
+        
+        # Extract digits
+        num_start = pos
+        num_end = pos
+        while num_end < len(content) and content[num_end].isdigit():
+            num_end += 1
+        
+        # Must have at least one digit and be followed by period
+        if num_end > num_start and num_end < len(content) and content[num_end] == '.':
+            return True, int(content[num_start:num_end])
+        return False, None
+    
+    def is_option_letter(pos, letter, is_pre):
+        """Check if position has the option letter + period"""
+        if pos >= len(content) - 1:
+            return False
+        
+        if is_pre:
+            return content[pos].lower() == letter.lower() and content[pos + 1] == '.'
+        else:
+            return content[pos].upper() == letter.upper() and content[pos + 1] == '.'
+    
+    while i < len(content):
+        # Check for transitions
+        is_num_period, question_num = is_number_period(i)
+        
+        if state == STATE_INSTRUCTION:
+            # Transition: number + period -> STATE_QUESTION
+            if is_num_period:
+                # Save instruction if non-empty
+                cleaned = handle_section_headers(current_instruction.strip(), mode='clean')
+                if cleaned and not handle_section_headers(cleaned, mode='detect'):
+                    current_instruction = cleaned
+                else:
+                    current_instruction = ""
+                
+                # Move to question state
+                state = STATE_QUESTION
+                current_question_num = question_num
+                current_question_text = ""
+                current_options = {}
+                
+                # Skip past "number."
+                while i < len(content) and content[i].isdigit():
+                    i += 1
+                i += 1  # Skip period
+                
+                print(f"DEBUG Q{current_question_num}: Started question")
+                continue
+            else:
+                # Accumulate instruction text
+                current_instruction += content[i]
+                i += 1
+                
+        elif state == STATE_QUESTION:
+            # Transition: option letter 'a' or 'A' + period -> STATE_OPTION_A
+            if is_option_letter(i, 'a', is_pre_2018):
+                current_question_text = current_question_text.strip()
+                state = STATE_OPTION_A
+                current_option_text = ""
+                i += 2  # Skip "a."
+                print(f"DEBUG Q{current_question_num}: Question text = {repr(current_question_text[:50])}")
+                continue
+            else:
+                # Accumulate question text
+                current_question_text += content[i]
+                i += 1
+                
+        elif state == STATE_OPTION_A:
+            # Transition: option letter 'b' + period -> STATE_OPTION_B
+            if is_option_letter(i, 'b', is_pre_2018):
+                current_options['A'] = current_option_text.strip()
+                state = STATE_OPTION_B
+                current_option_text = ""
+                i += 2  # Skip "b."
+                print(f"DEBUG Q{current_question_num}: Option A = {repr(current_options['A'])}")
+                continue
+            else:
+                # Accumulate option A text
+                current_option_text += content[i]
+                i += 1
+                
+        elif state == STATE_OPTION_B:
+            # Transition: option letter 'c' + period -> STATE_OPTION_C
+            if is_option_letter(i, 'c', is_pre_2018):
+                current_options['B'] = current_option_text.strip()
+                state = STATE_OPTION_C
+                current_option_text = ""
+                i += 2  # Skip "c."
+                print(f"DEBUG Q{current_question_num}: Option B = {repr(current_options['B'])}")
+                continue
+            else:
+                # Accumulate option B text
+                current_option_text += content[i]
+                i += 1
+                
+        elif state == STATE_OPTION_C:
+            # Transition: option letter 'd' + period -> STATE_OPTION_D
+            if is_option_letter(i, 'd', is_pre_2018):
+                current_options['C'] = current_option_text.strip()
+                state = STATE_OPTION_D
+                current_option_text = ""
+                i += 2  # Skip "d."
+                print(f"DEBUG Q{current_question_num}: Option C = {repr(current_options['C'])}")
+                continue
+            else:
+                # Accumulate option C text
+                current_option_text += content[i]
+                i += 1
+                
+        elif state == STATE_OPTION_D:
+            # Transition: number + period OR end of file -> Save question, move to STATE_INSTRUCTION or STATE_QUESTION
+            if is_num_period or i >= len(content) - 1:
+                # Save option D
+                if i >= len(content) - 1 and not is_num_period:
+                    # At end of file, include remaining text
+                    current_option_text += content[i]
+                
+                # Clean up option D - remove section headers
+                option_d_text = current_option_text.strip()
+                # Split by newlines and remove section headers
+                lines = option_d_text.split('\n')
+                cleaned_lines = []
+                for line in lines:
+                    line = line.strip()
+                    if line and not handle_section_headers(line, mode='detect'):
+                        cleaned_lines.append(line)
+                option_d_text = ' '.join(cleaned_lines)
+                
+                current_options['D'] = option_d_text
+                print(f"DEBUG Q{current_question_num}: Option D = {repr(current_options['D'])}")
+                
+                # Save the complete question
+                questions.append({
+                    "question_number": current_question_num,
+                    "question": current_question_text,
+                    "options": current_options.copy(),
+                    "type": "multiple_choice",
+                    "instruction": current_instruction if current_instruction else None,
+                    "correct_answer": None
+                })
+                
+                print(f"DEBUG Q{current_question_num}: Completed question\n")
+                
+                # Reset for next question
+                if is_num_period:
+                    # Next question starts immediately
+                    state = STATE_QUESTION
+                    current_question_num = question_num
+                    current_question_text = ""
+                    current_options = {}
+                    
+                    # Skip past "number."
+                    while i < len(content) and content[i].isdigit():
+                        i += 1
+                    i += 1  # Skip period
+                    print(f"DEBUG Q{current_question_num}: Started question")
+                else:
+                    # End of file
+                    state = STATE_INSTRUCTION
+                    current_instruction = ""
+                    i += 1
+                
+                continue
+            else:
+                # Accumulate option D text
+                current_option_text += content[i]
+                i += 1
+    
+    print(f"DEBUG: Total questions found: {len(questions)}")
     
     # Parse answer key
     answer_key = parse_answer_key(test_file_path)

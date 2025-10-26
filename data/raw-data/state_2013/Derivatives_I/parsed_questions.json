@@ -1,0 +1,542 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "The boy was astounded by the pulchritude of the painting.",
+    "question_options": {
+      "A": "beauty",
+      "B": "depth",
+      "C": "simplicity",
+      "D": "extravagance"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "I was quite surprised by the parvanimity of the 2 boys.",
+    "question_options": {
+      "A": "pettiness",
+      "B": "quickness",
+      "C": "strength",
+      "D": "generosity"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "The students greatly enjoyed the canticle provided by the teacher.",
+    "question_options": {
+      "A": "praise",
+      "B": "song",
+      "C": "help",
+      "D": "lesson"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "We were attempting to obfuscate the class but to no avail.",
+    "question_options": {
+      "A": "clarify",
+      "B": "praise",
+      "C": "teach",
+      "D": "confuse"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "The owners frequently praised the gregarious employee for a job well done.",
+    "question_options": {
+      "A": "kind",
+      "B": "hard-working",
+      "C": "intelligent",
+      "D": "outgoing"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "I managed to pacify the situation but it proved difficult at times.",
+    "question_options": {
+      "A": "magnify",
+      "B": "calm",
+      "C": "understand",
+      "D": "leave"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "The man immediately decided to recant his statement.",
+    "question_options": {
+      "A": "accept",
+      "B": "clarify",
+      "C": "withdraw",
+      "D": "explain"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "Being imperceptive can be an interesting quality in a person.",
+    "question_options": {
+      "A": "sharp",
+      "B": "unobservant",
+      "C": "sensitive",
+      "D": "earnest"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "My friends always enjoyed listening to the pertinacious student.",
+    "question_options": {
+      "A": "stubborn",
+      "B": "talkative",
+      "C": "intelligent",
+      "D": "humorous"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "The onerous task caused a lot of wonder and questions from everyone.",
+    "question_options": {
+      "A": "simple",
+      "B": "confusing",
+      "C": "burdensome",
+      "D": "annoying"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "decapitate",
+    "question_options": {
+      "A": "take",
+      "B": "head",
+      "C": "cap",
+      "D": "body"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "savage",
+    "question_options": {
+      "A": "beast",
+      "B": "enrage",
+      "C": "wild",
+      "D": "forest"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "abundant",
+    "question_options": {
+      "A": "much",
+      "B": "wave",
+      "C": "earth",
+      "D": "grain"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "conduit",
+    "question_options": {
+      "A": "eat",
+      "B": "pour",
+      "C": "lead",
+      "D": "try"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "salient",
+    "question_options": {
+      "A": "salt",
+      "B": "taste",
+      "C": "health",
+      "D": "jump"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "feat",
+    "question_options": {
+      "A": "amazing",
+      "B": "speak",
+      "C": "fair",
+      "D": "make"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "parsimonious",
+    "question_options": {
+      "A": "spare",
+      "B": "obey",
+      "C": "receive",
+      "D": "declare"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "resurgent",
+    "question_options": {
+      "A": "lift",
+      "B": "drive",
+      "C": "rise",
+      "D": "go"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "intransigent",
+    "question_options": {
+      "A": "go",
+      "B": "say",
+      "C": "twist",
+      "D": "lift"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "onion",
+    "question_options": {
+      "A": "soft",
+      "B": "grind",
+      "C": "one",
+      "D": "move"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "novus",
+    "question_options": {
+      "A": "innuendo",
+      "B": "notable",
+      "C": "November",
+      "D": "innovation"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "ago",
+    "question_options": {
+      "A": "enact",
+      "B": "addict",
+      "C": "age",
+      "D": "adequate"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "fortis",
+    "question_options": {
+      "A": "effort",
+      "B": "fortuitous",
+      "C": "fortunate",
+      "D": "forensics"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "mitto",
+    "question_options": {
+      "A": "immoderate",
+      "B": "commode",
+      "C": "miserable",
+      "D": "emissary"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "mos",
+    "question_options": {
+      "A": "morbid",
+      "B": "immoral",
+      "C": "immortal",
+      "D": "morsel"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "paro",
+    "question_options": {
+      "A": "parent",
+      "B": "partake",
+      "C": "sever",
+      "D": "apart"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "lex",
+    "question_options": {
+      "A": "leverage",
+      "B": "legitimate",
+      "C": "liberal",
+      "D": "deliberate"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "urbs",
+    "question_options": {
+      "A": "utility",
+      "B": "urgency",
+      "C": "urbane",
+      "D": "universal"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "sentio",
+    "question_options": {
+      "A": "resident",
+      "B": "consecutive",
+      "C": "senate",
+      "D": "sensitive"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "rogo",
+    "question_options": {
+      "A": "erudite",
+      "B": "robust",
+      "C": "corrode",
+      "D": "derogatory"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "indirect",
+    "question_options": {
+      "A": "rigeo",
+      "B": "rego",
+      "C": "reor",
+      "D": "res"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "equivocal",
+    "question_options": {
+      "A": "vis",
+      "B": "voveo",
+      "C": "vox",
+      "D": "video"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "combine",
+    "question_options": {
+      "A": "bibo",
+      "B": "bos",
+      "C": "bonus",
+      "D": "bis"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "homicide",
+    "question_options": {
+      "A": "caedo",
+      "B": "cado",
+      "C": "cedo",
+      "D": "capio"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "seclude",
+    "question_options": {
+      "A": "sedeo",
+      "B": "claudo",
+      "C": "sentio",
+      "D": "cado"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "terrible",
+    "question_options": {
+      "A": "tero",
+      "B": "terreo",
+      "C": "timeo",
+      "D": "terra"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "belligerent",
+    "question_options": {
+      "A": "bestia",
+      "B": "battuo",
+      "C": "gero",
+      "D": "genus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "justice",
+    "question_options": {
+      "A": "iuvenis",
+      "B": "iungo",
+      "C": "iuvo",
+      "D": "ius"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "enemy",
+    "question_options": {
+      "A": "amo",
+      "B": "bonus",
+      "C": "malus",
+      "D": "ago"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "confuse",
+    "question_options": {
+      "A": "colo",
+      "B": "fundo",
+      "C": "fungor",
+      "D": "condo"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "prose",
+    "question_options": {
+      "A": "avert",
+      "B": "veracity",
+      "C": "invest",
+      "D": "vexation"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "republic",
+    "question_options": {
+      "A": "rule",
+      "B": "arraign",
+      "C": "realist",
+      "D": "restore"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "circumnavigate",
+    "question_options": {
+      "A": "naval",
+      "B": "nebular",
+      "C": "annex",
+      "D": "renaissance"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "corsage",
+    "question_options": {
+      "A": "courtesy",
+      "B": "court",
+      "C": "corpulent",
+      "D": "cohort"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "surprise",
+    "question_options": {
+      "A": "apprehend",
+      "B": "oppress",
+      "C": "appraise",
+      "D": "pristine"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  }
+]

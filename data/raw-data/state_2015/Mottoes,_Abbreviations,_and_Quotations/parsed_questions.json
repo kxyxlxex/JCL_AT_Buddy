@@ -1,0 +1,590 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "unborn",
+    "question_options": {
+      "A": "in vitro",
+      "B": "in utero",
+      "C": "in vivo",
+      "D": "in vacuo"
+    },
+    "question_key": "B",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 2,
+    "question_body": "yearly",
+    "question_options": {
+      "A": "per diem",
+      "B": "per mensem",
+      "C": "per annum",
+      "D": "per centum"
+    },
+    "question_key": "C",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 3,
+    "question_body": "The matter speaks for itself.",
+    "question_options": {
+      "A": "ipse dixit",
+      "B": "ipso facto",
+      "C": "ipse jure",
+      "D": "res ipsa loquitur"
+    },
+    "question_key": "D",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 4,
+    "question_body": "By the hundred:",
+    "question_options": {
+      "A": "licet",
+      "B": "per stirpes",
+      "C": "per capita",
+      "D": "pecunia non olet"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 5,
+    "question_body": "_____ in fabula",
+    "question_options": {
+      "A": "lupus",
+      "B": "leo",
+      "C": "vulpes",
+      "D": "asinus"
+    },
+    "question_key": "A",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 6,
+    "question_body": "After a sail on a choppy sea, you are glad to be back on:",
+    "question_options": {
+      "A": "terra firma",
+      "B": "terra incognita",
+      "C": "terra es",
+      "D": "terrae motus"
+    },
+    "question_key": "A",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 7,
+    "question_body": "Ab ________ usque ad mala.",
+    "question_options": {
+      "A": "capite",
+      "B": "manu",
+      "C": "ovo",
+      "D": "digito"
+    },
+    "question_key": "C",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 8,
+    "question_body": "Time flies",
+    "question_options": {
+      "A": "tempus fugit",
+      "B": "tempus edax rerum",
+      "C": "tempus abire tibi est",
+      "D": "tempus ludendi"
+    },
+    "question_key": "A",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 9,
+    "question_body": "Which phrase means approximately the same thing as “quid pro quo”?",
+    "question_options": {
+      "A": "primus inter pares",
+      "B": "manus manum lavat",
+      "C": "alter idem",
+      "D": "quid nunc"
+    },
+    "question_key": "B",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 10,
+    "question_body": "Which phrase means “just going through the motions”?",
+    "question_options": {
+      "A": "pro forma",
+      "B": "pro tanto",
+      "C": "pro memoria",
+      "D": "pro merito"
+    },
+    "question_key": "A",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 11,
+    "question_body": "How would you relate something that you didn’t want others to know?",
+    "question_options": {
+      "A": "sub poena",
+      "B": "sub lite",
+      "C": "sub rosa",
+      "D": "sub dio"
+    },
+    "question_key": "C",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 12,
+    "question_body": "What does “aut vincere aut mori” mean?",
+    "question_options": {
+      "A": "hurry up and win",
+      "B": "do or die",
+      "C": "change the way you do things",
+      "D": "watch your step"
+    },
+    "question_key": "B",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 14,
+    "question_body": "Whose motto is “audemus iura nostra defendere”?",
+    "question_options": {
+      "A": "Alabama",
+      "B": "Mississippi",
+      "C": "Arkansas",
+      "D": "Tennessee"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 15,
+    "question_body": "Which is the motto of Arizona?",
+    "question_options": {
+      "A": "regnat populus",
+      "B": "nil sine numine",
+      "C": "ditat deus",
+      "D": "crescit eundo"
+    },
+    "question_key": "C",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 16,
+    "question_body": "Which of the following states has a one-word motto?",
+    "question_options": {
+      "A": "Missouri",
+      "B": "Maryland",
+      "C": "Michigan",
+      "D": "Maine"
+    },
+    "question_key": "D",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 17,
+    "question_body": "Whose motto is \"Alis volat propriis” ?",
+    "question_options": {
+      "A": "Oregon",
+      "B": "Virginia",
+      "C": "Wyoming",
+      "D": "West Virginia"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 18,
+    "question_body": "What do the following college mottoes have in common? Univ. of Colorado, Boston College, Smith College, West Virginia Univ.",
+    "question_options": {
+      "A": "They contain the word “lux.”",
+      "B": "They are Greek.",
+      "C": "They are three words long.",
+      "D": "They all contain a verb."
+    },
+    "question_key": "B",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 19,
+    "question_body": "What is the motto for Stetson University?",
+    "question_options": {
+      "A": "pro deo et veritate",
+      "B": "deo volente",
+      "C": "dei sub numine viget",
+      "D": "deo ac veritati"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 20,
+    "question_body": "Which universities have the same motto?",
+    "question_options": {
+      "A": "North Dakota/North Carolina",
+      "B": "Northeastern/ Pittsburgh",
+      "C": "Washington/California",
+      "D": "Yale/Indiana"
+    },
+    "question_key": "D",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 21,
+    "question_body": "Which university has the motto \"religio doctrina civilitas prae omnibus virtus\" ?",
+    "question_options": {
+      "A": "Ohio State",
+      "B": "Ohio University",
+      "C": "Northwestern",
+      "D": "Notre Dame"
+    },
+    "question_key": "B",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 22,
+    "question_body": "Which Canadian province has the motto “fortis et liber”?",
+    "question_options": {
+      "A": "Alberta",
+      "B": "Manitoba",
+      "C": "Nova Scotia",
+      "D": "British Columbia"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 23,
+    "question_body": "\"Ad astra per aspera\" is the motto of which state?",
+    "question_options": {
+      "A": "Kansas",
+      "B": "Arkansas",
+      "C": "Colorado",
+      "D": "Nevada"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 24,
+    "question_body": "What is the motto for the city of Paris?",
+    "question_options": {
+      "A": "domine dirige nos",
+      "B": "munit haec et alter vincit",
+      "C": "multis e gentibus vires",
+      "D": "fluctuat nec mergitur"
+    },
+    "question_key": "D",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 25,
+    "question_body": "Which motto has been adopted by many U.S. labor unions?",
+    "question_options": {
+      "A": "labor ipse voluptas",
+      "B": "labor omnia vincit",
+      "C": "laborare est orare",
+      "D": "labore et honore"
+    },
+    "question_key": "B",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 26,
+    "question_body": "An actor who makes up his own lines does so _____",
+    "question_options": {
+      "A": "ad inf.",
+      "B": "ad init.",
+      "C": "ad loc.",
+      "D": "ad lib."
+    },
+    "question_key": "D",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 27,
+    "question_body": "Who uses the term b.i.d.?",
+    "question_options": {
+      "A": "a lawyer",
+      "B": "a judge",
+      "C": "a pharmacist",
+      "D": "an engineer"
+    },
+    "question_key": "C",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 28,
+    "question_body": "Which abbreviation is a synonym of etc.?",
+    "question_options": {
+      "A": "exc.",
+      "B": "e.g.",
+      "C": "et al.",
+      "D": "et ux."
+    },
+    "question_key": "C",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 29,
+    "question_body": "What does \"fe\" stand for?",
+    "question_options": {
+      "A": "iron",
+      "B": "lead",
+      "C": "zinc",
+      "D": "copper"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 30,
+    "question_body": "What does \"in lim.\" mean?",
+    "question_options": {
+      "A": "in the beginning",
+      "B": "in the middle",
+      "C": "at the end",
+      "D": "over and over"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 31,
+    "question_body": "Which of the following choices does the abbreviation n. NOT mean?",
+    "question_options": {
+      "A": "born",
+      "B": "neuter",
+      "C": "never",
+      "D": "at night"
+    },
+    "question_key": "C",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 32,
+    "question_body": "What does P.M. mean other than “afternoon”?",
+    "question_options": {
+      "A": "monthly",
+      "B": "after death",
+      "C": "head of the table",
+      "D": "through the ages"
+    },
+    "question_key": "B",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 33,
+    "question_body": "What is the abbreviation for “What had to be done”?",
+    "question_options": {
+      "A": "Q.E.D.",
+      "B": "Q.E.F.",
+      "C": "Q. H.",
+      "D": "q.i.d."
+    },
+    "question_key": "B",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 34,
+    "question_body": "What is the correct abbreviation for “videlicet”?",
+    "question_options": {
+      "A": "v.",
+      "B": "v.i.",
+      "C": "viz.",
+      "D": "v.v."
+    },
+    "question_key": "C",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 35,
+    "question_body": "The ancient Romans calculated dates using this abbreviation.",
+    "question_options": {
+      "A": "A.P.C.N.",
+      "B": "A.H.",
+      "C": "A.A.S.",
+      "D": "A.U.C."
+    },
+    "question_key": "D",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 36,
+    "question_body": "Which is NOT a university degree?",
+    "question_options": {
+      "A": "A.B.",
+      "B": "J.D.",
+      "C": "D.P.",
+      "D": "M.D."
+    },
+    "question_key": "C",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 37,
+    "question_body": "The opposite of a.c. is:",
+    "question_options": {
+      "A": "pct.",
+      "B": "ptc.",
+      "C": "p.p.",
+      "D": "p.c."
+    },
+    "question_key": "D",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 38,
+    "question_body": "What is the meaning of “b.v.”?",
+    "question_options": {
+      "A": "Hello",
+      "B": "Goodbye",
+      "C": "Welcome",
+      "D": "See you soon"
+    },
+    "question_key": "B",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 39,
+    "question_body": "Where would you be if you saw the abbreviation dram. pers.?",
+    "question_options": {
+      "A": "in a pharmacy",
+      "B": "in a doctor’s office",
+      "C": "in a theater",
+      "D": "in a stadium"
+    },
+    "question_key": "C",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 40,
+    "question_body": "What is the meaning of “ft”?",
+    "question_options": {
+      "A": "he made",
+      "B": "she will make",
+      "C": "they did",
+      "D": "let it be done"
+    },
+    "question_key": "D",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 41,
+    "question_body": "\"salus populi suprema lex esto\"",
+    "question_options": {
+      "A": "Julius Caesar",
+      "B": "Cicero",
+      "C": "Pompey",
+      "D": "Augustus"
+    },
+    "question_key": "B",
+    "question_instruction": "Part IV: Quotations Give the author of the quotation."
+  },
+  {
+    "question_index": 42,
+    "question_body": "\"varium et mutabile semper femina\"",
+    "question_options": {
+      "A": "Juvenal",
+      "B": "Ovid",
+      "C": "Vergil",
+      "D": "Propertius"
+    },
+    "question_key": "C",
+    "question_instruction": "Part IV: Quotations Give the author of the quotation."
+  },
+  {
+    "question_index": 43,
+    "question_body": "\"ab honesto virum bonum nihil deterret \"",
+    "question_options": {
+      "A": "Seneca",
+      "B": "Tacitus",
+      "C": "Juvenal",
+      "D": "Cornelius Nepos"
+    },
+    "question_key": "A",
+    "question_instruction": "Part IV: Quotations Give the author of the quotation."
+  },
+  {
+    "question_index": 44,
+    "question_body": "\"abeunt studia in mores\"",
+    "question_options": {
+      "A": "Cicero",
+      "B": "Tibullus",
+      "C": "Ovid",
+      "D": "Catullus"
+    },
+    "question_key": "C",
+    "question_instruction": "Part IV: Quotations Give the author of the quotation."
+  },
+  {
+    "question_index": 45,
+    "question_body": "What famous words precede “quam minimum credula postero”?",
+    "question_options": {
+      "A": "vae victis",
+      "B": "carpe diem",
+      "C": "delenda est Carthago",
+      "D": "tempus fugit"
+    },
+    "question_key": "B",
+    "question_instruction": "Part IV: Quotations Give the author of the quotation."
+  },
+  {
+    "question_index": 46,
+    "question_body": "Which author relates the quotation, “diem perdidi,” attributed to Titus?",
+    "question_options": {
+      "A": "Juvenal",
+      "B": "Seneca",
+      "C": "Suetonius",
+      "D": "Sallust"
+    },
+    "question_key": "C",
+    "question_instruction": "Part IV: Quotations Give the author of the quotation."
+  },
+  {
+    "question_index": 47,
+    "question_body": "“quem di diligunt adolescens moritur”",
+    "question_options": {
+      "A": "Vergil",
+      "B": "Ovid",
+      "C": "Plautus",
+      "D": "Terence"
+    },
+    "question_key": "C",
+    "question_instruction": "Part IV: Quotations Give the author of the quotation."
+  },
+  {
+    "question_index": 48,
+    "question_body": "\"Alea iacta est\"",
+    "question_options": {
+      "A": "Livy",
+      "B": "Caesar",
+      "C": "Cicero",
+      "D": "Augustus"
+    },
+    "question_key": "B",
+    "question_instruction": "Part IV: Quotations Give the author of the quotation."
+  },
+  {
+    "question_index": 49,
+    "question_body": "“vivamus…atque amemus”",
+    "question_options": {
+      "A": "Propertius",
+      "B": "Ovid",
+      "C": "Tibullus",
+      "D": "Catullus"
+    },
+    "question_key": "D",
+    "question_instruction": "Part IV: Quotations Give the author of the quotation."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Which emperor stated “vae puto deus fio”?",
+    "question_options": {
+      "A": "Nero",
+      "B": "Vespasian",
+      "C": "Domitian",
+      "D": "Commodus"
+    },
+    "question_key": "B",
+    "question_instruction": "Part IV: Quotations Give the author of the quotation."
+  }
+]

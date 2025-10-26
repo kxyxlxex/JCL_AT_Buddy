@@ -1,40 +1,13 @@
 #!/usr/bin/env python3
 """
-Consolidation script that includes answer key parsing
+Consolidation script that uses ai_model_parsed.json files
 """
 
 import json
-import re
 from pathlib import Path
 
-def parse_answer_key(questions_file_path):
-    """Parse the answer key file and return a dictionary of question_number -> answer"""
-    # Look for any *_key.txt file in the same directory
-    key_files = list(questions_file_path.parent.glob("*_key.txt"))
-    
-    if not key_files:
-        return {}
-    
-    # Use the first key file found
-    answer_key_path = key_files[0]
-    
-    with open(answer_key_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Look for answer patterns like "1. A 2. B 3. C" or "1. A\n2. B\n3. C"
-    answers = {}
-    
-    # Try to find answers in the format "number. letter"
-    pattern = r'(\d+)\.\s*([A-D])'
-    matches = re.findall(pattern, content)
-    
-    for question_num, answer in matches:
-        answers[int(question_num)] = answer
-    
-    return answers
-
 def consolidate_jcl_data():
-    """Consolidate all JSON files by subject across all years."""
+    """Consolidate all ai_model_parsed.json files by subject across all years."""
     
     # Source directory
     source_dir = Path("data/raw-data")
@@ -61,8 +34,6 @@ def consolidate_jcl_data():
             'total_questions': 0,
             'years_processed': 0,
             'files_processed': 0,
-            'pre_2018_questions': 0,
-            'post_2018_questions': 0,
             'questions_with_answers': 0
         }
         
@@ -89,63 +60,42 @@ def consolidate_jcl_data():
             if not subject_dir or not subject_dir.exists():
                 continue
             
-            # Look for questions.json file
-            questions_file = subject_dir / "questions.json"
-            if questions_file.exists():
+            # Look for ai_model_parsed.json file
+            ai_parsed_file = subject_dir / "ai_model_parsed.json"
+            if ai_parsed_file.exists():
                 try:
-                    with open(questions_file, 'r', encoding='utf-8') as f:
-                        data = json.load(f)
+                    with open(ai_parsed_file, 'r', encoding='utf-8') as f:
+                        questions = json.load(f)
                     
-                    if 'questions' in data:
-                        # Parse answer key
-                        answer_key = parse_answer_key(questions_file)
-                        print(f"  Found {len(answer_key)} answers in key for {year}")
-                        
-                        # Determine if this is pre-2018 or post-2018 format
-                        year_num = int(year.split('_')[1])
-                        is_pre_2018 = year_num < 2018
+                    # ai_model_parsed.json is a list of questions
+                    if isinstance(questions, list):
+                        print(f"  Found {len(questions)} questions in {year}")
                         
                         # Add metadata to each question
-                        for question in data['questions']:
+                        for question in questions:
+                            # Add source metadata
                             question['source_year'] = year
                             question['source_subject'] = subject
-                            question['format_era'] = 'pre_2018' if is_pre_2018 else 'post_2018'
                             
-                            # Keep the original question_number for reference
-                            if 'question_number' in question:
-                                question['original_question_number'] = question['question_number']
-                            
-                            # Add correct answer if available
-                            if question['question_number'] in answer_key:
-                                question['correct_answer'] = answer_key[question['question_number']]
+                            # Count questions with answers
+                            if question.get('question_key'):
                                 subject_stats['questions_with_answers'] += 1
-                            else:
-                                question['correct_answer'] = None
-                            
-                            # For pre-2018, add section information if available
-                            if is_pre_2018 and 'section' in question and question['section']:
-                                question['has_section'] = True
-                            else:
-                                question['has_section'] = False
                         
-                        # Add ALL questions (no filtering)
-                        all_questions.extend(data['questions'])
+                        # Add ALL questions
+                        all_questions.extend(questions)
                         
                         # Update stats
-                        question_count = len(data['questions'])
+                        question_count = len(questions)
                         subject_stats['total_questions'] += question_count
                         subject_stats['files_processed'] += 1
                         subject_stats['years_processed'] += 1
                         
-                        if is_pre_2018:
-                            subject_stats['pre_2018_questions'] += question_count
-                        else:
-                            subject_stats['post_2018_questions'] += question_count
-                        
-                        print(f"  Added {question_count} questions from {year} ({'pre-2018' if is_pre_2018 else 'post-2018'} format)")
+                        print(f"  Added {question_count} questions from {year}")
                 
                 except Exception as e:
                     print(f"  Error processing {year}: {e}")
+                    import traceback
+                    traceback.print_exc()
                     continue
         
         # Save consolidated data

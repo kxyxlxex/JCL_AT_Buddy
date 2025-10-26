@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "January",
+    "question_options": {
+      "A": "beginning",
+      "B": "year",
+      "C": "door",
+      "D": "cold"
+    },
+    "question_key": "C",
+    "question_instruction": "Identify the English meaning of the Latin root of each English word."
+  },
+  {
+    "question_index": 2,
+    "question_body": "inundate",
+    "question_options": {
+      "A": "drown",
+      "B": "overwhelm",
+      "C": "under",
+      "D": "wave"
+    },
+    "question_key": "D",
+    "question_instruction": "Identify the English meaning of the Latin root of each English word."
+  },
+  {
+    "question_index": 3,
+    "question_body": "vulnerable",
+    "question_options": {
+      "A": "wound",
+      "B": "weak",
+      "C": "wolf",
+      "D": "revered"
+    },
+    "question_key": "A",
+    "question_instruction": "Identify the English meaning of the Latin root of each English word."
+  },
+  {
+    "question_index": 4,
+    "question_body": "diurnal",
+    "question_options": {
+      "A": "day",
+      "B": "long-lasting",
+      "C": "divine",
+      "D": "vessel"
+    },
+    "question_key": "A",
+    "question_instruction": "Identify the English meaning of the Latin root of each English word."
+  },
+  {
+    "question_index": 5,
+    "question_body": "parvovirus",
+    "question_options": {
+      "A": "man",
+      "B": "small",
+      "C": "equal",
+      "D": "part"
+    },
+    "question_key": "B",
+    "question_instruction": "Identify the English meaning of the Latin root of each English word."
+  },
+  {
+    "question_index": 6,
+    "question_body": "aviator",
+    "question_options": {
+      "A": "bird",
+      "B": "road",
+      "C": "life",
+      "D": "travel"
+    },
+    "question_key": "A",
+    "question_instruction": "Identify the English meaning of the Latin root of each English word."
+  },
+  {
+    "question_index": 7,
+    "question_body": "terrify",
+    "question_options": {
+      "A": "to scare",
+      "B": "land",
+      "C": "to hide",
+      "D": "to tremble"
+    },
+    "question_key": "D",
+    "question_instruction": "Identify the English meaning of the Latin root of each English word."
+  },
+  {
+    "question_index": 8,
+    "question_body": "republic",
+    "question_options": {
+      "A": "to possess",
+      "B": "thing",
+      "C": "to rule",
+      "D": "to publish"
+    },
+    "question_key": "B",
+    "question_instruction": "Identify the English meaning of the Latin root of each English word."
+  },
+  {
+    "question_index": 9,
+    "question_body": "ammunition",
+    "question_options": {
+      "A": "weapon",
+      "B": "to stay",
+      "C": "to fortify",
+      "D": "warning"
+    },
+    "question_key": "C",
+    "question_instruction": "Identify the English meaning of the Latin root of each English word."
+  },
+  {
+    "question_index": 10,
+    "question_body": "station",
+    "question_options": {
+      "A": "to stand",
+      "B": "location",
+      "C": "immobile",
+      "D": "to be"
+    },
+    "question_key": "A",
+    "question_instruction": "Identify the English meaning of the Latin root of each English word."
+  },
+  {
+    "question_index": 11,
+    "question_body": "portrait",
+    "question_options": {
+      "A": "important",
+      "B": "trail",
+      "C": "tractor",
+      "D": "portmanteau"
+    },
+    "question_key": "D",
+    "question_instruction": "Identify the derivative with the same Latin root as the given word."
+  },
+  {
+    "question_index": 12,
+    "question_body": "monocle",
+    "question_options": {
+      "A": "October",
+      "B": "occult",
+      "C": "octuplet",
+      "D": "inoculate"
+    },
+    "question_key": "D",
+    "question_instruction": "Identify the derivative with the same Latin root as the given word."
+  },
+  {
+    "question_index": 13,
+    "question_body": "temporary",
+    "question_options": {
+      "A": "tempest",
+      "B": "temperate",
+      "C": "temple",
+      "D": "tempt"
+    },
+    "question_key": "B",
+    "question_instruction": "Identify the derivative with the same Latin root as the given word."
+  },
+  {
+    "question_index": 14,
+    "question_body": "preserve",
+    "question_options": {
+      "A": "servant",
+      "B": "servile",
+      "C": "observe",
+      "D": "serve"
+    },
+    "question_key": "C",
+    "question_instruction": "Identify the derivative with the same Latin root as the given word."
+  },
+  {
+    "question_index": 15,
+    "question_body": "manipulate",
+    "question_options": {
+      "A": "manumit",
+      "B": "mandible",
+      "C": "manifold",
+      "D": "manger"
+    },
+    "question_key": "A",
+    "question_instruction": "Identify the derivative with the same Latin root as the given word."
+  },
+  {
+    "question_index": 16,
+    "question_body": "revitalize",
+    "question_options": {
+      "A": "vitiate",
+      "B": "vitriolic",
+      "C": "vitamins",
+      "D": "vice"
+    },
+    "question_key": "C",
+    "question_instruction": "Identify the derivative with the same Latin root as the given word."
+  },
+  {
+    "question_index": 17,
+    "question_body": "exact",
+    "question_options": {
+      "A": "practical",
+      "B": "reactor",
+      "C": "didactic",
+      "D": "olfactory"
+    },
+    "question_key": "A",
+    "question_instruction": "Identify the derivative with the same Latin root as the given word."
+  },
+  {
+    "question_index": 18,
+    "question_body": "immortal",
+    "question_options": {
+      "A": "mortified",
+      "B": "moral",
+      "C": "remorse",
+      "D": "mortarboard"
+    },
+    "question_key": "A",
+    "question_instruction": "Identify the derivative with the same Latin root as the given word."
+  },
+  {
+    "question_index": 19,
+    "question_body": "sacrifice",
+    "question_options": {
+      "A": "fictitious",
+      "B": "traffic",
+      "C": "fit",
+      "D": "deficit"
+    },
+    "question_key": "A",
+    "question_instruction": "Identify the derivative with the same Latin root as the given word."
+  },
+  {
+    "question_index": 20,
+    "question_body": "duel",
+    "question_options": {
+      "A": "symbol",
+      "B": "belligerent",
+      "C": "belt",
+      "D": "problem"
+    },
+    "question_key": "B",
+    "question_instruction": "Identify the derivative with the same Latin root as the given word."
+  },
+  {
+    "question_index": 21,
+    "question_body": "equinox",
+    "question_options": {
+      "A": "aqua",
+      "B": "aequus",
+      "C": "equus",
+      "D": "quis"
+    },
+    "question_key": "B",
+    "question_instruction": "Identify the Latin word from which the given English word is derived."
+  },
+  {
+    "question_index": 22,
+    "question_body": "deposit",
+    "question_options": {
+      "A": "possum",
+      "B": "dono",
+      "C": "pono",
+      "D": "debeo"
+    },
+    "question_key": "C",
+    "question_instruction": "Identify the Latin word from which the given English word is derived."
+  },
+  {
+    "question_index": 23,
+    "question_body": "capitol",
+    "question_options": {
+      "A": "caput",
+      "B": "capio",
+      "C": "corpus",
+      "D": "caper"
+    },
+    "question_key": "A",
+    "question_instruction": "Identify the Latin word from which the given English word is derived."
+  },
+  {
+    "question_index": 24,
+    "question_body": "tactile",
+    "question_options": {
+      "A": "traho",
+      "B": "tango",
+      "C": "ago",
+      "D": "augeo"
+    },
+    "question_key": "B",
+    "question_instruction": "Identify the Latin word from which the given English word is derived."
+  },
+  {
+    "question_index": 25,
+    "question_body": "motion",
+    "question_options": {
+      "A": "maneo",
+      "B": "moveo",
+      "C": "moneo",
+      "D": "mors"
+    },
+    "question_key": "B",
+    "question_instruction": "Identify the Latin word from which the given English word is derived."
+  },
+  {
+    "question_index": 26,
+    "question_body": "interrogative",
+    "question_options": {
+      "A": "terra",
+      "B": "intro",
+      "C": "rogo",
+      "D": "terreo"
+    },
+    "question_key": "C",
+    "question_instruction": "Identify the Latin word from which the given English word is derived."
+  },
+  {
+    "question_index": 27,
+    "question_body": "particle",
+    "question_options": {
+      "A": "pars",
+      "B": "pater",
+      "C": "par",
+      "D": "ars"
+    },
+    "question_key": "A",
+    "question_instruction": "Identify the Latin word from which the given English word is derived."
+  },
+  {
+    "question_index": 28,
+    "question_body": "pontificate",
+    "question_options": {
+      "A": "pono",
+      "B": "porto",
+      "C": "paro",
+      "D": "pons"
+    },
+    "question_key": "D",
+    "question_instruction": "Identify the Latin word from which the given English word is derived."
+  },
+  {
+    "question_index": 29,
+    "question_body": "auction",
+    "question_options": {
+      "A": "ago",
+      "B": "aequus",
+      "C": "arcus",
+      "D": "augeo"
+    },
+    "question_key": "D",
+    "question_instruction": "Identify the Latin word from which the given English word is derived."
+  },
+  {
+    "question_index": 30,
+    "question_body": "insurrection",
+    "question_options": {
+      "A": "curro",
+      "B": "surgo",
+      "C": "rex",
+      "D": "servus"
+    },
+    "question_key": "B",
+    "question_instruction": "Identify the Latin word from which the given English word is derived."
+  },
+  {
+    "question_index": 31,
+    "question_body": "Question 31",
+    "question_options": {
+      "A": "portable",
+      "B": "support",
+      "C": "sport",
+      "D": "airport"
+    },
+    "question_key": "C",
+    "question_instruction": "Identify the word that does not belong by derivation."
+  },
+  {
+    "question_index": 32,
+    "question_body": "Question 32",
+    "question_options": {
+      "A": "annul",
+      "B": "annuity",
+      "C": "annals",
+      "D": "annual"
+    },
+    "question_key": "A",
+    "question_instruction": "Identify the word that does not belong by derivation."
+  },
+  {
+    "question_index": 33,
+    "question_body": "Question 33",
+    "question_options": {
+      "A": "capable",
+      "B": "capillary",
+      "C": "capture",
+      "D": "incapaciate"
+    },
+    "question_key": "B",
+    "question_instruction": "Identify the word that does not belong by derivation."
+  },
+  {
+    "question_index": 34,
+    "question_body": "Question 34",
+    "question_options": {
+      "A": "regal",
+      "B": "royalty",
+      "C": "regicide",
+      "D": "regular"
+    },
+    "question_key": "D",
+    "question_instruction": "Identify the word that does not belong by derivation."
+  },
+  {
+    "question_index": 35,
+    "question_body": "Question 35",
+    "question_options": {
+      "A": "scintillating",
+      "B": "science",
+      "C": "prescient",
+      "D": "nicely"
+    },
+    "question_key": "D",
+    "question_instruction": "Identify the word that does not belong by derivation."
+  },
+  {
+    "question_index": 36,
+    "question_body": "Question 36",
+    "question_options": {
+      "A": "misnomer",
+      "B": "economy",
+      "C": "ignominy",
+      "D": "denominator"
+    },
+    "question_key": "B",
+    "question_instruction": "Identify the word that does not belong by derivation."
+  },
+  {
+    "question_index": 37,
+    "question_body": "Question 37",
+    "question_options": {
+      "A": "incidence",
+      "B": "cascade",
+      "C": "lucid",
+      "D": "occidental"
+    },
+    "question_key": "C",
+    "question_instruction": "Identify the word that does not belong by derivation."
+  },
+  {
+    "question_index": 38,
+    "question_body": "Question 38",
+    "question_options": {
+      "A": "scribble",
+      "B": "script",
+      "C": "scrimp",
+      "D": "proscribe"
+    },
+    "question_key": "C",
+    "question_instruction": "Identify the word that does not belong by derivation."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Question 39",
+    "question_options": {
+      "A": "pedal",
+      "B": "pedantic",
+      "C": "pedestrian",
+      "D": "millipede"
+    },
+    "question_key": "B",
+    "question_instruction": "Identify the word that does not belong by derivation."
+  },
+  {
+    "question_index": 40,
+    "question_body": "Question 40",
+    "question_options": {
+      "A": "equinox",
+      "B": "nocturnal",
+      "C": "noxious",
+      "D": "nocturne"
+    },
+    "question_key": "C",
+    "question_instruction": "Identify the word that does not belong by derivation."
+  },
+  {
+    "question_index": 41,
+    "question_body": "If someone is a somnambulist, how can they be described?",
+    "question_options": {
+      "A": "a sleepwalker",
+      "B": "a boring person",
+      "C": "someone who treads lightly",
+      "D": "someone who treads heavily"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the correct definition for each derivative."
+  },
+  {
+    "question_index": 42,
+    "question_body": "The new king was a magnanimous ruler.",
+    "question_options": {
+      "A": "clever",
+      "B": "powerful",
+      "C": "spiteful",
+      "D": "great-hearted"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the correct definition for each derivative."
+  },
+  {
+    "question_index": 43,
+    "question_body": "The penultimate syllable in a word is which one?",
+    "question_options": {
+      "A": "first",
+      "B": "last",
+      "C": "next to last",
+      "D": "third to last"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the correct definition for each derivative."
+  },
+  {
+    "question_index": 44,
+    "question_body": "The student threatened to defenestrate her Latin book.",
+    "question_options": {
+      "A": "throw it out of the car",
+      "B": "burn it",
+      "C": "throw it out of the window",
+      "D": "tear it into tiny pieces"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the correct definition for each derivative."
+  },
+  {
+    "question_index": 45,
+    "question_body": "The inspector found a large aperture in the wall.",
+    "question_options": {
+      "A": "moldy growth",
+      "B": "opening",
+      "C": "insect",
+      "D": "discoloration"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the correct definition for each derivative."
+  },
+  {
+    "question_index": 46,
+    "question_body": "The laborer completed the onerous task.",
+    "question_options": {
+      "A": "quick",
+      "B": "complicated",
+      "C": "burdensome",
+      "D": "praiseworthy"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the correct definition for each derivative."
+  },
+  {
+    "question_index": 47,
+    "question_body": "They had expected more crowds than they found in the urban area.",
+    "question_options": {
+      "A": "country",
+      "B": "outside the city",
+      "C": "city",
+      "D": "newly renovated"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the correct definition for each derivative."
+  },
+  {
+    "question_index": 48,
+    "question_body": "They had to jettison the cargo.",
+    "question_options": {
+      "A": "throw out",
+      "B": "tie down",
+      "C": "catalog",
+      "D": "fly with"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the correct definition for each derivative."
+  },
+  {
+    "question_index": 49,
+    "question_body": "The man had never heard such a clamor.",
+    "question_options": {
+      "A": "secret",
+      "B": "uproar",
+      "C": "clear-sounding trumpet",
+      "D": "chatty mussel"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the correct definition for each derivative."
+  },
+  {
+    "question_index": 50,
+    "question_body": "He was a very virile man.",
+    "question_options": {
+      "A": "sickly",
+      "B": "manly",
+      "C": "wealthy",
+      "D": "childish"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the correct definition for each derivative."
+  }
+]

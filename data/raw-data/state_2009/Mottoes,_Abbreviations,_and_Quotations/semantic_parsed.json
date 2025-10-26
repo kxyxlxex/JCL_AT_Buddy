@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "Where might one encounter the phrase ex libris?",
+    "question_options": {
+      "A": "courthouse",
+      "B": "library",
+      "C": "Capitol Hill",
+      "D": "doctor's office"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "sine ___________",
+    "question_options": {
+      "A": "pecunia",
+      "B": "facto",
+      "C": "causa",
+      "D": "die"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "Which phrase would encourage someone to take life by the horns?",
+    "question_options": {
+      "A": "cogito ergo sum",
+      "B": "fortes fortuna iuvat",
+      "C": "in vino veritas",
+      "D": "rara avis"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "non compos mentis",
+    "question_options": {
+      "A": "mentally unstable",
+      "B": "unprepared",
+      "C": "lacking wealth",
+      "D": "easily angered"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "facilis descensus _______________",
+    "question_options": {
+      "A": "Romae",
+      "B": "domo",
+      "C": "Averno",
+      "D": "morti"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "Rex non potest peccare most closely corresponds to",
+    "question_options": {
+      "A": "nepotism",
+      "B": "waiting your turn",
+      "C": "poor decision-making",
+      "D": "infallibility of a monarch"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "A writ of ____________________ corrects the mistake of a court.",
+    "question_options": {
+      "A": "habeas corpus",
+      "B": "sub iudice",
+      "C": "mandamus",
+      "D": "lex omnibus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "Who would make an address entitled urbi et orbi?",
+    "question_options": {
+      "A": "the Pope",
+      "B": "Queen of England",
+      "C": "the President",
+      "D": "the Prince of Monaco"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "quid pro quo",
+    "question_options": {
+      "A": "a requirement",
+      "B": "punishment",
+      "C": "a gift",
+      "D": "an exchange"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "__________ cuique",
+    "question_options": {
+      "A": "meum",
+      "B": "suum",
+      "C": "vestrum",
+      "D": "nostrum"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "How might you label a person who spills the punch bowl all over the carpet at your party?",
+    "question_options": {
+      "A": "persona non dives",
+      "B": "persona inferna",
+      "C": "persona aurea",
+      "D": "persona non grata"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "Nimium amator ingenii sui describes someone who is",
+    "question_options": {
+      "A": "conceited",
+      "B": "illiterate",
+      "C": "timid",
+      "D": "brave"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "Quo __________? This is the question asked of Jesus by Saint Peter.",
+    "question_options": {
+      "A": "mittis",
+      "B": "ducis",
+      "C": "vadis",
+      "D": "regis"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "Nemo me impune lacessit",
+    "question_options": {
+      "A": "England",
+      "B": "Wales",
+      "C": "Scotland",
+      "D": "Ireland"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "Which college's mottoes has more than three words?",
+    "question_options": {
+      "A": "Florida State University",
+      "B": "City College of New York",
+      "C": "University of Michigan",
+      "D": "Tulane University"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "Esto perpetua",
+    "question_options": {
+      "A": "Wyoming",
+      "B": "Idaho",
+      "C": "Iowa",
+      "D": "Washington"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Audemus iura nostra defendere",
+    "question_options": {
+      "A": "Alabama",
+      "B": "Nevada",
+      "C": "New Jersey",
+      "D": "Minnesota"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "The Latin word for “cross” is used in the motto of",
+    "question_options": {
+      "A": "Trinity College",
+      "B": "Notre Dame University",
+      "C": "Catholic University of America",
+      "D": "Franciscan University of Steubenville"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "Which country's motto uses the same noun twice in different cases?",
+    "question_options": {
+      "A": "U.S.A.",
+      "B": "Panama",
+      "C": "Canada",
+      "D": "Switzerland"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "Semper paratus",
+    "question_options": {
+      "A": "National Guard",
+      "B": "Marine Corps",
+      "C": "Navy",
+      "D": "Coast Guard"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "Which is not a motto of the “Carolina” states?",
+    "question_options": {
+      "A": "Crescit eundo",
+      "B": "Esse quam videri",
+      "C": "Animis opibusque parati",
+      "D": "Dum spiro spero"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "Crescat scienta, vita excolatur",
+    "question_options": {
+      "A": "University of Chicago",
+      "B": "University of North Dakota",
+      "C": "University of Mississippi",
+      "D": "Fordham University"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "Sicut patribus sit Deus nobis",
+    "question_options": {
+      "A": "Boston",
+      "B": "Geneva",
+      "C": "Lucerne",
+      "D": "Madrid"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "Veritas is part of each college's motto except:",
+    "question_options": {
+      "A": "Johns Hopkins",
+      "B": "Columbia",
+      "C": "Yale",
+      "D": "Michigan"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "Scuto bonae voluntatis Tuae coronasti nos",
+    "question_options": {
+      "A": "Utah",
+      "B": "Hawaii",
+      "C": "Nebraska",
+      "D": "Maryland"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "Which motto appears above “Leo the Lion” before movies?",
+    "question_options": {
+      "A": "cogito ergo sum",
+      "B": "iustitia omnibus",
+      "C": "ars gratia artis",
+      "D": "cedant arma togae"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "Which Roman emperor’s personal motto, according to Suetonius, was “oderint dum metuant”?",
+    "question_options": {
+      "A": "Augustus",
+      "B": "Caligula",
+      "C": "Nero",
+      "D": "Vespasian"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "as needed",
+    "question_options": {
+      "A": "p.n.",
+      "B": "p.r.n.",
+      "C": "p.r.d.",
+      "D": "p.r."
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "If your doctor graduated with a D.M.D. degree, what sort of specialist is he?",
+    "question_options": {
+      "A": "pediatrician",
+      "B": "surgeon",
+      "C": "oncologist",
+      "D": "dentist"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "q.e.d.",
+    "question_options": {
+      "A": "the required proof has been given",
+      "B": "the quota has been reached",
+      "C": "consult the necessary authority",
+      "D": "seek additional input"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "he/she died",
+    "question_options": {
+      "A": "i.f.",
+      "B": "nec.",
+      "C": "mor.",
+      "D": "ob."
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "spoonful",
+    "question_options": {
+      "A": "o.s.",
+      "B": "gtt.",
+      "C": "cochl.",
+      "D": "cap."
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "I forgot to mention this in my letter...",
+    "question_options": {
+      "A": "n.b.",
+      "B": "p.s.",
+      "C": "i.e.",
+      "D": "q.v."
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "lead (chemical symbol)",
+    "question_options": {
+      "A": "Hg",
+      "B": "Li",
+      "C": "Pb",
+      "D": "Ag"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "We don't know exactly when this person was born or died, but he was very active around this year...",
+    "question_options": {
+      "A": "fl.",
+      "B": "fec.",
+      "C": "fr.",
+      "D": "f.s."
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "Found on coins of the United Kingdom, Canada, and Australia, D.G. means",
+    "question_options": {
+      "A": "may it last forever",
+      "B": "sovereign ruler",
+      "C": "legal tender",
+      "D": "by the grace of God"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "against",
+    "question_options": {
+      "A": "vs.",
+      "B": "id.",
+      "C": "con.",
+      "D": "ag."
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "in the year of our Lord",
+    "question_options": {
+      "A": "I.H.S.",
+      "B": "A.D.",
+      "C": "B.C.",
+      "D": "I.D."
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Vae, puto me fieri deum!",
+    "question_options": {
+      "A": "Augustus",
+      "B": "Vespasian",
+      "C": "Claudius",
+      "D": "Nero"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "Tantae molis erat Romanam condere gentem.",
+    "question_options": {
+      "A": "Livy",
+      "B": "Seneca",
+      "C": "Ovid",
+      "D": "Vergil"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "Da mihi mille basia!",
+    "question_options": {
+      "A": "Propertius",
+      "B": "Tibullus",
+      "C": "Catullus",
+      "D": "Ovid"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "Dux femina facti",
+    "question_options": {
+      "A": "Ovid",
+      "B": "Vergil",
+      "C": "Silius Italicus",
+      "D": "Jerome"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "Ab ovo usque ad mala",
+    "question_options": {
+      "A": "Horace",
+      "B": "Vergil",
+      "C": "Livy",
+      "D": "Catullus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "O tempora! O mores!",
+    "question_options": {
+      "A": "Quintillian",
+      "B": "Julius Caesar",
+      "C": "Cicero",
+      "D": "Tacitus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "Interfice errorem, diligere errantem",
+    "question_options": {
+      "A": "Descartes",
+      "B": "St. Augustine",
+      "C": "Tertullian",
+      "D": "Constantine"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "Mens sana in corpore sano",
+    "question_options": {
+      "A": "Martial",
+      "B": "Cicero",
+      "C": "Petronius",
+      "D": "Juvenal"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "Erat Miseni classemque imperio praesens regebat",
+    "question_options": {
+      "A": "Sallust",
+      "B": "Pliny Minor",
+      "C": "Tacitus",
+      "D": "Caesar"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "Which quote relates to privacy rights and abuse of power concerns?",
+    "question_options": {
+      "A": "O Tempora! O Mores!",
+      "B": "Timeo Danaos et dona ferentes.",
+      "C": "Nemo liber est qui corpori servit.",
+      "D": "Quis custodiet ipsos custodes?"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "Take the number of words in the motto of Massachusetts, multiply by the number implied in the abbreviation t.i.d., subtract the number of “i”s in the motto of the University of Florida, and divide by the number of words in the motto of Amherst College. What do you get?",
+    "question_options": {
+      "A": "4",
+      "B": "6",
+      "C": "12",
+      "D": "24"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Take the number of words in the motto of the University of Vermont, add the number of words in the motto of the city of London, multiply by the number of words in the motto of Kansas, add the number of words in the motto of the University of Missouri, and divide by the number of letters in the abbreviation which means “rest in peace”. What do you get?",
+    "question_options": {
+      "A": "14",
+      "B": "1",
+      "C": "18",
+      "D": "10"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  }
+]

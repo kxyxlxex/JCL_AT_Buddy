@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "ab ovo usque ad mala",
+    "question_options": {
+      "A": "quickly",
+      "B": "from start to finish",
+      "C": "we learn from one example",
+      "D": "it is not allowed"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "lapsus linguae",
+    "question_options": {
+      "A": "a slip of the tongue",
+      "B": "a slip of the pen",
+      "C": "a lapse in judgment",
+      "D": "a lapse of memory"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "sententia iudicum",
+    "question_options": {
+      "A": "finding of the jury",
+      "B": "spirit of the law",
+      "C": "the right of the accused",
+      "D": "miscarriage of justice"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "in situ",
+    "question_options": {
+      "A": "notably",
+      "B": "the situation",
+      "C": "in its natural place",
+      "D": "promptly"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "the other way around",
+    "question_options": {
+      "A": "cuique suum",
+      "B": "ipso facto",
+      "C": "pro tempore",
+      "D": "vice versa"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "yearly",
+    "question_options": {
+      "A": "per annum",
+      "B": "per mensem",
+      "C": "per centum",
+      "D": "per diem"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "masterpiece",
+    "question_options": {
+      "A": "magnum opus",
+      "B": "res gestae",
+      "C": "propria manu",
+      "D": "spiritus mundi"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "The art of dying",
+    "question_options": {
+      "A": "Arte perire sua",
+      "B": "Ars moriendi",
+      "C": "Ars poetica",
+      "D": "Artes perdiste"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "Which phrase promotes the essential value of lying?",
+    "question_options": {
+      "A": "Qui fugiebat rursus proeliabitur",
+      "B": "Qui scribit bis legit",
+      "C": "Quis custodiet ipsos custodes",
+      "D": "Qui nescit dissimulare nescit vivere"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "Which phrase indicates that an item is indispensible for the task at hand?",
+    "question_options": {
+      "A": "sine qua non",
+      "B": "verbatim",
+      "C": "stet",
+      "D": "merite"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "Which phrase means approximately the same thing as quid pro quo?",
+    "question_options": {
+      "A": "manus manum lavat",
+      "B": "alter idem",
+      "C": "primus inter pares",
+      "D": "quid nunc"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "Which of the following phrases refers to taxation based upon an object’s worth?",
+    "question_options": {
+      "A": "a principio",
+      "B": "ad hominem",
+      "C": "ab extra",
+      "D": "ad valorem PMAQ - States 2018 - MOTTOES"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "Sic semper tyrannis",
+    "question_options": {
+      "A": "South Carolina",
+      "B": "Virginia",
+      "C": "Maryland",
+      "D": "Massachusetts"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "Urbs in horto",
+    "question_options": {
+      "A": "Paris",
+      "B": "New York",
+      "C": "Montreal",
+      "D": "Chicago"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "Sicut patribus sit Deus nobis",
+    "question_options": {
+      "A": "Lucerne",
+      "B": "Boston",
+      "C": "Madrid",
+      "D": "Geneva"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "Ad astra per aspera",
+    "question_options": {
+      "A": "Kansas",
+      "B": "Arkansas",
+      "C": "California",
+      "D": "Idaho"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Veritas",
+    "question_options": {
+      "A": "Yale",
+      "B": "Harvard",
+      "C": "Johns Hopkins",
+      "D": "North Dakota"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "Crescit eundo",
+    "question_options": {
+      "A": "Colorado",
+      "B": "Connecticut",
+      "C": "Oklahoma",
+      "D": "New Mexico"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "Haec tibi dona fero",
+    "question_options": {
+      "A": "Saskatchewan",
+      "B": "Scotland",
+      "C": "Nova Scotia",
+      "D": "Newfoundland"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "Domino, Optimo, Maximo",
+    "question_options": {
+      "A": "Louis XIV",
+      "B": "Epicureans",
+      "C": "Benedictines",
+      "D": "Jesuits"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "Disce et doce",
+    "question_options": {
+      "A": "University of Sheffield",
+      "B": "University of Wellington",
+      "C": "Oxford University",
+      "D": "Cambridge University"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "Fordham University",
+    "question_options": {
+      "A": "Scientia sol mentis",
+      "B": "Sapientia et doctrina",
+      "C": "Salus populi",
+      "D": "Studiis et rebus honestis"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "Bryn Mawr College",
+    "question_options": {
+      "A": "Terras irradiant",
+      "B": "Veritatem Dilexi",
+      "C": "Mihi cura futuri",
+      "D": "Non sibi sed suis"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "Belize",
+    "question_options": {
+      "A": "Pro mundi beneficio",
+      "B": "Semper progrediens",
+      "C": "Pergo et perago",
+      "D": "Sub umbra floreo ABBREVIATIONS"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "t.i.d. = three times a ______.",
+    "question_options": {
+      "A": "week",
+      "B": "month",
+      "C": "day",
+      "D": "year"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "N.B.",
+    "question_options": {
+      "A": "note well",
+      "B": "compare",
+      "C": "see below",
+      "D": "the work cited PMAQ - States 2018 -"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "Medicine marked “a.c.” should be taken ______",
+    "question_options": {
+      "A": "at night",
+      "B": "before meals",
+      "C": "every day",
+      "D": "only once"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "Found on coins of the United Kingdom, Canada, and Australia, D.G. means",
+    "question_options": {
+      "A": "by the grace of God",
+      "B": "may it last forever",
+      "C": "legal tender",
+      "D": "sovereign ruler"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "agit.",
+    "question_options": {
+      "A": "take",
+      "B": "apply",
+      "C": "shake",
+      "D": "swallow"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "as needed",
+    "question_options": {
+      "A": "p.r.d.",
+      "B": "p.r.",
+      "C": "p.r.n.",
+      "D": "p.n."
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "b.v.",
+    "question_options": {
+      "A": "See you soon",
+      "B": "Hello",
+      "C": "Goodbye",
+      "D": "Welcome"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "see below",
+    "question_options": {
+      "A": "v.s.",
+      "B": "vs.",
+      "C": "v.i.",
+      "D": "V.C."
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "op. cit.",
+    "question_options": {
+      "A": "he/she died without issue",
+      "B": "in the right eye",
+      "C": "in the work cited",
+      "D": "in the left eye"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "immediately",
+    "question_options": {
+      "A": "init.",
+      "B": "inf.",
+      "C": "stet",
+      "D": "stat."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "oil",
+    "question_options": {
+      "A": "oz.",
+      "B": "or.",
+      "C": "ob.",
+      "D": "ol."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "aet.",
+    "question_options": {
+      "A": "summertime",
+      "B": "of the age",
+      "C": "silver",
+      "D": "bronze"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "fl.",
+    "question_options": {
+      "A": "flourished",
+      "B": "let it be made",
+      "C": "pages",
+      "D": "female"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "Which is roughly synonymous with s.i.d.?",
+    "question_options": {
+      "A": "h.d.",
+      "B": "d.d.",
+      "C": "o.d.",
+      "D": "u.d."
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Which does NOT belong with the others?",
+    "question_options": {
+      "A": "exc.",
+      "B": "disp.",
+      "C": "fec.",
+      "D": "pinx."
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "Quot homines tot sententiae",
+    "question_options": {
+      "A": "Terence",
+      "B": "Vergil",
+      "C": "Ennius",
+      "D": "Horace"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "Dux femina facti",
+    "question_options": {
+      "A": "Vergil",
+      "B": "Silius Italicus",
+      "C": "Ovid",
+      "D": "Jerome PMAQ - States 2018 -"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "Errare humanum est",
+    "question_options": {
+      "A": "Ennius",
+      "B": "Lucretius",
+      "C": "Seneca",
+      "D": "Vergil"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "Odi et amo",
+    "question_options": {
+      "A": "Horace",
+      "B": "Ovid",
+      "C": "Phaedrus",
+      "D": "Catullus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "Non est ad astra mollis e terris via",
+    "question_options": {
+      "A": "Seneca",
+      "B": "Vergil",
+      "C": "Martial",
+      "D": "Catullus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "Grammatici certant",
+    "question_options": {
+      "A": "Seneca",
+      "B": "Palaemon",
+      "C": "Quintilian",
+      "D": "Horace"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "Mihi forsan, tibi quod negarit, porriget hora",
+    "question_options": {
+      "A": "Ovid",
+      "B": "Persius",
+      "C": "Plautus",
+      "D": "Horace"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "Rara avis in terris, nigroque simillima cycno",
+    "question_options": {
+      "A": "Cicero",
+      "B": "Vergil",
+      "C": "Tacitus",
+      "D": "Juvenal"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "Rident stolidi verba Latina",
+    "question_options": {
+      "A": "Quintilian",
+      "B": "Ovid",
+      "C": "Cicero",
+      "D": "Horace"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "Haec scripsi non otii abundantia, sed amoris erga te",
+    "question_options": {
+      "A": "Propertius",
+      "B": "Cicero",
+      "C": "Ovid",
+      "D": "Catullus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Non scribit, cuius carmina nemo legit",
+    "question_options": {
+      "A": "Martial",
+      "B": "Quintilian",
+      "C": "Pliny",
+      "D": "Seneca"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  }
+]

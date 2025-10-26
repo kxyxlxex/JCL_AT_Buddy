@@ -11,9 +11,7 @@ import os
 import time
 import re
 from urllib.parse import urljoin, urlparse
-import PyPDF2
-import pdfplumber  # Better PDF text extraction
-import io
+# PDF-to-text conversion moved to improved_pdf_to_txt.py
 
 class ImprovedFJCLCrawler:
     def __init__(self, base_url="https://www.fjcl.org", data_dir="../data/raw-data"):
@@ -113,73 +111,6 @@ class ImprovedFJCLCrawler:
             print(f"Error downloading {url}: {e}")
             return False
     
-    def pdf_to_text_improved(self, pdf_path, txt_path):
-        """Improved PDF to text conversion using pdfplumber"""
-        try:
-            text_content = ""
-            
-            # Try pdfplumber first (better text extraction)
-            try:
-                import pdfplumber
-                with pdfplumber.open(pdf_path) as pdf:
-                    for page in pdf.pages:
-                        page_text = page.extract_text()
-                        if page_text:
-                            text_content += page_text + "\n"
-            except ImportError:
-                print("pdfplumber not available, falling back to PyPDF2")
-                # Fallback to PyPDF2
-                with open(pdf_path, 'rb') as file:
-                    pdf_reader = PyPDF2.PdfReader(file)
-                    for page in pdf_reader.pages:
-                        page_text = page.extract_text()
-                        if page_text:
-                            text_content += page_text + "\n"
-            
-            # Clean up the text
-            text_content = self.clean_text(text_content)
-            
-            # Write to file
-            with open(txt_path, 'w', encoding='utf-8') as txt_file:
-                txt_file.write(text_content)
-            
-            print(f"Converted to text: {txt_path} ({len(text_content)} characters)")
-            return True
-            
-        except Exception as e:
-            print(f"Error converting PDF {pdf_path}: {e}")
-            return False
-    
-    def clean_text(self, text):
-        """Clean and format extracted text with proper line breaks"""
-        if not text:
-            return ""
-        
-        # Fix common PDF extraction issues first
-        text = text.replace('ﬁ', 'fi')
-        text = text.replace('ﬂ', 'fl')
-        text = text.replace('ﬀ', 'ff')
-        
-        # Remove page numbers and headers
-        text = re.sub(r'Page \d+', '', text)
-        text = re.sub(r'\d+\s*$', '', text, flags=re.MULTILINE)
-        
-        # Add line breaks before question numbers (e.g., "1. This clay" -> "\n1. This clay")
-        text = re.sub(r'(\d+)\.\s+([A-Z])', r'\n\1. \2', text)
-        
-        # Add line breaks before answer options (A., B., C., D.)
-        text = re.sub(r'\s+([A-D])\.\s+', r'\n\1. ', text)
-        
-        # Clean up multiple consecutive newlines
-        text = re.sub(r'\n\s*\n\s*\n+', '\n\n', text)
-        
-        # Remove excessive whitespace but preserve line breaks
-        text = re.sub(r'[ \t]+', ' ', text)  # Multiple spaces/tabs to single space
-        text = re.sub(r' \n', '\n', text)   # Remove trailing spaces before newlines
-        text = re.sub(r'\n ', '\n', text)   # Remove leading spaces after newlines
-        
-        return text.strip()
-    
     def process_year(self, year):
         """Process all tests for a specific year with improved logic"""
         print(f"\n=== Processing {year} ===")
@@ -207,10 +138,7 @@ class ImprovedFJCLCrawler:
             # Download test PDF only (answer keys handled by separate crawler)
             if links['test']:
                 test_pdf = os.path.join(subject_dir, f"{subject.replace(' ', '_')}_test.pdf")
-                if self.download_pdf(links['test'], test_pdf):
-                    # Convert to text with improved method
-                    test_txt = test_pdf.replace('.pdf', '.txt')
-                    self.pdf_to_text_improved(test_pdf, test_txt)
+                self.download_pdf(links['test'], test_pdf)
             
             # Skip answer key download - handled by test_answer_keys crawler
             if links['key']:

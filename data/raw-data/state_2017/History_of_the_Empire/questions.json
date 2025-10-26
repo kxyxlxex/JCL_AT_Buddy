@@ -2,488 +2,475 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Who led a conspiracy against Nero in 65 A.D.?",
+      "question": "Who led a conspiracy against Nero in 65",
       "options": {
-        "A": "Lucan",
-        "B": "Seneca",
-        "C": "Piso",
-        "D": "Vindex"
+        "A": "Augustus",
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 2,
       "question": "What emperor first attempted to abolish Christianity throughout the Empire?",
       "options": {
-        "A": "Maximinus",
-        "B": "Decius",
-        "C": "Philip",
-        "D": "Valerian"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "How was Ataulf, who led the Visigoths into Gaul in 412 A.D., related to his predecessor Alaric?",
+      "question": "How was Ataulf, who led the Visigoths into Gaul in 412",
       "options": {
-        "A": "brother-in-law",
-        "B": "son-in-law",
-        "C": "brother",
-        "D": "son"
+        "A": "Augustus",
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 4,
-      "question": "What office did Augustus assume in 12 B.C.?",
+      "question": "What office did Augustus assume in 12",
       "options": {
-        "A": "Princeps Civitatis",
-        "B": "Praefectus Urbi",
-        "C": "Pater Patriae",
-        "D": "Pontifex Maximus"
+        "A": "Augustus",
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "Where did Licinius suffer his final defeat in 324 A.D.?",
+      "question": "Where did Licinius suffer his final defeat in 324",
       "options": {
-        "A": "Pannonia",
-        "B": "Adrianople",
-        "C": "Nicomedia",
-        "D": "Chrysopolis"
+        "A": "Augustus",
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 6,
       "question": "Stephanus, a palace domestic, has been named as the assassin of which emperor?",
       "options": {
-        "A": "Domitian",
-        "B": "Nero",
+        "B": "Tiberius",
         "C": "Caligula",
-        "D": "Galba"
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 7,
-      "question": "At the fall of the Western Roman Empire, we know that Odoacer/Odovacar deposed Romulus Augustulus, but who was the emperor in the east?",
+      "question": "At the fall of the Western Roman Empire, we know that Odoacer/Odovacar\ndeposed Romulus Augustulus, but who was the emperor in the east?",
       "options": {
-        "A": "Marcian",
-        "B": "Zeno",
-        "C": "Leo II",
-        "D": "Anastasius"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 8,
       "question": "To what Syrian queen was Septimus Severus married?",
       "options": {
-        "A": "Julia Maesa",
-        "B": "Julia Soaemias",
-        "C": "Julia Domna",
-        "D": "Julia Mamaea"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 9,
       "question": "What Illyrian emperor followed Tacitus and his brother Florianus?",
       "options": {
-        "A": "Aurelian",
-        "B": "Numerianus",
-        "C": "Probus",
-        "D": "Carus"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 10,
-      "question": "As the first emperor who claimed divinity during his life, Caligula ordered a legate Petronius to set up his statue where?",
+      "question_number": 0,
+      "question": "As the first emperor who claimed divinity during his life, Caligula ordered a legate\nPetronius to set up his statue where?",
       "options": {
-        "A": "in the temple of Jupiter Optimus Maximus",
-        "B": "on the Acropolis near the Parthenon",
-        "C": "in the temple at Jerusalem",
-        "D": "in the center of the Forum Romanum"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 11,
-      "question": "What “ignoble son of a noble father” had himself depicted with Hercules’ emblems of a club and lion’s skin and appeared frequently in the arena as a hunter of wild beasts or gladiator?",
+      "question_number": 1,
+      "question": "What “ignoble son of a noble father” had himself depicted with Hercules’ emblems\nof a club and lion’s skin and appeared frequently in the arena as a hunter of wild\nbeasts or gladiator?",
       "options": {
-        "A": "Justinian",
-        "B": "Commodus",
-        "C": "Elagabalus",
-        "D": "Pertinax"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 12,
+      "question_number": 2,
       "question": "Which Greek town in Egypt was founded by Hadrian?",
       "options": {
-        "A": "Ptolemais",
-        "B": "Alexandria",
-        "C": "Naucratis",
-        "D": "Antinoopolis"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 13,
+      "question_number": 3,
       "question": "Where did Augustus die?",
       "options": {
-        "A": "Rome",
-        "B": "Nola",
-        "C": "Ostia",
-        "D": "Capri"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 14,
-      "question": "What wife of an emperor was particularly active in promoting the cult of Cybele and was deified immediately after her death, ca. 140 A.D.?",
+      "question_number": 4,
+      "question": "What wife of an emperor was particularly active in promoting the cult of Cybele\nand was deified immediately after her death, c",
       "options": {
-        "A": "Vibia Sabina",
-        "B": "Plotina",
-        "C": "Faustina",
-        "D": "Bruttia Crispina"
+        "A": "Augustus",
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 15,
-      "question": "From what did Gratian withdraw imperial support in 382 A.D.?",
+      "question_number": 5,
+      "question": "From what did Gratian withdraw imperial support in 382",
       "options": {
-        "A": "gladiatorial games involving prisoners of war",
-        "B": "crucifixions as a standard death penalty",
-        "C": "official recognition of pagan worship",
-        "D": "mandatory military service for non-Romans"
+        "A": "Augustus",
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 16,
-      "question": "What enemies of Rome did Vologases lead in 51 A.D.?",
+      "question_number": 6,
+      "question": "What enemies of Rome did Vologases lead in 51",
       "options": {
-        "A": "Parthians",
-        "B": "Armenians",
-        "C": "Dacians",
-        "D": "Numidians"
+        "A": "Augustus",
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 17,
+      "question_number": 7,
       "question": "Who assisted Caracalla in the murder of his own brother Geta?",
       "options": {
-        "A": "Artabanus",
-        "B": "Macrinus",
-        "C": "Diadumenianus",
-        "D": "Papinianus"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 18,
-      "question": "Who was the early martyr of the Christian Church who completely overturned the existing male-dominated social and political order at Carthage in 203 A.D.?",
+      "question_number": 8,
+      "question": "Who was the early martyr of the Christian Church who completely overturned the\nexisting male-dominated social and political order at Carthage in 203",
       "options": {
-        "A": "Agnes",
-        "B": "Perpetua",
-        "C": "Euphemia",
-        "D": "Blandina"
+        "A": "Augustus",
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 19,
-      "question": "Which emperor is primarily responsible for building the Pantheon, even though he preserved the conventional façade and Agrippa’s dedicatory inscription?",
+      "question_number": 9,
+      "question": "Which emperor is primarily responsible for building the Pantheon, even though he\npreserved the conventional façade and Agrippa’s dedicatory inscription?",
       "options": {
-        "A": "Marcus Aurelius",
-        "B": "Hadrian",
-        "C": "Antoninus Pius",
-        "D": "Domitian"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 20,
+      "question_number": 0,
       "question": "Who was the first wife of the emperor Claudius?",
       "options": {
-        "A": "Agrippina the Younger",
-        "B": "Aelia Paetina",
-        "C": "Valeria Messalina",
-        "D": "Plautia Urgulanilla"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 21,
-      "question": "Who was one of the most important freedwomen in Roman history, who served both Claudius and Nero and became Vespasian’s mistress until his marriage?",
+      "question_number": 1,
+      "question": "Who was one of the most important freedwomen in Roman history, who served\nboth Claudius and Nero and became Vespasian’s mistress until his marriage?",
       "options": {
-        "A": "Antonia Caenis",
-        "B": "Claudia Acte",
-        "C": "Poppaea Sabina",
-        "D": "Flavia Domitilla"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 22,
-      "question": "Diocletian’s first edict against the Christians, issued in 303 A.D., called for what?",
+      "question_number": 2,
+      "question": "Diocletian’s first edict against the Christians, issued in 303",
       "options": {
-        "A": "imprisonment of Christian clergy of all ranks",
-        "B": "mandatory sacrifices to the state gods",
-        "C": "destruction of Christian churches and books",
-        "D": "immediate loss of privileges for Christians of higher classes"
+        "A": "Augustus",
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 23,
-      "question": "Who was Constantine’s mother whose conversion to Christianity has been distorted by the biases of Christian boosters and pagan distractors?",
+      "question_number": 3,
+      "question": "Who was Constantine’s mother whose conversion to Christianity has been\ndistorted by the biases of Christian boosters and pagan distractors?",
       "options": {
-        "A": "Fausta",
-        "B": "Helena",
-        "C": "Theodora",
-        "D": "Eutropia"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 24,
-      "question": "What German was the virtual ruler of the western Empire from 456 A.D. until his death in 472 A.D.?",
+      "question_number": 4,
+      "question": "What German was the virtual ruler of the western Empire from 456",
       "options": {
-        "A": "Aetius",
-        "B": "Majorian",
-        "C": "Ricimer",
-        "D": "Glycerius"
+        "A": "Augustus",
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 25,
+      "question_number": 5,
       "question": "Of whom was Boadicea/Boudicca the queen?",
       "options": {
-        "A": "Trinovantes",
-        "B": "Segontiaci",
-        "C": "Atrebates",
-        "D": "Iceni"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 26,
+      "question_number": 6,
       "question": "What future emperor once fled Rome in the disguise of a priest of Isis?",
       "options": {
-        "A": "Claudius",
-        "B": "Otho",
-        "C": "Domitian",
-        "D": "Nerva"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 27,
-      "question": "In 73 A.D., what sheer rock fortress was taken by the Romans after a six-month siege and the construction of a large earthern ramp?",
+      "question_number": 7,
+      "question": "In 73",
       "options": {
-        "A": "Herodium",
-        "B": "Masada",
-        "C": "Caesarea",
-        "D": "Jerusalem"
+        "A": "Augustus",
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 28,
-      "question": "Three catastrophes marred the brief reign of Titus: the violent eruption of Vesuvius and subsequent destruction of Herculaneum, Stabiae and Pompeii; a great fire in Rome which raged for three days; and…",
+      "question_number": 8,
+      "question": "Three catastrophes marred the brief reign of Titus: the violent eruption of\nVesuvius and subsequent destruction of Herculaneum, Stabiae and Pompeii; a\ngreat fire in Rome which raged for three days; and…",
       "options": {
-        "A": "a plague descended on Campania",
-        "B": "a massive rebellion by the people of Judaea",
-        "C": "a conspiracy plot by Saturninus, the governor of upper Germany",
-        "D": "a significant military loss at the hands of a Sarmatian tribe"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 29,
+      "question_number": 9,
       "question": "What king’s death is dramatically detailed on the column of Trajan?",
       "options": {
-        "A": "Decebalus",
-        "B": "Axidares",
-        "C": "Chosroes",
-        "D": "Parthamaspates"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 30,
-      "question": "What province did Pescennius Niger govern prior to his revolt against Didius Julianus and Septimius Severus?",
+      "question_number": 0,
+      "question": "What province did Pescennius Niger govern prior to his revolt against Didius\nJulianus and Septimius Severus?",
       "options": {
-        "A": "Cilicia",
-        "B": "Syria",
-        "C": "Lycia",
-        "D": "Pisidia"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 31,
-      "question": "Who was the first princeps to reach the throne without prior membership in the Senate?",
+      "question_number": 1,
+      "question": "Who was the first princeps to reach the throne without prior membership in the\nSenate?",
       "options": {
-        "A": "Severus Alexander",
-        "B": "Caracalla",
-        "C": "Macrinus",
-        "D": "Lucius Verus"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 32,
-      "question": "At what battle did Constantine order the chi and rho to be placed upon the shields of his soldiers?",
+      "question_number": 2,
+      "question": "At what battle did Constantine order the chi and rho to be placed upon the shields\nof his soldiers?",
       "options": {
-        "A": "Edessa",
-        "B": "Mons Seleucus",
-        "C": "Lugdunum",
-        "D": "Milvian Bridge"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 33,
+      "question_number": 3,
       "question": "Where did Maximian establish his imperial residence?",
       "options": {
-        "A": "Thessalonica",
-        "B": "Milan",
-        "C": "Nicomedia",
-        "D": "Rome"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 34,
-      "question": "In 429 A.D. whom did Gaiseric lead to begin seizing North Africa?",
+      "question_number": 4,
+      "question": "In 429",
       "options": {
-        "A": "Vandals",
-        "B": "Suevi",
-        "C": "Huns",
-        "D": "Franks"
+        "A": "Augustus",
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 35,
+      "question_number": 5,
       "question": "Against what bishop of Constantinople did the Augusta Eudoxia conspire?",
       "options": {
-        "A": "John Chrysostom",
-        "B": "Theophilus",
-        "C": "Gaudentius of Brescia",
-        "D": "Proclus"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 36,
-      "question": "Augustus personally led the fight against the Cantabrians and Asturians around BC in what location?",
+      "question_number": 6,
+      "question": "Augustus personally led the fight against the Cantabrians and Asturians around\nBC in what location?",
       "options": {
-        "A": "Armenia",
-        "B": "Illyricum",
-        "C": "Spain",
-        "D": "Macedonia"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 37,
-      "question": "Who successfully urged Tiberius into semi-retirement in 26 A.D.?",
-      "options": {
-        "A": "Agrippina",
-        "B": "Sejanus",
-        "C": "Thrasyllus",
-        "D": "Livia"
-      },
-      "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 38,
-      "question": "Which emperor affronted the Senate by becoming the first to hold the office of censor and purging that body of some old members?",
+      "question_number": 7,
+      "question": "Who successfully urged Tiberius into semi-retirement in 26",
       "options": {
         "A": "Augustus",
         "B": "Tiberius",
@@ -491,155 +478,64 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 39,
-      "question": "Where did Vespasian send Petilius Cerialis and Julius Frontinus to resume Rome’s conquest?",
+      "question_number": 8,
+      "question": "Which emperor affronted the Senate by becoming the first to hold the office of\ncensor and purging that body of some old members?",
       "options": {
-        "A": "Germany",
-        "B": "Armenia",
-        "C": "Britain",
-        "D": "Syria"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 40,
+      "question_number": 9,
+      "question": "Where did Vespasian send Petilius Cerialis and Julius Frontinus to resume Rome’s\nconquest?",
+      "options": {
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
       "question": "Who was the first emperor of provincial origin?",
       "options": {
-        "A": "Vespasian",
-        "B": "Trajan",
-        "C": "Hadrian",
-        "D": "Commodus"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 41,
-      "question": "Whom did Hadrian commission to draw up an edictum perpetuum binding all present and future praetors to a set code of laws and court procedures?",
+      "question_number": 1,
+      "question": "Whom did Hadrian commission to draw up an edictum perpetuum binding all\npresent and future praetors to a set code of laws and court procedures?",
       "options": {
-        "A": "Salvius Julianus",
-        "B": "Lusius Quietus",
-        "C": "Marcius Turbo",
-        "D": "Annius Verus"
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 42,
-      "question": "Which council did Constantine summon in Bithynia in 325 A.D.?",
-      "options": {
-        "A": "Chalcedon",
-        "B": "Nicaea",
-        "C": "Ephesus",
-        "D": "Ancyra"
-      },
-      "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 43,
-      "question": "What emperor served as the last to rule over both the western and eastern halves of the empire?",
-      "options": {
-        "A": "Valens",
-        "B": "Honorius",
-        "C": "Theodosius",
-        "D": "Gratian"
-      },
-      "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 44,
-      "question": "Romulus Augustulus was appointed emperor by whom?",
-      "options": {
-        "A": "the Roman people",
-        "B": "his armies",
-        "C": "the Senate",
-        "D": "his father"
-      },
-      "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 45,
-      "question": "When did Augustus revive the Ludi Saeculares?",
-      "options": {
-        "A": "21 BC",
-        "B": "19 BC",
-        "C": "17 BC",
-        "D": "15 BC"
-      },
-      "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 46,
-      "question": "Who was Augustus’ first choice as successor?",
-      "options": {
-        "A": "M. Claudius Marcellus",
-        "B": "M. Vipsanius Agrippa",
-        "C": "G. Julius Caesar",
-        "D": "Ti. Claudius Nero"
-      },
-      "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 47,
-      "question": "What Danubian officer killed Arrius Aper with his own hand and was then proclaimed emperor by his troops?",
-      "options": {
-        "A": "Diocletian",
-        "B": "Numerian",
-        "C": "Carus",
-        "D": "Florianus"
-      },
-      "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 48,
-      "question": "What was the name of the Armenian king who was killed by his own nephew Radamistus with some assistance from the Romans in 52?",
-      "options": {
-        "A": "Gotarzes",
-        "B": "Tiridates",
-        "C": "Mithridates",
-        "D": "Artabanus"
-      },
-      "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 49,
-      "question": "Who taught rhetoric to Marcus Aurelius?",
-      "options": {
-        "A": "Cassiodorus",
-        "B": "Quintilian",
-        "C": "Diognetus",
-        "D": "Fronto"
-      },
-      "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 50,
-      "question": "Under whose leadership was Mauretania divided into two imperial provinces?",
+      "question_number": 2,
+      "question": "Which council did Constantine summon in Bithynia in 325",
       "options": {
         "A": "Augustus",
         "B": "Tiberius",
@@ -647,7 +543,110 @@
         "D": "Claudius"
       },
       "type": "multiple_choice",
-      "instruction": "History of the Roman Empire:",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "What emperor served as the last to rule over both the western and eastern halves\nof the empire?",
+      "options": {
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "Romulus Augustulus was appointed emperor by whom?",
+      "options": {
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "When did Augustus revive the Ludi Saeculares?",
+      "options": {
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "Who was Augustus’ first choice as successor?",
+      "options": {
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "What Danubian officer killed Arrius Aper with his own hand and was then\nproclaimed emperor by his troops?",
+      "options": {
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "What was the name of the Armenian king who was killed by his own nephew\nRadamistus with some assistance from the Romans in 52?",
+      "options": {
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "Who taught rhetoric to Marcus Aurelius?",
+      "options": {
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius",
+        "A": "Augustus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Under whose leadership was Mauretania divided into two imperial provinces?",
+      "options": {
+        "B": "Tiberius",
+        "C": "Caligula",
+        "D": "Claudius"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
       "correct_answer": null
     }
   ],

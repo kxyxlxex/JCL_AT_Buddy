@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "Which Roman emperor began construction on the Colosseum?",
+    "question_options": {
+      "A": "Vespasian",
+      "B": "Domitian",
+      "C": "Vitellius",
+      "D": "Titus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "The Roman Empire reached its greatest territorial extent under which of the Five Good Emperors?",
+    "question_options": {
+      "A": "Marcus Aurelius",
+      "B": "Nerva",
+      "C": "Trajan",
+      "D": "Hadrian"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "________ was the last Roman emperor to rule in the West.",
+    "question_options": {
+      "A": "Romulus Augustulus",
+      "B": "Constantine III",
+      "C": "Diocletian",
+      "D": "Theodosius II"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "Which Roman divided the empire under the Tetrarchy?",
+    "question_options": {
+      "A": "Galerius",
+      "B": "Maximian",
+      "C": "Diocletian",
+      "D": "Constantius Chlorus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "What emperor, also a Stoic philosopher, died of the plague at Vindobona?",
+    "question_options": {
+      "A": "Lucius Verus",
+      "B": "Marcus Aurelius",
+      "C": "Hadrian",
+      "D": "Nerva"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "The disaster at Teutoburg Forest occurred during the reign of _____.",
+    "question_options": {
+      "A": "Nero",
+      "B": "Claudius",
+      "C": "Caligula",
+      "D": "Augustus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "What Germanic king deposed Romulus Augustulus?",
+    "question_options": {
+      "A": "Alaric",
+      "B": "Orestes",
+      "C": "Odoacer",
+      "D": "Theodoric"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "Which emperor granted himself the title Dominus et Deus?",
+    "question_options": {
+      "A": "Titus",
+      "B": "Nero",
+      "C": "Domitian",
+      "D": "Commodus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "What Palmyran queen did Aurelian defeat, earning himself the title Restitutor Orientis?",
+    "question_options": {
+      "A": "Boudicca",
+      "B": "Zenobia",
+      "C": "Julia Domna",
+      "D": "Candace"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "Which emperor was known as “the Apostate” for his attempt to restore paganism?",
+    "question_options": {
+      "A": "Constantius II",
+      "B": "Jovian",
+      "C": "Julian",
+      "D": "Valentinian II"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "Who celebrated the 800th anniversary of the founding of Rome?",
+    "question_options": {
+      "A": "Claudius",
+      "B": "Antoninus Pius",
+      "C": "Septimius Severus",
+      "D": "Philip the Arab"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "Roman citizenship was extended to all free men in the empire by which decree?",
+    "question_options": {
+      "A": "Edict of Toleration",
+      "B": "Constitutio Antoniniana",
+      "C": "Edict of Milan",
+      "D": "Lex Iulia"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "What man constructed the Pantheon in addition to two aqueducts?",
+    "question_options": {
+      "A": "Sejanus",
+      "B": "Agrippa",
+      "C": "Maecenas",
+      "D": "Claudius"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "Which of the following was NOT a wife of Claudius?",
+    "question_options": {
+      "A": "Plautia Urgulanilla",
+      "B": "Agrippina the Elder",
+      "C": "Valeria Messalina",
+      "D": "Aelia Paetina"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "St. Ambrose forced Theodosius I to repent for the massacre at which city?",
+    "question_options": {
+      "A": "Athens",
+      "B": "Corinth",
+      "C": "Thessalonica",
+      "D": "Thebes"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "What freedman of Commodus sold 25 consulships in one day?",
+    "question_options": {
+      "A": "Cleander",
+      "B": "Tigellinus",
+      "C": "Laetus",
+      "D": "Pallas"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Whom did Septimius Severus appoint as Caesar in order to focus his war effort against Pescennius Niger?",
+    "question_options": {
+      "A": "Caracalla",
+      "B": "Clodius Albinus",
+      "C": "Didius Iulianus",
+      "D": "Geta"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "Which emperor built a wall from the River Tyne to the Solway Firth?",
+    "question_options": {
+      "A": "Hadrian",
+      "B": "Antoninus Pius",
+      "C": "Trajan",
+      "D": "Aurelian"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "This emperor was captured by Shapur I and died in captivity.",
+    "question_options": {
+      "A": "Valentinian",
+      "B": "Gallienus",
+      "C": "Valens",
+      "D": "Valerian"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "In 107 AD, Trajan made _____ a Roman province.",
+    "question_options": {
+      "A": "Assyria",
+      "B": "Dacia",
+      "C": "Armenia",
+      "D": "Arabia Petraea"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "Whose original name was Bassianus?",
+    "question_options": {
+      "A": "Caracalla",
+      "B": "Severus Alexander",
+      "C": "Macrinus",
+      "D": "Elagabalus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "Which of the following was NOT an influential freedman of Claudius?",
+    "question_options": {
+      "A": "Pallas",
+      "B": "Callistus",
+      "C": "Narcissus",
+      "D": "Cassius"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "What emperor’s tax on public toilets was so unpopular that they were nicknamed after him?",
+    "question_options": {
+      "A": "Constantine’s",
+      "B": "Diocletian’s",
+      "C": "Augustus’s",
+      "D": "Vespasian’s"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "Whose death in 4 AD caused a crisis of succession?",
+    "question_options": {
+      "A": "Germanicus’s",
+      "B": "Lucius Caesar’s",
+      "C": "Agrippa’s",
+      "D": "Gaius Caesar’s"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "Who was the wife of Antoninus Pius?",
+    "question_options": {
+      "A": "Plotina",
+      "B": "Livia",
+      "C": "Sabina",
+      "D": "Faustina"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "At what battle was Stilicho victorious over Alaric in 402 AD?",
+    "question_options": {
+      "A": "Frigidus River",
+      "B": "Catalaunian Plains",
+      "C": "Pollentia",
+      "D": "Adrianople"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "What tribal leader conducted the resistance to Claudius’s invasion of Britain?",
+    "question_options": {
+      "A": "Caratacus",
+      "B": "Cartimandua",
+      "C": "Boudica",
+      "D": "Cunobelinus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "What year marked the first time Rome had co-emperors?",
+    "question_options": {
+      "A": "211 AD",
+      "B": "69 AD",
+      "C": "180 AD",
+      "D": "161 AD"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "Which two 3rd-century AD emperors have been credited for a major victory over a Gothic coalition at the Battle of Naissus?",
+    "question_options": {
+      "A": "Valerian / Gallienus",
+      "B": "Gallienus / Claudius II",
+      "C": "Aurelian / Tacitus",
+      "D": "Claudius II / Aurelian"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "What emperor was reported to have been killed by lightning after sacking Ctesiphon?",
+    "question_options": {
+      "A": "Numerianus",
+      "B": "Carus",
+      "C": "Florianus",
+      "D": "Carinus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "Domitius Ulpianus was the praetorian prefect for which early 3rd-century AD emperor?",
+    "question_options": {
+      "A": "Caracalla",
+      "B": "Alexander Severus",
+      "C": "Macrinus",
+      "D": "Elagabalus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "Who was the last emperor to be buried in the Mausoleum of Augustus?",
+    "question_options": {
+      "A": "Marcus Aurelius",
+      "B": "Claudius",
+      "C": "Caligula",
+      "D": "Nerva"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "Augustus did all the following to suppress rioting in Rome EXCEPT _____.",
+    "question_options": {
+      "A": "continuing an existing ban on unlicensed collegia",
+      "B": "imposing harsher punishments for crimina publica",
+      "C": "establishing seven cohorts of vigiles",
+      "D": "making the office of praefectus urbi permanent"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "Who was appointed Caesar in the West under the Second Tetrarchy?",
+    "question_options": {
+      "A": "Maximinus Daia",
+      "B": "Valerius Severus",
+      "C": "Maxentius",
+      "D": "Constantine I"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "Whom did Didius Julianus outbid for the imperial throne?",
+    "question_options": {
+      "A": "Sulpicianus",
+      "B": "Frumentarius",
+      "C": "Plautianus",
+      "D": "Pertinax"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "Aemilius Aemilianus’s victory at the Battle of Interamna in 253 AD led to the death of what emperor?",
+    "question_options": {
+      "A": "Trebonianus Gallus",
+      "B": "Decius",
+      "C": "Claudius Gothicus",
+      "D": "Aurelian"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "Anthemius and Pulcheria acted as regents for what 5th-century AD emperor?",
+    "question_options": {
+      "A": "Valentinian II",
+      "B": "Valentinian III",
+      "C": "Theodosius I",
+      "D": "Theodosius II"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "What year marked the beginning of Tiberius’s “retirement” to Rhodes?",
+    "question_options": {
+      "A": "6 BC",
+      "B": "8 BC",
+      "C": "23 BC",
+      "D": "18 BC"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "In whose court did Constantine serve at the start of the Second Tetrarchy (late 305 – early 306 AD)?",
+    "question_options": {
+      "A": "Constantius I",
+      "B": "Maximinus II",
+      "C": "Galerius",
+      "D": "Severus Alexander"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "What man was put to death for conspiring to install his grandson Cn. Pedianus Fuscus on the throne in 136 AD?",
+    "question_options": {
+      "A": "Lusius Quietus",
+      "B": "Ursus Servianus",
+      "C": "Avidius Cassius",
+      "D": "Cornelius Palma"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "Who succeeded Sejanus as Praetorian Prefect?",
+    "question_options": {
+      "A": "Sutorius Macro",
+      "B": "Drusus III",
+      "C": "Gaius Silius",
+      "D": "Memmius Regulus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "What deity, originally the agent of Ahura-Mazda, served as the counterpart to Ahriman but later became the central deity of a Roman mystery cult?",
+    "question_options": {
+      "A": "Cybele",
+      "B": "Mithras",
+      "C": "Isis",
+      "D": "Sarapis"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "What governor of Pannonia did Gallienus defeat when the former rose as a pretender to the throne?",
+    "question_options": {
+      "A": "Regillianus",
+      "B": "Macrianus",
+      "C": "Ingenuus",
+      "D": "Saloninus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "Which statement about the Agrippina the Elder and Agrippina the Younger is WRONG?",
+    "question_options": {
+      "A": "Both had a husband who was probably poisoned.",
+      "B": "Both were exiled to an island in the Tyrrhenian Sea.",
+      "C": "Both remarried at least once.",
+      "D": "Both were mothers of emperors."
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "This lieutenant of Trajan crushed Jewish rebellions in Egypt and Cyrene, preventing further rebellion until that of Bar Kochba.",
+    "question_options": {
+      "A": "Q. Marcius Turbo",
+      "B": "Avidius Cassius",
+      "C": "Lusius Quietus",
+      "D": "C. Iulius Severus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "Which emperor reorganized an Egyptian fleet as the classis Augusta Alexandrina to ensure the safe and regular delivery of grain to Rome?",
+    "question_options": {
+      "A": "Vespasian",
+      "B": "Trajan",
+      "C": "Augustus",
+      "D": "Claudius"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "Augustus made an appointment to which religious office, which had been vacant since 87 BC?",
+    "question_options": {
+      "A": "Flamen Dialis",
+      "B": "Chief Priest of Vesta",
+      "C": "Chief of Fratres Arvales",
+      "D": "Pontifex Maximus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "What man helped L. Domitius Domitianus assume the title of emperor in Alexandria before being crushed by Diocletian?",
+    "question_options": {
+      "A": "Achilleus",
+      "B": "Gallicus",
+      "C": "Allectus",
+      "D": "Asclepiodotus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "This commander was responsible for the final abandonment of the Antonine Wall.",
+    "question_options": {
+      "A": "Lollius Urbicus",
+      "B": "Ulpius Marcellus",
+      "C": "Platorius Nepos",
+      "D": "Iulius Verus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "What man led the assassins that beat Agrippina the Younger to death after her failed assassination attempt on the Bay of Naples?",
+    "question_options": {
+      "A": "Sabinus",
+      "B": "Narcissus",
+      "C": "Tigellinus",
+      "D": "Anicetus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  }
+]

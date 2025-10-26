@@ -4,575 +4,31 @@
       "question_number": 1,
       "question": "The king decided that it was time to abdicate his throne.",
       "options": {
-        "A": "repair",
-        "B": "resign",
-        "C": "elevate",
-        "D": "dismantle"
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 2,
       "question": "The antiquated air-conditioning system broke down repeatedly in the summer months.",
       "options": {
-        "A": "old-fashioned",
-        "B": "expensive",
-        "C": "refurbished",
-        "D": "foreign"
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 3,
-      "question": "The daily homework assignments became increasingly onerous as graduation approached.",
-      "options": {
-        "A": "humorous",
-        "B": "annoying",
-        "C": "simple",
-        "D": "burdensome"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 4,
-      "question": "The lawyer made a cogent case for acquitting his client.",
-      "options": {
-        "A": "confusing",
-        "B": "weak",
-        "C": "compelling",
-        "D": "surprising"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 5,
-      "question": "The pain from the wound became more and more excruciating as the day wore on.",
-      "options": {
-        "A": "mild",
-        "B": "smelly",
-        "C": "torturous",
-        "D": "swollen"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 6,
-      "question": "It was the prevalent view of the time.",
-      "options": {
-        "A": "praised",
-        "B": "misunderstood",
-        "C": "ignored",
-        "D": "all-powerful"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 7,
-      "question": "His sedentary lifestyle contributed very much to his weight problem.",
-      "options": {
-        "A": "extravagant",
-        "B": "sitting",
-        "C": "frenetic",
-        "D": "upright"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 8,
-      "question": "The new law imposed requirements that increased opportunities for all citizens.",
-      "options": {
-        "A": "placed",
-        "B": "removed",
-        "C": "increased",
-        "D": "clarified"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 9,
-      "question": "His malevolent behavior created difficulties and problems for all those around him.",
-      "options": {
-        "A": "unpredictable",
-        "B": "ill-intentioned",
-        "C": "involuntary",
-        "D": "volatile"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 10,
-      "question": "The earthquake created undulations on the earth's surface that made the buildings very unsteady. Part II. For each of these questions, select the English word that is derived from the given Latin word.",
-      "options": {
-        "A": "explosions",
-        "B": "burning",
-        "C": "craters",
-        "D": "fluctuations"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 11,
-      "question": "iuvo",
-      "options": {
-        "A": "juice",
-        "B": "judge",
-        "C": "adjutant",
-        "D": "juvenile"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 12,
-      "question": "credo",
-      "options": {
-        "A": "incredible",
-        "B": "increase",
-        "C": "increment",
-        "D": "cardinal"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 13,
-      "question": "gero",
-      "options": {
-        "A": "gyrate",
-        "B": "ingest",
-        "C": "congenial",
-        "D": "geriatric"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 14,
-      "question": "lex",
-      "options": {
-        "A": "legal",
-        "B": "lecture",
-        "C": "allege",
-        "D": "legend"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 15,
-      "question": "ver",
-      "options": {
-        "A": "voracious",
-        "B": "verify",
-        "C": "advertise",
-        "D": "vernal"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 16,
-      "question": "manus",
-      "options": {
-        "A": "remain",
-        "B": "manufacture",
-        "C": "mandate",
-        "D": "magnificent"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 17,
-      "question": "traho",
-      "options": {
-        "A": "abstract",
-        "B": "tragedy",
-        "C": "transient",
-        "D": "tremble"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 18,
-      "question": "pareo",
-      "options": {
-        "A": "apparition",
-        "B": "particle",
-        "C": "parent",
-        "D": "parliament"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 19,
-      "question": "noceo",
-      "options": {
-        "A": "internecine",
-        "B": "obnoxious",
-        "C": "cognizant",
-        "D": "nocturnal"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 20,
-      "question": "cado word.",
-      "options": {
-        "A": "casualty b.caesura",
-        "C": "cadet",
-        "D": "accede"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 21,
-      "question": "homicide",
-      "options": {
-        "A": "caedo",
-        "B": "cinis c.cado",
-        "D": "cibus"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 22,
-      "question": "postulate",
-      "options": {
-        "A": "possum",
-        "B": "posco",
-        "C": "posterior",
-        "D": "peto"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 23,
-      "question": "obsolete",
-      "options": {
-        "A": "solvo",
-        "B": "somnus",
-        "C": "sol",
-        "D": "soleo"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 24,
-      "question": "chateau",
-      "options": {
-        "A": "capio",
-        "B": "casa",
-        "C": "castrum",
-        "D": "catena"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 25,
-      "question": "celestial",
-      "options": {
-        "A": "cilium",
-        "B": "celo",
-        "C": "cedo",
-        "D": "caelum"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 26,
-      "question": "society",
-      "options": {
-        "A": "socius",
-        "B": "sacer",
-        "C": "soror",
-        "D": "somnus"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 27,
-      "question": "troublesome",
-      "options": {
-        "A": "terreo",
-        "B": "traho",
-        "C": "turba",
-        "D": "tremo"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 28,
-      "question": "piano",
-      "options": {
-        "A": "placeo",
-        "B": "plenus",
-        "C": "polio",
-        "D": "planus"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 29,
-      "question": "enjoy",
-      "options": {
-        "A": "gero",
-        "B": "iungo",
-        "C": "iuvo",
-        "D": "gaudeo"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 30,
-      "question": "unconscious Part IV. Give the MEANING of the Latin word at the root of each English word.",
-      "options": {
-        "A": "censeo",
-        "B": "nosco",
-        "C": "scio",
-        "D": "scelus"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 31,
-      "question": "regulate",
-      "options": {
-        "A": "to rule",
-        "B": "to measure",
-        "C": "to run",
-        "D": "to lead"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 32,
-      "question": "perjure",
-      "options": {
-        "A": "lie",
-        "B": "order",
-        "C": "law",
-        "D": "speak"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 33,
-      "question": "convince",
-      "options": {
-        "A": "obey",
-        "B": "conquer",
-        "C": "hear",
-        "D": "twist"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 34,
-      "question": "universal",
-      "options": {
-        "A": "overcome",
-        "B": "oppose",
-        "C": "come",
-        "D": "turn"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 35,
-      "question": "obsequeous",
-      "options": {
-        "A": "write",
-        "B": "teach",
-        "C": "speak",
-        "D": "follow"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 36,
-      "question": "claim",
-      "options": {
-        "A": "shout",
-        "B": "clash",
-        "C": "owe",
-        "D": "take"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 37,
-      "question": "mess",
-      "options": {
-        "A": "eat",
-        "B": "send",
-        "C": "force",
-        "D": "scatter"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 38,
-      "question": "attain",
-      "options": {
-        "A": "law",
-        "B": "honor",
-        "C": "touch",
-        "D": "hold"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 39,
-      "question": "savage",
-      "options": {
-        "A": "woods",
-        "B": "fierce",
-        "C": "battle",
-        "D": "safe"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 40,
-      "question": "adieu Part V. For each of the following questions, select the word that does NOT have the same derivation",
-      "options": {
-        "A": "arrive",
-        "B": "hear",
-        "C": "day",
-        "D": "god"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 46,
-      "question": "efficient",
-      "options": {
-        "A": "facet",
-        "B": "effigy",
-        "C": "fiction",
-        "D": "affix"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 47,
-      "question": "lettuce",
-      "options": {
-        "A": "lactic",
-        "B": "lackluster",
-        "C": "placate",
-        "D": "deluge"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 48,
-      "question": "cook",
-      "options": {
-        "A": "biscuit",
-        "B": "comb",
-        "C": "chef",
-        "D": "charcoal"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 49,
-      "question": "noun",
-      "options": {
-        "A": "novelty",
-        "B": "agnostic",
-        "C": "ignominy",
-        "D": "noble"
-      },
-      "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 50,
-      "question": "amorous",
+      "question": "The daily homework assignments became increasingly onerous as graduation approache",
       "options": {
         "A": "ambulance",
         "B": "amiable",
@@ -580,13 +36,623 @@
         "D": "amenity"
       },
       "type": "multiple_choice",
-      "instruction": "*Part III. For each of these questions, select the Latin word that is at the root of each given English:",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "The lawyer made a cogent case for acquitting his client.",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "The pain from the wound became more and more excruciating as the day wore on.",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "It was the prevalent view of the time.",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "His sedentary lifestyle contributed very much to his weight problem.",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "The new law imposed requirements that increased opportunities for all citizens.",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "His malevolent behavior created difficulties and problems for all those around him.",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "The earthquake created undulations on the earth's surface that made the buildings very unsteady.",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "iuvo",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "credo",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "gero",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "lex",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "ver",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "manus",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "traho",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "pareo",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "noceo",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "cado",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "homicide",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "postulate",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "obsolete",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "chateau",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "celestial",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "society",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "troublesome",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "piano",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "enjoy",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "unconscious",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "regulate",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "perjure",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "convince",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "universal",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "obsequeous",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "claim",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "mess",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "attain",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "savage",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "adieu",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "efficient",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "lettuce",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "cook",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "noun",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity",
+        "A": "ambulance"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "amorous",
+      "options": {
+        "B": "amiable",
+        "C": "able",
+        "D": "amenity"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
       "correct_answer": null
     }
   ],
   "metadata": {
     "year": 2013,
     "format": "pre_2018",
-    "total_questions": 45
+    "total_questions": 50
   }
 }

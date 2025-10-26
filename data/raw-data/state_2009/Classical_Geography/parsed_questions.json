@@ -1,0 +1,590 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "The palace at Knossos was located on _____________.",
+    "question_options": {
+      "A": "Sicily",
+      "B": "Crete",
+      "C": "Rhodes",
+      "D": "Cyrene"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "Which of these cities was the capital of Lydia?",
+    "question_options": {
+      "A": "Miletus",
+      "B": "Babylon",
+      "C": "Susa",
+      "D": "Sardis"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "The city of Augusta Treverorum was located in which modern country?",
+    "question_options": {
+      "A": "France",
+      "B": "Turkey",
+      "C": "Switzerland",
+      "D": "Germany"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "Which of the following cities was NOT located on ancient Sicily?",
+    "question_options": {
+      "A": "Panormus",
+      "B": "Lilybaeum",
+      "C": "Eryx",
+      "D": "Pistoria"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "Hannibal attacked the city of ______________ in Spain, an act which led to war with Rome.",
+    "question_options": {
+      "A": "Saguntum",
+      "B": "Cremona",
+      "C": "Massilia",
+      "D": "Cyzicus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "Which modern European city is the equivalent of anceint Vindobona?",
+    "question_options": {
+      "A": "Bonn",
+      "B": "Venice",
+      "C": "Vienna",
+      "D": "Berlin"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "The modern equivalent of ancient Lutetia is what city?",
+    "question_options": {
+      "A": "Lyons",
+      "B": "Paris",
+      "C": "London",
+      "D": "Luxembourg"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "The city of Jerusalem was known as ________________ to the Romans.",
+    "question_options": {
+      "A": "Edessa",
+      "B": "Magnesia",
+      "C": "Interamna",
+      "D": "Aelia Capitolina"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "Which modern country did the Romans call Hibernia?",
+    "question_options": {
+      "A": "Greenland",
+      "B": "Scotland",
+      "C": "Ireland",
+      "D": "England"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "Gallia: France:: Lusitania::",
+    "question_options": {
+      "A": "Portugal",
+      "B": "Morocco",
+      "C": "Lithuania",
+      "D": "Romania"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "Which of these ancient Greek cities was farthest south?",
+    "question_options": {
+      "A": "Athens",
+      "B": "Corinth",
+      "C": "Sparta",
+      "D": "Tiryns"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "Which Roman province was farthest west?",
+    "question_options": {
+      "A": "Pannonia",
+      "B": "Noricum",
+      "C": "Raetia",
+      "D": "Tarraconensis"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "In which direction would a traveler have to go to get from Rome to Tarentum?",
+    "question_options": {
+      "A": "northeast",
+      "B": "northwest",
+      "C": "southeast",
+      "D": "southwest"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "In which cardinal direction would one travel to go from Numidia to Cappadocia?",
+    "question_options": {
+      "A": "west",
+      "B": "north",
+      "C": "south",
+      "D": "east"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "Which of these ancient Greek islands was farthest north?",
+    "question_options": {
+      "A": "Lemnos",
+      "B": "Delos",
+      "C": "Scyros",
+      "D": "Melos"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "Which of the following was NOT a division of Roman Gaul?",
+    "question_options": {
+      "A": "Aquitania",
+      "B": "Lugdunensis",
+      "C": "Baetica",
+      "D": "Narbonensis"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Which of these provinces was in Africa?",
+    "question_options": {
+      "A": "Mauretania",
+      "B": "Moesia",
+      "C": "Raetia",
+      "D": "Pontus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "Which Roman province did NOT border the Mediterranean Sea?",
+    "question_options": {
+      "A": "Africa Nova",
+      "B": "Cyrene",
+      "C": "Dacia",
+      "D": "Achaea"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "Into how many provinces was imperial Spain divided?",
+    "question_options": {
+      "A": "two",
+      "B": "three",
+      "C": "four",
+      "D": "five"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "Which province did NOT border the Pontus Euxinus?",
+    "question_options": {
+      "A": "Thracia",
+      "B": "Moesia",
+      "C": "Bithynia-Pontus",
+      "D": "Galatia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Beneventum",
+      "B": "Ravenna",
+      "C": "Mediolanum",
+      "D": "Arpinum"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Rome",
+      "B": "Alba Fucens",
+      "C": "Clusium",
+      "D": "Sulmo"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Syracuse",
+      "B": "Eryx",
+      "C": "Mylae",
+      "D": "Henna"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Capua",
+      "B": "Puteoli",
+      "C": "Reate",
+      "D": "Brundisium"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Heraclea",
+      "B": "Tarentum",
+      "C": "Abella",
+      "D": "Ancona"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Rome",
+      "B": "Ostia",
+      "C": "Antium",
+      "D": "Fanum"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Capua",
+      "B": "Venusia",
+      "C": "Aufidena",
+      "D": "Cures"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Mariana",
+      "B": "Urcinium",
+      "C": "Clunium",
+      "D": "Aleria"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Mt. Etna",
+      "B": "Massena",
+      "C": "Syracuse",
+      "D": "Gela"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Comum",
+      "B": "Mediolanum",
+      "C": "Neapolis",
+      "D": "Tibur"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Tegea",
+      "B": "Sparta",
+      "C": "Aretria",
+      "D": "Olympia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Mycene",
+      "B": "Argos",
+      "C": "Corinth",
+      "D": "Elis"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Chios",
+      "B": "Samos",
+      "C": "Melos",
+      "D": "Delos"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Corinth",
+      "B": "Marathon",
+      "C": "Athens",
+      "D": "Cyme"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Thebes",
+      "B": "Assos",
+      "C": "Cynthos",
+      "D": "Iolcos"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Pydna",
+      "B": "Pella",
+      "C": "Pharsalos",
+      "D": "Gomphoi"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Tegea",
+      "B": "Sparta",
+      "C": "Elatea",
+      "D": "Oreus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Rhodes",
+      "B": "Cos",
+      "C": "Skyros",
+      "D": "Cnidos"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Elis",
+      "B": "Pylos",
+      "C": "Mantinea",
+      "D": "Argos"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Philipi",
+      "B": "Maronea",
+      "C": "Olynthos",
+      "D": "Torone"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Circus Maximus",
+      "B": "Circus Flaminus",
+      "C": "Circus Maxentius",
+      "D": "Circus of Nero"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "Which emperor’s Thermae is represented by number 7?",
+    "question_options": {
+      "A": "Titus",
+      "B": "Trajan",
+      "C": "Diocletian",
+      "D": "Caracalla"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "Number 13 was built by",
+    "question_options": {
+      "A": "Augustus",
+      "B": "Hadrian",
+      "C": "Domitian",
+      "D": "Constantine"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "Which hill is encompassed by number “3” on the map?",
+    "question_options": {
+      "A": "Capitoline",
+      "B": "Aventine",
+      "C": "Esquiline",
+      "D": "Palatine"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Forum Traiani",
+      "B": "Forum Caesaris",
+      "C": "Forum Augusti",
+      "D": "Forum Nervae"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "Number “6” on the map represents what area?",
+    "question_options": {
+      "A": "Campus Martius",
+      "B": "Forum Romanum",
+      "C": "Forum Bovarium",
+      "D": "Subura"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Pantheon",
+      "B": "Saepta Julia",
+      "C": "Isis and Serapis",
+      "D": "Forum Pacis"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Colosseum",
+      "B": "Circus Flaminius",
+      "C": "Domus Aurea",
+      "D": "Baths of Titus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "The structure labelled “14” was dedicated to",
+    "question_options": {
+      "A": "Marcellus",
+      "B": "Balbus",
+      "C": "Pompey",
+      "D": "Augustus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  }
+]

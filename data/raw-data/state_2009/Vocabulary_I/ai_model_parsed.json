@@ -1,0 +1,603 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "propter",
+    "question_options": {
+      "A": "afterward",
+      "B": "before",
+      "C": "moreover",
+      "D": "because of"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 2,
+    "question_body": "amitto",
+    "question_options": {
+      "A": "to find",
+      "B": "to straighten",
+      "C": "to bestow",
+      "D": "to lose"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 3,
+    "question_body": "bos",
+    "question_options": {
+      "A": "twice",
+      "B": "cup",
+      "C": "cow",
+      "D": "strike"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 4,
+    "question_body": "portus",
+    "question_options": {
+      "A": "gate",
+      "B": "harbor",
+      "C": "door",
+      "D": "elevation"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 5,
+    "question_body": "praemium",
+    "question_options": {
+      "A": "reward",
+      "B": "loot",
+      "C": "price",
+      "D": "accusation"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 6,
+    "question_body": "aestas",
+    "question_options": {
+      "A": "age",
+      "B": "even",
+      "C": "summer",
+      "D": "air"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 7,
+    "question_body": "desero",
+    "question_options": {
+      "A": "to desert",
+      "B": "to despair",
+      "C": "to hope",
+      "D": "to breathe"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 8,
+    "question_body": "terra",
+    "question_options": {
+      "A": "land",
+      "B": "fear",
+      "C": "boundary",
+      "D": "thrice"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 9,
+    "question_body": "solus",
+    "question_options": {
+      "A": "sun",
+      "B": "earth",
+      "C": "consolation",
+      "D": "alone"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 10,
+    "question_body": "rego",
+    "question_options": {
+      "A": "to read",
+      "B": "to return",
+      "C": "to guide",
+      "D": "to fasten"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 11,
+    "question_body": "autem",
+    "question_options": {
+      "A": "again",
+      "B": "however",
+      "C": "finally",
+      "D": "therefore"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 12,
+    "question_body": "iungo",
+    "question_options": {
+      "A": "to pour",
+      "B": "to lead",
+      "C": "to grab",
+      "D": "to unite"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 13,
+    "question_body": "sicut",
+    "question_options": {
+      "A": "at a distance",
+      "B": "at the same time",
+      "C": "on account of",
+      "D": "just as"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 14,
+    "question_body": "ventus",
+    "question_options": {
+      "A": "wind",
+      "B": "arrival",
+      "C": "opening",
+      "D": "garment"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best English translation for the given Latin word."
+  },
+  {
+    "question_index": 15,
+    "question_body": "force",
+    "question_options": {
+      "A": "vis",
+      "B": "valde",
+      "C": "vix",
+      "D": "vinculum"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best Latin translation for the given English word."
+  },
+  {
+    "question_index": 16,
+    "question_body": "to help",
+    "question_options": {
+      "A": "iuvo",
+      "B": "noceo",
+      "C": "liquo",
+      "D": "lego"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best Latin translation for the given English word."
+  },
+  {
+    "question_index": 17,
+    "question_body": "chair",
+    "question_options": {
+      "A": "cella",
+      "B": "sal",
+      "C": "sella",
+      "D": "celsus"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the best Latin translation for the given English word."
+  },
+  {
+    "question_index": 18,
+    "question_body": "suddenly",
+    "question_options": {
+      "A": "subito",
+      "B": "statim",
+      "C": "simul",
+      "D": "sero"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best Latin translation for the given English word."
+  },
+  {
+    "question_index": 19,
+    "question_body": "to order",
+    "question_options": {
+      "A": "pareo",
+      "B": "occido",
+      "C": "debeo",
+      "D": "iubeo"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best Latin translation for the given English word."
+  },
+  {
+    "question_index": 20,
+    "question_body": "to enter",
+    "question_options": {
+      "A": "insto",
+      "B": "ineo",
+      "C": "intereo",
+      "D": "fero"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the best Latin translation for the given English word."
+  },
+  {
+    "question_index": 21,
+    "question_body": "scarcely",
+    "question_options": {
+      "A": "vix",
+      "B": "mox",
+      "C": "lux",
+      "D": "nisi"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best Latin translation for the given English word."
+  },
+  {
+    "question_index": 22,
+    "question_body": "to conquer",
+    "question_options": {
+      "A": "sumo",
+      "B": "stupeo",
+      "C": "gero",
+      "D": "vinco"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best Latin translation for the given English word."
+  },
+  {
+    "question_index": 23,
+    "question_body": "to avoid",
+    "question_options": {
+      "A": "libo",
+      "B": "latro",
+      "C": "vito",
+      "D": "moneo"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the best Latin translation for the given English word."
+  },
+  {
+    "question_index": 24,
+    "question_body": "it is allowed",
+    "question_options": {
+      "A": "taedet",
+      "B": "placet",
+      "C": "lucet",
+      "D": "licet"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best Latin translation for the given English word."
+  },
+  {
+    "question_index": 25,
+    "question_body": "for",
+    "question_options": {
+      "A": "enim",
+      "B": "deinde",
+      "C": "tunc",
+      "D": "inde"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best Latin translation for the given English word."
+  },
+  {
+    "question_index": 26,
+    "question_body": "par",
+    "question_options": {
+      "A": "dolus",
+      "B": "aequus",
+      "C": "exemplar",
+      "D": "dives"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the SYNONYM of the given word."
+  },
+  {
+    "question_index": 27,
+    "question_body": "igitur",
+    "question_options": {
+      "A": "ergo",
+      "B": "inter",
+      "C": "paulisper",
+      "D": "diu"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the SYNONYM of the given word."
+  },
+  {
+    "question_index": 28,
+    "question_body": "interficio",
+    "question_options": {
+      "A": "colo",
+      "B": "caedo",
+      "C": "incito",
+      "D": "curro"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the SYNONYM of the given word."
+  },
+  {
+    "question_index": 29,
+    "question_body": "suaviter",
+    "question_options": {
+      "A": "dulciter",
+      "B": "graviter",
+      "C": "laete",
+      "D": "acriter"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the SYNONYM of the given word."
+  },
+  {
+    "question_index": 30,
+    "question_body": "denique",
+    "question_options": {
+      "A": "saepe",
+      "B": "tantum",
+      "C": "nunc",
+      "D": "tandem"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the SYNONYM of the given word."
+  },
+  {
+    "question_index": 31,
+    "question_body": "princeps",
+    "question_options": {
+      "A": "timor",
+      "B": "imperator",
+      "C": "senex",
+      "D": "celeber"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the SYNONYM of the given word."
+  },
+  {
+    "question_index": 32,
+    "question_body": "desidero",
+    "question_options": {
+      "A": "firmo",
+      "B": "cupio",
+      "C": "curo",
+      "D": "nolo"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the SYNONYM of the given word."
+  },
+  {
+    "question_index": 33,
+    "question_body": "mane",
+    "question_options": {
+      "A": "valde",
+      "B": "vesperi",
+      "C": "lente",
+      "D": "forte"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 34,
+    "question_body": "amor",
+    "question_options": {
+      "A": "odium",
+      "B": "venenum",
+      "C": "umquam",
+      "D": "pellis"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 35,
+    "question_body": "levis",
+    "question_options": {
+      "A": "doctus",
+      "B": "plenus",
+      "C": "tantus",
+      "D": "gravis"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 36,
+    "question_body": "ex",
+    "question_options": {
+      "A": "prae",
+      "B": "circum",
+      "C": "in",
+      "D": "contra"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 37,
+    "question_body": "surgo",
+    "question_options": {
+      "A": "colo",
+      "B": "revenio",
+      "C": "tango",
+      "D": "sedeo"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 38,
+    "question_body": "advenio",
+    "question_options": {
+      "A": "discedo",
+      "B": "eripio",
+      "C": "egeo",
+      "D": "procedo"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 39,
+    "question_body": "senex",
+    "question_options": {
+      "A": "sacerdos",
+      "B": "piger",
+      "C": "iuvenis",
+      "D": "iudex"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 40,
+    "question_body": "terra",
+    "question_options": {
+      "A": "crater",
+      "B": "arbor",
+      "C": "caelum",
+      "D": "lapis"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 41,
+    "question_body": "mare : flumen :: litus :",
+    "question_options": {
+      "A": "navis",
+      "B": "ripa",
+      "C": "nauta",
+      "D": "pontus"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the best word to complete the analogy."
+  },
+  {
+    "question_index": 42,
+    "question_body": "actor : theatrum :: agricola :",
+    "question_options": {
+      "A": "fundus",
+      "B": "ara",
+      "C": "curia",
+      "D": "frumentum"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best word to complete the analogy."
+  },
+  {
+    "question_index": 43,
+    "question_body": "eo : sisto :: excito :",
+    "question_options": {
+      "A": "do",
+      "B": "sano",
+      "C": "recito",
+      "D": "dormio"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the best word to complete the analogy."
+  },
+  {
+    "question_index": 44,
+    "question_body": "atrium : lararium :: peristylium :",
+    "question_options": {
+      "A": "hortus",
+      "B": "ancilla",
+      "C": "cubiculum",
+      "D": "vestibulum"
+    },
+    "question_key": "A",
+    "question_instruction": "Choose the best word to complete the analogy."
+  },
+  {
+    "question_index": 45,
+    "question_body": "parvus : magnus :: stultus :",
+    "question_options": {
+      "A": "tardus",
+      "B": "ignavus",
+      "C": "callidus",
+      "D": "gravis"
+    },
+    "question_key": "C",
+    "question_instruction": "Choose the best word to complete the analogy."
+  },
+  {
+    "question_index": 46,
+    "question_body": "Question 46",
+    "question_options": {
+      "A": "et",
+      "B": "atque",
+      "C": "-que",
+      "D": "neque"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the word which does NOT belong by meaning."
+  },
+  {
+    "question_index": 47,
+    "question_body": "Question 47",
+    "question_options": {
+      "A": "umerus",
+      "B": "manus",
+      "C": "auris",
+      "D": "arma"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the word which does NOT belong by meaning."
+  },
+  {
+    "question_index": 48,
+    "question_body": "Question 48",
+    "question_options": {
+      "A": "senex",
+      "B": "anus",
+      "C": "filia",
+      "D": "ornatrix"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the word which does NOT belong by meaning."
+  },
+  {
+    "question_index": 49,
+    "question_body": "Question 49",
+    "question_options": {
+      "A": "ager",
+      "B": "urbs",
+      "C": "horreum",
+      "D": "agricola"
+    },
+    "question_key": "D",
+    "question_instruction": "Choose the word which does NOT belong by meaning."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Question 50",
+    "question_options": {
+      "A": "contendo",
+      "B": "sto",
+      "C": "ruo",
+      "D": "festino"
+    },
+    "question_key": "B",
+    "question_instruction": "Choose the word which does NOT belong by meaning."
+  }
+]
+

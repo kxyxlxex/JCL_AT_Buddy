@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "From what Italian tribe did Rome’s second king, Numa Pompilius come?",
+    "question_options": {
+      "A": "Sabines",
+      "B": "Volscians",
+      "C": "Aequians",
+      "D": "Etruscans"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "Under which famed lawyer did Cicero, along with his friend Atticus, apprentice?",
+    "question_options": {
+      "A": "Lucius Verres",
+      "B": "Clodius Albinus",
+      "C": "Gaius Marius",
+      "D": "Mucius Scaevola"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "In 406, Rome began a 10-year long war against which neighboring city?",
+    "question_options": {
+      "A": "Massilia",
+      "B": "Tarquinii",
+      "C": "Veii",
+      "D": "Alba"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "During the Battle of Vesuvius in 340, which Roman commander executed his own son for refusing to follow orders?",
+    "question_options": {
+      "A": "Publius Decius Mus",
+      "B": "Marcus Valerius Corvus",
+      "C": "Quinctius Capitolinus",
+      "D": "Manlius Torquatus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "According to Plutarch, who was the first to stab at Caesar on that fateful day in March?",
+    "question_options": {
+      "A": "Brutus",
+      "B": "Cimber",
+      "C": "Casca",
+      "D": "Cassius"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "According to some sources, Rome’s sixth king, Servius Tullius, was actually an Etruscan mercenary named ______________?",
+    "question_options": {
+      "A": "Pyrrhus",
+      "B": "Mastarna",
+      "C": "Xanthippus",
+      "D": "Spartacus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "What engineering feat—used first at the Battle of Mylae—aided Rome’s navy during the First Punic War?",
+    "question_options": {
+      "A": "the lorica segmentata",
+      "B": "the corvus",
+      "C": "the ballista",
+      "D": "the pugio"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "Who is the mother of Tiberius & Gaius Gracchus?",
+    "question_options": {
+      "A": "Laelia",
+      "B": "Claudia",
+      "C": "Sempronia",
+      "D": "Cornelia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "Where, in 207, did Claudius Nero and Livius Salinator defeat Hasdrubal?",
+    "question_options": {
+      "A": "Lake Trasimene",
+      "B": "Dertosa",
+      "C": "Metaurus River",
+      "D": "Zama"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "Who was the king of Numidia against whom Rome waged a series of wars from 111-104?",
+    "question_options": {
+      "A": "Jugurtha",
+      "B": "Mithridates",
+      "C": "Massinissa",
+      "D": "Pharnaces"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "Who was #10's father-in-law who betrayed him to the Romans, sealing Roman victory?",
+    "question_options": {
+      "A": "Prusias",
+      "B": "Bocchus",
+      "C": "Tigranes",
+      "D": "Rufix"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "Which king of Rome is credited for settling an entire town—Palitorium—on the Aventine Hill?",
+    "question_options": {
+      "A": "Numa",
+      "B": "Romulus",
+      "C": "Tullus Hostilius",
+      "D": "Ancus Marcius"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "What is the name given to the board of commissioners who put forth Rome’s Tables?",
+    "question_options": {
+      "A": "Epigoni",
+      "B": "Boni Viri",
+      "C": "Centurioni",
+      "D": "Decemviri"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "What tribe’s incursion into Sicily hastened the beginning of the First Punic War?",
+    "question_options": {
+      "A": "Mamertines",
+      "B": "Samnites",
+      "C": "Nucerians",
+      "D": "Etruscans"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "Which of Caesar’s trusted lieutenants abandoned him right before crossing the Rubicon so that he could bring warning to Rome?",
+    "question_options": {
+      "A": "Maecenas",
+      "B": "Publilius Sulla",
+      "C": "Labienus",
+      "D": "Antony"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "Who was the Roman general who defeated Perseus at the battle of Pydna in 168?",
+    "question_options": {
+      "A": "Scipio Asiaticus",
+      "B": "Aemilius Paullus",
+      "C": "Cornelius Cossus",
+      "D": "Atilius Catilinus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Who was the Vestal Virgin who let invading Sabines into Rome for mere bracelets—and was summarily trampled by the Sabines as they entered?",
+    "question_options": {
+      "A": "Cloelia",
+      "B": "Tullia",
+      "C": "Julia",
+      "D": "Tarpeia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "After exiling himself, Hannibal aided which Seleucid king in his preparations for war on Rome?",
+    "question_options": {
+      "A": "Mithridates IV",
+      "B": "Mausoleus I",
+      "C": "Antiochus III",
+      "D": "Eumenes II"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "Cincinnatus’ son, ___________, was put on trial for murder, absconded on bail, and left his father to pay an exorbitant fine.",
+    "question_options": {
+      "A": "Quartus",
+      "B": "Tiberius",
+      "C": "Gaius",
+      "D": "Caeso"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "What animal is Pyrrhus credited as the first to bring to Italy to fight the Romans?",
+    "question_options": {
+      "A": "horses",
+      "B": "mosquitos",
+      "C": "elephants",
+      "D": "aurochses"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "What Roman commander is known for putting down Spartacus’ slave revolt?",
+    "question_options": {
+      "A": "Clodianus",
+      "B": "Crassus",
+      "C": "Marc Antony",
+      "D": "Cinna"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "Before which battle in 45 B.C. did the omen of a palm shoot sprouting overnight convince Caesar to adopt Octavian as his heir?",
+    "question_options": {
+      "A": "Munda",
+      "B": "Thapsus",
+      "C": "Zela",
+      "D": "Pharsalus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "The rape of which woman ignited the war against Tarquin the Proud and led to the installation of the Roman Republic?",
+    "question_options": {
+      "A": "Cloelia",
+      "B": "Camilla",
+      "C": "Lucretia",
+      "D": "Mettia"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "At the Battle of Silva Arsia, Lucius Junius Brutus simultaneously died while locked in combat with which son of Tarquin the Proud?",
+    "question_options": {
+      "A": "Sextus",
+      "B": "Aruns",
+      "C": "Aulus",
+      "D": "Zephyrus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "During the 2nd Punic War, what Greek scientist/mathematician helped his native Syracuse repulse Roman attacks?",
+    "question_options": {
+      "A": "Pythagoras",
+      "B": "Diogenes",
+      "C": "Herodotus",
+      "D": "Archimedes"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "Which law authorized Pompey’s command against Mithradates VI?",
+    "question_options": {
+      "A": "Manilia",
+      "B": "Valeria",
+      "C": "Gabinia",
+      "D": "Iulia"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "Who was Romulus’ Sabine wife?",
+    "question_options": {
+      "A": "Volumnia",
+      "B": "Egeria",
+      "C": "Tanaquil",
+      "D": "Hersilia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "In 222, Marcus Claudius Marcellus defeated which Gallic chieftain to receive that last Spolia Opima?",
+    "question_options": {
+      "A": "Mago",
+      "B": "Lar Tolumnius",
+      "C": "Viridomarus",
+      "D": "Acro"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "Which of the following DID NOT occur during the course of 63?",
+    "question_options": {
+      "A": "Octavian born",
+      "B": "Caesar is Pontifex Maximus",
+      "C": "Cicero was consul",
+      "D": "Pompey defeats Mithridates"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "Who defeated an advancing army of Boii near Lake Vadimo in 283?",
+    "question_options": {
+      "A": "Dollabella",
+      "B": "Dentatus",
+      "C": "Cursor",
+      "D": "Rullianus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "After which battle in 216 B.C. did Hannibal’s cavalry commander, Maharbal, remark, “You, Hannibal, know how to gain a victory; you do not know how to use it?\"",
+    "question_options": {
+      "A": "Cannae",
+      "B": "Lake Trasimene",
+      "C": "Saguntum",
+      "D": "Trebia River"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "Clodius Pulcher had a vendetta against Cicero following the orator’s use of power in the Catilinarian Conspiracy. Who physically protected Cicero from Pulcher’s gang of thugs?",
+    "question_options": {
+      "A": "Atticus",
+      "B": "Milo",
+      "C": "Geminus",
+      "D": "Tamphilus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "Which king’s run-in with the Sibyl of Cumae resulted in obtaining only three of the nine Sibylline Books?",
+    "question_options": {
+      "A": "Tullus Hostilius",
+      "B": "Servius Tullius",
+      "C": "Romulus",
+      "D": "Tarquinius Superbus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "What mythological characters are said to have fought for Rome at the Battle of Lake Regillus?",
+    "question_options": {
+      "A": "Apollo & Neptune",
+      "B": "Achilles & Ajax",
+      "C": "Castor & Pollux",
+      "D": "Hercules & Iolaus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "Caesar’s second invasion of Britain was primarily spent subduing which warlord from north of the Thames?",
+    "question_options": {
+      "A": "Ariovistus",
+      "B": "Orgetorix",
+      "C": "Mandubracius",
+      "D": "Cassivellaunus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "At the end of the 3rd Punic War, which city became the capital of the new Roman province of Africa?",
+    "question_options": {
+      "A": "Utica",
+      "B": "Clupea",
+      "C": "Hippo",
+      "D": "Alexandria"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "When the Celts invaded Rome in 390, the Romans took shelter in the citadel. They knew to do this because who had heard the honking of Juno’s geese?",
+    "question_options": {
+      "A": "Marcus Camillus",
+      "B": "Herennius Pointius",
+      "C": "Caecilius Mettellus",
+      "D": "Manlius Capitolinus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "At what battle of the Third Samnite War did another Publius Decius Mus perform his devotio?",
+    "question_options": {
+      "A": "Vesuvius",
+      "B": "Lautulae",
+      "C": "Sentinum",
+      "D": "Antium"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "What Carthaginian leader, against Hamilcar’s advice, advocated abandonment of the 1st Punic War (he also did the same during the 2nd Punic War!)?",
+    "question_options": {
+      "A": "Hanno",
+      "B": "Hasdrubal",
+      "C": "Suniatus",
+      "D": "Timoleon"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "What Consul was granted power under the first senatus consultum ultimum to go after the followers of",
+    "question_options": {
+      "C": "Q. Ogulnius",
+      "A": "M. Octavius",
+      "B": "L. Opimius",
+      "D": "Cn. Flavius"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "Who was the offspring of the union between Julius Caesar and Cleopatra?",
+    "question_options": {
+      "A": "Ptolemy VII",
+      "B": "Octavian",
+      "C": "Caesarion",
+      "D": "Cleopatros"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "Which of the following DID NOT happen in 133?",
+    "question_options": {
+      "A": "defeat of Carthage",
+      "B": "Attalus III gave his kingdom to Rome",
+      "C": "defeat of the Numantines",
+      "D": "Tiberius Gracchus becomes tribune"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "After Cannae, which king of Macedon allied himself with Hannibal, thus igniting the concurrent First Macedonian War?",
+    "question_options": {
+      "A": "Eumenides",
+      "B": "Pyrrhus",
+      "C": "Hiero IV",
+      "D": "Philip V"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "Of the following, which WAS NOT a tribe whom Camillus was elected dictator to defeat?",
+    "question_options": {
+      "A": "Senones",
+      "B": "Iceni",
+      "C": "Velletri",
+      "D": "Aequii"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "At the onset of the 1st Samnite War, what city cleverly forced Rome to protect it from the Samnites by surrending the city entirely to Rome?",
+    "question_options": {
+      "A": "Capua",
+      "B": "Tarentum",
+      "C": "Syracuse",
+      "D": "Brundisium"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "What is the name of the bridge upon which Horatius Cocles made his famous stand?",
+    "question_options": {
+      "A": "Milvian",
+      "B": "Cestius",
+      "C": "Fabricius",
+      "D": "Sublician"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "What law of 445 finally allowed patricians and plebeians to intermarry?",
+    "question_options": {
+      "A": "Lex Canuleia",
+      "B": "Lex Hortensia",
+      "C": "Lex Icilia",
+      "D": "Lex Iulia"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "Who was the first Plebeian to serve as Censor in 351?",
+    "question_options": {
+      "A": "Philo",
+      "B": "Rutilus",
+      "C": "Sextius",
+      "D": "Stolo"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "Who was the Gallic chieftain who first defeated, but was ultimately defeated by Caesar at the Battle of Alesia?",
+    "question_options": {
+      "A": "Arminius",
+      "B": "Brennus",
+      "C": "Geta",
+      "D": "Vercingentorix"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Who was the father of #49 who had tried to unite Celts under one banner and was executed by his own tribesmen for trying to fight Caesar?",
+    "question_options": {
+      "A": "Celtillus",
+      "B": "Luernios",
+      "C": "Bituitus",
+      "D": "Congonnetiacus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  }
+]

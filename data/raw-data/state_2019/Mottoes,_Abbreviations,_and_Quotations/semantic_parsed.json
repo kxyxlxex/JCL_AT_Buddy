@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "One could say that the god Mercury was destined to be god of thieves as his life of banditry started _____.",
+    "question_options": {
+      "A": "ab intra",
+      "B": "ab hinc",
+      "C": "ab extra",
+      "D": "ab initio"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "In common law practices, a policy of _____ allows a king to gather people as a militia, not as a mob.",
+    "question_options": {
+      "A": "posse comitatus",
+      "B": "praeter legem",
+      "C": "pro patria",
+      "D": "pollice verso"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "In matrimonium ducere means _____.",
+    "question_options": {
+      "A": "to plan a wedding",
+      "B": "to attend a wedding",
+      "C": "to divorce",
+      "D": "to marry"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "Horribile dictu means _____.",
+    "question_options": {
+      "A": "something gone viral on social media",
+      "B": "something we should not speak of",
+      "C": "something marvelous to see",
+      "D": "graffiti"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "Many people agree that Hamlet is William Shakespeare’s _____.",
+    "question_options": {
+      "A": "felix culpa",
+      "B": "ratio legis",
+      "C": "festina lente",
+      "D": "magnum opus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "When Europeans “discovered” America, the land was considered _____.",
+    "question_options": {
+      "A": "res publica",
+      "B": "res gestae",
+      "C": "res nullius",
+      "D": "res judicata"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "Some people want to live in great luxury, while others want to live _____.",
+    "question_options": {
+      "A": "nisi prius",
+      "B": "nihil obstat",
+      "C": "cum otio",
+      "D": "ne quid nimis"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "After the defendant fled the country, his trial was carried out _____.",
+    "question_options": {
+      "A": "in limine",
+      "B": "in loco parentis",
+      "C": "in rem",
+      "D": "in absentia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "Ne plus ultra means _____.",
+    "question_options": {
+      "A": "a lot of nothing",
+      "B": "faulty",
+      "C": "lest we have more",
+      "D": "perfection"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "Cui bono means _____.",
+    "question_options": {
+      "A": "Why do you laugh?",
+      "B": "It is good for everyone.",
+      "C": "Who benefits?",
+      "D": "What do you give?"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "The Romans feared change, which is why their code of conduct was governed by _____.",
+    "question_options": {
+      "A": "mundus senescit",
+      "B": "mors omnibus",
+      "C": "motu proprio",
+      "D": "mos maiorum"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "A person’s salary is considered money earned _____.",
+    "question_options": {
+      "A": "per diem",
+      "B": "ex tempore",
+      "C": "per annum",
+      "D": "post mortem"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "After landing from her skydiving adventure, Julia was very happy to be on _____.",
+    "question_options": {
+      "A": "tabula rasa",
+      "B": "terra irradiant",
+      "C": "terra firma",
+      "D": "terra nova"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "Semper Paratus is the motto of the US Boy Scouts and _____.",
+    "question_options": {
+      "A": "US Coast Guard",
+      "B": "National Guard",
+      "C": "US Marines",
+      "D": "US Navy"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "A Mari usque ad Mare",
+    "question_options": {
+      "A": "Nova Scotia",
+      "B": "Newfoundland",
+      "C": "Denmark",
+      "D": "Canada"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "Tria juncta in uno",
+    "question_options": {
+      "A": "The Freemasons",
+      "B": "Order of Bath",
+      "C": "Order of the Garter",
+      "D": "Order of the Arrow"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Draco dormiens nunquam titillandus",
+    "question_options": {
+      "A": "Durmstrung Institute",
+      "B": "Miss Perrigrine’s Home for Peculiar Children",
+      "C": "Hogwarts School of Witchcraft",
+      "D": "Xavier’s School for Gifted Children"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "Ubertas et Fidelitas",
+    "question_options": {
+      "A": "Tasmania",
+      "B": "Indonesia",
+      "C": "Tonga",
+      "D": "New Zealand"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "Lux, Veritas, Virtus",
+    "question_options": {
+      "A": "Amherst University",
+      "B": "Northeastern University",
+      "C": "Northwestern University",
+      "D": "Columbia University"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "Ecce Quam Bonum",
+    "question_options": {
+      "A": "University of Missouri",
+      "B": "Sewanee University",
+      "C": "University of Tennessee",
+      "D": "Duke University"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "Vires, Artes, Mores",
+    "question_options": {
+      "A": "University of Florida",
+      "B": "Florida State University",
+      "C": "University of Miami",
+      "D": "Stetson University"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "In Varietate Concordia",
+    "question_options": {
+      "A": "League of Nations",
+      "B": "European Union",
+      "C": "North Atlantic Treaty Organization",
+      "D": "United Nations"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "Deo Juvante",
+    "question_options": {
+      "A": "Monaco",
+      "B": "Belgium",
+      "C": "Spain",
+      "D": "France"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "Citius, Altius, Fortius",
+    "question_options": {
+      "A": "The Olympics",
+      "B": "World Cup",
+      "C": "Wall Street",
+      "D": "Nike Shoes"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "Veritas Vos Liberabit",
+    "question_options": {
+      "A": "Trinity College",
+      "B": "Harvard University",
+      "C": "Johns Hopkins University",
+      "D": "Dartmouth College"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "Aspirat primo fortuna labori",
+    "question_options": {
+      "A": "Ovid",
+      "B": "Vergil",
+      "C": "Livy",
+      "D": "Martial"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "Fallaces sunt rerum species",
+    "question_options": {
+      "A": "Marcus Aurelius",
+      "B": "Sallust",
+      "C": "Seneca the Younger",
+      "D": "Caesar"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "Corruptissima re publica plurimae leges",
+    "question_options": {
+      "A": "Tacitus",
+      "B": "Quintillian",
+      "C": "Juvenal",
+      "D": "Petronius"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "Difficile est tenere quae acceperis nisi exerceas",
+    "question_options": {
+      "A": "Cato the Elder",
+      "B": "Nero",
+      "C": "Pliny the Younger",
+      "D": "Brutus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "Carthago delenda est",
+    "question_options": {
+      "A": "Caesar",
+      "B": "Cato the Younger",
+      "C": "Cato the Elder",
+      "D": "Cicero"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "Quis custodiet ipsos custodes?",
+    "question_options": {
+      "A": "Martial",
+      "B": "Juvenal",
+      "C": "Quintillian",
+      "D": "Petronius"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "Graecia capta ferum victorem cepit",
+    "question_options": {
+      "A": "Tibullus",
+      "B": "Tacitus",
+      "C": "Horace",
+      "D": "Varro"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "Ars longa, vita brevis",
+    "question_options": {
+      "A": "Horace",
+      "B": "Flaccus",
+      "C": "Catullus",
+      "D": "Propertius"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "Quo usque tandem abutere, Catilina, patientia nostra?",
+    "question_options": {
+      "A": "Caesar",
+      "B": "Cato the Younger",
+      "C": "Cicero",
+      "D": "Sallust"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "Universi pacem precibus exposcunt",
+    "question_options": {
+      "A": "Ennius",
+      "B": "Syrus",
+      "C": "Naevius",
+      "D": "Livy"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "In vino veritas",
+    "question_options": {
+      "A": "Pliny the Elder",
+      "B": "Augustine",
+      "C": "Ennius",
+      "D": "Ovid"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "Verba volant, scripta manent",
+    "question_options": {
+      "A": "Marcus Aurelius",
+      "B": "Titus",
+      "C": "Caesar",
+      "D": "Augustus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "Quot homines, tot sententiae",
+    "question_options": {
+      "A": "Plautus",
+      "B": "Seneca the Younger",
+      "C": "Terence",
+      "D": "Lucretius"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Instead of a trial by jury, some cases are tried “tr. mil.” Meaning this.",
+    "question_options": {
+      "A": "socially condemned",
+      "B": "arbitration",
+      "C": "tried and convicted",
+      "D": "military tribunal"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "Which of the following does NOT have the same general context?",
+    "question_options": {
+      "A": "id.",
+      "B": "q.v.",
+      "C": "op. cit.",
+      "D": "ibid."
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "Which of the following is NOT a medical abbreviation?",
+    "question_options": {
+      "A": "viz.",
+      "B": "a.c.",
+      "C": "non rep.",
+      "D": "o.d."
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "The abbreviation p.r.n. has a similar meaning to what other abbreviation?",
+    "question_options": {
+      "A": "sig.",
+      "B": "h.s.",
+      "C": "o.s.",
+      "D": "q.s."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "If the President of the United States attended a function with the First Lady, they it can be written that he attended _____.",
+    "question_options": {
+      "A": "et seq.",
+      "B": "c.",
+      "C": "in litt.",
+      "D": "et ux."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "When your due date for your project is today and you forgot to turn it in, you probably rush to finish it _____.",
+    "question_options": {
+      "A": "ult.",
+      "B": "inst.",
+      "C": "v.c.",
+      "D": "stat."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "Someone holding a Th.",
+    "question_options": {
+      "D": "Business",
+      "A": "Theology",
+      "B": "Law",
+      "C": "Medicine"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "If it is unknown when a person lived or died, but the times in which they were best known/active are, then the abbreviation used would be _____.",
+    "question_options": {
+      "A": "r.",
+      "B": "r.i.p.",
+      "C": "fl.",
+      "D": "c.v."
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "Which of the following is NOT an abbreviation from circa?",
+    "question_options": {
+      "A": "cca.",
+      "B": "cf.",
+      "C": "c.",
+      "D": "ca."
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "The traditional equivalent of CE, meaning “the common era,” is _____.",
+    "question_options": {
+      "A": "BCE",
+      "B": "AUC",
+      "C": "AD",
+      "D": "BC"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "i.a. basically means _____.",
+    "question_options": {
+      "A": "nothing",
+      "B": "all the same",
+      "C": "among other things",
+      "D": "artificial intelligence"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "o.s.p. essentially means a person _____.",
+    "question_options": {
+      "A": "is in a religious order",
+      "B": "is unmarried",
+      "C": "has lost his right eye",
+      "D": "dies without children"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  }
+]

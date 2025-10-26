@@ -1,0 +1,542 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "The lachrymose child could not be comforted.",
+    "question_options": {
+      "A": "screaming",
+      "B": "crying",
+      "C": "sleepless",
+      "D": "blind"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "Social media allows one to quickly disseminate information to a multitude.",
+    "question_options": {
+      "A": "wide variety",
+      "B": "select audience",
+      "C": "large crowd",
+      "D": "powerful entity"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "The artist is described as morose and reclusive.",
+    "question_options": {
+      "A": "gloomy",
+      "B": "passionate",
+      "C": "nonconformist",
+      "D": "fake"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "The artist is described as morose and reclusive.",
+    "question_options": {
+      "A": "religious",
+      "B": "careless",
+      "C": "charismatic",
+      "D": "solitary"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "Caia moves with passerine grace.",
+    "question_options": {
+      "A": "horselike",
+      "B": "unsophisticated",
+      "C": "catlike",
+      "D": "birdlike"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "Due to the paucity of volunteers, the project was put on hold.",
+    "question_options": {
+      "A": "scarcity",
+      "B": "dishonesty",
+      "C": "unreliability",
+      "D": "crimes"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "Ardent fans of the book series were disappointed by the film adaptation.",
+    "question_options": {
+      "A": "expectant",
+      "B": "grumpy",
+      "C": "fervent",
+      "D": "many"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "Brutus bought his son a chemistry set to encourage a nascent interest.",
+    "question_options": {
+      "A": "waning",
+      "B": "prestigious",
+      "C": "scientific",
+      "D": "developing"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "For their safety, be cognizant of the time small children spend in the pool.",
+    "question_options": {
+      "A": "aware",
+      "B": "stingy",
+      "C": "protective",
+      "D": "strict"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "The senator’s speech was rendered impotent by the subsequent scandal revealing his office’s corruption.",
+    "question_options": {
+      "A": "confusing",
+      "B": "hypocritical",
+      "C": "fertile",
+      "D": "powerless"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "militant",
+    "question_options": {
+      "A": "many",
+      "B": "soldier",
+      "C": "thousand",
+      "D": "resembling"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "aboriginal",
+    "question_options": {
+      "A": "to rise",
+      "B": "to read",
+      "C": "to begin",
+      "D": "to tear"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "contagious",
+    "question_options": {
+      "A": "to stand",
+      "B": "to speak",
+      "C": "to bring",
+      "D": "to touch"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "infliction",
+    "question_options": {
+      "A": "to strike",
+      "B": "to weep",
+      "C": "to proclaim",
+      "D": "to bend"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "reflection",
+    "question_options": {
+      "A": "to weep",
+      "B": "to proclaim",
+      "C": "to bend",
+      "D": "to strike"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "immutable",
+    "question_options": {
+      "A": "to cast a spell",
+      "B": "to take",
+      "C": "to abandon",
+      "D": "to change"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "dolorous",
+    "question_options": {
+      "A": "joy",
+      "B": "anger",
+      "C": "darkness",
+      "D": "pain"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "conspicuous",
+    "question_options": {
+      "A": "to look at",
+      "B": "to lead",
+      "C": "to flee",
+      "D": "to take"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "delete",
+    "question_options": {
+      "A": "to change",
+      "B": "to destroy",
+      "C": "to move",
+      "D": "to widen"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "edifice",
+    "question_options": {
+      "A": "to crowd",
+      "B": "to eat",
+      "C": "to build",
+      "D": "to enlarge"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "dux",
+    "question_options": {
+      "A": "reduction",
+      "B": "doxology",
+      "C": "duchy",
+      "D": "redundant"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "rego",
+    "question_options": {
+      "A": "adroit",
+      "B": "dexterous",
+      "C": "respond",
+      "D": "reference"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "solveo",
+    "question_options": {
+      "A": "insolvent",
+      "B": "salad",
+      "C": "soliloquy",
+      "D": "salivate"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "pōnere",
+    "question_options": {
+      "A": "suspend",
+      "B": "penitentiary",
+      "C": "ponder",
+      "D": "provost"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "linquo",
+    "question_options": {
+      "A": "liquid",
+      "B": "list",
+      "C": "identify",
+      "D": "derelict"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "ācer",
+    "question_options": {
+      "A": "secant",
+      "B": "ace",
+      "C": "assessment",
+      "D": "acrid"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "tempus",
+    "question_options": {
+      "A": "timid",
+      "B": "temporary",
+      "C": "tempt",
+      "D": "empty"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "gerere",
+    "question_options": {
+      "A": "general",
+      "B": "creed",
+      "C": "greet",
+      "D": "gestate"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "alius",
+    "question_options": {
+      "A": "luster",
+      "B": "algae",
+      "C": "alien",
+      "D": "alas"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "malleus",
+    "question_options": {
+      "A": "malady",
+      "B": "mallet",
+      "C": "dismal",
+      "D": "manager"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "immaculate",
+    "question_options": {
+      "A": "malus",
+      "B": "magnus",
+      "C": "manus",
+      "D": "macula"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "pejorative",
+    "question_options": {
+      "A": "malus",
+      "B": "magnus",
+      "C": "parvus",
+      "D": "penna"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "desolation",
+    "question_options": {
+      "A": "sinus",
+      "B": "dēlēre",
+      "C": "solus",
+      "D": "dens"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "indoctrination",
+    "question_options": {
+      "A": "dens",
+      "B": "crēscēre",
+      "C": "docēre",
+      "D": "experior"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "vain",
+    "question_options": {
+      "A": "ēvanēsco",
+      "B": "vānus",
+      "C": "venīre",
+      "D": "via"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "revive",
+    "question_options": {
+      "A": "vinum",
+      "B": "vīvere",
+      "C": "vocāre",
+      "D": "vincere"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "inspire",
+    "question_options": {
+      "A": "spīrāre",
+      "B": "spectāre",
+      "C": "studēre",
+      "D": "pirus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "judicious",
+    "question_options": {
+      "A": "impedimentum",
+      "B": "incendium",
+      "C": "iubēre",
+      "D": "iudex"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "pacific",
+    "question_options": {
+      "A": "paucī",
+      "B": "pāx",
+      "C": "pugnāre",
+      "D": "putāre"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "celebrity",
+    "question_options": {
+      "A": "celer",
+      "B": "bursa",
+      "C": "cerebrālis",
+      "D": "celeber"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "endorse",
+    "question_options": {
+      "A": "dome",
+      "B": "duodecimal",
+      "C": "dossier",
+      "D": "domestic"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "dubious",
+    "question_options": {
+      "A": "dulcify",
+      "B": "deuce",
+      "C": "perdure",
+      "D": "indignant"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "adjourn",
+    "question_options": {
+      "A": "diary",
+      "B": "digital",
+      "C": "drums",
+      "D": "determine"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "infinitive",
+    "question_options": {
+      "A": "confine",
+      "B": "bifocal",
+      "C": "effeminate",
+      "D": "infidel"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "aggravate",
+    "question_options": {
+      "A": "gross",
+      "B": "gravity",
+      "C": "segregate",
+      "D": "gentle"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  }
+]

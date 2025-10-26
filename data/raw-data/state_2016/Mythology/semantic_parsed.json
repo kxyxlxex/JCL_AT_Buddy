@@ -1,0 +1,590 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "“Delian,” “Lycian,” “Sminthian,” and “Phoebus” are all names or epithets of",
+    "question_options": {
+      "A": "Poseidon.",
+      "B": "Hermes.",
+      "C": "Dionysus.",
+      "D": "Apollo."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "The god of riches buried in the earth was",
+    "question_options": {
+      "A": "Hephaestus.",
+      "B": "Dionysus.",
+      "C": "Saturn.",
+      "D": "Hades"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "The god who persuaded Hephaestus to return to Olympus and release Hera from the golden chair he’d made for her was",
+    "question_options": {
+      "A": "Aphrodite",
+      "B": "Hermes",
+      "C": "Dionysus",
+      "D": "Athena"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "Poseidon vied with ________for recognition as patron divinity of Argos but lost.",
+    "question_options": {
+      "A": "Athena",
+      "B": "Aphrodite",
+      "C": "Apollo",
+      "D": "Hera"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "The Greek name for the god of love was",
+    "question_options": {
+      "A": "Adonis.",
+      "B": "Hymen.",
+      "C": "Eros.",
+      "D": "Anteros."
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "Terminus was a Roman god of ________________.",
+    "question_options": {
+      "A": "boundaries",
+      "B": "death",
+      "C": "endings",
+      "D": "roads"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "During the Golden Age, Italy was ruled by _____________.",
+    "question_options": {
+      "A": "Aeneas",
+      "B": "Mars",
+      "C": "Saturn",
+      "D": "Vulcan"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "The two-faced god of beginnings was ____________.",
+    "question_options": {
+      "A": "Pales",
+      "B": "Quirinus",
+      "C": "Faunus",
+      "D": "Janus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "Sailors were lured to their death by the beautiful voices of the ______.",
+    "question_options": {
+      "A": "Sirens",
+      "B": "Muses",
+      "C": "Harpies",
+      "D": "Graces"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "In the Underworld, souls about to be reborn drink from the _______.",
+    "question_options": {
+      "A": "Styx",
+      "B": "Lethe",
+      "C": "Acheron",
+      "D": "Cocytus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "According to Ovid, the Fourth Age of Man was the Age of ______.",
+    "question_options": {
+      "A": "Silver",
+      "B": "Heroes",
+      "C": "Bronze",
+      "D": "Iron"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "In the war between Zeus and the Titans, the Olympians fought from Mt. Olympus and the Titans fought from Mt. ________.",
+    "question_options": {
+      "A": "Pelion",
+      "B": "Ossa",
+      "C": "Othrys",
+      "D": "Parnassus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "Because Lycaon had served Zeus the flesh of the Molossian hostages, Zeus turned him into a _______________.",
+    "question_options": {
+      "A": "jackel",
+      "B": "wolf",
+      "C": "vulture",
+      "D": "rat"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "In the war with the giants, the giant Ephialtes was killed by ______ with the help of Heracles.",
+    "question_options": {
+      "A": "Athena",
+      "B": "Hera",
+      "C": "Apollo",
+      "D": "Hephaestus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "The horse Arion was the divine offspring of",
+    "question_options": {
+      "A": "Pegasus",
+      "B": "Poseidon",
+      "C": "Zeus",
+      "D": "Xanthos"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "Periclymenus the Argonaut was killed by ______.",
+    "question_options": {
+      "A": "Eteocles",
+      "B": "Heracles",
+      "C": "Nestor",
+      "D": "Adrastus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Pyrrha, the wife of Deucalion, was the daughter of ______.",
+    "question_options": {
+      "A": "Epimetheus",
+      "B": "Prometheus",
+      "C": "Zeus",
+      "D": "Hermes"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "Bellerophon was sent to King Iobates with letters that accused him of",
+    "question_options": {
+      "A": "trying to rape Queen Sthenoboea.",
+      "B": "murdering his (Bellerophon’s) brother.",
+      "C": "plotting against king Proitos.",
+      "D": "stealing the winged horse, Pegasus."
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "Perseus turned all of the following into stone EXCEPT ______.",
+    "question_options": {
+      "A": "Atlas",
+      "B": "Polydectes",
+      "C": "Cassiopeia",
+      "D": "Phineus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "The mother of the Cercopes had warned her sons about him by telling them to “beware the _______________.”",
+    "question_options": {
+      "A": "lion man",
+      "B": "club man",
+      "C": "black-bottomed man",
+      "D": "scarred man"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "The centaur _____ tried to carry off Heracles’ wife, Deianira.",
+    "question_options": {
+      "A": "Pholus",
+      "B": "Nessus",
+      "C": "Chiron",
+      "D": "Eurytion"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "Theseus was eventually killed by _______.",
+    "question_options": {
+      "A": "Lycomedes",
+      "B": "Syleus",
+      "C": "Castor",
+      "D": "Eteocles"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "Aegeus tried to get rid of Theseus by sending him to kill _______.",
+    "question_options": {
+      "A": "the Calydonian boar",
+      "B": "the Marathonian bull",
+      "C": "the Sow of Crommyron",
+      "D": "the Minotaur"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "Meleager was killed because",
+    "question_options": {
+      "A": "he gave Atalanta the boar’s hide.",
+      "B": "he tried to protect Atalanta from the boar.",
+      "C": "he did not sacrifice the boar to Artemis.",
+      "D": "he killed his uncles when they attacked him."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "Castor the brother of Polydeuces was killed by ______.",
+    "question_options": {
+      "A": "Idas",
+      "B": "Lynceus",
+      "C": "Zeus",
+      "D": "Jason"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "Adonis was born from a myrrh tree into which his mother _____ had been changed when fleeing from her father.",
+    "question_options": {
+      "A": "Scylla",
+      "B": "Iole",
+      "C": "Smyrna",
+      "D": "Clytie"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "After avenging the murder of her son Polydorus, Hecuba was changed into a ____.",
+    "question_options": {
+      "A": "tree",
+      "B": "dog",
+      "C": "fountain",
+      "D": "rock"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "The constellation Ursa Major was originally ______.",
+    "question_options": {
+      "A": "Antiope",
+      "B": "Atalanta",
+      "C": "Penthesilea",
+      "D": "Callisto"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "After finding the body of her husband Ceyx, Alcyone was changed into ______.",
+    "question_options": {
+      "A": "a kingfisher",
+      "B": "a sea gull",
+      "C": "a nightingale",
+      "D": "a peacock"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "Dido’s sister Anna drowned while fleeing the jealous anger of ______.",
+    "question_options": {
+      "A": "Iarbas",
+      "B": "Pygmalion",
+      "C": "Lavinia",
+      "D": "Dido"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "The Greek who led the defense of the Greek ships against Hector’s onslaught after Achilles withdrew from the Trojan War was ______.",
+    "question_options": {
+      "A": "Patroclus",
+      "B": "Diomedes",
+      "C": "Ajax the Greater",
+      "D": "Agamemnon"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "Achilles withdrew from the flighting at Troy after his concubine, _____, was taken from him.",
+    "question_options": {
+      "A": "Tecmessa",
+      "B": "Briseis",
+      "C": "Chryseis",
+      "D": "Anticleia"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "Achilles was saved by the god _______ when he was attacked by the Scamander River which favored the Trojans.",
+    "question_options": {
+      "A": "Poseidon",
+      "B": "Apollo",
+      "C": "Zeus",
+      "D": "Hephaestus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "Aeneas was told to “seek your ancient mother” by ________.",
+    "question_options": {
+      "A": "the oracle of Apollo on Delos.",
+      "B": "the Penates",
+      "C": "the oracle of Apollo on Claros",
+      "D": "Helenus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "Aeneas rescued _________ from the Cyclops.",
+    "question_options": {
+      "A": "Eurylochus",
+      "B": "Achaemenides",
+      "C": "Butes",
+      "D": "Acastus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "The lying Greek who persuaded the Trojans to take the horse into the city was",
+    "question_options": {
+      "A": "Dolon",
+      "B": "Palamedes",
+      "C": "Sinon",
+      "D": "Therseites"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "The wandering islands which crushed unwary sailors and which the Argo escaped with the help of the nereids were the _______.",
+    "question_options": {
+      "A": "Cyclades",
+      "B": "Symplegades",
+      "C": "Strophades",
+      "D": "Planctae"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "The queen of the Lemnian women with whom Jason stayed for a year was ___.",
+    "question_options": {
+      "A": "Hypsiple",
+      "B": "Omphale",
+      "C": "Arete",
+      "D": "Antiope"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Hylas was lost by the Argonauts on the island of _____.",
+    "question_options": {
+      "A": "Cios",
+      "B": "Lemnos",
+      "C": "Phaeacia",
+      "D": "Aeaea"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "The member of Odysseus’ crew who died when he accidentally fell from Circe’s roof was ____________.",
+    "question_options": {
+      "A": "Eumaeus",
+      "B": "Elpenor",
+      "C": "Eurylochos",
+      "D": "Eurymachos"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "The companion of Odysseus who urged his men to slaughter the cattle of Helios was ______.",
+    "question_options": {
+      "A": "Antinoos",
+      "B": "Mentor",
+      "C": "Eurylochos",
+      "D": "Eurmachos"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "The king of the Laestrygonians who attacked Odysseus was _____.",
+    "question_options": {
+      "A": "Antiphates",
+      "B": "Melanthios",
+      "C": "Acestes",
+      "D": "Leodes"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "In his quest to marry Hippodamia, Pelops was aided by _____, who gave him a golden chariot with winged horses.",
+    "question_options": {
+      "A": "Hermes",
+      "B": "Poseidon",
+      "C": "Zeus",
+      "D": "Apollo"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "The wife of Atreus who stole a golden ram from him and gave it to his brother Thyestes was ______.",
+    "question_options": {
+      "A": "Pelopeia",
+      "B": "Sterope",
+      "C": "Aerope",
+      "D": "Nicippe"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "The famous walls of Thebes with their seven gates were built by _____.",
+    "question_options": {
+      "A": "Cadmus",
+      "B": "Amphion and Zethus",
+      "C": "Apollo and Poseidon",
+      "D": "Cyclopes"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "The Theban queen who was dragged to death by a bull for her mistreatment of Antiope was _____.",
+    "question_options": {
+      "A": "Dirce",
+      "B": "Ino",
+      "C": "Eurydice",
+      "D": "Harmonia"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "The Athenian king who was part serpent was _________________.",
+    "question_options": {
+      "A": "Erechtheus",
+      "B": "Erysichthon",
+      "C": "Pandion",
+      "D": "Cecrops"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "Orestes was aided in his theft of the statue of Artemis from the Taurians by _____.",
+    "question_options": {
+      "A": "Pylades",
+      "B": "Neoptolemus",
+      "C": "Electra",
+      "D": "Hermione"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Oedipus was eventually buried at ______________.",
+    "question_options": {
+      "A": "Thebes",
+      "B": "Mycenae",
+      "C": "Tiryns",
+      "D": "Colonos."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  }
+]

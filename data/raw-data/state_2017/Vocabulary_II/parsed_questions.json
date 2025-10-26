@@ -1,0 +1,542 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "aliquid",
+    "question_options": {
+      "A": "another",
+      "B": "anyone",
+      "C": "whoever",
+      "D": "something"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "finitimus",
+    "question_options": {
+      "A": "careful",
+      "B": "neighorning",
+      "C": "equal",
+      "D": "patient"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "proficiscor",
+    "question_options": {
+      "A": "set out",
+      "B": "breathe",
+      "C": "follow",
+      "D": "be born"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "peior",
+    "question_options": {
+      "A": "taller",
+      "B": "allow",
+      "C": "worse",
+      "D": "since"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "sicut",
+    "question_options": {
+      "A": "if",
+      "B": "although",
+      "C": "often",
+      "D": "like, as"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "impetus",
+    "question_options": {
+      "A": "attack",
+      "B": "foot",
+      "C": "calvary",
+      "D": "infantry"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "bracchium",
+    "question_options": {
+      "A": "wisdom",
+      "B": "arm",
+      "C": "speech",
+      "D": "tree"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "omnino",
+    "question_options": {
+      "A": "completely",
+      "B": "suddenly",
+      "C": "daily",
+      "D": "exceptionally"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "cado",
+    "question_options": {
+      "A": "sleep",
+      "B": "wish",
+      "C": "fall",
+      "D": "run"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "arbitror",
+    "question_options": {
+      "A": "delay",
+      "B": "attack",
+      "C": "think",
+      "D": "promise"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "opus",
+    "question_options": {
+      "A": "work",
+      "B": "jewel",
+      "C": "farm",
+      "D": "home"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "ambo",
+    "question_options": {
+      "A": "drive",
+      "B": "both",
+      "C": "divided",
+      "D": "determined"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "sextus",
+    "question_options": {
+      "A": "sixty",
+      "B": "six",
+      "C": "sixteenth",
+      "D": "sixth"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "afterwards",
+    "question_options": {
+      "A": "cras",
+      "B": "postea",
+      "C": "nondum",
+      "D": "pridie"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "hope",
+    "question_options": {
+      "A": "mora",
+      "B": "ara",
+      "C": "mare",
+      "D": "spes"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "loosen",
+    "question_options": {
+      "A": "solvo",
+      "B": "spero",
+      "C": "vereor",
+      "D": "patior"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "left",
+    "question_options": {
+      "A": "potens",
+      "B": "sinister",
+      "C": "similis",
+      "D": "inimicus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "to the same place",
+    "question_options": {
+      "A": "idem",
+      "B": "aedes",
+      "C": "plures",
+      "D": "eodem"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "indeed",
+    "question_options": {
+      "A": "qui",
+      "B": "idem",
+      "C": "quidem",
+      "D": "quod"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "ninety",
+    "question_options": {
+      "A": "nonnulli",
+      "B": "novem",
+      "C": "nonaginta",
+      "D": "triginti"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "again",
+    "question_options": {
+      "A": "dum",
+      "B": "rursus",
+      "C": "subito",
+      "D": "atque"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "go back",
+    "question_options": {
+      "A": "reddo",
+      "B": "rego",
+      "C": "regno",
+      "D": "redeo"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "happen",
+    "question_options": {
+      "A": "accedo",
+      "B": "accido",
+      "C": "caedo",
+      "D": "cado"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "better",
+    "question_options": {
+      "A": "maior",
+      "B": "optimus",
+      "C": "melior",
+      "D": "minus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "prefer",
+    "question_options": {
+      "A": "malo",
+      "B": "volo",
+      "C": "nolo",
+      "D": "nescio"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "ob",
+    "question_options": {
+      "A": "sub",
+      "B": "propter",
+      "C": "prope",
+      "D": "extra"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "par",
+    "question_options": {
+      "A": "aequus",
+      "B": "omnis",
+      "C": "potens",
+      "D": "bonus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "frater",
+    "question_options": {
+      "A": "avunculus",
+      "B": "avus",
+      "C": "germanus",
+      "D": "gradus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "iuvenis",
+    "question_options": {
+      "A": "amicus",
+      "B": "anulus",
+      "C": "auriga",
+      "D": "adulescens"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "cogo",
+    "question_options": {
+      "A": "committo",
+      "B": "colloco",
+      "C": "confero",
+      "D": "comparo"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "fatum",
+    "question_options": {
+      "A": "nox",
+      "B": "casus",
+      "C": "inimicus",
+      "D": "mare"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "genus",
+    "question_options": {
+      "A": "species",
+      "B": "humilis",
+      "C": "vulnus",
+      "D": "acies"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "sentio",
+    "question_options": {
+      "A": "nascor",
+      "B": "sequor",
+      "C": "amitto",
+      "D": "cerno"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "tardus",
+    "question_options": {
+      "A": "minimus",
+      "B": "optimus",
+      "C": "celer",
+      "D": "similis"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "hiems",
+    "question_options": {
+      "A": "aetas",
+      "B": "aestas",
+      "C": "acer",
+      "D": "felix"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "initium",
+    "question_options": {
+      "A": "aedes",
+      "B": "somnus",
+      "C": "finis",
+      "D": "bellum"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "morior",
+    "question_options": {
+      "A": "amor",
+      "B": "nascor",
+      "C": "utor",
+      "D": "sequor"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "ut",
+    "question_options": {
+      "A": "ne",
+      "B": "si",
+      "C": "cum",
+      "D": "sub"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "appropinquo",
+    "question_options": {
+      "A": "suscipio",
+      "B": "hortor",
+      "C": "polliceor",
+      "D": "excedo"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "venio",
+    "question_options": {
+      "A": "nescio",
+      "B": "ludo",
+      "C": "volo",
+      "D": "eo"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "soror : frater :: ____ : nox",
+    "question_options": {
+      "A": "omnis",
+      "B": "dies",
+      "C": "mater",
+      "D": "vesper"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "oculus : facies :: cubiculum : _____",
+    "question_options": {
+      "A": "curia",
+      "B": "castra",
+      "C": "templum",
+      "D": "domus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "panis : edo :: dux : ______",
+    "question_options": {
+      "A": "conor",
+      "B": "fero",
+      "C": "sequor",
+      "D": "impedio"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "mons : ascendo :: litterae : ________",
+    "question_options": {
+      "A": "scribo",
+      "B": "sequor",
+      "C": "nolo",
+      "D": "invenio"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "desino : vado :: semper : ______",
+    "question_options": {
+      "A": "quamquam",
+      "B": "priusquam",
+      "C": "inquam",
+      "D": "numquam"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  }
+]

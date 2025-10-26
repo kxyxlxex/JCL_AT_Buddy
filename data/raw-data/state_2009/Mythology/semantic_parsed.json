@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "Mercury married this mute nymph, who was a sister of Juturna.",
+    "question_options": {
+      "A": "Echo",
+      "B": "Lara",
+      "C": "Thetis",
+      "D": "Averna"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "Although his mother’s name is disputed, what was the name of Jason’s father?",
+    "question_options": {
+      "A": "Atreus",
+      "B": "Laertes",
+      "C": "Peleus",
+      "D": "Aeson"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "Which was not a Roman name for Hades?",
+    "question_options": {
+      "A": "Dis",
+      "B": "Orcus",
+      "C": "Pales",
+      "D": "Pluto"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "What couple was responsible for repopulating the earth with stones?",
+    "question_options": {
+      "A": "Deucalion and Pyrrha",
+      "B": "Baucis and Philemon",
+      "C": "Pyramus and Thisbe",
+      "D": "Aurora and Tithonus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "Athena’s mother was the Titaness named _________?",
+    "question_options": {
+      "A": "Themis",
+      "B": "Metis",
+      "C": "Phoebe",
+      "D": "Rhea"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "Which deity was the father of the ram with the golden fleece?",
+    "question_options": {
+      "A": "Zeus",
+      "B": "Ares",
+      "C": "Poseidon",
+      "D": "Apollo"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "The dead who were deemed neither good nor bad were sent to ____________ in the underworld.",
+    "question_options": {
+      "A": "the Elysian Fields",
+      "B": "the fields of Asphodel",
+      "C": "Tartarus",
+      "D": "the Isles of the blessed"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "Zeus unfettered this island, to allow the mother of Artemis and Apollo to escape Hera’s wrath.",
+    "question_options": {
+      "A": "Delos",
+      "B": "Mykonos",
+      "C": "Samos",
+      "D": "Lemnos"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "This child of Tantalus, bewitched by Artemis, threw himself/herself into flames.",
+    "question_options": {
+      "A": "Pelops",
+      "B": "Broteas",
+      "C": "Niobe",
+      "D": "Coddinus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "In what form did Zeus visit Danae?",
+    "question_options": {
+      "A": "a bull",
+      "B": "an eagle",
+      "C": "a swan",
+      "D": "a beam of light"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "Who taught Heracles to wrestle?",
+    "question_options": {
+      "A": "Autolycus",
+      "B": "Cheiron",
+      "C": "Castor",
+      "D": "Pollux"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "Whom did Aphrodite cause to perpetually be in love because of the affair she had had with Ares?",
+    "question_options": {
+      "A": "Hebe",
+      "B": "Eos",
+      "C": "Iris",
+      "D": "Selene"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "Which deity had the epithets Dithyrambos, Eleutherios, and Enorches?",
+    "question_options": {
+      "A": "Athena",
+      "B": "Dionysus",
+      "C": "Hermes",
+      "D": "Hephaestus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "What beautiful woman is known to have the face that launched a thousand ships?",
+    "question_options": {
+      "A": "Iphigenia",
+      "B": "Briseis",
+      "C": "Helen",
+      "D": "Lavinia"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "Which of these is most associated with Melampus?",
+    "question_options": {
+      "A": "his severe punishment in the underworld",
+      "B": "his ability to speak to animals",
+      "C": "his affair with Hera",
+      "D": "his musical ability"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "Which of these mythological islands was home to the Sirens?",
+    "question_options": {
+      "A": "Anthemoessa",
+      "B": "Samothrace",
+      "C": "Ogygia",
+      "D": "Petelia"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Who trained the hero Achilles after Cherion?",
+    "question_options": {
+      "A": "Phoenix, king of the Dolopians",
+      "B": "Agamemnon, king of Mycenae",
+      "C": "Menelaus, king of Sparta",
+      "D": "Hippolyta, queen of the Amazons"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "Which individual was NOT transformed into a flower?",
+    "question_options": {
+      "A": "Hyacinthus",
+      "B": "Krokus",
+      "C": "Smilax",
+      "D": "Cleodaeus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "Inachus, a minor river god, was the father of which unfortunate maiden?",
+    "question_options": {
+      "A": "Helle",
+      "B": "Danae",
+      "C": "Io",
+      "D": "Daphne"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "What caused Semele’s death?",
+    "question_options": {
+      "A": "being shot by Artemis",
+      "B": "burning after seeing Zeus",
+      "C": "being gored by a wild boar",
+      "D": "being hit by a javelin"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "Which minor god of wealth was the child of Iasion and Demeter?",
+    "question_options": {
+      "A": "Celeus",
+      "B": "Plutus",
+      "C": "Demophon",
+      "D": "Triptolemus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "What son of Oeneus, Meleager’s half-brother, was sent with the Argonauts to look after Meleager? He shares his name with a more well-known, ill-fated man.",
+    "question_options": {
+      "A": "Aegeus",
+      "B": "Acrisius",
+      "C": "Linus",
+      "D": "Laocoon"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "At what body of water did the fleeing Syrinx beg the local nymphs to transform her, as she was unable to cross it in her flight from Pan?",
+    "question_options": {
+      "A": "Ladon",
+      "B": "Alpheus",
+      "C": "Peneus",
+      "D": "Hebrus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "Which of these is one of the names for the evil brigand, defeated by Theseus, who ripped individuals apart with pine trees?",
+    "question_options": {
+      "A": "Periphetes",
+      "B": "Cercyon",
+      "C": "Sinis",
+      "D": "Procrustes"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "What group of people mounted an attack on Hercules and Geryon’s cattle? Hercules used all his arrows defending himself against them.",
+    "question_options": {
+      "A": "the Thebans",
+      "B": "the Ligurians",
+      "C": "the Bebryces",
+      "D": "the Erycians"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "Carna, a nymph, who later became goddess of the hinge, was wooed by what Roman god?",
+    "question_options": {
+      "A": "Mercury",
+      "B": "Janus",
+      "C": "Jupiter",
+      "D": "Apollo"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "What disturbing thing did Demeter inadvertently eat?",
+    "question_options": {
+      "A": "shoulder of Pelops",
+      "B": "tongue of Procne",
+      "C": "eye of the Graeae",
+      "D": "blood of Medusa"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "Which king of Sicily hosted Aeneas and his men during Anchises’ funeral games?",
+    "question_options": {
+      "A": "Achates",
+      "B": "Polydorus",
+      "C": "Coroebus",
+      "D": "Acestes"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "Which two individuals recognized Odysseus on his return to Ithaca?",
+    "question_options": {
+      "A": "Penelope and Telemachus",
+      "B": "Circe and Teiresias",
+      "C": "Argus and Eurycleia",
+      "D": "Penelope and Argus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "Which son of Zeus and early king of Troy was welcomed to the area by Teucer and given the hand of his daughter Bateia?",
+    "question_options": {
+      "A": "Tros",
+      "B": "Dardanus",
+      "C": "Zethus",
+      "D": "Ilus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "The Graeae, the Gorgons, Echidna, and Ladon are all the children of whom?",
+    "question_options": {
+      "A": "Phorcys and Ceto",
+      "B": "Phorcys and Sterope",
+      "C": "Phorcys and Nyx",
+      "D": "Phorcys and Terpsichore"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "Which of the following was not one of the Erinyes?",
+    "question_options": {
+      "A": "Alecto",
+      "B": "Tisiphone",
+      "C": "Megaera",
+      "D": "Enyo"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "What queen of Libya bore Zeus’s children only to have them stolen away by a jealous Hera?",
+    "question_options": {
+      "A": "Nerio",
+      "B": "Iole",
+      "C": "Laodice",
+      "D": "Lamia"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "Which of the Giants was killed by Heracles’ arrows as he attempted to rape Hera?",
+    "question_options": {
+      "A": "Alcyoneus",
+      "B": "Enceladus",
+      "C": "Porphyrion",
+      "D": "Polybotes"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "What prize did the Sirens give to the Muses after being defeated in a musical contest?",
+    "question_options": {
+      "A": "their voices",
+      "B": "their feathers",
+      "C": "their talons",
+      "D": "sailors’ bones"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "What names were given to the three Hesperides?",
+    "question_options": {
+      "A": "Hespere, Aegle, and Erytheis",
+      "B": "Aglaia, Euphrosyne, and Thalia",
+      "C": "Pasithea, Cale, and Auxo",
+      "D": "Enyo, Pemphredo, and Deino."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "Which individual did not tend for Zeus as an infant?",
+    "question_options": {
+      "A": "Idaea",
+      "B": "Adrastia",
+      "C": "Alcippe",
+      "D": "Amalthea"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "What is the general name for the giant sons of Iphimedia and Poseidon, Otus and Ephialtes?",
+    "question_options": {
+      "A": "the Laestrygonians",
+      "B": "the Deipyles",
+      "C": "the Aloedae",
+      "D": "the Dioscuri"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Which Greek god carried a bident?",
+    "question_options": {
+      "A": "Dionysus",
+      "B": "Ares",
+      "C": "Hades",
+      "D": "Poseidon"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "Dictys succeeded Polydectes as king of which kingdom?",
+    "question_options": {
+      "A": "Paros",
+      "B": "Seriphos",
+      "C": "Thera",
+      "D": "Samothrace"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "Which of the following were not sons of Apollo?",
+    "question_options": {
+      "A": "Echion and Autolycus",
+      "B": "Amphissus and Miletus",
+      "C": "Troilus and Asclepius",
+      "D": "Idmon and Aristaeus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "Mars asked which woodland goddess for help in his wooing of Minerva?",
+    "question_options": {
+      "A": "Diana",
+      "B": "Rhea Silvia",
+      "C": "Anna Perenna",
+      "D": "Lara"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "What uncatchable beast was turned to stone along with Laelaps, the inescapable hound?",
+    "question_options": {
+      "A": "Crommyonian Sow",
+      "B": "Teumessian vixen",
+      "C": "Calydonian boar",
+      "D": "Cretan bull"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "What is the name of the magical flower used by Odysseus to ward off Circe’s magic?",
+    "question_options": {
+      "A": "nectar",
+      "B": "syrinx",
+      "C": "obol",
+      "D": "moly"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "What Cretan stole the golden mastiff that guarded the infant Zeus?",
+    "question_options": {
+      "A": "Iasius",
+      "B": "Pandareus",
+      "C": "Pandion",
+      "D": "Panopeus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "After Icarius was murdered by Athenian farmers unused to strong drink, how did his daughter Erigone find the body of her murdered father?",
+    "question_options": {
+      "A": "being led to the spot by Dionysus",
+      "B": "the wine missing from his farm",
+      "C": "the howling of his dog Maera",
+      "D": "the reports of the Attic farmers"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "Which daughter of Anius could turn anything she touched into wine?",
+    "question_options": {
+      "A": "Deianira",
+      "B": "Oino",
+      "C": "Elais",
+      "D": "Spermo"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "Selene and Eos were the daughters of the Titans named?",
+    "question_options": {
+      "A": "Theia and Hyperion",
+      "B": "Metis and Polybotes",
+      "C": "Cronus and Rhea",
+      "D": "Gaia and Tartarus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "Of what island was Odysseus king?",
+    "question_options": {
+      "A": "Pylos",
+      "B": "Ogygia",
+      "C": "Thrinacia",
+      "D": "Ithaca"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Which miracle did not happen while Dionysus was captured by Tyrrhenian pirates?",
+    "question_options": {
+      "A": "the ship halted in frozen water",
+      "B": "vines spread across the sails",
+      "C": "the sailors instantly became drunk",
+      "D": "wreaths crowned the thole pins of the ship"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  }
+]

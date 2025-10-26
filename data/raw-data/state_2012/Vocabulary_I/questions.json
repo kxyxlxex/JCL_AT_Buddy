@@ -4,591 +4,655 @@
       "question_number": 1,
       "question": "fides",
       "options": {
-        "A": "breath",
-        "B": "hope",
-        "C": "faith",
-        "D": "sight"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 2,
       "question": "homo",
       "options": {
-        "A": "same",
-        "B": "woman",
-        "C": "boy",
-        "D": "human"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 3,
       "question": "miles",
       "options": {
-        "A": "man",
-        "B": "soldier",
-        "C": "hand",
-        "D": "opponent"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 4,
       "question": "adsum",
       "options": {
-        "A": "be able",
-        "B": "be from",
-        "C": "be in charge",
-        "D": "be present"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 5,
       "question": "taceo",
       "options": {
-        "A": "I advise",
-        "B": "I remain",
-        "C": "I am quiet",
-        "D": "I wait"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 6,
       "question": "fessus",
       "options": {
-        "A": "ignorant",
-        "B": "tired",
-        "C": "energy",
-        "D": "lazy"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 7,
       "question": "nescio",
       "options": {
-        "A": "I know",
-        "B": "I see",
-        "C": "I think",
-        "D": "I know not"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 8,
       "question": "ante",
       "options": {
-        "A": "before",
-        "B": "without",
-        "C": "opposite",
-        "D": "between"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 9,
       "question": "intro",
       "options": {
-        "A": "I am beginning",
-        "B": "I end",
-        "C": "I enter",
-        "D": "I exit"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 10,
+      "question_number": 0,
       "question": "morbus",
       "options": {
-        "A": "death",
-        "B": "sickness",
-        "C": "custom",
-        "D": "bite"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 11,
+      "question_number": 1,
       "question": "nimbus",
       "options": {
-        "A": "broomstick",
-        "B": "nimble",
-        "C": "eclipse",
-        "D": "cloud"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 12,
+      "question_number": 2,
       "question": "audeo",
       "options": {
-        "A": "I dare",
-        "B": "I help",
-        "C": "I build",
-        "D": "I increase"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 13,
-      "question": "perambulo II. Choose the best Latin meaning for the following English words and phrases.",
+      "question_number": 3,
+      "question": "perambulo",
       "options": {
-        "A": "I walk through",
-        "B": "I drag",
-        "C": "I gird",
-        "D": "I beg"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 14,
+      "question_number": 4,
       "question": "freedman (ex-­‐slave)",
       "options": {
-        "A": "liber",
-        "B": "liberi",
-        "C": "socius",
-        "D": "libertus"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 15,
+      "question_number": 5,
       "question": "body",
       "options": {
-        "A": "opus",
-        "B": "homunculus",
-        "C": "porcus",
-        "D": "corpus"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 16,
+      "question_number": 6,
       "question": "merchant",
       "options": {
-        "A": "retailor",
-        "B": "negotiator",
-        "C": "mercator",
-        "D": "lector"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 17,
+      "question_number": 7,
       "question": "I sit",
       "options": {
-        "A": "specto",
-        "B": "sedeo",
-        "C": "sto",
-        "D": "seco"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 18,
+      "question_number": 8,
       "question": "near",
       "options": {
-        "A": "circum",
-        "B": "ubi",
-        "C": "pro",
-        "D": "prope"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 19,
+      "question_number": 9,
       "question": "I hand over",
       "options": {
-        "A": "trado",
-        "B": "teneo",
-        "C": "traho",
-        "D": "tango"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 20,
+      "question_number": 0,
       "question": "I spare",
       "options": {
-        "A": "parco",
-        "B": "curo",
-        "C": "dono gratias",
-        "D": "ago gratias"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 21,
+      "question_number": 1,
       "question": "happy",
       "options": {
-        "A": "laetus",
-        "B": "latus",
-        "C": "brevis",
-        "D": "altus"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 22,
+      "question_number": 2,
       "question": "sleep",
       "options": {
-        "A": "durus",
-        "B": "somnus",
-        "C": "lectus",
-        "D": "cubiculum"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 23,
+      "question_number": 3,
       "question": "doctor",
       "options": {
-        "A": "medicus",
-        "B": "pediagogus",
-        "C": "advocatus",
-        "D": "tabernarius"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 24,
+      "question_number": 4,
       "question": "afraid",
       "options": {
-        "A": "rubea",
-        "B": "similis",
-        "C": "stultus",
-        "D": "timidus"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 25,
-      "question": "kitchen III. Choose the SYNONYM of the given Latin word.",
+      "question_number": 5,
+      "question": "kitchen",
       "options": {
-        "A": "cubiculum",
-        "B": "furnus",
-        "C": "culina",
-        "D": "copia"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 26,
+      "question_number": 6,
       "question": "do",
       "options": {
-        "A": "ago",
-        "B": "dono",
-        "C": "facio",
-        "D": "amo"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 27,
+      "question_number": 7,
       "question": "ianua",
       "options": {
-        "A": "porta",
-        "B": "casus",
-        "C": "portus",
-        "D": "domus"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 28,
+      "question_number": 8,
       "question": "vel",
       "options": {
-        "A": "ubi",
-        "B": "aut",
-        "C": "quod",
-        "D": "atque"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 29,
+      "question_number": 9,
       "question": "demonstro",
       "options": {
-        "A": "accipio",
-        "B": "habeo",
-        "C": "ambulo",
-        "D": "ostendo"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 30,
+      "question_number": 0,
       "question": "interficio",
       "options": {
-        "A": "cupio",
-        "B": "occido",
-        "C": "gero",
-        "D": "dormio"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 31,
+      "question_number": 1,
       "question": "relinquo",
       "options": {
-        "A": "maneo",
-        "B": "moneo",
-        "C": "exeo",
-        "D": "paro"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 32,
+      "question_number": 2,
       "question": "fortuna",
       "options": {
-        "A": "ops",
-        "B": "dives",
-        "C": "sors",
-        "D": "gemma"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 33,
-      "question": "vetus IV. Choose the ANTONYM of the given Latin word",
+      "question_number": 3,
+      "question": "vetus",
       "options": {
-        "A": "miliaris",
-        "B": "antiquus",
-        "C": "primus pilus",
-        "D": "praefectus"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 34,
+      "question_number": 4,
       "question": "brevis",
       "options": {
-        "A": "clarus",
-        "B": "longus",
-        "C": "ingens",
-        "D": "latus"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 35,
+      "question_number": 5,
       "question": "obesus",
       "options": {
-        "A": "gracilis",
-        "B": "praemium",
-        "C": "miles",
-        "D": "senator"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 36,
+      "question_number": 6,
       "question": "inopia",
       "options": {
-        "A": "res",
-        "B": "divitiae",
-        "C": "pars",
-        "D": "vox"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 37,
+      "question_number": 7,
       "question": "comes",
       "options": {
-        "A": "instar",
-        "B": "carrus",
-        "C": "sanus",
-        "D": "hostis"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 38,
+      "question_number": 8,
       "question": "umquam",
       "options": {
-        "A": "saepe",
-        "B": "vix",
-        "C": "numquam",
-        "D": "quisquam"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 39,
+      "question_number": 9,
       "question": "aliquis",
       "options": {
-        "A": "nemo",
-        "B": "rus",
-        "C": "prope",
-        "D": "ob"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 40,
-      "question": "gaudeo V. Choose the word that does NOT belong by meaning",
+      "question_number": 0,
+      "question": "gaudeo",
       "options": {
-        "A": "advenio",
-        "B": "doleo",
-        "C": "simpleficio",
-        "D": "credo"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 46,
+      "question_number": 1,
+      "question": "",
+      "options": {
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "",
+      "options": {
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "",
+      "options": {
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "",
+      "options": {
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "",
+      "options": {
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
       "question": "nubes : caelum :: miles :",
       "options": {
-        "A": "exercitus",
-        "B": "turba",
-        "C": "mors",
-        "D": "imperium"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 47,
+      "question_number": 7,
       "question": "discipulus : disco :: gladiator :",
       "options": {
-        "A": "navigo",
-        "B": "pugno",
-        "C": "duco",
-        "D": "lego"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 48,
+      "question_number": 8,
       "question": "quindecim : quintus decimus :: viginti duo :",
       "options": {
-        "A": "viginti secundus",
-        "B": "vicesimus duo",
-        "C": "vicesimus secundus",
-        "D": "secundus vicesimus"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 49,
+      "question_number": 9,
       "question": "fulmen : Iuppiter :: sagitta :",
       "options": {
-        "A": "Minerva",
-        "B": "Mars",
-        "C": "Diana",
-        "D": "Neptunus"
+        "B": "scribere",
+        "C": "orare",
+        "D": "legere",
+        "A": "navigare"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 50,
+      "question_number": 0,
       "question": "gladius : necare :: penna :",
       "options": {
-        "A": "navigare",
         "B": "scribere",
         "C": "orare",
         "D": "legere"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     }
   ],
   "metadata": {
     "year": 2012,
     "format": "pre_2018",
-    "total_questions": 45
+    "total_questions": 50
   }
 }

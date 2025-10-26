@@ -2,641 +2,20 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "One could say that the god Mercury was destined to be god of thieves as his life of banditry started _____.",
+      "question": "One could say that the god Mercury was destined to be god of thieves as his life of banditry\nstarted _____.",
       "options": {
-        "A": "ab intra",
-        "B": "ab hinc",
-        "C": "ab extra",
-        "D": "ab initio"
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 2,
-      "question": "In common law practices, a policy of _____ allows a king to gather people as a militia, not as a mob.",
-      "options": {
-        "A": "posse comitatus",
-        "B": "praeter legem",
-        "C": "pro patria",
-        "D": "pollice verso"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 3,
-      "question": "In matrimonium ducere means _____.",
-      "options": {
-        "A": "to plan a wedding",
-        "B": "to attend a wedding",
-        "C": "to divorce",
-        "D": "to marry"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 4,
-      "question": "Horribile dictu means _____.",
-      "options": {
-        "A": "something gone viral on social media",
-        "B": "something we should not speak of",
-        "C": "something marvelous to see",
-        "D": "graffiti"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 5,
-      "question": "Many people agree that Hamlet is William Shakespeare’s _____.",
-      "options": {
-        "A": "felix culpa",
-        "B": "ratio legis",
-        "C": "festina lente",
-        "D": "magnum opus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 6,
-      "question": "When Europeans “discovered” America, the land was considered _____.",
-      "options": {
-        "A": "res publica",
-        "B": "res gestae",
-        "C": "res nullius",
-        "D": "res judicata"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 7,
-      "question": "Some people want to live in great luxury, while others want to live _____.",
-      "options": {
-        "A": "nisi prius",
-        "B": "nihil obstat",
-        "C": "cum otio",
-        "D": "ne quid nimis"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 8,
-      "question": "After the defendant fled the country, his trial was carried out _____.",
-      "options": {
-        "A": "in limine",
-        "B": "in loco parentis",
-        "C": "in rem",
-        "D": "in absentia"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 9,
-      "question": "Ne plus ultra means _____.",
-      "options": {
-        "A": "a lot of nothing",
-        "B": "faulty",
-        "C": "lest we have more",
-        "D": "perfection"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 10,
-      "question": "Cui bono means _____.",
-      "options": {
-        "A": "Why do you laugh?",
-        "B": "It is good for everyone.",
-        "C": "Who benefits?",
-        "D": "What do you give?"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 11,
-      "question": "The Romans feared change, which is why their code of conduct was governed by _____.",
-      "options": {
-        "A": "mundus senescit",
-        "B": "mors omnibus",
-        "C": "motu proprio",
-        "D": "mos maiorum"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 12,
-      "question": "A person’s salary is considered money earned _____.",
-      "options": {
-        "A": "per diem",
-        "B": "ex tempore",
-        "C": "per annum",
-        "D": "post mortem"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 13,
-      "question": "After landing from her skydiving adventure, Julia was very happy to be on _____. MOTTOES",
-      "options": {
-        "A": "tabula rasa",
-        "B": "terra irradiant",
-        "C": "terra firma",
-        "D": "terra nova"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 14,
-      "question": "Semper Paratus is the motto of the US Boy Scouts and _____.",
-      "options": {
-        "A": "US Coast Guard",
-        "B": "National Guard",
-        "C": "US Marines",
-        "D": "US Navy"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 15,
-      "question": "A Mari usque ad Mare",
-      "options": {
-        "A": "Nova Scotia",
-        "B": "Newfoundland",
-        "C": "Denmark",
-        "D": "Canada"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 16,
-      "question": "Tria juncta in uno",
-      "options": {
-        "A": "The Freemasons",
-        "B": "Order of Bath",
-        "C": "Order of the Garter",
-        "D": "Order of the Arrow"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 17,
-      "question": "Draco dormiens nunquam titillandus",
-      "options": {
-        "A": "Durmstrung Institute",
-        "B": "Miss Perrigrine’s Home for Peculiar Children",
-        "C": "Hogwarts School of Witchcraft",
-        "D": "Xavier’s School for Gifted Children"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 18,
-      "question": "Ubertas et Fidelitas",
-      "options": {
-        "A": "Tasmania",
-        "B": "Indonesia",
-        "C": "Tonga",
-        "D": "New Zealand"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 19,
-      "question": "Lux, Veritas, Virtus",
-      "options": {
-        "A": "Amherst University",
-        "B": "Northeastern University",
-        "C": "Northwestern University",
-        "D": "Columbia University"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 20,
-      "question": "Ecce Quam Bonum",
-      "options": {
-        "A": "University of Missouri",
-        "B": "Sewanee University",
-        "C": "University of Tennessee",
-        "D": "Duke University"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 21,
-      "question": "Vires, Artes, Mores",
-      "options": {
-        "A": "University of Florida",
-        "B": "Florida State University",
-        "C": "University of Miami",
-        "D": "Stetson University"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 22,
-      "question": "In Varietate Concordia",
-      "options": {
-        "A": "League of Nations",
-        "B": "European Union",
-        "C": "North Atlantic Treaty Organization",
-        "D": "United Nations"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 23,
-      "question": "Deo Juvante",
-      "options": {
-        "A": "Monaco",
-        "B": "Belgium",
-        "C": "Spain",
-        "D": "France"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 24,
-      "question": "Citius, Altius, Fortius",
-      "options": {
-        "A": "The Olympics",
-        "B": "World Cup",
-        "C": "Wall Street",
-        "D": "Nike Shoes"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 25,
-      "question": "Veritas Vos Liberabit QUOTATIONS",
-      "options": {
-        "A": "Trinity College",
-        "B": "Harvard University",
-        "C": "Johns Hopkins University",
-        "D": "Dartmouth College"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 26,
-      "question": "Aspirat primo fortuna labori",
-      "options": {
-        "A": "Ovid",
-        "B": "Vergil",
-        "C": "Livy",
-        "D": "Martial"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 27,
-      "question": "Fallaces sunt rerum species",
-      "options": {
-        "A": "Marcus Aurelius",
-        "B": "Sallust",
-        "C": "Seneca the Younger",
-        "D": "Caesar"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 28,
-      "question": "Corruptissima re publica plurimae leges",
-      "options": {
-        "A": "Tacitus",
-        "B": "Quintillian",
-        "C": "Juvenal",
-        "D": "Petronius"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 29,
-      "question": "Difficile est tenere quae acceperis nisi exerceas",
-      "options": {
-        "A": "Cato the Elder",
-        "B": "Nero",
-        "C": "Pliny the Younger",
-        "D": "Brutus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 30,
-      "question": "Carthago delenda est",
-      "options": {
-        "A": "Caesar",
-        "B": "Cato the Younger",
-        "C": "Cato the Elder",
-        "D": "Cicero"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 31,
-      "question": "Quis custodiet ipsos custodes?",
-      "options": {
-        "A": "Martial",
-        "B": "Juvenal",
-        "C": "Quintillian",
-        "D": "Petronius"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 32,
-      "question": "Graecia capta ferum victorem cepit",
-      "options": {
-        "A": "Tibullus",
-        "B": "Tacitus",
-        "C": "Horace",
-        "D": "Varro"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 33,
-      "question": "Ars longa, vita brevis",
-      "options": {
-        "A": "Horace",
-        "B": "Flaccus",
-        "C": "Catullus",
-        "D": "Propertius"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 34,
-      "question": "Quo usque tandem abutere, Catilina, patientia nostra?",
-      "options": {
-        "A": "Caesar",
-        "B": "Cato the Younger",
-        "C": "Cicero",
-        "D": "Sallust"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 35,
-      "question": "Universi pacem precibus exposcunt",
-      "options": {
-        "A": "Ennius",
-        "B": "Syrus",
-        "C": "Naevius",
-        "D": "Livy"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 36,
-      "question": "In vino veritas",
-      "options": {
-        "A": "Pliny the Elder",
-        "B": "Augustine",
-        "C": "Ennius",
-        "D": "Ovid"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 37,
-      "question": "Verba volant, scripta manent",
-      "options": {
-        "A": "Marcus Aurelius",
-        "B": "Titus",
-        "C": "Caesar",
-        "D": "Augustus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 38,
-      "question": "Quot homines, tot sententiae ABBREVIATIONS",
-      "options": {
-        "A": "Plautus",
-        "B": "Seneca the Younger",
-        "C": "Terence",
-        "D": "Lucretius"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 39,
-      "question": "Instead of a trial by jury, some cases are tried “tr. mil.” Meaning this.",
-      "options": {
-        "A": "socially condemned",
-        "B": "arbitration",
-        "C": "tried and convicted",
-        "D": "military tribunal"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 40,
-      "question": "Which of the following does NOT have the same general context?",
-      "options": {
-        "A": "id.",
-        "B": "q.v.",
-        "C": "op. cit.",
-        "D": "ibid."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 41,
-      "question": "Which of the following is NOT a medical abbreviation?",
-      "options": {
-        "A": "viz.",
-        "B": "a.c.",
-        "C": "non rep.",
-        "D": "o.d."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 42,
-      "question": "The abbreviation p.r.n. has a similar meaning to what other abbreviation?",
-      "options": {
-        "A": "sig.",
-        "B": "h.s.",
-        "C": "o.s.",
-        "D": "q.s."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 43,
-      "question": "If the President of the United States attended a function with the First Lady, they it can be written that he attended _____.",
-      "options": {
-        "A": "et seq.",
-        "B": "c.",
-        "C": "in litt.",
-        "D": "et ux."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 44,
-      "question": "When your due date for your project is today and you forgot to turn it in, you probably rush to finish it _____.",
-      "options": {
-        "A": "ult.",
-        "B": "inst.",
-        "C": "v.c.",
-        "D": "stat."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 45,
-      "question": "Someone holding a Th.",
-      "options": {
-        "D": "has a doctorate in _____."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 46,
-      "question": "If it is unknown when a person lived or died, but the times in which they were best known/active are, then the abbreviation used would be _____.",
-      "options": {
-        "A": "r.",
-        "B": "r.i.p.",
-        "C": "fl.",
-        "D": "c.v."
-      },
-      "type": "multiple_choice",
-      "instruction": "A. Theology B. Law C. Medicine D. Business:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 47,
-      "question": "Which of the following is NOT an abbreviation from circa?",
-      "options": {
-        "A": "cca.",
-        "B": "cf.",
-        "C": "c.",
-        "D": "ca."
-      },
-      "type": "multiple_choice",
-      "instruction": "A. Theology B. Law C. Medicine D. Business:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 48,
-      "question": "The traditional equivalent of CE, meaning “the common era,” is _____.",
-      "options": {
-        "A": "BCE",
-        "B": "AUC",
-        "C": "AD",
-        "D": "BC"
-      },
-      "type": "multiple_choice",
-      "instruction": "A. Theology B. Law C. Medicine D. Business:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 49,
-      "question": "i.a. basically means _____.",
-      "options": {
-        "A": "nothing",
-        "B": "all the same",
-        "C": "among other things",
-        "D": "artificial intelligence"
-      },
-      "type": "multiple_choice",
-      "instruction": "A. Theology B. Law C. Medicine D. Business:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 50,
-      "question": "o.s.p. essentially means a person _____.",
+      "question": "In common law practices, a policy of _____ allows a king to gather people as a militia, not as a mo",
       "options": {
         "A": "is in a religious order",
         "B": "is unmarried",
@@ -644,7 +23,630 @@
         "D": "dies without children"
       },
       "type": "multiple_choice",
-      "instruction": "A. Theology B. Law C. Medicine D. Business:",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "In matrimonium ducere means _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "Horribile dictu means _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "Many people agree that Hamlet is William Shakespeare’s _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "When Europeans “discovered” America, the land was considered _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "Some people want to live in great luxury, while others want to live _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "After the defendant fled the country, his trial was carried out _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "Ne plus ultra means _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Cui bono means _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "The Romans feared change, which is why their code of conduct was governed by _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "A person’s salary is considered money earned _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "After landing from her skydiving adventure, Julia was very happy to be on _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "Semper Paratus is the motto of the US Boy Scouts and _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "A Mari usque ad Mare",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "Tria juncta in uno",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "Draco dormiens nunquam titillandus",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "Ubertas et Fidelitas",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "Lux, Veritas, Virtus",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Ecce Quam Bonum",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "Vires, Artes, Mores",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "In Varietate Concordia",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "Deo Juvante",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "Citius, Altius, Fortius",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "Veritas Vos Liberabit",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "Aspirat primo fortuna labori",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "Fallaces sunt rerum species",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "Corruptissima re publica plurimae leges",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "Difficile est tenere quae acceperis nisi exerceas",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Carthago delenda est",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "Quis custodiet ipsos custodes?",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "Graecia capta ferum victorem cepit",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "Ars longa, vita brevis",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "Quo usque tandem abutere, Catilina, patientia nostra?",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "Universi pacem precibus exposcunt",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "In vino veritas",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "Verba volant, scripta manent",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "Quot homines, tot sententiae",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "Instead of a trial by jury, some cases are tried “tr. mil.” Meaning this.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Which of the following does NOT have the same general context?",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "Which of the following is NOT a medical abbreviation?",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "The abbreviation p.r.n. has a similar meaning to what other abbreviation?",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "If the President of the United States attended a function with the First Lady, they it can be\nwritten that he attended _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "When your due date for your project is today and you forgot to turn it in, you probably rush to\nfinish it _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "Someone holding a Th.",
+      "options": {
+        "A": "is in a religious order",
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "If it is unknown when a person lived or died, but the times in which they were best\nknown/active are, then the abbreviation used would be _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "Which of the following is NOT an abbreviation from circa?",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "The traditional equivalent of CE, meaning “the common era,” is _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children",
+        "A": "is in a religious order"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "i.",
+      "options": {
+        "A": "is in a religious order",
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "o.s.p. essentially means a person _____.",
+      "options": {
+        "B": "is unmarried",
+        "C": "has lost his right eye",
+        "D": "dies without children"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
       "correct_answer": null
     }
   ],

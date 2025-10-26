@@ -1,0 +1,542 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "Sylvester’s comments on Geneva’s presentation were unexpectedly impertinent.",
+    "question_options": {
+      "A": "concise",
+      "B": "critical",
+      "C": "rude",
+      "D": "helpful"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "Effective employers are continually looking for ways to expedite production.",
+    "question_options": {
+      "A": "contain",
+      "B": "speed up",
+      "C": "assist",
+      "D": "understand"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "Cornelia’s teacher precluded sharing study materials for the semester exam.",
+    "question_options": {
+      "A": "initiated",
+      "B": "allowed",
+      "C": "appreciated",
+      "D": "blocked"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "I attended my garden with assiduous attention at times.",
+    "question_options": {
+      "A": "diligent",
+      "B": "distracted",
+      "C": "needed",
+      "D": "lackadaisical"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "Coach Harding gave the team just the right impetus for winning the game.",
+    "question_options": {
+      "A": "motivation",
+      "B": "strategy",
+      "C": "equipment",
+      "D": "recognition"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "Lila comported herself with pride.",
+    "question_options": {
+      "A": "promoted",
+      "B": "advocated for",
+      "C": "motivated",
+      "D": "carried"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "Angelita was required to remain prostrate during the ceremony.",
+    "question_options": {
+      "A": "silent",
+      "B": "lying down",
+      "C": "standing",
+      "D": "attentive"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "The Guayli Islands are remarkably rich in alimentary resources.",
+    "question_options": {
+      "A": "food-producing",
+      "B": "energy-producing",
+      "C": "forestry",
+      "D": "mineral"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "Marcelo’s new position is lucrative and prestigious, but it is not a sinecure.",
+    "question_options": {
+      "A": "job that accomplishes much",
+      "B": "job that earns respect",
+      "C": "job that requires little work",
+      "D": "job that demands advanced education"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "The film about robotic vampires is the most inane movie I have ever seen!",
+    "question_options": {
+      "A": "stupid",
+      "B": "uncreative",
+      "C": "unintuitive",
+      "D": "predictable Choose the English word that is derived from the given Latin word."
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "pax",
+    "question_options": {
+      "A": "repay",
+      "B": "disparity",
+      "C": "impart",
+      "D": "peculiar"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "bonus",
+    "question_options": {
+      "A": "blatant",
+      "B": "bellicose",
+      "C": "bounty",
+      "D": "brevity"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "claudo",
+    "question_options": {
+      "A": "discreet",
+      "B": "recluse",
+      "C": "cogency",
+      "D": "enclave Derivatives II - States 2019 -"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "veho",
+    "question_options": {
+      "A": "ambivalence",
+      "B": "invective",
+      "C": "variance",
+      "D": "vacillate"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "cura",
+    "question_options": {
+      "A": "inference",
+      "B": "moribund",
+      "C": "proxy",
+      "D": "variance"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "traho",
+    "question_options": {
+      "A": "prevail",
+      "B": "portrait",
+      "C": "portend",
+      "D": "betray"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "aqua",
+    "question_options": {
+      "A": "apiary",
+      "B": "oriole",
+      "C": "debacle",
+      "D": "sewage"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "carus",
+    "question_options": {
+      "A": "channel",
+      "B": "cancel",
+      "C": "charity",
+      "D": "career"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "genus",
+    "question_options": {
+      "A": "subgenre",
+      "B": "engross",
+      "C": "conglomerate",
+      "D": "disgust"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "facio",
+    "question_options": {
+      "A": "figment",
+      "B": "surface",
+      "C": "default",
+      "D": "offend Identify the Latin word from which the given English word is derived."
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "mayor",
+    "question_options": {
+      "A": "magnus",
+      "B": "malus",
+      "C": "melle",
+      "D": "manus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "infinitive",
+    "question_options": {
+      "A": "fides",
+      "B": "inanis",
+      "C": "inferus",
+      "D": "finis"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "suggestion",
+    "question_options": {
+      "A": "gero",
+      "B": "tingo",
+      "C": "fero",
+      "D": "mitto"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "travesty",
+    "question_options": {
+      "A": "vetus",
+      "B": "varius",
+      "C": "verus",
+      "D": "vestis"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "repository",
+    "question_options": {
+      "A": "pando",
+      "B": "porto",
+      "C": "peto",
+      "D": "pono"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "fictional",
+    "question_options": {
+      "A": "fingo",
+      "B": "flo",
+      "C": "figo",
+      "D": "for"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "profuse",
+    "question_options": {
+      "A": "facio",
+      "B": "fundo",
+      "C": "fero",
+      "D": "fruor"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "grievous",
+    "question_options": {
+      "A": "grex",
+      "B": "gradior",
+      "C": "gravis",
+      "D": "gratis"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "soliloquy",
+    "question_options": {
+      "A": "surgo",
+      "B": "sol",
+      "C": "solus",
+      "D": "solvo Derivatives II - States 2019 -"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "interjection",
+    "question_options": {
+      "A": "iungo",
+      "B": "inno",
+      "C": "iacio",
+      "D": "iaceo Choose the meaning of the Latin word from which the given English word is derived."
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "porch",
+    "question_options": {
+      "A": "gate",
+      "B": "harbor",
+      "C": "building",
+      "D": "bridge"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "isolation",
+    "question_options": {
+      "A": "alone",
+      "B": "age",
+      "C": "one",
+      "D": "island"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "confide",
+    "question_options": {
+      "A": "to tell",
+      "B": "neck",
+      "C": "friend",
+      "D": "faith"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "immediate",
+    "question_options": {
+      "A": "mind",
+      "B": "middle",
+      "C": "hand",
+      "D": "speed"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "volunteer",
+    "question_options": {
+      "A": "to wish",
+      "B": "to roll",
+      "C": "to fly",
+      "D": "to help"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "relate",
+    "question_options": {
+      "A": "wide",
+      "B": "to carry",
+      "C": "parent",
+      "D": "to correct"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "viceroy",
+    "question_options": {
+      "A": "crime",
+      "B": "king",
+      "C": "crowd",
+      "D": "life"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "repetition",
+    "question_options": {
+      "A": "to seek",
+      "B": "to push",
+      "C": "to count",
+      "D": "to hang"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "collect",
+    "question_options": {
+      "A": "to write",
+      "B": "to leave",
+      "C": "to choose",
+      "D": "to carry"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "pioneer",
+    "question_options": {
+      "A": "first",
+      "B": "commoner",
+      "C": "kingdom",
+      "D": "foot Choose the word which does NOT belong by derivation."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "condone",
+    "question_options": {
+      "A": "domicile",
+      "B": "pardon",
+      "C": "madam",
+      "D": "doubt"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "scissors",
+    "question_options": {
+      "A": "chant",
+      "B": "susceptive",
+      "C": "scald",
+      "D": "concise"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "lotion",
+    "question_options": {
+      "A": "libation",
+      "B": "latrine",
+      "C": "lecture",
+      "D": "ligament"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "consecrate",
+    "question_options": {
+      "A": "signal",
+      "B": "insane",
+      "C": "senior",
+      "D": "sacristy"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "reunion",
+    "question_options": {
+      "A": "retina",
+      "B": "arrival",
+      "C": "unique",
+      "D": "erudite"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  }
+]

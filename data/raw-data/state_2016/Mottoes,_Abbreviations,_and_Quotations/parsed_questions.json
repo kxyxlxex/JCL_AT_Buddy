@@ -1,0 +1,518 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "sine qua non",
+    "question_options": {
+      "A": "indispensable",
+      "B": "formerly",
+      "C": "thankless",
+      "D": "for the time being"
+    },
+    "question_key": "A",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 2,
+    "question_body": "The child prodigy was a ________",
+    "question_options": {
+      "A": "rara avis",
+      "B": "terra firma",
+      "C": "pater patriae",
+      "D": "alma mater"
+    },
+    "question_key": "A",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 3,
+    "question_body": "sincerely",
+    "question_options": {
+      "A": "de facto",
+      "B": "bona fide",
+      "C": "a quo",
+      "D": "per se"
+    },
+    "question_key": "B",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 4,
+    "question_body": "“He is wearing a toga. He must be a Roman” is a _________ statement.",
+    "question_options": {
+      "A": "tabula rasa",
+      "B": "suum cuique",
+      "C": "causa sui",
+      "D": "non sequitur"
+    },
+    "question_key": "D",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 6,
+    "question_body": "She delivered a magnificent speech __________",
+    "question_options": {
+      "A": "quod vide",
+      "B": "ex tempore",
+      "C": "per capita",
+      "D": "ab inconvenienti"
+    },
+    "question_key": "B",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 8,
+    "question_body": "Beethoven’s 5th Symphony could be considered a _______________",
+    "question_options": {
+      "A": "magnum opus",
+      "B": "lectio breviter",
+      "C": "manu propria",
+      "D": "habeas corpus"
+    },
+    "question_key": "A",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 10,
+    "question_body": "per annum",
+    "question_options": {
+      "A": "daily",
+      "B": "weekly",
+      "C": "monthly",
+      "D": "yearly"
+    },
+    "question_key": "D",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 11,
+    "question_body": "Accidentally revealing the surprise birthday party was a _____________",
+    "question_options": {
+      "A": "memento mori",
+      "B": "lapsus linguae",
+      "C": "pro forma",
+      "D": "sine die"
+    },
+    "question_key": "B",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 12,
+    "question_body": "without charge",
+    "question_options": {
+      "A": "de jure",
+      "B": "pro bono",
+      "C": "sine ope",
+      "D": "lucre causa"
+    },
+    "question_key": "B",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 13,
+    "question_body": "a formal acknowledgement of error",
+    "question_options": {
+      "A": "mea culpa",
+      "B": "ex gratia",
+      "C": "ad hoc",
+      "D": "quid pro quo"
+    },
+    "question_key": "A",
+    "question_instruction": "Part I: Phrases"
+  },
+  {
+    "question_index": 14,
+    "question_body": "urbs in horto",
+    "question_options": {
+      "A": "New York",
+      "B": "Philadelphia",
+      "C": "Chicago",
+      "D": "San Francisco"
+    },
+    "question_key": "C",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 15,
+    "question_body": "Dartmouth",
+    "question_options": {
+      "A": "Vox clamantis in deserto",
+      "B": "Terras irradiant",
+      "C": "Scientia sol mentis",
+      "D": "Nil sine magno labore"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 16,
+    "question_body": "Arizona",
+    "question_options": {
+      "A": "Regnat populus",
+      "B": "Crescit eundo",
+      "C": "Nil sine numine",
+      "D": "Ditat deus"
+    },
+    "question_key": "D",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 17,
+    "question_body": "Lux et lex",
+    "question_options": {
+      "A": "Yale University",
+      "B": "University of New Mexico",
+      "C": "University of Washington",
+      "D": "University of North Dakota"
+    },
+    "question_key": "D",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 18,
+    "question_body": "palmam qui meruit ferat",
+    "question_options": {
+      "A": "University of North Carolina",
+      "B": "Duke University",
+      "C": "University of South Carolina",
+      "D": "Clemson University"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 19,
+    "question_body": "quis separabit?",
+    "question_options": {
+      "A": "Order of St. Patrick",
+      "B": "the Jesuits",
+      "C": "the Benedictines",
+      "D": "Order of the Bath"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 20,
+    "question_body": "Sic semper tyrannis",
+    "question_options": {
+      "A": "Maryland",
+      "B": "Virginia",
+      "C": "Massachusetts",
+      "D": "South Carolina"
+    },
+    "question_key": "B",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 21,
+    "question_body": "the European Union",
+    "question_options": {
+      "A": "ubi libertas, ibi patria",
+      "B": "quo pax et gloria ducunt",
+      "C": "non sibi sed omnibus",
+      "D": "in varietate concordia"
+    },
+    "question_key": "D",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 22,
+    "question_body": "Veritas vos liberabit",
+    "question_options": {
+      "A": "Amherst College",
+      "B": "Johns Hopkins University",
+      "C": "Universoty of Mississippi",
+      "D": "Harvard University"
+    },
+    "question_key": "B",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 23,
+    "question_body": "Panama",
+    "question_options": {
+      "A": "quaere verum",
+      "B": "lux venit ab alto",
+      "C": "confide et conquiesco",
+      "D": "pro mundi beneficio"
+    },
+    "question_key": "D",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 25,
+    "question_body": "semper paratus",
+    "question_options": {
+      "A": "U.S. Marine Corps",
+      "B": "U.S. Coast Guard",
+      "C": "U.S. Air Force",
+      "D": "U.S. Army"
+    },
+    "question_key": "B",
+    "question_instruction": "Part II: Mottoes"
+  },
+  {
+    "question_index": 26,
+    "question_body": "N.B.",
+    "question_options": {
+      "A": "see below",
+      "B": "compare",
+      "C": "the work cited",
+      "D": "note well"
+    },
+    "question_key": "D",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 27,
+    "question_body": "In which class would you most likely see q.e.d?",
+    "question_options": {
+      "A": "music",
+      "B": "geometry",
+      "C": "history",
+      "D": "art"
+    },
+    "question_key": "B",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 28,
+    "question_body": "n. is the abbreviation for all of the following EXCEPT",
+    "question_options": {
+      "A": "born",
+      "B": "at night",
+      "C": "noon",
+      "D": "neuter"
+    },
+    "question_key": "C",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 29,
+    "question_body": "viz.",
+    "question_options": {
+      "A": "namely",
+      "B": "look up",
+      "C": "as directed",
+      "D": "conversely"
+    },
+    "question_key": "A",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 30,
+    "question_body": "If you received a letter “ult.”, it came last ______",
+    "question_options": {
+      "A": "night",
+      "B": "week",
+      "C": "month",
+      "D": "year"
+    },
+    "question_key": "C",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 31,
+    "question_body": "loq.",
+    "question_options": {
+      "A": "a lotion",
+      "B": "he/she speaks",
+      "C": "in the place cited",
+      "D": "a pound"
+    },
+    "question_key": "B",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 33,
+    "question_body": "d.d.",
+    "question_options": {
+      "A": "from day to day",
+      "B": "given as a gift",
+      "C": "God’s grace",
+      "D": "he/she drew it"
+    },
+    "question_key": "B",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 34,
+    "question_body": "Medicine marked “a.c.” should be taken ______",
+    "question_options": {
+      "A": "every day",
+      "B": "at night",
+      "C": "before meals",
+      "D": "only once"
+    },
+    "question_key": "C",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 35,
+    "question_body": "ibid.",
+    "question_options": {
+      "A": "in the same place",
+      "B": "that is",
+      "C": "the same as",
+      "D": "below"
+    },
+    "question_key": "A",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 36,
+    "question_body": "The abbreviation “A.R.” would most likely be said when speaking of which person?",
+    "question_options": {
+      "A": "Queen Elizabeth",
+      "B": "Steve Jobs",
+      "C": "Ben Franklin",
+      "D": "Taylor Swift"
+    },
+    "question_key": "A",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 37,
+    "question_body": "The abbreviation “c.f.” would most likely appear in _____",
+    "question_options": {
+      "A": "a newspaper article",
+      "B": "an academic journal",
+      "C": "an online blog",
+      "D": "a work of fiction"
+    },
+    "question_key": "B",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 39,
+    "question_body": "etc.",
+    "question_options": {
+      "A": "and the rest",
+      "B": "that is",
+      "C": "and others",
+      "D": "for example"
+    },
+    "question_key": "A",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 40,
+    "question_body": "The abbreviation “fl.” refers to _____",
+    "question_options": {
+      "A": "a medical prescription",
+      "B": "an element on the periodic table",
+      "C": "dates when an author produced",
+      "D": "the beginning of a passage"
+    },
+    "question_key": "C",
+    "question_instruction": "Part III: Abbreviations"
+  },
+  {
+    "question_index": 42,
+    "question_body": "Forsan et haec olim meminisse iuvabit",
+    "question_options": {
+      "A": "Sallust",
+      "B": "Horace",
+      "C": "Vergil",
+      "D": "Plautus"
+    },
+    "question_key": "C",
+    "question_instruction": "Part IV: Quotations 41 ave atque vale a. Propertius b. Horace c. Ovid d. Catullus"
+  },
+  {
+    "question_index": 43,
+    "question_body": "historis vero testis temporum, lux veritatis",
+    "question_options": {
+      "A": "Cicero",
+      "B": "Seneca",
+      "C": "Tacitus",
+      "D": "Juvenal"
+    },
+    "question_key": "A",
+    "question_instruction": "Part IV: Quotations 41 ave atque vale a. Propertius b. Horace c. Ovid d. Catullus"
+  },
+  {
+    "question_index": 44,
+    "question_body": "alea iacta est",
+    "question_options": {
+      "A": "Nero",
+      "B": "Caesar",
+      "C": "Pompey",
+      "D": "Augustus"
+    },
+    "question_key": "B",
+    "question_instruction": "Part IV: Quotations 41 ave atque vale a. Propertius b. Horace c. Ovid d. Catullus"
+  },
+  {
+    "question_index": 45,
+    "question_body": "ora et labora",
+    "question_options": {
+      "A": "St. Benedict",
+      "B": "St. Gregory",
+      "C": "St. Jerome",
+      "D": "St. Athanasius"
+    },
+    "question_key": "A",
+    "question_instruction": "Part IV: Quotations 41 ave atque vale a. Propertius b. Horace c. Ovid d. Catullus"
+  },
+  {
+    "question_index": 46,
+    "question_body": "actum ne agas",
+    "question_options": {
+      "A": "Ovid",
+      "B": "Terence",
+      "C": "Ennius",
+      "D": "Horace"
+    },
+    "question_key": "B",
+    "question_instruction": "Part IV: Quotations 41 ave atque vale a. Propertius b. Horace c. Ovid d. Catullus"
+  },
+  {
+    "question_index": 47,
+    "question_body": "clarum et venerabile nomen",
+    "question_options": {
+      "A": "Livy",
+      "B": "Cato",
+      "C": "Lucan",
+      "D": "Seneca"
+    },
+    "question_key": "C",
+    "question_instruction": "Part IV: Quotations 41 ave atque vale a. Propertius b. Horace c. Ovid d. Catullus"
+  },
+  {
+    "question_index": 48,
+    "question_body": "amor tussisque non celantur",
+    "question_options": {
+      "A": "Ovid",
+      "B": "Martial",
+      "C": "Catullus",
+      "D": "Plautus"
+    },
+    "question_key": "A",
+    "question_instruction": "Part IV: Quotations 41 ave atque vale a. Propertius b. Horace c. Ovid d. Catullus"
+  },
+  {
+    "question_index": 49,
+    "question_body": "carpe diem",
+    "question_options": {
+      "A": "Caesar",
+      "B": "Laberius",
+      "C": "Augustus",
+      "D": "Horace"
+    },
+    "question_key": "D",
+    "question_instruction": "Part IV: Quotations 41 ave atque vale a. Propertius b. Horace c. Ovid d. Catullus"
+  },
+  {
+    "question_index": 50,
+    "question_body": "maxima debetur puero reverentia",
+    "question_options": {
+      "A": "Martial",
+      "B": "Juvenal",
+      "C": "Cicero",
+      "D": "Livy"
+    },
+    "question_key": "B",
+    "question_instruction": "Part IV: Quotations 41 ave atque vale a. Propertius b. Horace c. Ovid d. Catullus"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "What battle of 305 B.C. brought the Second Samnite War to a close?",
+    "question_options": {
+      "A": "Camerinum",
+      "B": "Tifernum",
+      "C": "Bovianum",
+      "D": "Aquilonia"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "What Roman king’s consort was a nymph named Egeria?",
+    "question_options": {
+      "A": "Romulus’",
+      "B": "Numa Pompilius’",
+      "C": "Ancus Marcius’",
+      "D": "Servius Tullius’"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "Which town was at one point the capital of the Italians during the Social War?",
+    "question_options": {
+      "A": "Neapolis",
+      "B": "Tarentum",
+      "C": "Aesernia",
+      "D": "Brundisium"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "What country was Julius Caesar planning an invasion of just before his assassination in 44 B.C.?",
+    "question_options": {
+      "A": "Armenia",
+      "B": "Germania",
+      "C": "Syria",
+      "D": "Parthia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "Which of these men won the spolia opima?",
+    "question_options": {
+      "A": "Aulus Postumius Albinus",
+      "B": "Marcus Porcius Cato",
+      "C": "Marcus Claudius Marcellus",
+      "D": "Marcus Livius Drusus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "What Roman commander at the Battle of Aegates Islands brought the First Punic War to a close?",
+    "question_options": {
+      "A": "Lutatius Catulus",
+      "B": "Manlius Vulso",
+      "C": "Scipio Barbatus",
+      "D": "Gaius Duilius"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "Which of the following was NOT a member of the 1st Triumvirate?",
+    "question_options": {
+      "A": "Caesar",
+      "B": "Cato",
+      "C": "Pompey",
+      "D": "Crassus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "In what year did Hannibal finally die (by killing himself)?",
+    "question_options": {
+      "A": "189 B.C.",
+      "B": "187 B.C.",
+      "C": "185 B.C.",
+      "D": "183 B.C."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "At what early battle of the Second Punic War was Scipio (the future) Africanus said to have saved his father’s life?",
+    "question_options": {
+      "A": "Trebia River",
+      "B": "Ticinus River",
+      "C": "Lake Trasimene",
+      "D": "Cannae"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "What position did Sulla hold under Marius during the War with Juguratha?",
+    "question_options": {
+      "A": "Consul",
+      "B": "Praetor",
+      "C": "Dictator",
+      "D": "Quaestor"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "Who led the Roman forces at the Battle of Beneventum in 275 B.C.?",
+    "question_options": {
+      "A": "Curius Dentatus",
+      "B": "Cornelius Dolabella",
+      "C": "Fabius Rullianus",
+      "D": "Scipio Barbatus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "Who saved a trapped Roman army at Mt. Algidus in 458 B.C.?",
+    "question_options": {
+      "A": "Cincinnatus",
+      "B": "Coriolanus",
+      "C": "Camillus",
+      "D": "Horatius"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "Which of the following was NOT a wife of Caesar?",
+    "question_options": {
+      "A": "Cornelia",
+      "B": "Calpurnia",
+      "C": "Pompeia",
+      "D": "Porcia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "What tribe did Coriolanus join after having fought against them for years as a Roman?",
+    "question_options": {
+      "A": "Aequi",
+      "B": "Volsci",
+      "C": "Sabines",
+      "D": "Boii"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "The fifth and final succession of the plebs was ended with the passing of what law in 287 B.C.?",
+    "question_options": {
+      "A": "Lex Valeria",
+      "B": "Lex Sacrata",
+      "C": "Lex Ogulnia",
+      "D": "Lex Hortensia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "What Roman king’s name may have originally been Macstarna?",
+    "question_options": {
+      "A": "Romulus’",
+      "B": "Tullus Hostilius’",
+      "C": "Tarquinius Priscus’",
+      "D": "Servius Tullius’"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Lake Vadimo was the site of two battles occurring during Rome’s conquest of Italy. The second of these two battles occurred just prior to the Pyrrhic War. During what war did the first Battle of Lake Vadimo occur?",
+    "question_options": {
+      "A": "First Samnite War",
+      "B": "Great Latin War",
+      "C": "Second Samnite War",
+      "D": "Third Samnite War"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "Who was the great uncle of Romulus and Remus?",
+    "question_options": {
+      "A": "Numitor",
+      "B": "Amulius",
+      "C": "Procas",
+      "D": "Mars"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "Directly after what battle in 255 B.C., part of a successful rescue mission, was the Roman fleet caught up in a storm off Sicily and nearly wiped out?",
+    "question_options": {
+      "A": "Bagradas Valley",
+      "B": "Tunis",
+      "C": "Cape Hermaeum",
+      "D": "Cape Adyis"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "What exiled dictator rescued the Romans from their occupation by the Gauls under Brennus?",
+    "question_options": {
+      "A": "Cincinnatus",
+      "B": "Marcus Manlius",
+      "C": "Camillus",
+      "D": "Titus Manlius"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "What battle of the Third Macedonian War saw a Roman victory and the end of the Antigonid line which had begun almost two hundred years before with the death of Alexander the Great?",
+    "question_options": {
+      "A": "Pydna",
+      "B": "Thermopylae",
+      "C": "Cynoscephalae",
+      "D": "Magnesia"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "What guerilla leader in Lusitania led the resistance against Romans from 146-­‐141 B.C. before being betrayed by his agents?",
+    "question_options": {
+      "A": "Vercingetorix",
+      "B": "Viriathus",
+      "C": "Tantalus",
+      "D": "Minurus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "Which of the following was not a date of a battle in the First or Second Punic Wars?",
+    "question_options": {
+      "A": "256 B.C.",
+      "B": "217 B.C.",
+      "C": "207 B.C.",
+      "D": "240 B.C."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "What Roman King established the cult of Diana and the Census?",
+    "question_options": {
+      "A": "Numa Pompilius",
+      "B": "Servius Tullius",
+      "C": "Tarqunius Priscus",
+      "D": "Tarquinius Superbus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "According to tradition, in what month of 753 B.C. was Rome founded?",
+    "question_options": {
+      "A": "March",
+      "B": "June",
+      "C": "April",
+      "D": "May"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "In what year did the first gladiatorial games occur?",
+    "question_options": {
+      "A": "302 B.C.",
+      "B": "284 B.C.",
+      "C": "276 B.C.",
+      "D": "264 B.C."
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "In what Italian city did the revolt of Spartacus originate in 73 B.C.?",
+    "question_options": {
+      "A": "Tarentum",
+      "B": "Brundisium",
+      "C": "Capua",
+      "D": "Naples"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "Who commanded the Optimates against Caesar at the Battle of Thapsus in 46 B.C?",
+    "question_options": {
+      "A": "Gnaeus Pompey",
+      "B": "Sextus Pompey",
+      "C": "Metellus Scipio",
+      "D": "Titus Labienus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "What law of 300 B.C. opened the priesthood up to plebeians, and increased the number of pontifices from five to nine?",
+    "question_options": {
+      "A": "Lex Valeria",
+      "B": "Lex Ogulnia",
+      "C": "Lex Sacrata",
+      "D": "Lex Hortensia"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "What plebeian tribune of 462 B.C. pushed for codified law in Rome, paving way for the Twelve Tables?",
+    "question_options": {
+      "A": "Terentilius Harsa",
+      "B": "Spurius Cassius",
+      "C": "Appius Claudius",
+      "D": "Aulus Postumius"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "At what battle were Cator & Pollux said to have helped the Romans?",
+    "question_options": {
+      "A": "Silva Arsia",
+      "B": "Lake Regillus",
+      "C": "Mt. Algidus",
+      "D": "Mantrap Wood"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "What battle occurring in 105 B.C. was the worst Roman defeat since Cannae?",
+    "question_options": {
+      "A": "Arausio",
+      "B": "Vercellae",
+      "C": "Aquae Sextiae",
+      "D": "Lugdunum"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "Where did Mithridates VI finally die in 63 B.C.?",
+    "question_options": {
+      "A": "Naissus",
+      "B": "Darnassus",
+      "C": "Panticapaeum",
+      "D": "Ephesus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "Who claimed to have seen Romulus ascending to heaven as the god Quirinus?",
+    "question_options": {
+      "A": "Titus Tatius",
+      "B": "Hersilia",
+      "C": "Numa Pompilius",
+      "D": "Julius Proculus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "What Roman commander died at the Baetis River in the Guadalquivir province during the Second Punic War?",
+    "question_options": {
+      "A": "Publius Cornelius Scipio",
+      "B": "Gaius Terrentius Varro",
+      "C": "Gnaeus Cornelius Scipio",
+      "D": "Tiberius Sempronius Longus"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "Who was elected in the place of Tarqunius Collatinus when he stepped down from the consulship?",
+    "question_options": {
+      "A": "Publius Valerius Publicola",
+      "B": "Spurius Lucretius Tricipitinus",
+      "C": "Aulus Postumius Albinus",
+      "D": "Lucius Iunius Brutus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "Which law of 66 B.C. transferred the command against Mithridates to Pompey?",
+    "question_options": {
+      "A": "lex Manilia",
+      "B": "lex Gabinia",
+      "C": "lex Iulia",
+      "D": "lex Titia"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "Who was the fourth king of Rome?",
+    "question_options": {
+      "A": "Numa Pompilius",
+      "B": "Ancus Marcius",
+      "C": "Tarquinius Priscus",
+      "D": "Tullus Hostilius"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Who was the first Roman king of Etruscan origin?",
+    "question_options": {
+      "A": "Tarquinius Priscus",
+      "B": "Ancus Marcius",
+      "C": "Servius Tullius",
+      "D": "Tarquinius Superbus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "What Roman general destroyed Carthage in 146 B.C.?",
+    "question_options": {
+      "A": "L. Mummius",
+      "B": "Scipio Africanus",
+      "C": "Scipio Aemilianus",
+      "D": "Scipio Asiaticus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "Who won the Battle of Actium in 31 B.C. which led to the establishment of the empire",
+    "question_options": {
+      "A": "M. Brutus",
+      "B": "Octavian",
+      "C": "Marc Antony",
+      "D": "Lucullus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "Where were a contigent of Gauls defeated by the Romans in 225 B.C. between the First and Second Punic wars?",
+    "question_options": {
+      "A": "Cape Telamon",
+      "B": "Aquileia",
+      "C": "Lake Garda",
+      "D": "Gulf of Otranto"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "What woman did Tarquinius Superbus marry and with her conspire to assassinate Servius Tullius?",
+    "question_options": {
+      "A": "Tullia the Younger",
+      "B": "Tullia the Elder",
+      "C": "Tarquinia",
+      "D": "Tarpeia"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "What famous Roman held the consulship alongside Antonius Hybrida in 63 B.C.?",
+    "question_options": {
+      "A": "Cicero",
+      "B": "Caesar",
+      "C": "Pompey",
+      "D": "Crassus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "Eunus is to Cleon as Salvius is to _____________",
+    "question_options": {
+      "A": "Crixus",
+      "B": "Spartacus",
+      "C": "Tryphon",
+      "D": "Athenion"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "Which of the following was Rome’s first province?",
+    "question_options": {
+      "A": "Sardinia",
+      "B": "Corsica",
+      "C": "Sicily",
+      "D": "Gaul"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "What cheiftan of the Helvetii organized a conspiracy against Caesar in Gaul?",
+    "question_options": {
+      "A": "Dumnorix",
+      "B": "Divitiacus",
+      "C": "Orgetorix",
+      "D": "Ambiorix"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "Where did Sextus Tarquinius flee after the rape of Lucretia?",
+    "question_options": {
+      "A": "Aquileia",
+      "B": "Gabii",
+      "C": "Ostia",
+      "D": "Ardea"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "What battle ended the Second Punic War?",
+    "question_options": {
+      "A": "Metaurus River",
+      "B": "Dertosa",
+      "C": "Zama",
+      "D": "Baecula"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Who served as consul a record seven times?",
+    "question_options": {
+      "A": "Cincinnatus",
+      "B": "Camillus",
+      "C": "Julius Caesar",
+      "D": "Marius"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  }
+]

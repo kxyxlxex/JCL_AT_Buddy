@@ -4,590 +4,642 @@
       "question_number": 1,
       "question": "aperere",
       "options": {
-        "A": "to appear",
-        "B": "to open",
-        "C": "to receive",
-        "D": "to close"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 2,
       "question": "lectus",
       "options": {
-        "A": "bed",
-        "B": "chair",
-        "C": "choice",
-        "D": "leg"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 3,
       "question": "cantare",
       "options": {
-        "A": "to not be able",
-        "B": "to deny",
-        "C": "to sing",
-        "D": "to enter"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 4,
       "question": "antea",
       "options": {
-        "A": "afterwards",
-        "B": "previously",
-        "C": "altar",
-        "D": "daily"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 5,
       "question": "vincere",
       "options": {
-        "A": "to see",
-        "B": "to destroy",
-        "C": "to conquer",
-        "D": "to go"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 6,
       "question": "arx",
       "options": {
-        "A": "citadel",
-        "B": "art",
-        "C": "city",
-        "D": "arch"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 7,
       "question": "capere",
       "options": {
-        "A": "to desire",
-        "B": "to fall",
-        "C": "to stop",
-        "D": "to grasp"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 8,
       "question": "cum",
       "options": {
-        "A": "that",
-        "B": "before",
-        "C": "which d after"
+        "B": "mors",
+        "C": "fides",
+        "A": "veritas",
+        "D": "flumen"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 9,
       "question": "soror",
       "options": {
-        "A": "sorrow",
-        "B": "sister",
-        "C": "sword",
-        "D": "scene"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 10,
+      "question_number": 0,
       "question": "virtus",
       "options": {
-        "A": "courage",
-        "B": "means",
-        "C": "quality",
-        "D": "force"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 11,
+      "question_number": 1,
       "question": "ibi",
       "options": {
-        "A": "here",
-        "B": "yesterday",
-        "C": "where",
-        "D": "there"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 12,
+      "question_number": 2,
       "question": "magnus",
       "options": {
-        "A": "many",
-        "B": "hand",
-        "C": "bad",
-        "D": "powerful"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 13,
+      "question_number": 3,
       "question": "quis",
       "options": {
-        "A": "who",
-        "B": "such",
-        "C": "and",
-        "D": "witch"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 14,
+      "question_number": 4,
       "question": "onus",
       "options": {
-        "A": "old lady",
-        "B": "load",
-        "C": "honor",
-        "D": "gold"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 15,
-      "question": "dare Part II) Chose the best Latin translation of the English word.",
+      "question_number": 5,
+      "question": "dare",
       "options": {
-        "A": "to dare",
-        "B": "to do",
-        "C": "to give",
-        "D": "stand"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 16,
+      "question_number": 6,
       "question": "to guard",
       "options": {
-        "A": "servire",
-        "B": "manere",
-        "C": "curare",
-        "D": "servare"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 17,
+      "question_number": 7,
       "question": "to pull",
       "options": {
-        "A": "tradere",
-        "B": "trahere",
-        "C": "cedere",
-        "D": "tangere"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 18,
+      "question_number": 8,
       "question": "merchant",
       "options": {
-        "A": "mendax",
-        "B": "mater",
-        "C": "mercator",
-        "D": "nauta"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 19,
+      "question_number": 9,
       "question": "overseer",
       "options": {
-        "A": "dux",
-        "B": "vilicus",
-        "C": "senator",
-        "D": "arbor"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 20,
+      "question_number": 0,
       "question": "building",
       "options": {
-        "A": "villa",
-        "B": "insula",
-        "C": "aedificium",
-        "D": "domus"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 21,
+      "question_number": 1,
       "question": "grain",
       "options": {
-        "A": "periculum",
-        "B": "praemium",
-        "C": "frumentum",
-        "D": "cibus"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 22,
+      "question_number": 2,
       "question": "skill",
       "options": {
-        "A": "arx",
-        "B": "arcus",
-        "C": "aequus",
-        "D": "ars"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 23,
+      "question_number": 3,
       "question": "harbor",
       "options": {
-        "A": "pons",
-        "B": "portus",
-        "C": "rivus",
-        "D": "pelagus"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 24,
+      "question_number": 4,
       "question": "to approach",
       "options": {
-        "A": "appropinquare",
-        "B": "relinquere",
-        "C": "invenire",
-        "D": "apparare"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 25,
+      "question_number": 5,
       "question": "tired",
       "options": {
-        "A": "ignavus",
-        "B": "iratus",
-        "C": "brevis",
-        "D": "fessus"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 26,
+      "question_number": 6,
       "question": "situation",
       "options": {
-        "A": "res",
-        "B": "causa",
-        "C": "negotio",
-        "D": "labor"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 27,
+      "question_number": 7,
       "question": "stone",
       "options": {
-        "A": "lepus",
-        "B": "lapis",
-        "C": "lupus",
-        "D": "lectus"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 28,
+      "question_number": 8,
       "question": "quiet",
       "options": {
-        "A": "timidus",
-        "B": "tacitus",
-        "C": "perterritus",
-        "D": "latus"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 29,
+      "question_number": 9,
       "question": "quick",
       "options": {
-        "A": "celeritas",
-        "B": "cursus",
-        "C": "clarus",
-        "D": "celer"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 30,
-      "question": "slowly Part III) Choose the synonym of the word given.",
+      "question_number": 0,
+      "question": "slowly",
       "options": {
-        "A": "breve",
-        "B": "fesse",
-        "C": "lente",
-        "D": "longe"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 31,
+      "question_number": 1,
       "question": "altum",
       "options": {
-        "A": "pons",
-        "B": "iauna",
-        "C": "mare",
-        "D": "latum"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 32,
+      "question_number": 2,
       "question": "petere",
       "options": {
-        "A": "rogare",
-        "B": "timere",
-        "C": "fugere",
-        "D": "invenire"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 33,
+      "question_number": 3,
       "question": "gladius",
       "options": {
-        "A": "scutum",
-        "B": "miles",
-        "C": "campus",
-        "D": "ensis"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 34,
+      "question_number": 4,
       "question": "et",
       "options": {
-        "A": "quisque",
-        "B": "ad",
-        "C": "cum",
-        "D": "ac"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 35,
-      "question": "parvus Part IV) Choose the antonym of the word given.",
+      "question_number": 5,
+      "question": "parvus",
       "options": {
-        "A": "medius",
-        "B": "par",
-        "C": "paulus",
-        "D": "multum"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 36,
+      "question_number": 6,
       "question": "ridere",
       "options": {
-        "A": "pugnare",
-        "B": "debere",
-        "C": "caedere",
-        "D": "lacrimare"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 37,
+      "question_number": 7,
       "question": "ex",
       "options": {
-        "A": "ab",
-        "B": "ad",
-        "C": "ubi",
-        "D": "sub"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 38,
+      "question_number": 8,
       "question": "nolle",
       "options": {
-        "A": "narrare",
-        "B": "cupere",
-        "C": "repellere",
-        "D": "delere"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 39,
+      "question_number": 9,
       "question": "hospes",
       "options": {
-        "A": "amicus",
-        "B": "hostes",
-        "C": "filia",
-        "D": "corpus"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 40,
-      "question": "mors Part V) Choose the best word that completes the analogy.",
+      "question_number": 0,
+      "question": "mors",
       "options": {
-        "A": "vir",
-        "B": "tempus",
-        "C": "pax",
-        "D": "vita"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 41,
+      "question_number": 1,
       "question": "liber : miles :: _____ : servus",
       "options": {
-        "A": "homo",
-        "B": "captivus",
-        "C": "aequus",
-        "D": "noster"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 42,
+      "question_number": 2,
       "question": "cacumen : ____ :: tectum : villa",
       "options": {
-        "A": "arbor",
-        "B": "corpus",
-        "C": "silva",
-        "D": "caput"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 43,
+      "question_number": 3,
       "question": "coquere : cibus :: munire : ______",
       "options": {
-        "A": "fenestra",
-        "B": "terra",
-        "C": "regnum",
-        "D": "animus"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 44,
+      "question_number": 4,
       "question": "facere : ______ :: currere : remanere",
       "options": {
-        "A": "iacere",
-        "B": "vertere",
-        "C": "impedire",
-        "D": "dolere"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 45,
-      "question": "olim : semper :: ______ : omnis Part VI) Choose the word that is not like the others.",
+      "question_number": 5,
+      "question": "olim : semper :: ______ : omnis",
       "options": {
-        "A": "quid",
-        "B": "brevis",
-        "C": "turba",
-        "D": "aliquis"
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
       },
       "type": "multiple_choice",
-      "instruction": "Please choose the best possible answer:",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "",
+      "options": {
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "",
+      "options": {
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "",
+      "options": {
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen",
+        "A": "veritas"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "",
+      "options": {
+        "B": "mors",
+        "C": "fides",
+        "D": "flumen"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
       "correct_answer": null
     }
   ],
   "metadata": {
     "year": 2017,
     "format": "pre_2018",
-    "total_questions": 45
+    "total_questions": 49
   }
 }

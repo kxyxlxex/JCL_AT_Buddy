@@ -1,0 +1,542 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "litus",
+    "question_options": {
+      "A": "garbage",
+      "B": "dirt",
+      "C": "shore",
+      "D": "book"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 2,
+    "question_body": "mos",
+    "question_options": {
+      "A": "custom",
+      "B": "death",
+      "C": "art",
+      "D": "month"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 3,
+    "question_body": "audax",
+    "question_options": {
+      "A": "weak",
+      "B": "old",
+      "C": "young",
+      "D": "bold"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 4,
+    "question_body": "patior",
+    "question_options": {
+      "A": "to pat",
+      "B": "to allow",
+      "C": "to degrade",
+      "D": "to hinder"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 5,
+    "question_body": "scalae",
+    "question_options": {
+      "A": "cliff",
+      "B": "ladder",
+      "C": "rug",
+      "D": "scales"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 6,
+    "question_body": "lapis",
+    "question_options": {
+      "A": "rabbit",
+      "B": "ground",
+      "C": "stone",
+      "D": "leopard"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 7,
+    "question_body": "iter facere",
+    "question_options": {
+      "A": "to march",
+      "B": "to write a plan",
+      "C": "to arrange transportation",
+      "D": "to make a choice"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 8,
+    "question_body": "divitiae",
+    "question_options": {
+      "A": "rulers",
+      "B": "lines",
+      "C": "divinities",
+      "D": "wealth"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 9,
+    "question_body": "spargo",
+    "question_options": {
+      "A": "to go forth",
+      "B": "to express",
+      "C": "to feel",
+      "D": "to sprinkle"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 10,
+    "question_body": "caterva",
+    "question_options": {
+      "A": "crowd",
+      "B": "hole",
+      "C": "cave",
+      "D": "guard"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 11,
+    "question_body": "potius quam",
+    "question_options": {
+      "A": "moreover",
+      "B": "hereafter",
+      "C": "rather than",
+      "D": "better than"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 12,
+    "question_body": "niteo",
+    "question_options": {
+      "A": "to deny",
+      "B": "to speak",
+      "C": "to order",
+      "D": "to shine"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 13,
+    "question_body": "onustus",
+    "question_options": {
+      "A": "laden",
+      "B": "honored",
+      "C": "alleviated",
+      "D": "shamed"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part I. Choose the best translation for the given Latin word(s)."
+  },
+  {
+    "question_index": 14,
+    "question_body": "face",
+    "question_options": {
+      "A": "vulnus",
+      "B": "vultus",
+      "C": "vis",
+      "D": "vitium"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II. Choose the Latin word or phrase which best translates the given English word(s)."
+  },
+  {
+    "question_index": 15,
+    "question_body": "before",
+    "question_options": {
+      "A": "nusquam",
+      "B": "simul ac",
+      "C": "antequam",
+      "D": "primo"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II. Choose the Latin word or phrase which best translates the given English word(s)."
+  },
+  {
+    "question_index": 16,
+    "question_body": "to enter",
+    "question_options": {
+      "A": "polliceor",
+      "B": "proficiscor",
+      "C": "orior",
+      "D": "ingredior"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II. Choose the Latin word or phrase which best translates the given English word(s)."
+  },
+  {
+    "question_index": 17,
+    "question_body": "at dawn",
+    "question_options": {
+      "A": "primā luce",
+      "B": "primo",
+      "C": "dies",
+      "D": "lux"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II. Choose the Latin word or phrase which best translates the given English word(s)."
+  },
+  {
+    "question_index": 18,
+    "question_body": "trench",
+    "question_options": {
+      "A": "turpis",
+      "B": "negotium",
+      "C": "fossa",
+      "D": "crater"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II. Choose the Latin word or phrase which best translates the given English word(s)."
+  },
+  {
+    "question_index": 19,
+    "question_body": "to learn",
+    "question_options": {
+      "A": "doceo",
+      "B": "disco",
+      "C": "attingo",
+      "D": "disicio"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II. Choose the Latin word or phrase which best translates the given English word(s)."
+  },
+  {
+    "question_index": 20,
+    "question_body": "to take away",
+    "question_options": {
+      "A": "aufero",
+      "B": "affero",
+      "C": "subfero",
+      "D": "offero"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II. Choose the Latin word or phrase which best translates the given English word(s)."
+  },
+  {
+    "question_index": 21,
+    "question_body": "wordy",
+    "question_options": {
+      "A": "verbero",
+      "B": "verber",
+      "C": "venter",
+      "D": "verbosus"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II. Choose the Latin word or phrase which best translates the given English word(s)."
+  },
+  {
+    "question_index": 22,
+    "question_body": "rain",
+    "question_options": {
+      "A": "nix",
+      "B": "nex",
+      "C": "oleum",
+      "D": "imber"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II. Choose the Latin word or phrase which best translates the given English word(s)."
+  },
+  {
+    "question_index": 23,
+    "question_body": "certain",
+    "question_options": {
+      "A": "quidam",
+      "B": "quidem",
+      "C": "aliquis",
+      "D": "quicumque"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II. Choose the Latin word or phrase which best translates the given English word(s)."
+  },
+  {
+    "question_index": 24,
+    "question_body": "ox",
+    "question_options": {
+      "A": "bucina",
+      "B": "bos",
+      "C": "bestia",
+      "D": "bruma"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II. Choose the Latin word or phrase which best translates the given English word(s)."
+  },
+  {
+    "question_index": 25,
+    "question_body": "to use",
+    "question_options": {
+      "A": "uter",
+      "B": "usus",
+      "C": "utor",
+      "D": "utrum"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part II. Choose the Latin word or phrase which best translates the given English word(s)."
+  },
+  {
+    "question_index": 26,
+    "question_body": "patria",
+    "question_options": {
+      "A": "aedificium",
+      "B": "pater",
+      "C": "regia",
+      "D": "fines"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part III. Choose the SYNONYM of the given Latin word."
+  },
+  {
+    "question_index": 27,
+    "question_body": "incolumis",
+    "question_options": {
+      "A": "perpetuus",
+      "B": "diversus",
+      "C": "tutus",
+      "D": "incommodus"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part III. Choose the SYNONYM of the given Latin word."
+  },
+  {
+    "question_index": 28,
+    "question_body": "prudenter",
+    "question_options": {
+      "A": "pariter",
+      "B": "sapienter",
+      "C": "memoriter",
+      "D": "firmiter"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part III. Choose the SYNONYM of the given Latin word."
+  },
+  {
+    "question_index": 29,
+    "question_body": "iterum",
+    "question_options": {
+      "A": "rursus",
+      "B": "tandem",
+      "C": "atque",
+      "D": "interim"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part III. Choose the SYNONYM of the given Latin word."
+  },
+  {
+    "question_index": 30,
+    "question_body": "in dies",
+    "question_options": {
+      "A": "interdiu",
+      "B": "pridie",
+      "C": "diu",
+      "D": "cotidie"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part III. Choose the SYNONYM of the given Latin word."
+  },
+  {
+    "question_index": 31,
+    "question_body": "frango",
+    "question_options": {
+      "A": "haereo",
+      "B": "rumpo",
+      "C": "incipio",
+      "D": "foveo"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part III. Choose the SYNONYM of the given Latin word."
+  },
+  {
+    "question_index": 32,
+    "question_body": "poena",
+    "question_options": {
+      "A": "pondus",
+      "B": "suspicio",
+      "C": "supplicum",
+      "D": "suffragium"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part III. Choose the SYNONYM of the given Latin word."
+  },
+  {
+    "question_index": 33,
+    "question_body": "omnis",
+    "question_options": {
+      "A": "totus",
+      "B": "tutus",
+      "C": "solus",
+      "D": "orbis"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part III. Choose the SYNONYM of the given Latin word."
+  },
+  {
+    "question_index": 34,
+    "question_body": "reperio",
+    "question_options": {
+      "A": "invenio",
+      "B": "amitto",
+      "C": "recondo",
+      "D": "discedo"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part IV. Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 35,
+    "question_body": "singuli",
+    "question_options": {
+      "A": "par",
+      "B": "ingens",
+      "C": "latus",
+      "D": "unā"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part IV. Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 36,
+    "question_body": "vendo",
+    "question_options": {
+      "A": "flo",
+      "B": "emo",
+      "C": "edo",
+      "D": "do"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part IV. Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 37,
+    "question_body": "valles",
+    "question_options": {
+      "A": "flumen",
+      "B": "murus",
+      "C": "maceria",
+      "D": "mons"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part IV. Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 38,
+    "question_body": "tenebrae",
+    "question_options": {
+      "A": "lux",
+      "B": "lutum",
+      "C": "tegula",
+      "D": "telum"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part IV. Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 39,
+    "question_body": "patricii",
+    "question_options": {
+      "A": "avus",
+      "B": "hostis",
+      "C": "vulgus",
+      "D": "matercula"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part IV. Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 40,
+    "question_body": "latus",
+    "question_options": {
+      "A": "magnus",
+      "B": "angustus",
+      "C": "candidus",
+      "D": "tantus"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part IV. Choose the ANTONYM of the given Latin word."
+  },
+  {
+    "question_index": 46,
+    "question_body": "nasus : os ::",
+    "question_options": {
+      "A": "navis : classis",
+      "B": "flamma : aqua",
+      "C": "bracchium : crus",
+      "D": "miles : gladius"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part V. Choose the word which does NOT belong by meaning."
+  },
+  {
+    "question_index": 47,
+    "question_body": "limen : ianua ::",
+    "question_options": {
+      "A": "navis : nauta",
+      "B": "vir : morbus",
+      "C": "rota : quadriga",
+      "D": "mos : civis"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part V. Choose the word which does NOT belong by meaning."
+  },
+  {
+    "question_index": 48,
+    "question_body": "casa : tectum ::",
+    "question_options": {
+      "A": "fenestra : pons",
+      "B": "miles : gladius",
+      "C": "canis : feles",
+      "D": "navis : velum"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part V. Choose the word which does NOT belong by meaning."
+  },
+  {
+    "question_index": 49,
+    "question_body": "bonus : optimus ::",
+    "question_options": {
+      "A": "malus : peior",
+      "B": "intellegens : peringeniosus",
+      "C": "puer : iuvenis",
+      "D": "scriba : carmen"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part V. Choose the word which does NOT belong by meaning."
+  },
+  {
+    "question_index": 50,
+    "question_body": "damno : condono ::",
+    "question_options": {
+      "A": "capio : libero",
+      "B": "lustro : inspicio",
+      "C": "malo : volo",
+      "D": "appono : applico"
+    },
+    "question_key": "UNKNOWN",
+    "question_instruction": "Part V. Choose the word which does NOT belong by meaning."
+  }
+]

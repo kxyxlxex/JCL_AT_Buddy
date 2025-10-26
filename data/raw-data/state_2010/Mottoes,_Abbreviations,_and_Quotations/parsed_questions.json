@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "Ab ovo",
+    "question_options": {
+      "A": "the end of time",
+      "B": "from the beginning",
+      "C": "away to the end",
+      "D": "a beginning of time"
+    },
+    "question_key": "C",
+    "question_instruction": "Part I. Phrases"
+  },
+  {
+    "question_index": 2,
+    "question_body": "“Red-handed”",
+    "question_options": {
+      "A": "in flagrante delicto",
+      "B": "in portu quies",
+      "C": "in sanguine foedus",
+      "D": "in malos cornu"
+    },
+    "question_key": "C",
+    "question_instruction": "Part I. Phrases"
+  },
+  {
+    "question_index": 3,
+    "question_body": "Per centum",
+    "question_options": {
+      "A": "by the thousand",
+      "B": "by the million",
+      "C": "by the hundred",
+      "D": "by the money"
+    },
+    "question_key": "C",
+    "question_instruction": "Part I. Phrases"
+  },
+  {
+    "question_index": 4,
+    "question_body": "Make haste slowly",
+    "question_options": {
+      "A": "index rerum",
+      "B": "intra vires",
+      "C": "fessus viator",
+      "D": "festina lente"
+    },
+    "question_key": "A",
+    "question_instruction": "Part I. Phrases"
+  },
+  {
+    "question_index": 5,
+    "question_body": "Sui generis",
+    "question_options": {
+      "A": "unsubstantiated",
+      "B": "unique",
+      "C": "unlucky",
+      "D": "unsolicited"
+    },
+    "question_key": "D",
+    "question_instruction": "Part I. Phrases"
+  },
+  {
+    "question_index": 6,
+    "question_body": "In legal terms, if information isn’t pertinent to a case it might be ruled which of these?",
+    "question_options": {
+      "A": "ex nunc",
+      "B": "obiter dictum",
+      "C": "in terrorem",
+      "D": "per stirpes"
+    },
+    "question_key": "B",
+    "question_instruction": "Part I. Phrases"
+  },
+  {
+    "question_index": 7,
+    "question_body": "Banished/exiled",
+    "question_options": {
+      "A": "aqua et igni interdictus",
+      "B": "emeritus",
+      "C": "nascitur non fit",
+      "D": "de pilo pendet"
+    },
+    "question_key": "B",
+    "question_instruction": "Part I. Phrases"
+  },
+  {
+    "question_index": 8,
+    "question_body": "Which of these is also called a curriculum vitae?",
+    "question_options": {
+      "A": "will",
+      "B": "birth certificate",
+      "C": "resumé",
+      "D": "recommendation"
+    },
+    "question_key": "C",
+    "question_instruction": "Part I. Phrases"
+  },
+  {
+    "question_index": 9,
+    "question_body": "Sine mora",
+    "question_options": {
+      "A": "painless",
+      "B": "without envy",
+      "C": "immediately",
+      "D": "unaided"
+    },
+    "question_key": "D",
+    "question_instruction": "Part I. Phrases"
+  },
+  {
+    "question_index": 10,
+    "question_body": "Sententia iudicum",
+    "question_options": {
+      "A": "spirit of the law",
+      "B": "finding of the jury",
+      "C": "the right of the accused",
+      "D": "miscarriage of justice"
+    },
+    "question_key": "A",
+    "question_instruction": "Part I. Phrases"
+  },
+  {
+    "question_index": 11,
+    "question_body": "Leisure hours",
+    "question_options": {
+      "A": "horae canonicae",
+      "B": "horae mensae",
+      "C": "horae domi",
+      "D": "horae subsicivae"
+    },
+    "question_key": "C",
+    "question_instruction": "Part I. Phrases"
+  },
+  {
+    "question_index": 12,
+    "question_body": "Nec caput nec pedes",
+    "question_options": {
+      "A": "in confusion",
+      "B": "in person",
+      "C": "in transition",
+      "D": "in absence of"
+    },
+    "question_key": "C",
+    "question_instruction": "Part I. Phrases"
+  },
+  {
+    "question_index": 13,
+    "question_body": "Metro Goldwyn Mayer",
+    "question_options": {
+      "A": "ars ludicra",
+      "B": "ars gratia artis",
+      "C": "ars poetica",
+      "D": "ars artium"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 14,
+    "question_body": "Urbs in horto",
+    "question_options": {
+      "A": "New York City",
+      "B": "San Francisco",
+      "C": "Boston",
+      "D": "Chicago"
+    },
+    "question_key": "B",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 15,
+    "question_body": "West Virginia",
+    "question_options": {
+      "A": "Montani semper liberi",
+      "B": "Qui transtulit sustinet",
+      "C": "Sic semper tyrannis",
+      "D": "Crescit eundo"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 16,
+    "question_body": "This motto is the motto of a state and one of the major universities in that state.",
+    "question_options": {
+      "A": "Virtute et armis",
+      "B": "Esto perpetua",
+      "C": "Veritas vos liberabit",
+      "D": "Qui transtulit sustinet"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 17,
+    "question_body": "Trinity College",
+    "question_options": {
+      "A": "Nil sine magno labore",
+      "B": "Pro ecclesia et patria",
+      "C": "In Deo speramus",
+      "D": "Regnat populus"
+    },
+    "question_key": "C",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 18,
+    "question_body": "Bryn Mawr College",
+    "question_options": {
+      "A": "Veritatem Dilexi",
+      "B": "Terras irradiant",
+      "C": "Mihi cura futuri",
+      "D": "Veritas"
+    },
+    "question_key": "A",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 19,
+    "question_body": "Which of these are mottoes of the state of South Carolina: I. Animis opibusque parati, II. Crescite et multiplicamini, III. Dum spiro, spero",
+    "question_options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "I, II, and III"
+    },
+    "question_key": "D",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 20,
+    "question_body": "Cambridge University",
+    "question_options": {
+      "A": "Non ministrari sed ministrare",
+      "B": "Deo ac veritati",
+      "C": "Hinc lucem et pocula sacra",
+      "D": "Dominus illuminatio mea"
+    },
+    "question_key": "C",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 21,
+    "question_body": "Kings and Queens of England",
+    "question_options": {
+      "A": "Defensor Fidei",
+      "B": "Nemo me impune lacessit",
+      "C": "In hoc signo vinces",
+      "D": "Ego sum civitas"
+    },
+    "question_key": "B",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 22,
+    "question_body": "Mens et manus",
+    "question_options": {
+      "A": "NYU",
+      "B": "Cornell",
+      "C": "Boston College",
+      "D": "MIT"
+    },
+    "question_key": "C",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 23,
+    "question_body": "Hic et ubique terrarium",
+    "question_options": {
+      "A": "University of Madrid",
+      "B": "University of Vienna",
+      "C": "University of Berlin",
+      "D": "University of Paris"
+    },
+    "question_key": "D",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 24,
+    "question_body": "Which state’s Latin motto does NOT contain a verb?",
+    "question_options": {
+      "A": "Wyoming",
+      "B": "Kentucky",
+      "C": "Ohio",
+      "D": "Massachusetts"
+    },
+    "question_key": "D",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 25,
+    "question_body": "The U.S. Public Library System",
+    "question_options": {
+      "A": "in libris bonis",
+      "B": "in libris libertas",
+      "C": "in oculis civium",
+      "D": "Libri in civitatem"
+    },
+    "question_key": "D",
+    "question_instruction": "Part II. Mottoes"
+  },
+  {
+    "question_index": 26,
+    "question_body": "e.g.",
+    "question_options": {
+      "A": "for example",
+      "B": "and elsewhere",
+      "C": "and others",
+      "D": "on equal terms"
+    },
+    "question_key": "A",
+    "question_instruction": "Part III. Abbreviations"
+  },
+  {
+    "question_index": 27,
+    "question_body": "The place of the seal",
+    "question_options": {
+      "A": "H.S.",
+      "B": "A.H.S.",
+      "C": "V.S.",
+      "D": "L.S."
+    },
+    "question_key": "B",
+    "question_instruction": "Part III. Abbreviations"
+  },
+  {
+    "question_index": 28,
+    "question_body": "In this month",
+    "question_options": {
+      "A": "s.v.",
+      "B": "h.m.",
+      "C": "q.d.",
+      "D": "c.a.v."
+    },
+    "question_key": "A",
+    "question_instruction": "Part III. Abbreviations"
+  },
+  {
+    "question_index": 29,
+    "question_body": "viz.",
+    "question_options": {
+      "A": "videlicet",
+      "B": "vide supra",
+      "C": "videri",
+      "D": "vincet"
+    },
+    "question_key": "D",
+    "question_instruction": "Part III. Abbreviations"
+  },
+  {
+    "question_index": 30,
+    "question_body": "p.r.n.",
+    "question_options": {
+      "A": "whenever necessary",
+      "B": "see above entry",
+      "C": "temporarily",
+      "D": "a powder"
+    },
+    "question_key": "C",
+    "question_instruction": "Part III. Abbreviations"
+  },
+  {
+    "question_index": 31,
+    "question_body": "i.q.",
+    "question_options": {
+      "A": "at your invitation",
+      "B": "in respect of",
+      "C": "it is so",
+      "D": "the same as"
+    },
+    "question_key": "A",
+    "question_instruction": "Part III. Abbreviations"
+  },
+  {
+    "question_index": 32,
+    "question_body": "au",
+    "question_options": {
+      "A": "silver",
+      "B": "gold",
+      "C": "lead",
+      "D": "copper"
+    },
+    "question_key": "D",
+    "question_instruction": "Part III. Abbreviations"
+  },
+  {
+    "question_index": 33,
+    "question_body": "A person who died without heirs",
+    "question_options": {
+      "A": "q.s.",
+      "B": "s.t.b.",
+      "C": "b.p.",
+      "D": "d.s.p."
+    },
+    "question_key": "C",
+    "question_instruction": "Part III. Abbreviations"
+  },
+  {
+    "question_index": 34,
+    "question_body": "It is not permitted",
+    "question_options": {
+      "A": "n.b.",
+      "B": "n.s.",
+      "C": "n.l.",
+      "D": "n.p."
+    },
+    "question_key": "C",
+    "question_instruction": "Part III. Abbreviations"
+  },
+  {
+    "question_index": 35,
+    "question_body": "oculo utro",
+    "question_options": {
+      "A": "in the left eye",
+      "B": "in the right eye",
+      "C": "in either eye",
+      "D": "in both eyes"
+    },
+    "question_key": "D",
+    "question_instruction": "Part III. Abbreviations"
+  },
+  {
+    "question_index": 36,
+    "question_body": "ss",
+    "question_options": {
+      "A": "1/2",
+      "B": "1/4",
+      "C": "3/4",
+      "D": "1/"
+    },
+    "question_key": "C",
+    "question_instruction": "Part III. Abbreviations"
+  },
+  {
+    "question_index": 37,
+    "question_body": "and his wife as well",
+    "question_options": {
+      "A": "et seq.",
+      "B": "et al.",
+      "C": "et ux.",
+      "D": "ead."
+    },
+    "question_key": "B",
+    "question_instruction": "Part III. Abbreviations"
+  },
+  {
+    "question_index": 38,
+    "question_body": "Sedit qui timuit ne non succederet",
+    "question_options": {
+      "A": "Horace",
+      "B": "Ennius",
+      "C": "Catullus",
+      "D": "Tibullus"
+    },
+    "question_key": "C",
+    "question_instruction": "Part IV. Quotations"
+  },
+  {
+    "question_index": 39,
+    "question_body": "Ora et labora",
+    "question_options": {
+      "A": "St. Augustine",
+      "B": "St. John Chrysostom",
+      "C": "St. Benedict",
+      "D": "St. Gregory the Great"
+    },
+    "question_key": "A",
+    "question_instruction": "Part IV. Quotations"
+  },
+  {
+    "question_index": 40,
+    "question_body": "Inter arma leges silent",
+    "question_options": {
+      "A": "Cicero",
+      "B": "Julius Caesar",
+      "C": "Livy",
+      "D": "Seneca the Elder"
+    },
+    "question_key": "C",
+    "question_instruction": "Part IV. Quotations"
+  },
+  {
+    "question_index": 41,
+    "question_body": "Quot homines, tot sententiae: suus cuique mos",
+    "question_options": {
+      "A": "Marcus Aurelius",
+      "B": "Juvenal",
+      "C": "Terence",
+      "D": "Martial"
+    },
+    "question_key": "B",
+    "question_instruction": "Part IV. Quotations"
+  },
+  {
+    "question_index": 42,
+    "question_body": "Alea iacta est",
+    "question_options": {
+      "A": "Ovid",
+      "B": "Julius Caesar",
+      "C": "Lucretius",
+      "D": "Seneca"
+    },
+    "question_key": "A",
+    "question_instruction": "Part IV. Quotations"
+  },
+  {
+    "question_index": 43,
+    "question_body": "Tantae molis erat Romanam condere gentem",
+    "question_options": {
+      "A": "Livy",
+      "B": "Vergil",
+      "C": "Sallust",
+      "D": "Tacitus"
+    },
+    "question_key": "B",
+    "question_instruction": "Part IV. Quotations"
+  },
+  {
+    "question_index": 44,
+    "question_body": "Odi et amo",
+    "question_options": {
+      "A": "Catullus",
+      "B": "Ovid",
+      "C": "Phaedrus",
+      "D": "Horace"
+    },
+    "question_key": "D",
+    "question_instruction": "Part IV. Quotations"
+  },
+  {
+    "question_index": 45,
+    "question_body": "Errare humanum est",
+    "question_options": {
+      "A": "Lucretius",
+      "B": "Ennius",
+      "C": "Vergil",
+      "D": "Seneca the Younger"
+    },
+    "question_key": "C",
+    "question_instruction": "Part IV. Quotations"
+  },
+  {
+    "question_index": 46,
+    "question_body": "Cathago delenda est",
+    "question_options": {
+      "A": "Sallust",
+      "B": "Julius Caesar",
+      "C": "Cato the Elder",
+      "D": "Vergil"
+    },
+    "question_key": "D",
+    "question_instruction": "Part IV. Quotations"
+  },
+  {
+    "question_index": 47,
+    "question_body": "Invidiam, tanquam ignem, summa petere",
+    "question_options": {
+      "A": "Livy",
+      "B": "Tacitus",
+      "C": "Tibullus",
+      "D": "Cornelius Nepos"
+    },
+    "question_key": "B",
+    "question_instruction": "Part IV. Quotations"
+  },
+  {
+    "question_index": 48,
+    "question_body": "Qualis artifex, pereo",
+    "question_options": {
+      "A": "Nero",
+      "B": "Tiberius",
+      "C": "Caligula",
+      "D": "Vespasian"
+    },
+    "question_key": "A",
+    "question_instruction": "Part IV. Quotations"
+  },
+  {
+    "question_index": 49,
+    "question_body": "Quictili Vare, legiones redde!",
+    "question_options": {
+      "A": "Julius Caesar",
+      "B": "Augustus",
+      "C": "Vespasian",
+      "D": "Titus"
+    },
+    "question_key": "D",
+    "question_instruction": "Part IV. Quotations"
+  },
+  {
+    "question_index": 50,
+    "question_body": "Which of these is NOT a quotation attributed to Martial?",
+    "question_options": {
+      "A": "Ille dolet vere qui sine teste dolet",
+      "B": "Vita non est vivere sed valere vita est",
+      "C": "Nullus est liber tam malus ut non aliqua parte prosit",
+      "D": "Non amo te, Sabidi"
+    },
+    "question_key": "C",
+    "question_instruction": "Part IV. Quotations"
+  }
+]

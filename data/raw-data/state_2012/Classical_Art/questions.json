@@ -2,644 +2,671 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "Image 1 portrays Sophia, wife of _____________, the first excavator at Troy and Mycenae, wearing Trojan gold they found.",
+      "question": "Image 1 portrays Sophia, wife of _____________, the first excavator at Troy and Mycenae, wearing\nTrojan gold they foun",
       "options": {
-        "A": "Evans",
-        "B": "Schliemann",
-        "C": "Blegan",
-        "D": "Rose"
+        "A": "The Andokides painter",
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 2,
       "question": "Image 2 portrays a gold mask, found by the same archeologist, who called it the “Mask of ________.”",
       "options": {
-        "A": "Achilles",
-        "B": "Agamemnon",
-        "C": "Menelaus",
-        "D": "Paris"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 3,
       "question": "Image 3 shows a famous painting from Pompeii in the",
       "options": {
-        "A": "Villa of the Mysteries",
-        "B": "Villa of Cicero",
-        "C": "House of the Vettii",
-        "D": "House of the Silver Wedding"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 4,
       "question": "Image 3 is done in the ______ Pompeian style.",
       "options": {
-        "A": "1st",
-        "B": "2nd",
-        "C": "3rd",
-        "D": "4th"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 5,
-      "question": "Image 4 shows an arch in Rome, most famous for its “damnatio” (erasure) of Emperor Geta.",
+      "question": "Image 4 shows an arch in Rome, most famous for its “damnatio” (erasure) of Emperor Get",
       "options": {
-        "A": "Arch of Titus",
-        "B": "Arch of Constantine",
-        "C": "Arch of Augustus",
-        "D": "Arch of Septimius Severus"
+        "A": "The Andokides painter",
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 6,
       "question": "Image 5 depicts a bronze statue found in the sea off the coast of Sicily. It is called the",
       "options": {
-        "A": "Zeus/Poseidon from Artemisium",
-        "B": "Riace Warrior",
-        "C": "Critios Boy",
-        "D": "Marathon Boy"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 7,
       "question": "Image 5 can be described in style as",
       "options": {
-        "A": "Etruscan",
-        "B": "Minoan",
-        "C": "Hellenistic Greek",
-        "D": "Classical Greek"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 8,
       "question": "Image 6 displays a wall of concrete, a popular and effective building material, in the style known as",
       "options": {
-        "A": "opus reticulatum",
-        "B": "opus mixtum",
-        "C": "opus testaceum",
-        "D": "opus incertum"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 9,
       "question": "Image 6: The crucial element responsible for the durability of Roman concrete was",
       "options": {
-        "A": "pozzolana b.imbrex",
-        "C": "tegula",
-        "D": "taenia"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 10,
+      "question_number": 0,
       "question": "Image 7 shows a vessel known as a",
       "options": {
-        "A": "kantharos",
-        "B": "rhyton",
-        "C": "crater",
-        "D": "hydria"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 11,
+      "question_number": 1,
       "question": "Image 7 is",
       "options": {
-        "A": "Minoan",
-        "B": "Etruscan",
-        "C": "Trojan",
-        "D": "Hellenistic Greek"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 12,
-      "question": "Image 8: These 3 goddesses (perhaps Hestia, Dione, and Aphrodite) are from the east pedimental sculpture on the",
+      "question_number": 2,
+      "question": "Image 8: These 3 goddesses (perhaps Hestia, Dione, and Aphrodite) are from the east pedimental\nsculpture on the",
       "options": {
-        "A": "Temple of Poseidon at Sounion",
-        "B": "Temple of Artemis at Ephesus",
-        "C": "Parthenon at Athens",
-        "D": "Temple of Apollo at Bassae"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 13,
+      "question_number": 3,
       "question": "Image 8: The subject of the pedimental sculpture on the west pediment was",
       "options": {
-        "A": "Daphne and Apollo",
-        "B": "The wedding of Peleus and Thetis",
-        "C": "A shooting contest between Orion and Artemis",
-        "D": "The contest between Athena and Poseidon"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 14,
+      "question_number": 4,
       "question": "Image 9 depicts lifesize Zeus and Ganymede made from",
       "options": {
-        "A": "marble",
-        "B": "bronze",
-        "C": "terra cotta",
-        "D": "alabaster"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 15,
+      "question_number": 5,
       "question": "Image 9 was believed to have originally stood ______________",
       "options": {
-        "A": "on a temple roof as akroterion",
-        "B": "over a grave, as a stele",
-        "C": "in a house shrine, as Lares",
-        "D": "in the baths, as a fountain"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 16,
+      "question_number": 6,
       "question": "Image 10 is the famous gate leading to",
       "options": {
-        "A": "Minos’ palace at Knossos",
-        "B": "Agamemnon’s palace at Mycenae",
-        "C": "Nestor’s palace at Pylos",
-        "D": "Priam’s palace at Troy"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 17,
+      "question_number": 7,
       "question": "Image 11 is the Scraper by the sculptor",
       "options": {
-        "A": "Lysippos",
-        "B": "Scopas",
-        "C": "Praxiteles",
-        "D": "Polycleitos"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 18,
+      "question_number": 8,
       "question": "Image 11 is also called",
       "options": {
-        "A": "Anayssos Kouros",
-        "B": "Apoxyomenos",
-        "C": "Discobolus",
-        "D": "Doryphorous"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 19,
-      "question": "Image 12 is a reconstruction of the statue of Athena Parthenos now in the Nashville Parthenon. The original was created by the sculptor",
+      "question_number": 9,
+      "question": "Image 12 is a reconstruction of the statue of Athena Parthenos now in the Nashville Parthenon. The\noriginal was created by the sculptor",
       "options": {
-        "A": "Polycleitus",
-        "B": "Phidias",
-        "C": "Ictinus",
-        "D": "Apollodorus"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 20,
+      "question_number": 0,
       "question": "Image 12: The original statue’s material was called ‘chryselephantine’ because it was made of",
       "options": {
-        "A": "peperino",
-        "B": "granite",
-        "C": "alabaster",
-        "D": "gold and ivory"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 21,
+      "question_number": 1,
       "question": "Image 13 is a closeup of the",
       "options": {
-        "A": "Eurymedon Vase",
-        "B": "Harvester Vase",
-        "C": "Portland Vase",
-        "D": "Exekias vase"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 22,
+      "question_number": 2,
       "question": "Image 14 depicts the crazed Emperor ___________ as Hercules.",
       "options": {
-        "A": "Caligula",
-        "B": "Nero",
-        "C": "Domitian",
-        "D": "Commodus"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 23,
-      "question": "Image 15 depicts a well-­‐respected Emperor who was said to have restarted the ancient Roman custom of wearing beards – although it is believed to have covered a scar on his face.",
+      "question_number": 3,
+      "question": "Image 15 depicts a well-­‐respected Emperor who was said to have restarted the ancient Roman\ncustom of wearing beards – although it is believed to have covered a scar on his face.",
       "options": {
-        "A": "Constantine",
-        "B": "Julian",
-        "C": "Trajan",
-        "D": "Hadrian"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 24,
+      "question_number": 4,
       "question": "Image 16 is what type of column style, with a tapering column shaft?",
       "options": {
-        "A": "Doric",
-        "B": "Tuscan",
-        "C": "Minoan",
-        "D": "Pergamene"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 25,
+      "question_number": 5,
       "question": "Image 17 depicts the reconstruction of the Torreador Fresco from",
       "options": {
-        "A": "Knossos",
-        "B": "Pompeii",
-        "C": "Segovia",
-        "D": "Massilia"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 26,
+      "question_number": 6,
       "question": "Image 18 shows the famous Bathers from the",
       "options": {
-        "A": "House of Livia, Primaporta",
-        "B": "House of the Faun, Pompeii",
-        "C": "Villa Iovis, Capri",
-        "D": "Villa Armerina in Sicily"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 27,
+      "question_number": 7,
       "question": "Image 18: The medium of art is",
       "options": {
-        "A": "fresco",
-        "B": "mosaic",
-        "C": "painted medallion",
-        "D": "ceramic plate"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 28,
+      "question_number": 8,
       "question": "Image 19 is a reconstruction of a famous funereal structure, the",
       "options": {
-        "A": "Tomb of Hadrian, Rome",
-        "B": "Tomb of Augustus, Rome",
-        "C": "Mausoleum of Mausolus, Halicarnassus",
-        "D": "Altar of Zeus, Pergamum"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 29,
-      "question": "Image 20: The image on the left, displayed in the center of Michaelangelo’s Piazza on the Capitoline Hill, is copy of the famous equestrian statue (now is safely housed inside the Capitoline Museum) which portrays",
+      "question_number": 9,
+      "question": "Image 20: The image on the left, displayed in the center of Michaelangelo’s Piazza on the Capitoline\nHill, is copy of the famous equestrian statue (now is safely housed inside the Capitoline\nMuseum) which portrays",
       "options": {
-        "A": "Commodus",
-        "B": "Brutus",
-        "C": "Marcus Aurelius",
-        "D": "Constantine"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 30,
+      "question_number": 0,
       "question": "Image 20: The original statue is made of",
       "options": {
-        "A": "granite",
-        "B": "bronze",
-        "C": "gold",
-        "D": "marble"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 31,
+      "question_number": 1,
       "question": "The Forma Urbis Romae (the Marble Plan), is a large map of ancient Rome done in the time of",
       "options": {
-        "A": "the Julio-­‐Claudians",
-        "B": "the Flavians",
-        "C": "The good emperors",
-        "D": "the Severans"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 32,
-      "question": "Emperor Tiberius had a few homes outside of Rome, one excavated at _____ where a large statue of Polyphemus being blinded by Odysseus was discovered.",
+      "question_number": 2,
+      "question": "Emperor Tiberius had a few homes outside of Rome, one excavated at _____ where a large statue\nof Polyphemus being blinded by Odysseus was discovere",
       "options": {
-        "A": "Sperlonga, Italy",
-        "B": "Split, Yugoslavia",
-        "C": "Ephesus, Greece",
-        "D": "Mykonos, Greece"
+        "A": "The Andokides painter",
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 33,
-      "question": "Which of the following locations does NOT have one of the now 26 Roman excavated amphitheaters?",
+      "question_number": 3,
+      "question": "Which of the following locations does NOT have one of the now 26 Roman excavated\namphitheaters?",
       "options": {
-        "A": "Arles, France",
-        "B": "Nimes, France",
-        "C": "Paestum, Italy",
-        "D": "Capua, Italy"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 34,
-      "question": "The eruption of Mt. Vesuvius covered Pompeii and Herculaneum as well as a number of large, opulent villas on a cliff at",
+      "question_number": 4,
+      "question": "The eruption of Mt. Vesuvius covered Pompeii and Herculaneum as well as a number of large,\nopulent villas on a cliff at",
       "options": {
-        "A": "Gaeta",
-        "B": "Misenum",
-        "C": "Stabiae",
-        "D": "Boscoreale"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 35,
+      "question_number": 5,
       "question": "The famous Vaphio Cups, depicting hunting scenes, were made from",
       "options": {
-        "A": "rock crystal",
-        "B": "bronze",
-        "C": "alabaster",
-        "D": "gold"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 36,
+      "question_number": 6,
       "question": "Spyridon Marinatos is most famous for his excavations at:",
       "options": {
-        "A": "Delphi",
-        "B": "Sparta",
-        "C": "Thera",
-        "D": "Pylos"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 37,
+      "question_number": 7,
       "question": "On a Greek temple, metopes were flanked by the",
       "options": {
-        "A": "Cornice",
-        "B": "Pediment",
-        "C": "Triglyphs",
-        "D": "Abacus"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 38,
-      "question": "2 large pleasure ships built by Emperor Caligula were found and raised from a lakebottom at ______ near Rome (but sadly were burned in World War II).",
+      "question_number": 8,
+      "question": "2 large pleasure ships built by Emperor Caligula were found and raised from a lakebottom at ______\nnear Rome (but sadly were burned in World War II).",
       "options": {
-        "A": "Gaeta",
-        "B": "Nemi",
-        "C": "Tusculum",
-        "D": "Sulmo"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 39,
+      "question_number": 9,
       "question": "The Capitoline Hill was the location of both the Temple of Jupiter Capitolinus and the Temple of",
       "options": {
-        "A": "Castor and Pollux",
-        "B": "Juno Moneta",
-        "C": "Concord",
-        "D": "deified Julius Caesar"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 40,
-      "question": "The Forum of Pompeii was an open space with a 2 story colonade and the Temple of ____ at the north end – a temple partially destroyed in the earthquake of A.D. 64.",
+      "question_number": 0,
+      "question": "The Forum of Pompeii was an open space with a 2 story colonade and the Temple of ____ at the\nnorth end – a temple partially destroyed in the earthquake of",
       "options": {
-        "A": "Jupiter",
-        "B": "Apollo",
-        "C": "Mars",
-        "D": "Neptune"
+        "A": "The Andokides painter",
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 41,
+      "question_number": 4,
+      "question": "",
+      "options": {
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
       "question": "The Chimaera of Arezzo is a bronze statue from the ______period",
       "options": {
-        "A": "Minoan",
-        "B": "Hellenistic Greek",
-        "C": "later Roman",
-        "D": "Etruscan"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 42,
-      "question": "The term defined as the slight convex curving on classical columns to correct the optical illusion of concavity is:",
+      "question_number": 2,
+      "question": "The term defined as the slight convex curving on classical columns to correct the optical illusion of\nconcavity is:",
       "options": {
-        "A": "Contraposto",
-        "B": "Hypostyle",
-        "C": "Architrave",
-        "D": "Entasis"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 43,
-      "question": "The famous Doric Temple of Poseidon (c.460 B.C.) was discovered near the so-called Basilica (another Doric Temple) at",
+      "question_number": 3,
+      "question": "The famous Doric Temple of Poseidon (",
       "options": {
-        "A": "Corcyra",
-        "B": "Paestum",
-        "C": "Agrigento",
-        "D": "Olympia"
+        "A": "The Andokides painter",
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 44,
+      "question_number": 4,
       "question": "The Greek pottery shape used for storing cosmetics is",
       "options": {
-        "A": "oinochoe",
-        "B": "kylix",
-        "C": "pyxis",
-        "D": "lekythos"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 45,
-      "question": "Although, the Mausoleum of Halicarnassus was destroyed in an earthquake, the large statues of Mausolus and his wife Artemesia are preserved in a well known museum in",
+      "question_number": 5,
+      "question": "Although, the Mausoleum of Halicarnassus was destroyed in an earthquake, the large statues of\nMausolus and his wife Artemesia are preserved in a well known museum in",
       "options": {
-        "A": "Paris",
-        "B": "Istanbul",
-        "C": "London",
-        "D": "Athens"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 46,
+      "question_number": 6,
       "question": "The sculptors Agesander, Athenodorus, and Polydorus were credited with",
       "options": {
-        "A": "Laocoon",
-        "B": "Venus de Milo",
-        "C": "Colossus of Rhodes",
-        "D": "Discobolus"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 47,
+      "question_number": 7,
       "question": "The artist responsible for Trajan’s Forum and column was",
       "options": {
-        "A": "Vitruvius",
-        "B": "Apollodorus",
-        "C": "Chares",
-        "D": "Antinous"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 48,
+      "question_number": 8,
       "question": "In Rome, Testaccio remains as an example of an ancient Roman _____.",
       "options": {
-        "A": "Archive for property ownership within the city walls",
-        "B": "Warehouse on the Tiber for unloading trade arriving from Ostia",
-        "C": "Lock system for boat traffic on the Tiber from Ostia",
-        "D": "Garbage dump for used amphorae"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 49,
-      "question": "The _________is the fake porch at the back of a Greek temple behind the cella/naos of the temple, but not allowing entry to the cella/naos.",
+      "question_number": 9,
+      "question": "The _________is the fake porch at the back of a Greek temple behind the cella/naos of the\ntemple, but not allowing entry to the cella/naos.",
       "options": {
-        "A": "Opisthodomos",
-        "B": "Pronaos",
-        "C": "Pteroma",
-        "D": "Anta"
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias",
+        "A": "The Andokides painter"
       },
       "type": "multiple_choice",
-      "instruction": "N.b. For questions 1-­‐30, please refer to the slides on the powerpoint:",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "_____________ is usually credited with inventing Greek red-figured vase painting",
+      "options": {
+        "A": "The Andokides painter",
+        "B": "TheTriptolemus painter",
+        "C": "Euphronios",
+        "D": "Phinthias"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
       "correct_answer": null
     }
   ],
   "metadata": {
     "year": 2012,
     "format": "pre_2018",
-    "total_questions": 49
+    "total_questions": 51
   }
 }

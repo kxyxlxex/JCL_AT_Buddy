@@ -1,0 +1,530 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "The capital of Macedonia:",
+    "question_options": {
+      "A": "Dodona",
+      "B": "Larisa",
+      "C": "Pella",
+      "D": "Olynthus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "Which of these cities is NOT located in close proximity to the Arnus River?",
+    "question_options": {
+      "A": "Pisae",
+      "B": "Florentia",
+      "C": "Arretium",
+      "D": "Veii"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "Rome : Ostia :: Athens : ________.",
+    "question_options": {
+      "A": "Sounion",
+      "B": "Piraeus",
+      "C": "Delos",
+      "D": "Salamis"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "Which city was in Etruria?",
+    "question_options": {
+      "A": "Rhegium",
+      "B": "Tarquinii",
+      "C": "Syaracuse",
+      "D": "Neapolis"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "Ephesus, where the famous temple of Artemis was located, is situated on which river?",
+    "question_options": {
+      "A": "Cayster",
+      "B": "Meander",
+      "C": "Hermus",
+      "D": "Granicus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "Hibernia is modern day",
+    "question_options": {
+      "A": "Portugal",
+      "B": "Ireland",
+      "C": "Scotland",
+      "D": "Denmark"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "Which city is correctly paired with its earlier Greek name?",
+    "question_options": {
+      "A": "Carthago Nova/Massilia",
+      "B": "Brundisium/Neptunia",
+      "C": "Istanbul/Byzantium",
+      "D": "Narbo/Neopolis"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "The Roman name for modern-­‐day Budapest:",
+    "question_options": {
+      "A": "Aquincum",
+      "B": "Vindobona",
+      "C": "Singidunum",
+      "D": "Salonae"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "The Arch of Titus commemorates the emperor’s capture of Jerusalem, known to the Romans as",
+    "question_options": {
+      "A": "Gerasa",
+      "B": "Galicia",
+      "C": "Heliopolis",
+      "D": "Hierosolymna"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "Avaricum, which was besieged by Julius Caesar, is the present-­‐day",
+    "question_options": {
+      "A": "Andtwerp",
+      "B": "Blois",
+      "C": "Avignon",
+      "D": "Bourges"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "What is the order of these bodies of water if one travels from west to east?",
+    "question_options": {
+      "A": "Aegean Sea, Adriatic Sea, Ionian Sea, Tyrrhenian Sea",
+      "B": "Ionian Sea, Aegean Sea, Tyrrhenian Sea, Adriatic Sea",
+      "C": "Tyrrhenian Sea, Adriatic Sea, Ionian Sea, Aegean Sea",
+      "D": "Adriatic Sea, Aegean Sea, Tyrrhenian Sea, Ionian Sea"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "Which of these Sicilian cities is furthest west?",
+    "question_options": {
+      "A": "Gela",
+      "B": "Agrigentum",
+      "C": "Panormus",
+      "D": "Lilybaeum"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "In what direction would one travel to go from Crete to Thera?",
+    "question_options": {
+      "A": "north",
+      "B": "south",
+      "C": "east",
+      "D": "west"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "In which direction would you travel from Athens to visit the Mausoleum of Halicarnassus, one of the seven wonders of the ancient world?",
+    "question_options": {
+      "A": "northeast",
+      "B": "southeast",
+      "C": "southwest",
+      "D": "northwest"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "Which sequence is correct from south to north in Italy?",
+    "question_options": {
+      "A": "Rhegium, Roma, Paestum, Arretium",
+      "B": "Arretium, Roma, Paestum, Rhegium",
+      "C": "Arretium, Rhegium, Paestum, Roma",
+      "D": "Rhegium, Paestum, Roma, Arretium"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "In what Roman provice are Camulodunum and Aquae Sulis located?",
+    "question_options": {
+      "A": "Gallia",
+      "B": "Britannia",
+      "C": "Mauretania",
+      "D": "Germania"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Petra, famous for its temples and tombs cut into sandstone, was the capital of ancient",
+    "question_options": {
+      "A": "Nabataea",
+      "B": "Syria",
+      "C": "Phoenicia",
+      "D": "Armenia"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "Which of the following Roman provinces was NOT located in Asia Minor?",
+    "question_options": {
+      "A": "Galatia",
+      "B": "Dalmatia",
+      "C": "Cappadocia",
+      "D": "Pamphylia"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "Mt. Hymettus, Mt. Laurium, and Mt. Pentelicus are all located in",
+    "question_options": {
+      "A": "Apulia",
+      "B": "Attica",
+      "C": "Thessaly",
+      "D": "Boeotia"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "Caesar was appointed governer of Illyricum in 58 BC. What modern country is in this region?",
+    "question_options": {
+      "A": "Slovenia",
+      "B": "Poland",
+      "C": "Hungary",
+      "D": "Switzerland"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Paros",
+      "B": "Cythera",
+      "C": "Melos",
+      "D": "Crete"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "The region around city number",
+    "question_options": {
+      "A": "Elis",
+      "B": "Messenia",
+      "C": "Laconia",
+      "D": "Arcadia"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Athens",
+      "B": "Olympia",
+      "C": "Andros",
+      "D": "Karystos"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "Region containing cities 14-­‐",
+    "question_options": {
+      "A": "Corinth",
+      "B": "Megaris",
+      "C": "Attica",
+      "D": "Boeotia"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Eretria",
+      "B": "Marathon",
+      "C": "Helos",
+      "D": "Thebes"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "Which of the following is NOT a mountian found in the same region as city 19?",
+    "question_options": {
+      "A": "Mt. Ossa",
+      "B": "Mt. Olympus",
+      "C": "Mt. Athos",
+      "D": "Mt. Pelion"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Tabularium",
+      "B": "Pantheon",
+      "C": "Colosseum",
+      "D": "Circus Maximus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "The hill between roads J and K (near number 29)",
+    "question_options": {
+      "A": "Palatine",
+      "B": "Quirinal",
+      "C": "Caelian",
+      "D": "Esquiline"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "The hill below number",
+    "question_options": {
+      "A": "Aventine",
+      "B": "Capitoline",
+      "C": "Janiculum",
+      "D": "Viminal"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "The two bridges connecting the island near number 7 are",
+    "question_options": {
+      "A": "Cestian and Fabrician",
+      "B": "Fabrician and Sublician",
+      "C": "Sublician and Aurelian",
+      "D": "Aurelian and Aemilian"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Mons Testaceus",
+      "B": "Porticus Aemilia",
+      "C": "Porta Lavernalis",
+      "D": "Horrea Galbana"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Circus of Gaius and Nero",
+      "B": "Theater of Pompey",
+      "C": "Baths of Nero",
+      "D": "Mausoleum of Hadrian"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "Number 22 (insert in lower left corner)",
+    "question_options": {
+      "A": "Forum of Julius Caesar",
+      "B": "Forum of Trajan",
+      "C": "Forum of Augustus",
+      "D": "Forum of Nerva"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Baths of Trajan",
+      "B": "Baths of Diocletian",
+      "C": "Baths of Caracalla",
+      "D": "Baths of Helen"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Structure by letter F",
+    "question_options": {
+      "A": "Circus Maximus",
+      "B": "Mausoleum of Augustus",
+      "C": "Castra Praetoria",
+      "D": "Theater of Marcellus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Arch of Constantine",
+      "B": "Mausoleum of Augustus",
+      "C": "Temple of Juno Moneta",
+      "D": "Temple of Vesta"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Etruria",
+      "B": "Corsica",
+      "C": "Sardinia",
+      "D": "Sicily"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "What is the river found on island #3?",
+    "question_options": {
+      "A": "Tiber",
+      "B": "Po",
+      "C": "Himera",
+      "D": "Arnus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "What mountian is found near city #5?",
+    "question_options": {
+      "A": "Mt. Etna",
+      "B": "Mt. Vesuvius",
+      "C": "Mt. Amiata",
+      "D": "Mt. Ecnomus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "What is the region between cities 7 and 8?",
+    "question_options": {
+      "A": "Etruria",
+      "B": "Latium",
+      "C": "Liguria",
+      "D": "Picenum"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "What mountian range runs between cities 6 and 9?",
+    "question_options": {
+      "A": "Alps",
+      "B": "Appenines",
+      "C": "Caucasus",
+      "D": "Pyrenes"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Agrigentum",
+      "B": "Hippo Regius",
+      "C": "Mantua",
+      "D": "Cannae"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "What mountian range is north of city number 9?",
+    "question_options": {
+      "A": "Alps",
+      "B": "Appenines",
+      "C": "Caucasus",
+      "D": "Pyrenes"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "Number 8 is on what river?",
+    "question_options": {
+      "A": "Tiber",
+      "B": "Po",
+      "C": "Himera",
+      "D": "Arnus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  }
+]

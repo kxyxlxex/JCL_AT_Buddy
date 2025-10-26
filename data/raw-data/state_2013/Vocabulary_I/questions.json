@@ -4,589 +4,655 @@
       "question_number": 1,
       "question": "fessus",
       "options": {
-        "A": "hungry",
-        "B": "greedy",
-        "C": "tired",
-        "D": "festive"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 2,
       "question": "imperium",
       "options": {
-        "A": "emperor",
-        "B": "power",
-        "C": "inexperience",
-        "D": "honor"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 3,
       "question": "muto",
       "options": {
-        "A": "to be silent",
-        "B": "to count",
-        "C": "to move",
-        "D": "to change"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 4,
       "question": "apud",
       "options": {
-        "A": "near",
-        "B": "among",
-        "C": "away from",
-        "D": "above"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 5,
       "question": "ignavus",
       "options": {
-        "A": "ignorant",
-        "B": "dirty",
-        "C": "foul",
-        "D": "lazy"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 6,
       "question": "fatum",
       "options": {
-        "A": "destiny b frugal",
-        "C": "distaste",
-        "D": "obese"
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen",
+        "B": "deus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 7,
       "question": "colo",
       "options": {
-        "A": "to worship",
-        "B": "to place",
-        "C": "to come",
-        "D": "to seize"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 8,
       "question": "super",
       "options": {
-        "A": "always",
-        "B": "above",
-        "C": "often",
-        "D": "around"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 9,
       "question": "species",
       "options": {
-        "A": "cave",
-        "B": "proof",
-        "C": "appearance",
-        "D": "family"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 10,
+      "question_number": 0,
       "question": "adiuvo",
       "options": {
-        "A": "to walk",
-        "B": "to approach",
-        "C": "to help",
-        "D": "to hear"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 11,
+      "question_number": 1,
       "question": "centum",
       "options": {
-        "A": "100",
-        "B": "500",
-        "C": "40 d."
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 12,
+      "question_number": 2,
       "question": "poculum",
       "options": {
-        "A": "court",
-        "B": "market",
-        "C": "ceremony",
-        "D": "cup"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 13,
+      "question_number": 3,
       "question": "exercitus",
       "options": {
-        "A": "exercise",
-        "B": "example",
-        "C": "army",
-        "D": "motion"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 14,
+      "question_number": 4,
       "question": "ceteri",
       "options": {
-        "A": "contests",
-        "B": "the rest",
-        "C": "certain",
-        "D": "faithful"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 15,
-      "question": "spero II. Choose the best Latin translation for the given English word.",
+      "question_number": 5,
+      "question": "spero",
       "options": {
-        "A": "to hope",
-        "B": "to breathe",
-        "C": "to deny",
-        "D": "to despair"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 16,
+      "question_number": 6,
       "question": "to fight",
       "options": {
-        "A": "pugno",
-        "B": "vinco",
-        "C": "paro",
-        "D": "interficio"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 17,
+      "question_number": 7,
       "question": "the same",
       "options": {
-        "A": "ita",
-        "B": "illa",
-        "C": "ipse",
-        "D": "idem"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 18,
+      "question_number": 8,
       "question": "sea",
       "options": {
-        "A": "mare",
-        "B": "unda",
-        "C": "ora",
-        "D": "pons"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 19,
+      "question_number": 9,
       "question": "to stand",
       "options": {
-        "A": "sterno",
-        "B": "sto",
-        "C": "stipo",
-        "D": "tollo"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 20,
+      "question_number": 0,
       "question": "to feel",
       "options": {
-        "A": "sentio",
-        "B": "fero",
-        "C": "audio",
-        "D": "consisto"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 21,
+      "question_number": 1,
       "question": "right",
       "options": {
-        "A": "rictus",
-        "B": "sinister",
-        "C": "dexter",
-        "D": "breviter"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 22,
+      "question_number": 2,
       "question": "to run",
       "options": {
-        "A": "curro",
-        "B": "festino",
-        "C": "ambulo",
-        "D": "contend"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 23,
+      "question_number": 3,
       "question": "sand",
       "options": {
-        "A": "sanguis",
-        "B": "litus",
-        "C": "petra",
-        "D": "arena"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 24,
+      "question_number": 4,
       "question": "journey",
       "options": {
-        "A": "ita",
-        "B": "iter",
-        "C": "item",
-        "D": "iterum"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 25,
+      "question_number": 5,
       "question": "illness",
       "options": {
-        "A": "mors",
-        "B": "mortalis",
-        "C": "mos",
-        "D": "morbus"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 26,
+      "question_number": 6,
       "question": "shoe",
       "options": {
-        "A": "saccus",
-        "B": "palla",
-        "C": "calceus",
-        "D": "tunica"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 27,
+      "question_number": 7,
       "question": "greatest",
       "options": {
-        "A": "minimus",
-        "B": "proximus",
-        "C": "optimus",
-        "D": "maximus"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 28,
+      "question_number": 8,
       "question": "river",
       "options": {
-        "A": "flumen",
-        "B": "mare",
-        "C": "litus",
-        "D": "pontus"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 29,
-      "question": "to go away III. Choose the SYNONYM of the given word.",
+      "question_number": 9,
+      "question": "to go away",
       "options": {
-        "A": "pervenio",
-        "B": "discedo",
-        "C": "relinquo",
-        "D": "debeo"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 30,
+      "question_number": 0,
       "question": "amicus",
       "options": {
-        "A": "cliens",
-        "B": "hostes",
-        "C": "socius",
-        "D": "dominus"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 31,
+      "question_number": 1,
       "question": "delecto",
       "options": {
-        "A": "deligo",
-        "B": "suscipio",
-        "C": "retineo",
-        "D": "placeo"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 32,
+      "question_number": 2,
       "question": "teneo",
       "options": {
-        "A": "rapio",
-        "B": "comprehend",
-        "C": "quaero",
-        "D": "habeo"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 33,
+      "question_number": 3,
       "question": "dux",
       "options": {
-        "A": "optio",
-        "B": "rex",
-        "C": "princeps",
-        "D": "patronus"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 34,
-      "question": "propter IV. Choose the ANTONYM of the given word.",
+      "question_number": 4,
+      "question": "propter",
       "options": {
-        "A": "ad",
-        "B": "prope",
-        "C": "ab",
-        "D": "ob"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 35,
+      "question_number": 5,
       "question": "servo",
       "options": {
-        "A": "regno",
-        "B": "deleo",
-        "C": "iubeo",
-        "D": "vinco"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 36,
+      "question_number": 6,
       "question": "affirmo",
       "options": {
-        "A": "nego",
-        "B": "gaudeo",
-        "C": "consentio",
-        "D": "nescio"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 37,
+      "question_number": 7,
       "question": "praemium",
       "options": {
-        "A": "auxilium",
-        "B": "proelium",
-        "C": "argentum",
-        "D": "poena"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 38,
+      "question_number": 8,
       "question": "multi",
       "options": {
-        "A": "magni",
-        "B": "boni",
-        "C": "pauci",
-        "D": "breves"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 39,
-      "question": "cras V. Choose the best word to complete the analogy.",
+      "question_number": 9,
+      "question": "cras",
       "options": {
-        "A": "tum",
-        "B": "heri",
-        "C": "tunc",
-        "D": "mox"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 40,
+      "question_number": 0,
       "question": "pater : vir :: mater : ____",
       "options": {
-        "A": "soror",
-        "B": "puella",
-        "C": "mulier",
-        "D": "filia"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 41,
+      "question_number": 1,
       "question": "nauta : navis :: agricola : _____",
       "options": {
-        "A": "civis",
-        "B": "fundus",
-        "C": "urbs",
-        "D": "thermae"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 42,
+      "question_number": 2,
       "question": "puto : cogito :: quaero : _____",
       "options": {
-        "A": "peto",
-        "B": "ostendo",
-        "C": "doceo",
-        "D": "relinquo"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 43,
+      "question_number": 3,
       "question": "caelum: terra :: umidus : _____",
       "options": {
-        "A": "sordidus",
-        "B": "mollis",
-        "C": "durus",
-        "D": "siccus"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 44,
+      "question_number": 4,
       "question": "scribo : manus :: ambulo : _____",
       "options": {
-        "A": "pes",
-        "B": "femur",
-        "C": "umerus",
-        "D": "caput"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 45,
-      "question": "do : capio :: laudo: ______ VI. Choose the word that does NOT belong by meaning.",
+      "question_number": 5,
+      "question": "do : capio :: laudo: ______",
       "options": {
-        "A": "iacio",
-        "B": "demitto",
-        "C": "vitupero",
-        "D": "pingo"
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "",
+      "options": {
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "",
+      "options": {
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "",
+      "options": {
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "",
+      "options": {
+        "B": "deus",
+        "C": "numen",
+        "D": "divus",
+        "A": "nomen"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "",
+      "options": {
+        "B": "deus",
+        "C": "numen",
+        "D": "divus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
       "correct_answer": null
     }
   ],
   "metadata": {
     "year": 2013,
     "format": "pre_2018",
-    "total_questions": 45
+    "total_questions": 50
   }
 }

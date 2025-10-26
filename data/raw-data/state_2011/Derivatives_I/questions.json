@@ -4,525 +4,655 @@
       "question_number": 1,
       "question": "lex",
       "options": {
-        "A": "laxity",
-        "B": "lecture",
-        "C": "legislate",
-        "D": "legion"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 2,
       "question": "lingua",
       "options": {
-        "A": "linguini",
-        "B": "malingerer",
-        "C": "lingerie",
-        "D": "lingonberry"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 3,
       "question": "mando",
       "options": {
-        "A": "mendicant",
-        "B": "mandible",
-        "C": "mandolin",
-        "D": "commendation"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 4,
       "question": "cano",
       "options": {
-        "A": "cantaloupe",
-        "B": "enchantress",
-        "C": "cantilever",
-        "D": "canteen"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 5,
       "question": "dico",
       "options": {
-        "A": "doctrine",
-        "B": "index",
-        "C": "verdict",
-        "D": "decoration"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 6,
       "question": "moneo",
       "options": {
-        "A": "monitor b, monastery",
-        "C": "money",
-        "D": "monsoon"
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor",
+        "B": "equal"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 7,
       "question": "tempus",
       "options": {
-        "A": "contempt",
-        "B": "tempt",
-        "C": "temple",
-        "D": "tempest"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 8,
       "question": "pes",
       "options": {
-        "A": "pedagogue",
-        "B": "pedestal",
-        "C": "peddler",
-        "D": "pestilence"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 9,
       "question": "casa",
       "options": {
-        "A": "cascade",
-        "B": "cash",
-        "C": "casino",
-        "D": "casserole"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 10,
-      "question": "clamo II. Choose the word that does not belong by derivation.",
+      "question_number": 0,
+      "question": "clamo",
       "options": {
-        "A": "exclaim",
-        "B": "clamp",
-        "C": "clang",
-        "D": "declare"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 21,
+      "question_number": 1,
+      "question": "",
+      "options": {
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "",
+      "options": {
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "",
+      "options": {
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "",
+      "options": {
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "",
+      "options": {
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "",
+      "options": {
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "",
+      "options": {
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "",
+      "options": {
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "",
+      "options": {
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "",
+      "options": {
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
       "question": "Which word would be used to indicate that Bubba is a fourth-­‐generation Floridian?",
       "options": {
-        "A": "indignant",
-        "B": "indigenous",
-        "C": "indigent",
-        "D": "indigoid"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 22,
-      "question": "Which Latin word meaning little handful or small bundle is related to the English word meaning shrewd or devious management?",
+      "question_number": 2,
+      "question": "Which Latin word meaning little handful or small bundle is related to the English word meaning shrewd or\ndevious management?",
       "options": {
-        "A": "manducus",
-        "B": "manumissio",
-        "C": "manipulus",
-        "D": "manes"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 23,
+      "question_number": 3,
       "question": "If you are a persuasive person, your influence is based on an Latin adjective meaning ____________.",
       "options": {
-        "A": "sweet",
-        "B": "exemplary",
-        "C": "forceful",
-        "D": "reasonable"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 24,
+      "question_number": 4,
       "question": "A companion was originally a person who would share ________with you.",
       "options": {
-        "A": "a garment",
-        "B": "all things",
-        "C": "your pain",
-        "D": "bread"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 25,
+      "question_number": 5,
       "question": "A congregation was originally a church term meaning the shepherd’s, or pastor’s ____________.",
       "options": {
-        "A": "bible",
-        "B": "herd",
-        "C": "farm",
-        "D": "fellow shepherds"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 26,
+      "question_number": 6,
       "question": "Dismal comes from dies and mal, literally a(n)",
       "options": {
-        "A": "cloudy sky",
-        "B": "ominous sign",
-        "C": "depressing wind",
-        "D": "evil day"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 27,
+      "question_number": 7,
       "question": "As a magnanimous person , you literally have a",
       "options": {
-        "A": "great soul",
-        "B": "large family",
-        "C": "big army",
-        "D": "great heart"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 28,
+      "question_number": 8,
       "question": "If something is innocuous, it will not _________ you.",
       "options": {
-        "A": "help",
-        "B": "hinder",
-        "C": "harm",
-        "D": "hate"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 29,
+      "question_number": 9,
       "question": "An irascible person is easily",
       "options": {
-        "A": "frightened",
-        "B": "angered",
-        "C": "fooled",
-        "D": "defeated"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 30,
-      "question": "What is literally “a pig with thorns?” IV. Choose the meaning of the Latin word from which the English word is derived.",
+      "question_number": 0,
+      "question": "What is literally “a pig with thorns?”",
       "options": {
-        "A": "a cactus",
-        "B": "a rosebush",
-        "C": "a spiny lobster",
-        "D": "a porcupine"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 31,
+      "question_number": 1,
       "question": "precocious",
       "options": {
-        "A": "cook",
-        "B": "prepare",
-        "C": "know",
-        "D": "stand"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 32,
+      "question_number": 2,
       "question": "patriot",
       "options": {
-        "A": "follower",
-        "B": "country",
-        "C": "soldier",
-        "D": "sympathizer"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 33,
+      "question_number": 3,
       "question": "desolate",
       "options": {
-        "A": "sad",
-        "B": "hopeless",
-        "C": "alone",
-        "D": "gloomy"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 34,
+      "question_number": 4,
       "question": "terrain",
       "options": {
-        "A": "earth",
-        "B": "fearful",
-        "C": "bounding",
-        "D": "frightening"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 35,
+      "question_number": 5,
       "question": "sewer",
       "options": {
-        "A": "water",
-        "B": "witness",
-        "C": "dirty",
-        "D": "foul"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 36,
+      "question_number": 6,
       "question": "detract",
       "options": {
-        "A": "to vandalize",
-        "B": "to insult",
-        "C": "to ruin",
-        "D": "to drag"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 37,
+      "question_number": 7,
       "question": "tenacious",
       "options": {
-        "A": "to spend",
-        "B": "to pile up",
-        "C": "to exceed",
-        "D": "to hold"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 38,
+      "question_number": 8,
       "question": "souvenir",
       "options": {
-        "A": "to occur",
-        "B": "to be plentiful",
-        "C": "to be strong",
-        "D": "to come"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 39,
+      "question_number": 9,
       "question": "collaborate",
       "options": {
-        "A": "to follow",
-        "B": "to work",
-        "C": "to annoy",
-        "D": "to harm"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 40,
-      "question": "nonsense V. Choose the Latin root from which the English word is derived.",
+      "question_number": 0,
+      "question": "nonsense",
       "options": {
-        "A": "to know",
-        "B": "to feel",
-        "C": "to think",
-        "D": "to agree"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 41,
+      "question_number": 1,
       "question": "lucid",
       "options": {
-        "A": "lux",
-        "B": "luctus",
-        "C": "lucus",
-        "D": "lumen"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 42,
+      "question_number": 2,
       "question": "effect",
       "options": {
-        "A": "effero",
-        "B": "fallo",
-        "C": "fatigo",
-        "D": "facio"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 43,
+      "question_number": 3,
       "question": "accurate",
       "options": {
-        "A": "accursus",
-        "B": "cura",
-        "C": "currus",
-        "D": "curio"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 44,
+      "question_number": 4,
       "question": "appease",
       "options": {
-        "A": "pax",
-        "B": "par",
-        "C": "pareo",
-        "D": "pes"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 45,
-      "question": "morgue VI. Choose the derived word having the same Latin root as the given word.",
+      "question_number": 5,
+      "question": "morgue",
       "options": {
-        "A": "mos",
-        "B": "mora",
-        "C": "mors",
-        "D": "moretum"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 46,
+      "question_number": 6,
       "question": "somnambulent",
       "options": {
-        "A": "sonorous",
-        "B": "somniferous",
-        "C": "sordid",
-        "D": "somber"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 47,
+      "question_number": 7,
       "question": "capture",
       "options": {
-        "A": "capitulate",
-        "B": "decapitate",
-        "C": "captivate",
-        "D": "capsize"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 48,
+      "question_number": 8,
       "question": "data",
       "options": {
-        "A": "dative",
-        "B": "deign",
-        "C": "predicament",
-        "D": "mandible"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 49,
+      "question_number": 9,
       "question": "belligerent",
       "options": {
-        "A": "duel",
-        "B": "beauty",
-        "C": "bounty",
-        "D": "germ"
+        "B": "equal",
+        "C": "equine",
+        "D": "eagle",
+        "A": "actor"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
-      "question_number": 50,
+      "question_number": 0,
       "question": "agile",
       "options": {
-        "A": "actor",
         "B": "equal",
         "C": "equine",
         "D": "eagle"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     }
   ],
   "metadata": {
     "year": 2011,
     "format": "pre_2018",
-    "total_questions": 40
+    "total_questions": 50
   }
 }

@@ -1,0 +1,542 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "A pessimistic person always thinks the ________ thoughts.",
+    "question_options": {
+      "A": "best",
+      "B": "worst",
+      "C": "kindest",
+      "D": "most"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "Mr. Jones bought his wife a dozen roses every day. He was very:",
+    "question_options": {
+      "A": "uxorious",
+      "B": "inimical",
+      "C": "dexterous",
+      "D": "perceptive"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "The movie was about a tempestuous love affair.",
+    "question_options": {
+      "A": "happy",
+      "B": "romantic",
+      "C": "long-­‐lasting",
+      "D": "stormy"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "The pugnacious dog frightened all the neighbors.",
+    "question_options": {
+      "A": "ugly",
+      "B": "barking",
+      "C": "combative",
+      "D": "enormous"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "According to its Latin derivation, an aviary is a home for_______.",
+    "question_options": {
+      "A": "birds",
+      "B": "fish",
+      "C": "bees",
+      "D": "insects"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "The citizens lauded the President’s actions.",
+    "question_options": {
+      "A": "criticized",
+      "B": "misunderstood",
+      "C": "ignored",
+      "D": "praised"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "A lavatory is a place where people can:",
+    "question_options": {
+      "A": "cook",
+      "B": "wash their hands",
+      "C": "eat dinner",
+      "D": "go to sleep"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "The tourists were amazed by the city’s impressive edifices.",
+    "question_options": {
+      "A": "roads",
+      "B": "vehicles",
+      "C": "buildings",
+      "D": "bridges"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "Despite his father’s admonishments, the boy still stayed up late on a school night.",
+    "question_options": {
+      "A": "warnings",
+      "B": "pleadings",
+      "C": "lectures",
+      "D": "shouting"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "The water was very serene when we went canoeing.",
+    "question_options": {
+      "A": "cloudy",
+      "B": "disturbed",
+      "C": "calm",
+      "D": "fast"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "sol",
+    "question_options": {
+      "A": "soul",
+      "B": "solstice",
+      "C": "solitude",
+      "D": "soluble"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "spes",
+    "question_options": {
+      "A": "superior",
+      "B": "despair",
+      "C": "respond",
+      "D": "spurn"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "taceo",
+    "question_options": {
+      "A": "reticent",
+      "B": "attack",
+      "C": "retain",
+      "D": "recipio"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "divus",
+    "question_options": {
+      "A": "divide",
+      "B": "divulge",
+      "C": "divine",
+      "D": "devilish"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "sedeo",
+    "question_options": {
+      "A": "said",
+      "B": "saddle",
+      "C": "seed",
+      "D": "president"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "rogo",
+    "question_options": {
+      "A": "rogue",
+      "B": "regent",
+      "C": "irregular",
+      "D": "abrogate"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "mors",
+    "question_options": {
+      "A": "mortgage",
+      "B": "immortal",
+      "C": "morose",
+      "D": "morning"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "gradior",
+    "question_options": {
+      "A": "egress",
+      "B": "gracious",
+      "C": "gravity",
+      "D": "agree"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "ops",
+    "question_options": {
+      "A": "optimal",
+      "B": "option",
+      "C": "opulent",
+      "D": "opaque"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "cohors",
+    "question_options": {
+      "A": "court",
+      "B": "cordial",
+      "C": "concord",
+      "D": "courtesy"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "incinerate",
+    "question_options": {
+      "A": "incola",
+      "B": "cena",
+      "C": "cinis",
+      "D": "canis"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "accident",
+    "question_options": {
+      "A": "cado",
+      "B": "claudo",
+      "C": "credo",
+      "D": "caedo"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "exigent",
+    "question_options": {
+      "A": "exitus",
+      "B": "ago",
+      "C": "exercitus",
+      "D": "eo"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "charm",
+    "question_options": {
+      "A": "cano",
+      "B": "canus",
+      "C": "carus",
+      "D": "carrus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "jury",
+    "question_options": {
+      "A": "utor",
+      "B": "iocum",
+      "C": "iubeo",
+      "D": "ius"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "itinerary",
+    "question_options": {
+      "A": "iter",
+      "B": "teneo",
+      "C": "iterum",
+      "D": "area"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "sample",
+    "question_options": {
+      "A": "emo",
+      "B": "sanus",
+      "C": "pleo",
+      "D": "placeo"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "denial",
+    "question_options": {
+      "A": "nolo",
+      "B": "neco",
+      "C": "noceo",
+      "D": "nego"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "discreet",
+    "question_options": {
+      "A": "credo",
+      "B": "cerno",
+      "C": "cresco",
+      "D": "creo"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "sluice",
+    "question_options": {
+      "A": "clarus",
+      "B": "claudo",
+      "C": "celer",
+      "D": "colo"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "audacious",
+    "question_options": {
+      "A": "to increase",
+      "B": "to climb",
+      "C": "to dare",
+      "D": "to hear"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "humiliate",
+    "question_options": {
+      "A": "shame",
+      "B": "man",
+      "C": "ground",
+      "D": "low"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "exacerbate",
+    "question_options": {
+      "A": "harsh",
+      "B": "swift",
+      "C": "heavy",
+      "D": "ill"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "souvenir",
+    "question_options": {
+      "A": "to hurry",
+      "B": "to wander",
+      "C": "to play",
+      "D": "to come"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "opera",
+    "question_options": {
+      "A": "task",
+      "B": "burden",
+      "C": "song",
+      "D": "speech"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "preliminary",
+    "question_options": {
+      "A": "light",
+      "B": "path",
+      "C": "dirt",
+      "D": "threshold"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "violate",
+    "question_options": {
+      "A": "chain",
+      "B": "wound",
+      "C": "force",
+      "D": "pain"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "manuscript",
+    "question_options": {
+      "A": "leader",
+      "B": "to command",
+      "C": "to remain",
+      "D": "hand"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "lever",
+    "question_options": {
+      "A": "free",
+      "B": "light",
+      "C": "happy",
+      "D": "smooth"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "usufruct",
+    "question_options": {
+      "A": "to flow",
+      "B": "sugar",
+      "C": "to enjoy",
+      "D": "fruit"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "insolent",
+    "question_options": {
+      "A": "obsolete",
+      "B": "solace",
+      "C": "consolation",
+      "D": "solvent"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "innocuous",
+    "question_options": {
+      "A": "inoculate",
+      "B": "ocular",
+      "C": "nocturnal",
+      "D": "innocent"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "flu",
+    "question_options": {
+      "A": "flee",
+      "B": "fierce",
+      "C": "influx",
+      "D": "flavor"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "vintage",
+    "question_options": {
+      "A": "vent",
+      "B": "vinegar",
+      "C": "verse",
+      "D": "event"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "domicile",
+    "question_options": {
+      "A": "damsel",
+      "B": "danger",
+      "C": "dam",
+      "D": "demented"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  }
+]

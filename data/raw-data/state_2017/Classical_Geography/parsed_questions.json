@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "Which of these following cities was NOT located in Italia?",
+    "question_options": {
+      "A": "Appollonia",
+      "B": "Arretium",
+      "C": "Ariminum",
+      "D": "Ancona"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "Which of these following cities was NOT located in Gallia?",
+    "question_options": {
+      "A": "Massilia",
+      "B": "Nemausus",
+      "C": "Burgidala",
+      "D": "Aquileia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "The city of Panormus is located in modern-day ___.",
+    "question_options": {
+      "A": "Corsia",
+      "B": "Sardinia",
+      "C": "Numidia",
+      "D": "Sicily"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "The ancient city of Scodra was located in modern-day ____.",
+    "question_options": {
+      "A": "Albania",
+      "B": "Montenegro",
+      "C": "Yugoslavia",
+      "D": "Romania"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "The other ancient name of Siscia is ___.",
+    "question_options": {
+      "A": "Pannonia",
+      "B": "Segestica",
+      "C": "Varciani",
+      "D": "Sisak"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "Noricum is (mostly) modern-day ___.",
+    "question_options": {
+      "A": "Albania",
+      "B": "Hungary",
+      "C": "Austria",
+      "D": "Slovakia"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "The Padus is the ancient Roman name of what river?",
+    "question_options": {
+      "A": "Rubicon",
+      "B": "Danube",
+      "C": "Tiber",
+      "D": "Po"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "The ancient Roman city Gades was located in the ancient province __.",
+    "question_options": {
+      "A": "Hispania Citerior",
+      "B": "Baetica",
+      "C": "Tarraconensis",
+      "D": "Lusitania"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "Utica is located in modern-day ___.",
+    "question_options": {
+      "A": "Libya",
+      "B": "Tunisia",
+      "C": "Morocco",
+      "D": "Egypt"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "The city of Tripoli was called ___ by the Romans.",
+    "question_options": {
+      "A": "Sabratha",
+      "B": "Lepis Magna",
+      "C": "Oea",
+      "D": "Hippo Reglus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "Which of the following provinces was the most southern?",
+    "question_options": {
+      "A": "Bithynia",
+      "B": "Pamphylia",
+      "C": "Lycaonia",
+      "D": "Mysia"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "In what direction would you go if traveling from Ravenna to Antium?",
+    "question_options": {
+      "A": "north",
+      "B": "south",
+      "C": "east",
+      "D": "west"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "Which province is the farthest south?",
+    "question_options": {
+      "A": "Dacia",
+      "B": "Moesia",
+      "C": "Achaia",
+      "D": "Thracia"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "Where is the city of Narbo in relation to the Garumna River?",
+    "question_options": {
+      "A": "north",
+      "B": "south",
+      "C": "east",
+      "D": "west"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "Which of these cities is the farthest northwest?",
+    "question_options": {
+      "A": "Corinth",
+      "B": "Nicaea",
+      "C": "Larissa",
+      "D": "Tomis"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "Which of the following provinces is NOT found in Europe?",
+    "question_options": {
+      "A": "Judaea",
+      "B": "Raetia",
+      "C": "Moesia",
+      "D": "Epirus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "In what province is the city Tarsus found?",
+    "question_options": {
+      "A": "Syria",
+      "B": "Cappadocia",
+      "C": "Armenia",
+      "D": "Cilicia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "Which of the following provinces does NOT border Moesia?",
+    "question_options": {
+      "A": "Macedonia",
+      "B": "Thracia",
+      "C": "Dacia",
+      "D": "Pontus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "The southern most part of Gallia was referred to as ___.",
+    "question_options": {
+      "A": "Lugdunensis",
+      "B": "Belgica",
+      "C": "Narbonensis",
+      "D": "Aquitania"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "In which province was the city of Palmyra be found?",
+    "question_options": {
+      "A": "Judaea",
+      "B": "Arabia Petraea",
+      "C": "Aegyptus",
+      "D": "Syria"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "Which of the following would be located in Number 15?",
+    "question_options": {
+      "A": "Servian Wall",
+      "B": "Aurelian Wall",
+      "C": "Velabrum",
+      "D": "Subura"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "Which of the following would be located in Number 5?",
+    "question_options": {
+      "A": "Baths of Caracalla",
+      "C": "Mons Testaceus",
+      "B": "Aventine Hill",
+      "D": "Porticus Aemilia"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "Which of the following would be located in Number 10?",
+    "question_options": {
+      "A": "Campus Martius",
+      "B": "Praetorian Camp",
+      "C": "Aurelian Wall",
+      "D": "Pomerium"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "Which of the following would be located in Number 12?",
+    "question_options": {
+      "A": "Palace of Augustus",
+      "C": "Mausoleum of Augustus",
+      "B": "Temple of Apollo Sosianus",
+      "D": "Stadium of Domitian"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "Which of the following would be located in Number 3?",
+    "question_options": {
+      "A": "Quirinal Hill",
+      "B": "Collis Hortorum",
+      "C": "Viminal Hill",
+      "D": "Ara Pacis"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "Domus Aurea (Nero’s) would be found in",
+    "question_options": {
+      "A": "Number15",
+      "B": "Number 13",
+      "C": "Number 8",
+      "D": "Number"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "Via Aurelia would best be located in",
+    "question_options": {
+      "A": "Number 10",
+      "B": "Number 11",
+      "C": "Number 12",
+      "D": "Number"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "Palace of Augustus would be found in",
+    "question_options": {
+      "A": "Number 7",
+      "B": "Number 14",
+      "C": "Number 6",
+      "D": "Number"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "Subura would be found in",
+    "question_options": {
+      "A": "Number 1",
+      "B": "Number 13",
+      "C": "Number 15",
+      "D": "Number"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "Which of the following is NOT found near Number 9?",
+    "question_options": {
+      "A": "Baths of Agrippa",
+      "C": "Bath of Nero",
+      "B": "Theatre of Pompey",
+      "D": "Bath of Titus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Crete",
+      "B": "Rhodes",
+      "C": "Cyprus",
+      "D": "Lycia"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Macedonia",
+      "B": "Achaea",
+      "C": "Thracia",
+      "D": "Epirus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Moesia",
+      "B": "Taurica",
+      "C": "Pontus",
+      "D": "Dacia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Cyrene",
+      "B": "Alexandria",
+      "C": "Memphis",
+      "D": "Gaza"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Arabia",
+      "B": "Syria",
+      "C": "Cilicia",
+      "D": "Judaea"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "Moesia Inferior",
+    "question_options": {
+      "A": "Number 9",
+      "B": "Number 16",
+      "C": "Number 5",
+      "D": "Number"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "Parthia",
+    "question_options": {
+      "A": "Number 14",
+      "B": "Number 10",
+      "C": "Number 4",
+      "D": "Number"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "Cappadocia",
+    "question_options": {
+      "A": "Number 17",
+      "B": "Number 15",
+      "C": "Number 14",
+      "D": "Number"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Which number does NOT touch the Aegean Sea?",
+    "question_options": {
+      "A": "Number 12",
+      "B": "Number 13",
+      "C": "Number 9",
+      "D": "Number"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "Which city is NOT found in Number 15?",
+    "question_options": {
+      "A": "Halicarnassus",
+      "B": "Smynra",
+      "C": "Pergamum",
+      "D": "Thapsus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Caledonia",
+      "B": "Hibernia",
+      "C": "Lugdunensis",
+      "D": "Raetia"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Lusitania",
+      "B": "Mauretania",
+      "C": "Tarraconensis",
+      "D": "Baetica"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Tyrrhenian Sea",
+      "B": "Adriatic Sea",
+      "C": "Aegean Sea",
+      "D": "Ionian Sea"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Dacia",
+      "B": "Noricum",
+      "C": "Moesia",
+      "D": "Bithynia"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "Number",
+    "question_options": {
+      "A": "Narbonensis",
+      "B": "Lugdunensis",
+      "C": "Aquitania",
+      "D": "Belgica"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "Dalmatia",
+    "question_options": {
+      "A": "Number 17",
+      "B": "Number 9",
+      "C": "Number 15",
+      "D": "Number"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "Mauretania Tingitana",
+    "question_options": {
+      "A": "Number 19",
+      "B": "Number 10",
+      "C": "Number 6",
+      "D": "Number"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "Caledonia",
+    "question_options": {
+      "A": "Number 11",
+      "B": "Number 18",
+      "C": "Number 2",
+      "D": "Number"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "Which of the following cities is found in Number 8?",
+    "question_options": {
+      "A": "Massilia",
+      "B": "Ravenna",
+      "C": "Tarraco",
+      "D": "Avaricum"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Which of the following cities is found in Number 18?",
+    "question_options": {
+      "A": "Burdigala",
+      "B": "Lemonum",
+      "C": "Camboricum",
+      "D": "Lutetia"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "The king decided that it was time to abdicate his throne.",
+    "question_options": {
+      "A": "repair",
+      "B": "resign",
+      "C": "elevate",
+      "D": "dismantle"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "The antiquated air-conditioning system broke down repeatedly in the summer months.",
+    "question_options": {
+      "A": "old-fashioned",
+      "B": "expensive",
+      "C": "refurbished",
+      "D": "foreign"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "The daily homework assignments became increasingly onerous as graduation approached.",
+    "question_options": {
+      "A": "humorous",
+      "B": "annoying",
+      "C": "simple",
+      "D": "burdensome"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "The lawyer made a cogent case for acquitting his client.",
+    "question_options": {
+      "A": "confusing",
+      "B": "weak",
+      "C": "compelling",
+      "D": "surprising"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "The pain from the wound became more and more excruciating as the day wore on.",
+    "question_options": {
+      "A": "mild",
+      "B": "smelly",
+      "C": "torturous",
+      "D": "swollen"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "It was the prevalent view of the time.",
+    "question_options": {
+      "A": "praised",
+      "B": "misunderstood",
+      "C": "ignored",
+      "D": "all-powerful"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "His sedentary lifestyle contributed very much to his weight problem.",
+    "question_options": {
+      "A": "extravagant",
+      "B": "sitting",
+      "C": "frenetic",
+      "D": "upright"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "The new law imposed requirements that increased opportunities for all citizens.",
+    "question_options": {
+      "A": "placed",
+      "B": "removed",
+      "C": "increased",
+      "D": "clarified"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "His malevolent behavior created difficulties and problems for all those around him.",
+    "question_options": {
+      "A": "unpredictable",
+      "B": "ill-intentioned",
+      "C": "involuntary",
+      "D": "volatile"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "The earthquake created undulations on the earth's surface that made the buildings very unsteady.",
+    "question_options": {
+      "A": "explosions",
+      "B": "burning",
+      "C": "craters",
+      "D": "fluctuations"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "iuvo",
+    "question_options": {
+      "A": "juice",
+      "B": "judge",
+      "C": "adjutant",
+      "D": "juvenile"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "credo",
+    "question_options": {
+      "A": "incredible",
+      "B": "increase",
+      "C": "increment",
+      "D": "cardinal"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "gero",
+    "question_options": {
+      "A": "gyrate",
+      "B": "ingest",
+      "C": "congenial",
+      "D": "geriatric"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "lex",
+    "question_options": {
+      "A": "legal",
+      "B": "lecture",
+      "C": "allege",
+      "D": "legend"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "ver",
+    "question_options": {
+      "A": "voracious",
+      "B": "verify",
+      "C": "advertise",
+      "D": "vernal"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "manus",
+    "question_options": {
+      "A": "remain",
+      "B": "manufacture",
+      "C": "mandate",
+      "D": "magnificent"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "traho",
+    "question_options": {
+      "A": "abstract",
+      "B": "tragedy",
+      "C": "transient",
+      "D": "tremble"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "pareo",
+    "question_options": {
+      "A": "apparition",
+      "B": "particle",
+      "C": "parent",
+      "D": "parliament"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "noceo",
+    "question_options": {
+      "A": "internecine",
+      "B": "obnoxious",
+      "C": "cognizant",
+      "D": "nocturnal"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "postulate",
+    "question_options": {
+      "A": "possum",
+      "B": "posco",
+      "C": "posterior",
+      "D": "peto"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "obsolete",
+    "question_options": {
+      "A": "solvo",
+      "B": "somnus",
+      "C": "sol",
+      "D": "soleo"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "chateau",
+    "question_options": {
+      "A": "capio",
+      "B": "casa",
+      "C": "castrum",
+      "D": "catena"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "celestial",
+    "question_options": {
+      "A": "cilium",
+      "B": "celo",
+      "C": "cedo",
+      "D": "caelum"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "society",
+    "question_options": {
+      "A": "socius",
+      "B": "sacer",
+      "C": "soror",
+      "D": "somnus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "troublesome",
+    "question_options": {
+      "A": "terreo",
+      "B": "traho",
+      "C": "turba",
+      "D": "tremo"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "piano",
+    "question_options": {
+      "A": "placeo",
+      "B": "plenus",
+      "C": "polio",
+      "D": "planus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "enjoy",
+    "question_options": {
+      "A": "gero",
+      "B": "iungo",
+      "C": "iuvo",
+      "D": "gaudeo"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "unconscious",
+    "question_options": {
+      "A": "censeo",
+      "B": "nosco",
+      "C": "scio",
+      "D": "scelus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "regulate",
+    "question_options": {
+      "A": "to rule",
+      "B": "to measure",
+      "C": "to run",
+      "D": "to lead"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "perjure",
+    "question_options": {
+      "A": "lie",
+      "B": "order",
+      "C": "law",
+      "D": "speak"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "convince",
+    "question_options": {
+      "A": "obey",
+      "B": "conquer",
+      "C": "hear",
+      "D": "twist"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "universal",
+    "question_options": {
+      "A": "overcome",
+      "B": "oppose",
+      "C": "come",
+      "D": "turn"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "obsequeous",
+    "question_options": {
+      "A": "write",
+      "B": "teach",
+      "C": "speak",
+      "D": "follow"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "claim",
+    "question_options": {
+      "A": "shout",
+      "B": "clash",
+      "C": "owe",
+      "D": "take"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "mess",
+    "question_options": {
+      "A": "eat",
+      "B": "send",
+      "C": "force",
+      "D": "scatter"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "attain",
+    "question_options": {
+      "A": "law",
+      "B": "honor",
+      "C": "touch",
+      "D": "hold"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "savage",
+    "question_options": {
+      "A": "woods",
+      "B": "fierce",
+      "C": "battle",
+      "D": "safe"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "adieu",
+    "question_options": {
+      "A": "arrive",
+      "B": "hear",
+      "C": "day",
+      "D": "god"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "efficient",
+    "question_options": {
+      "A": "facet",
+      "B": "effigy",
+      "C": "fiction",
+      "D": "affix"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "lettuce",
+    "question_options": {
+      "A": "lactic",
+      "B": "lackluster",
+      "C": "placate",
+      "D": "deluge"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "cook",
+    "question_options": {
+      "A": "biscuit",
+      "B": "comb",
+      "C": "chef",
+      "D": "charcoal"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "noun",
+    "question_options": {
+      "A": "novelty",
+      "B": "agnostic",
+      "C": "ignominy",
+      "D": "noble"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "amorous",
+    "question_options": {
+      "A": "ambulance",
+      "B": "amiable",
+      "C": "able",
+      "D": "amenity"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  }
+]

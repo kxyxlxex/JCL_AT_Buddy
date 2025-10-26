@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "Which praetorian prefect of Nero worked with Seneca the Younger to ensure stability for the first years of the young emperor’s reign?",
+    "question_options": {
+      "A": "Burrus",
+      "B": "Sabinus",
+      "C": "Tigellinus",
+      "D": "Plautus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "Excluding Antoninus Pius, which of the five good emperors ruled for the longest amount of time?",
+    "question_options": {
+      "A": "Trajan",
+      "B": "Hadrian",
+      "C": "Nerva",
+      "D": "Marcus Aurelius"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "What emperor was responsible for the Massacre at Alexandria?",
+    "question_options": {
+      "A": "Caligula",
+      "B": "Carinus",
+      "C": "Caracalla",
+      "D": "Carus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "Put the following emperors in order from shortest rule to longest rule.",
+    "question_options": {
+      "A": "Galba, Otho, Vitellius, Vespasian",
+      "B": "Galba, Vitellius, Otho, Vespasian",
+      "C": "Otho, Galba, Vitellius, Vespasian",
+      "D": "Vitellius, Galba, Otho, Vespasian"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "What Praetorian Prefect and maternal cousin of Septimius Severus was given great power by the emperor but was later killed because Caracalla loathed his daughter?",
+    "question_options": {
+      "A": "Perseus",
+      "B": "Planius",
+      "C": "Plautianus",
+      "D": "Pacuvius"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "Which Roman general lost three legions at the Battle of Teutoburg Forrest?",
+    "question_options": {
+      "A": "P. Quinctilius Varus",
+      "B": "P. Cornelius Dollabella",
+      "C": "L. Aemilius Paullus",
+      "D": "P. Ovidius Naso"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "Who member of the Julio-­‐Claudian family died after falling off his horse in 9 B.C.?",
+    "question_options": {
+      "A": "Drusus the Younger",
+      "B": "Drusus the Elder",
+      "C": "Tiberius Gemellus",
+      "D": "Marcus Agrippa"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "Which praetorian prefect was responsible for elevating Gordion III?",
+    "question_options": {
+      "A": "Plautianus",
+      "B": "Aper",
+      "C": "Magnatius",
+      "D": "Timesitheus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "Which of the following emperors was not born in Italy?",
+    "question_options": {
+      "A": "Claudius",
+      "B": "Augustus",
+      "C": "Domitian",
+      "D": "Nerva"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "What emperor ruled for one year with his brother before being killed by him in front of their mother?",
+    "question_options": {
+      "A": "Jovian",
+      "B": "Macrinus",
+      "C": "Elagabalus",
+      "D": "Geta"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "Which of these emperors succeeeded Titus?",
+    "question_options": {
+      "A": "Domitian",
+      "B": "Diocletian",
+      "C": "Nerva",
+      "D": "Trajan"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "Which Praetorian Prefect of Constantius Chlorus defeated the usurper Allectus in Britain?",
+    "question_options": {
+      "A": "Diadumenianus",
+      "B": "Asclepiodotus",
+      "C": "Victorianus",
+      "D": "Majorianus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "What battle of 31 B.C. gave Octavian supremacy over the Roman world?",
+    "question_options": {
+      "A": "Naulochus",
+      "B": "Actium",
+      "C": "Side",
+      "D": "Lepanto"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "Which emperor defeated Maxentius at the Milvian Bridge in 312 and strongly promoted Christianity throughout the empire?",
+    "question_options": {
+      "A": "Vespasian",
+      "B": "Constantine",
+      "C": "Zeno",
+      "D": "Theodosius I"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "Which dynasty is the earliest?",
+    "question_options": {
+      "A": "Severan",
+      "B": "Julio-­‐Claudian",
+      "C": "Flavian",
+      "D": "Theodosian"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "Who sacked Rome in 410?",
+    "question_options": {
+      "A": "Attila",
+      "B": "Gaiseric",
+      "C": "Alaric",
+      "D": "Constantius III"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "Whom was Tiberius forced to divorce in order to marry Julia the Elder?",
+    "question_options": {
+      "A": "Berenice",
+      "B": "Tertulla",
+      "C": "Salome",
+      "D": "Vipsania"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "Who was the mother of the emperor Nero?",
+    "question_options": {
+      "A": "Agripina the Elder",
+      "B": "Agrippina the Younger",
+      "C": "Livia Drusilla",
+      "D": "Poppaea Sabina"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "Who was responsible for creating the poisons that led to the emperor Claudius’ death?",
+    "question_options": {
+      "A": "Halotus",
+      "B": "Locusta",
+      "C": "Ephaphroditus",
+      "D": "Narcissus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "Which emperor was known as the “Apostate” for his attempts to restore paganism?",
+    "question_options": {
+      "A": "Constantius II",
+      "B": "Contantine II",
+      "C": "Jovian",
+      "D": "Julian"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "What emperor died at the battle of Adrianople in 378 A.D.?",
+    "question_options": {
+      "A": "Gratian",
+      "B": "Herodian",
+      "C": "Jovian",
+      "D": "Valens"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "During what emperor’s reign did Simon Bar-­‐Kochba lead a revolt in Palestine?",
+    "question_options": {
+      "A": "Trajan’s",
+      "B": "Antoninus Pius’",
+      "C": "Marcus Aurelius’",
+      "D": "Hadrian’s"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "Who strangled Commodus?",
+    "question_options": {
+      "A": "Secundus",
+      "B": "Narcissus",
+      "C": "Fuscus",
+      "D": "Manthus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "Who ruled the Roman empire in the east from 457-­‐474?",
+    "question_options": {
+      "A": "Leo I",
+      "B": "Theodosius II",
+      "C": "Zeno",
+      "D": "Basil"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "What commander of the legions of the Upper Rhine conspired to replace Caligula with a senator named M. Aemilius Lepidus in 39 A.D.?",
+    "question_options": {
+      "A": "C. Silius",
+      "B": "C. Iulius Vindex",
+      "C": "Lentulus Gaetulicus",
+      "D": "C. Iulius Classicus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "Who was NOT an emperor in 238 A.D.?",
+    "question_options": {
+      "A": "Gordion III",
+      "B": "Maximinus Thrax",
+      "C": "Balbinus",
+      "D": "Phillip the Arab"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "What praetorian prefect had a great deal of power during the time of Tiberius?",
+    "question_options": {
+      "A": "Chaerea",
+      "B": "Caligula",
+      "C": "Sejanus",
+      "D": "Claudius"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "Which emperor granted a law which gave Roman citizenship to all freedmen in the Empire?",
+    "question_options": {
+      "A": "Augustus",
+      "B": "Claudius",
+      "C": "Caracalla",
+      "D": "Constantine"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "What emperor received the throne by purchasing it from the Praetorian Guard?",
+    "question_options": {
+      "A": "Didius Julianus",
+      "B": "Pertinax",
+      "C": "Albinus",
+      "D": "Sulpicianus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "Which Palmyran youth was the son of the infamous Zenobia?",
+    "question_options": {
+      "A": "Artemis",
+      "B": "Vaballathus",
+      "C": "Al-­‐Zabba",
+      "D": "Immae"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "Which emperor was responsible for heavy prosecution of the Christians during his rule from 249-­‐ 251?",
+    "question_options": {
+      "A": "Vespasian",
+      "B": "Gallerius",
+      "C": "Diocletian",
+      "D": "Decius"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "Which emperor was the last to rule in the West?",
+    "question_options": {
+      "A": "Valentinain",
+      "B": "Magnentius",
+      "C": "Majorian",
+      "D": "Romulus Augustulus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "Which man was largely responsible for securing Vespasian’s rule in Italy with his victory at the Second Battle of Bedriacum in 69 A.D.?",
+    "question_options": {
+      "A": "Antonius Primus",
+      "B": "Fabius Valens",
+      "C": "Licinius Mucianus",
+      "D": "Aulus Caecina"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "On what island did Tiberius spend a part of his life during the reign of Augustus before he became emperor?",
+    "question_options": {
+      "A": "Malta",
+      "B": "Capri",
+      "C": "Crete",
+      "D": "Rhodes"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "What emperors reigned marked Rome’s 900th anniversary?",
+    "question_options": {
+      "A": "Antoninus Pius",
+      "B": "Philip the Arab",
+      "C": "Claudius",
+      "D": "Hadrian"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "Who ruled as joint Augustus with Diocletian beginning in 286 A.D.?",
+    "question_options": {
+      "A": "Carus",
+      "B": "Carinus",
+      "C": "Maximian",
+      "D": "Maxentius"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "Which of the following women of the Severan Dynasty was the mother of Elagabalus?",
+    "question_options": {
+      "A": "Julia Domna",
+      "B": "Julia Mamaea",
+      "C": "Julia Maesa",
+      "D": "Julia Soaemias"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "Who was the wife of Trajan?",
+    "question_options": {
+      "A": "Plotina",
+      "B": "Sabina",
+      "C": "Grata Horatia",
+      "D": "Theodora"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Which Roman general under the Flavians was largely responsible for the Conquest of England and Scotland and served as Governor of Britain in 77?",
+    "question_options": {
+      "A": "Tettius Iulianus",
+      "B": "Cn. Iulius Agricola",
+      "C": "Cornelius Fuscus",
+      "D": "Petronius Secundus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "Which emperor’s column was designed by Apollodorus of Damascus ?",
+    "question_options": {
+      "A": "Trajan’s",
+      "B": "Augustus’",
+      "C": "Hadrian’s",
+      "D": "Domitian’s"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "During what emperor’s reign did the eruption of Vesuvius occur?",
+    "question_options": {
+      "A": "Vespasian",
+      "B": "Titus",
+      "C": "Domitian",
+      "D": "Nerva"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "What Roman emperor was also a stoic philosopher?",
+    "question_options": {
+      "A": "Marcus Aurelius",
+      "B": "Commodus",
+      "C": "Hadrian",
+      "D": "Trajan"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "Which tetrarch died in Eburacum in 306?",
+    "question_options": {
+      "A": "Severus",
+      "B": "Galerius",
+      "C": "Maxentius",
+      "D": "Constantius Chlorus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "What Burgundian Prince and nephew of the “emperor maker” Ricimer received similar powers and was responsible for the elevation of Glycerius to the throne in 473 A.D.?",
+    "question_options": {
+      "A": "Godegisel",
+      "B": "Chilperic II",
+      "C": "Gundomar",
+      "D": "Gundobad"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "Which praetorian was responsible for the assassination of Caligula?",
+    "question_options": {
+      "A": "Chaerea",
+      "B": "Germanicus",
+      "C": "Aper",
+      "D": "Fuscus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "Which emperor’s invasion of Britain resulted in a collection of seashells?",
+    "question_options": {
+      "A": "Claudius’",
+      "B": "Augustus’",
+      "C": "Caligula’s",
+      "D": "Tiberius’"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "Claudius had his son Britannicus with which wife?",
+    "question_options": {
+      "A": "Drusilla",
+      "B": "Messalina",
+      "C": "Agrippina",
+      "D": "Urgulanilla"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "What Roman general was killed at the (First) Battle of Tapae in 88 A.D.?",
+    "question_options": {
+      "A": "Dollabella",
+      "B": "Iunius Blaesus",
+      "C": "Cornelius Fuscus",
+      "D": "Harmodius"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "Although Romulus Augustulus is traditionally the last Western Roman Emperor, his predecessor __________ is considered by some historians to be the last because he ruled in Dalmatia until 480.",
+    "question_options": {
+      "A": "Majorian",
+      "B": "Severus III",
+      "C": "Julius Nepos",
+      "D": "Avictus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "Which barracks emperor routed a huge Gothic army at Naissus in 268 A.D.?",
+    "question_options": {
+      "A": "Florianus",
+      "B": "Carinus",
+      "C": "Claudius II",
+      "D": "Aemilius Aemilianus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  }
+]

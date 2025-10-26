@@ -1,0 +1,602 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "Who was prophesized to become king of Rome after his head burst into flames?",
+    "question_options": {
+      "A": "Romulus",
+      "B": "Ancus Marcius",
+      "C": "Servius Tullius",
+      "D": "Tarquinius Priscus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "Which of the following was NOT a member of the First Triumvirate?",
+    "question_options": {
+      "A": "Pompey",
+      "B": "Cicero",
+      "C": "Crassus",
+      "D": "Caesar"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "Which Novus Homo from Arpinum was elected consul for the first time in 107?",
+    "question_options": {
+      "A": "Catulus",
+      "B": "Sulla",
+      "C": "Metellus",
+      "D": "Marius"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "The Roman consuls Claudius Nero and Livius Salinator were victorious over Hannibal’s brother Hasdrubal at what battle in 207?",
+    "question_options": {
+      "A": "Zama",
+      "B": "Metaurus River",
+      "C": "Ticinus River",
+      "D": "Baecula"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "Which of the following battles did NOT take place during the First Punic War?",
+    "question_options": {
+      "A": "Thapsus",
+      "B": "Drepana",
+      "C": "Mylae",
+      "D": "Aegates Islands"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "Which woman was killed by her father to save her from Appius Claudius?",
+    "question_options": {
+      "A": "Tarpeia",
+      "B": "Cloelia",
+      "C": "Lucretia",
+      "D": "Verginia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "After which battle in Asia did Caesar famously report “veni, vidi, vici” to the Senate?",
+    "question_options": {
+      "A": "Pharsalus",
+      "B": "Zela",
+      "C": "Ilerda",
+      "D": "Munda"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "At what site was the first so-called “Pyrrhic” victory in 280?",
+    "question_options": {
+      "A": "Heraclea",
+      "B": "Ausculum",
+      "C": "Malventum",
+      "D": "Beneventum"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "Which consul advocated Concordia Ordinum or “Harmony of the Orders” in 63?",
+    "question_options": {
+      "A": "Hybrida",
+      "B": "Cataline",
+      "C": "Cicero",
+      "D": "Curio"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "The tribune Marcus Octavius assiduously attempted to obstruct whose legislation?",
+    "question_options": {
+      "A": "Scipio Africanus",
+      "B": "Tiberius Gracchus",
+      "C": "Spurius Cassius",
+      "D": "Gaius Gracchus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "Which Macedonian king was defeated by the Romans at Pydna in 168?",
+    "question_options": {
+      "A": "Perseus",
+      "B": "Demetrius",
+      "C": "Andriscus",
+      "D": "Phillip V"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "The 5th century leader _____________ was assassinated for proposing laws which would distribute free grain to the poor.",
+    "question_options": {
+      "A": "Coriolanus",
+      "B": "Spurius Cassius",
+      "C": "L. Minucius",
+      "D": "Appius Claudius Caudex"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "The Romans lost three legionary standards fighting against the Parthians in 53 at what battle?",
+    "question_options": {
+      "A": "Asculum",
+      "B": "Cannae",
+      "C": "Carrhae",
+      "D": "Arausio"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "Which of the following men was NOT consul in 509?",
+    "question_options": {
+      "A": "L. Iunius Brutus",
+      "B": "Valerius Publicola",
+      "C": "Titus Lartius",
+      "D": "Sp. Lucretius"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "What law of 287 made plebiscita binding upon the whole community of Roman citizens?",
+    "question_options": {
+      "A": "lex Hortensia",
+      "B": "leges Liciniae Sextiae",
+      "C": "lex Valeria",
+      "D": "lex Canuleia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "The naval engagement at _________ in 256 cleared the way for Regulus’ invasion of Africa.",
+    "question_options": {
+      "A": "Mycale",
+      "B": "Panormus",
+      "C": "Sade",
+      "D": "Ecnomus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "In 88, who marched on Rome to restore his command against Mithridates?",
+    "question_options": {
+      "A": "Cinna",
+      "B": "Marius",
+      "C": "Pompey",
+      "D": "Sulla"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "The Romans were forced to pass under the yoke after a defeat at ___________ in 321.",
+    "question_options": {
+      "A": "Lautulae",
+      "B": "Caudine Forks",
+      "C": "Sentinum",
+      "D": "Vercellae"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "The sacred geese of Juno startled __________ who saved Rome from the Gauls and earned the cognomen Capitolinus.",
+    "question_options": {
+      "A": "T. Hermenius",
+      "B": "P. Cornelius",
+      "C": "M. Manlius",
+      "D": "Q. Caecilius"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "Who was the general who committed devotio in order to save his army from defeat in 395?",
+    "question_options": {
+      "A": "Decius Mus",
+      "B": "Manlius Torquatus",
+      "C": "Fabius Rullianus",
+      "D": "Cornelius Dollabella"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "At which games did Flamininus proclaim the “Freedom of Greece” in 196?",
+    "question_options": {
+      "A": "Pythian",
+      "B": "Isthmian",
+      "C": "Olympian",
+      "D": "Nemean"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "What city, sacked by Hannibal in 219, was the casus belli of the Second Punic War?",
+    "question_options": {
+      "A": "Carthago Nova",
+      "B": "Ilerda",
+      "C": "Panormus",
+      "D": "Saguntum"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "Which general, known as the “Sword of Rome,” sacked Syracuse in 211?",
+    "question_options": {
+      "A": "Fulvius Flaccus",
+      "B": "Q. Fabius Maximus",
+      "C": "C. Flaminius",
+      "D": "M. Claudius Marcellus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "The revolt of Sertorius in Spain ended when he was assassinated by which of his men?",
+    "question_options": {
+      "A": "M. Perperna",
+      "B": "Aemilius Lepidus",
+      "C": "Decius Brutus",
+      "D": "L. Hirtuleius"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "What law gave legal sanction to the Second Triumvirate?",
+    "question_options": {
+      "A": "lex Cornelia",
+      "B": "lex Canuleia",
+      "C": "lex Poetelia",
+      "D": "lex Titia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "Against which man was the first Senatus Consultum Ultimum directed?",
+    "question_options": {
+      "A": "Marius",
+      "B": "Cinna",
+      "C": "C. Gracchus",
+      "D": "Catiline"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "Who was the victor at the battle of Actium in 31?",
+    "question_options": {
+      "A": "Octavian",
+      "B": "Antony",
+      "C": "Brutus",
+      "D": "Cassius"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "Which of these generals was victorious at the battle of Magnesia in 189?",
+    "question_options": {
+      "A": "L. Cornelius Scipio",
+      "B": "P. Cornelius Scipio Aemilianus",
+      "C": "M’. Acilius Glabrio",
+      "D": "T. Quinctius Flamininus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "Which king drained the salt plains at Ostia and created the fetiales?",
+    "question_options": {
+      "A": "Numa Pompilius",
+      "B": "Tullus Hostilius",
+      "C": "Ancus Marcius",
+      "D": "Tarquinius Priscus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "What tribune’s death precipitated the outbreak of the Social War?",
+    "question_options": {
+      "A": "Livius Drusus’",
+      "B": "Saturninus’",
+      "C": "Clodius Pulcher’s",
+      "D": "C. Vatinius’"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "Which of Antony’s lieutenants captured Jerusalem from the Parthians in 37 and installed Herod as king?",
+    "question_options": {
+      "A": "C. Sosius",
+      "B": "M. Aemilius Lepidus",
+      "C": "C. Asinius Pollio",
+      "D": "P. Ventidius"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "Where did the Romans defeat an advancing force of Gauls in 225?",
+    "question_options": {
+      "A": "Lake Vadimo",
+      "B": "Telamon",
+      "C": "Lautulae",
+      "D": "Antium"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "The first occurance of prorogatio, or a prolonged imperium, took place in 326 B.C. when ___________ laid seige to Neapolis.",
+    "question_options": {
+      "A": "Q. Publilius Philo",
+      "B": "Q. Marcius Rex",
+      "C": "Appius Claudius Caecus",
+      "D": "L. Cornelius Scipio Barbatus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "In 78, who revolted against the Sullan restoration government and attempted to march on Rome?",
+    "question_options": {
+      "A": "Decimus Brutus",
+      "B": "Aemilius Lepidus",
+      "C": "Lutatius Catulus",
+      "D": "Licinius Crassus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "Who bequeathed Bithynia to Rome in 74?",
+    "question_options": {
+      "A": "Ptolemy Apion",
+      "B": "Attalus III",
+      "C": "Nicomedes IV",
+      "D": "Aristonicus"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "Queen _________ of the Illyrians waged a maritime war with the Romans in the 2nd Century.",
+    "question_options": {
+      "A": "Boudicca",
+      "B": "Teuta",
+      "C": "Sophonisba",
+      "D": "Cleopatra"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "In 200 the consul _____________ called for the Comitia Centuriata to declare war on Phillip II.",
+    "question_options": {
+      "A": "M. Porcius Cato",
+      "B": "M. Valerius Messala",
+      "C": "C. Terrentius Varro",
+      "D": "P. Sulpicius Galba"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "What tribune did the Senate order Marius to apprehend because of his use of mob violence?",
+    "question_options": {
+      "A": "C. Gracchus",
+      "B": "Saturninus",
+      "C": "Sulpicius Rufus",
+      "D": "Clodius Pulcher"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "Whose 1st Century slave rebellion ended after 6000 of his followers were crucified on the Via Appia?",
+    "question_options": {
+      "A": "Cleon’s",
+      "B": "Spartacus’",
+      "C": "Eunus’",
+      "D": "Salvius’"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "Which of the following was NOT a capital of the rebel confederacy during the Social War?",
+    "question_options": {
+      "A": "Asculum",
+      "B": "Bovianum Vetus",
+      "C": "Corfinium",
+      "D": "Aesernia"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 41,
+    "question_body": "Scipio Africanus defeated Hasdrubal and which Numidian king at the Great Plains in 203?",
+    "question_options": {
+      "A": "Syphax",
+      "B": "Massinissa",
+      "C": "Micipsa",
+      "D": "Jugurtha"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 42,
+    "question_body": "Who was the victorious general at the battle of Lake Regillus in 496?",
+    "question_options": {
+      "A": "Papirius Cursor",
+      "B": "Postumius Albinus",
+      "C": "Valerius Publicola",
+      "D": "Appius Claudius Caudex"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 43,
+    "question_body": "Julius Caesar reformed the calendar in 46 with the help of what Alexandrian scholar?",
+    "question_options": {
+      "A": "Ptolemy",
+      "B": "Epictetus",
+      "C": "Posidonius",
+      "D": "Sosigenes"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 44,
+    "question_body": "Which general sacked Corinth in 146?",
+    "question_options": {
+      "A": "Scipio Aemilianus",
+      "B": "Metellus Macedonicus",
+      "C": "M. Licinius Crassus",
+      "D": "L. Mummius"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 45,
+    "question_body": "Which city did Pompey capture in 64 to effectively end the last Mithridatic War?",
+    "question_options": {
+      "A": "Jerusalem",
+      "B": "Panticipaeum",
+      "C": "Antioch",
+      "D": "Nicopolis"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "The palace of Tullus Hostilius on the __________ hill was struck by lightning after the king misperformed a ceremony to Jupiter Elicius.",
+    "question_options": {
+      "A": "Palatine",
+      "B": "Capitoline",
+      "C": "Viminal",
+      "D": "Caelian"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "Which of these men was the first plebeian to become censor?",
+    "question_options": {
+      "A": "C. Marcius Rutilus",
+      "B": "L. Licinius Stolo",
+      "C": "L. Manlius Torquatus",
+      "D": "L. Sextius"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "After Octavian marched on Rome in 43, who served as his co-consul?",
+    "question_options": {
+      "A": "Metellus Celer",
+      "B": "Q. Pedius",
+      "C": "A. Hirtius",
+      "D": "Asinius Pollio"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "Where was",
+    "question_options": {
+      "C": "Zela",
+      "A": "Tigranocerta",
+      "B": "Cabira",
+      "D": "Cyzicus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "To what province was Cicero exiled in 58?",
+    "question_options": {
+      "A": "Macedonia",
+      "B": "Cilicia",
+      "C": "Cyrene",
+      "D": "Cyprus"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  }
+]

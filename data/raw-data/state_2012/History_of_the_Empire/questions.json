@@ -2,640 +2,20 @@
   "questions": [
     {
       "question_number": 1,
-      "question": "The tetrarchy began in _________________with the designation of Constantius Chlorus and Galerius as “Caesars.”",
+      "question": "The tetrarchy began in _________________with the designation of Constantius Chlorus and\nGalerius as “Caesars.”",
       "options": {
-        "A": "304",
-        "B": "293",
-        "C": "285 d."
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
       "correct_answer": null
     },
     {
       "question_number": 2,
-      "question": "The beginning of the Roman Empire is often dated from 27 BC. when",
-      "options": {
-        "A": "Marc Anthony was defeated at Actium.",
-        "B": "Julius Caesar adopted Octavian.",
-        "C": "Octavian returned power to the Senate and received it back.",
-        "D": "Sextus Pompey was finally defeated."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 3,
-      "question": "The fist time that Rome had more than one emperor at a time was",
-      "options": {
-        "A": "69",
-        "B": "304",
-        "C": "161 d."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 4,
-      "question": "Rome’s second dynasty was founded by",
-      "options": {
-        "A": "Tiberius",
-        "B": "Antoninus Pius",
-        "C": "Septimius Severus",
-        "D": "Vespasian"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 5,
-      "question": "What nation did Trajan conquer in 106?",
-      "options": {
-        "A": "Illyria",
-        "B": "Macedonia",
-        "C": "Parthia",
-        "D": "Dacia"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 6,
-      "question": "The first emperor to desire worship as a living god was",
-      "options": {
-        "A": "Augustus.",
-        "B": "Caligula.",
-        "C": "Domitian.",
-        "D": "Caracalla."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 7,
-      "question": "Arminius became the national hero of Germany after defeating the general ____________ in Teutoberg Forest in A.D. 9.",
-      "options": {
-        "A": "Varus",
-        "B": "Drusus",
-        "C": "Marcellus",
-        "D": "Germanicus."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 8,
-      "question": "Caligula’s wife ,___________________and his daughter, Drusilla were killed the same day the emperor was assassinated.",
-      "options": {
-        "A": "Poppaea",
-        "B": "Junia Claudia",
-        "C": "Lollia Paulina",
-        "D": "Caesonia"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 9,
-      "question": "The Dacian King Decebalus was first a problem for the emperor ____________ when he unified the Dacian tribes.",
-      "options": {
-        "A": "Trajan",
-        "B": "Nerva",
-        "C": "Tiberius",
-        "D": "Domitian"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 10,
-      "question": "Masada was captured by the Roman general _________.",
-      "options": {
-        "A": "Titus",
-        "B": "Flavius Silva",
-        "C": "Publius Petronius",
-        "D": "Vespasian"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 11,
-      "question": "Under Tiberius, Junius Blaesus and Cornelius Dolabella waged war against the Numidian chieftain _______.",
-      "options": {
-        "A": "Zoscales",
-        "B": "Juba",
-        "C": "Tacfarinas",
-        "D": "Jugurtha"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 12,
-      "question": "Britain was made a Roman province under the emperor _______.",
-      "options": {
-        "A": "Claudius",
-        "B": "Caligula",
-        "C": "Vespasian",
-        "D": "Augustus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 13,
-      "question": "Suetonius Paulinus destroyed the Druid base and cut down the sacred groves in/on ____________.",
-      "options": {
-        "A": "Camulodunum",
-        "B": "Mona",
-        "C": "Lindum",
-        "D": "Iona"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 14,
-      "question": "The Julio-­‐Claudian emperor who enfranchised many towns in Gaul and even made several Gauls senators was ______.",
-      "options": {
-        "A": "Nero",
-        "B": "Tiberius",
-        "C": "Claudius",
-        "D": "Caligula"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 15,
-      "question": "The mother of Claudius’s son Brittanicus was",
-      "options": {
-        "A": "Messalina.",
-        "B": "Octavia.",
-        "C": "Drusilla.",
-        "D": "Agrippina the Younger"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 16,
-      "question": "Naevius Sertorius Macro took over the praetorian guards by order of the emperor in order to depose the praetorian prefect ______.",
-      "options": {
-        "A": "Cassius Chaerea",
-        "B": "Domitius Ulpianus",
-        "C": "Verginius Rufus",
-        "D": "Aelius Sejanus."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 17,
-      "question": "The man who took over as commander of the praetorian guard after the first attempt to assassinate Commodus was",
-      "options": {
-        "A": "Paternus",
-        "B": "Perennis",
-        "C": "Cleander",
-        "D": "Electus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 18,
-      "question": "Marcus Aurelius’s co-­‐emperor at the beginning of his reign was",
-      "options": {
-        "A": "Antoninus Pius.",
-        "B": "Commodus.",
-        "C": "Lucius Verus.",
-        "D": "Caracalla."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 19,
-      "question": "The empress Poppaea had previously been the wife of the future emperor _____.",
-      "options": {
-        "A": "Vespasian",
-        "B": "Vitellius",
-        "C": "Galba",
-        "D": "Otho."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 20,
-      "question": "Titus was forced by Vespasian to send his lover, Queen _______, back to Judaea.",
-      "options": {
-        "A": "Berenice",
-        "B": "Vipsania",
-        "C": "Naomi",
-        "D": "Arrecina"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 21,
-      "question": "The emperor who advanced the frontier in Britain to the Scottish isthmus and fortified it with a wall was",
-      "options": {
-        "A": "Hadrian.",
-        "B": "Antoninus Pius.",
-        "C": "Trajan.",
-        "D": "Marcus Aurelius."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 22,
-      "question": "Constantine put his son ______ to death when he was accused of adultery with is step-­‐mother.",
-      "options": {
-        "A": "Crispus",
-        "B": "Constans",
-        "C": "Constantius",
-        "D": "Constantinus II."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 23,
-      "question": "Rome reached its greatest territorial extent during the reign of __________.",
-      "options": {
-        "A": "Trajan",
-        "B": "Marcus Aurelius",
-        "C": "Vespasian",
-        "D": "Theodosius I"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 24,
-      "question": "Cn. Iulius Agricola defeated the Caledonians at _____________ in 84.",
-      "options": {
-        "A": "Mons Graupius",
-        "B": "Tapae",
-        "C": "Forimae",
-        "D": "Chalons"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 25,
-      "question": "Which of the following was NOT emperor in 193?",
-      "options": {
-        "A": "Pescinnius Niger",
-        "B": "Pertinax",
-        "C": "Septimus Severus",
-        "D": "Didius Julianus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 26,
-      "question": "Caracalla undermined his father’s trust in his praetorian prefect, _______, and ultimately brought about his execution.",
-      "options": {
-        "A": "Paternus",
-        "B": "Papinianus",
-        "C": "Plautianus",
-        "D": "Perennis"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 27,
-      "question": "Caracalla extended citizenship to all free men within the borders of the empire in ____________.",
-      "options": {
-        "A": "215",
-        "B": "209",
-        "C": "218 d."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 28,
-      "question": "Which Roman emperor succeeded Valerian?",
-      "options": {
-        "A": "Gallienus",
-        "B": "Trebonianus Gallus",
-        "C": "Macrinus",
-        "D": "Aemilian"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 29,
-      "question": "The wife of Septimius Severus and the mother of Caracalla and Geta was ________.",
-      "options": {
-        "A": "Julia Mamaea",
-        "B": "Julia Soaemias.",
-        "C": "Julia Maesa.",
-        "D": "Julia Domna."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 30,
-      "question": "The father of both Claudius and Germanicus was ____________.",
-      "options": {
-        "A": "Tiberius",
-        "B": "Drusus",
-        "C": "Silius",
-        "D": "Lentulus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 31,
-      "question": "Rome’s last emperor in the West was",
-      "options": {
-        "A": "Honorius.",
-        "B": "Petronius Maximus.",
-        "C": "Severus III.",
-        "D": "Romulus Augustulus."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 32,
-      "question": "Otho killed himself after",
-      "options": {
-        "A": "the First Battle of Cremona.",
-        "B": "the Second Battle of Crmona",
-        "C": "The Battle of Vesontio.",
-        "D": "The Battle of Locus Castrorum."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 33,
-      "question": "Gordian I and Gordian II were appointed emperors to deal with the usurper ______.",
-      "options": {
-        "A": "Maximinus Thrax",
-        "B": "Pupienus",
-        "C": "Balbinus",
-        "D": "Decius"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 34,
-      "question": "The emperor who was believed to be a Christian by later tradition although he celebrated the one thousandth anniversary of Rome with pagan games was",
-      "options": {
-        "A": "Trebonius Gallus.",
-        "B": "Constantine.",
-        "C": "Constantius Chlorus.",
-        "D": "Philip the Arab."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 35,
-      "question": "Which of the following was NOT part of the so-­‐called Gallic empire of Postumus?",
-      "options": {
-        "A": "Aquitania",
-        "B": "Belgica",
-        "C": "Narbonensis",
-        "D": "Lugdunensis"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 36,
-      "question": "Which of the emperors who ruled the “Gallic Empire” surrendered to Aurelian after the Battle of Chalons-­‐sur-­‐Marne?",
-      "options": {
-        "A": "Postumus",
-        "B": "Marius",
-        "C": "Tetricus",
-        "D": "Laelianus"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 37,
-      "question": "After the defeat of its queen and a second rebellion against Rome, Palmyra was captured and looted by",
-      "options": {
-        "A": "Aurelian.",
-        "B": "Gallienus.",
-        "C": "Claudius II.",
-        "D": "Valerian."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 38,
-      "question": "The emperor who completed the wall around Rome begun by Aurelian was ______.",
-      "options": {
-        "A": "Probus",
-        "B": "Florianus.",
-        "C": "Tacitus",
-        "D": "Numerian."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 39,
-      "question": "Diocletian became emperor after defeating Carinus at the",
-      "options": {
-        "A": "Battle of Mursa",
-        "B": "Battle of Chalons.",
-        "C": "Battle of the River Margus.",
-        "D": "Battle of the Metaurus River"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 40,
-      "question": "Diocletian and Maximian retired from power in ____.",
-      "options": {
-        "A": "337",
-        "B": "310",
-        "C": "305 d."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 41,
-      "question": "The Persian king who treacherously seized the emperor Valerian and eventually displayed his tanned skin in a temple was",
-      "options": {
-        "A": "Shapur I.",
-        "B": "Vologeses V.",
-        "C": "Artabanus V.",
-        "D": "Shapur II."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 42,
-      "question": "The Roman emperor who defeated defeated the Goths at Naissus was ____________",
-      "options": {
-        "A": "Claudius II.",
-        "B": "Trajan.",
-        "C": "Aurelian",
-        "D": "Septimius Severus."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 43,
-      "question": "The emperor whom the bishop Ambrose forced to do penance for the massacre of the citizens of Thessalonika was",
-      "options": {
-        "A": "Theodosius I.",
-        "B": "Constantine.",
-        "C": "Gratian.",
-        "D": "Valentinain I."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 44,
-      "question": "The last male member of Constantine’s dynasty was",
-      "options": {
-        "A": "Constans.",
-        "B": "Julian.",
-        "C": "Constantius",
-        "D": "Jovian"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 45,
-      "question": "Whom did Augustus exile to the island of Pandateria in 2 B.C.?",
-      "options": {
-        "A": "Tiberius",
-        "B": "Julia",
-        "C": "Agrippa Postumus",
-        "D": "Agrippina the Younger"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 324,
-      "question": "",
-      "options": {
-        "A": "Maxentius.",
-        "B": "Maximinus Daia",
-        "C": "Galerius",
-        "D": "Licinius."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 410,
-      "question": "",
-      "options": {
-        "A": "Attila",
-        "B": "Alaric",
-        "C": "Theodoric",
-        "D": "Gaiseric"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 48,
-      "question": "Attila the Hun’s invasion of Gaul was halted in 451 by Aetius at ______.",
-      "options": {
-        "A": "Catalaunian Fields.",
-        "B": "Placentia",
-        "C": "Allia River.",
-        "D": "Naissus."
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 49,
-      "question": "The Roman emperor who ordered a statue of himself placed in the Temple at Jerusalem was",
-      "options": {
-        "A": "Hadrian.",
-        "B": "Vesasian.",
-        "C": "Caligula",
-        "D": "Nero"
-      },
-      "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
-      "correct_answer": null
-    },
-    {
-      "question_number": 50,
-      "question": "Who ruled as co-­‐Augustus with his father Trebonianus Gallus from 251-­‐253 A.D.?",
+      "question": "The beginning of the Roman Empire is often dated from 27 B",
       "options": {
         "A": "Volusianus",
         "B": "Hostilian",
@@ -643,13 +23,663 @@
         "D": "Aemilian"
       },
       "type": "multiple_choice",
-      "instruction": "Choose the response that best answers the question:",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "The fist time that Rome had more than one emperor at a time was",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "Rome’s second dynasty was founded by",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "What nation did Trajan conquer in 106?",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "The first emperor to desire worship as a living god was",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "Arminius became the national hero of Germany after defeating the general ____________ in\nTeutoberg Forest in",
+      "options": {
+        "A": "Volusianus",
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "Caligula’s wife ,___________________and his daughter, Drusilla were killed the same day the\nemperor was assassinate",
+      "options": {
+        "A": "Volusianus",
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "The Dacian King Decebalus was first a problem for the emperor ____________ when he unified\nthe Dacian tribes.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Masada was captured by the Roman general _________.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "Under Tiberius, Junius Blaesus and Cornelius Dolabella waged war against the Numidian\nchieftain _______.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "Britain was made a Roman province under the emperor _______.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "Suetonius Paulinus destroyed the Druid base and cut down the sacred groves in/on\n____________.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "The Julio-­‐Claudian emperor who enfranchised many towns in Gaul and even made several Gauls\nsenators was ______.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "The mother of Claudius’s son Brittanicus was",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "Naevius Sertorius Macro took over the praetorian guards by order of the emperor in order to\ndepose the praetorian prefect ______.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "The man who took over as commander of the praetorian guard after the first attempt to\nassassinate Commodus was",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "Marcus Aurelius’s co-­‐emperor at the beginning of his reign was",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "The empress Poppaea had previously been the wife of the future emperor _____.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Titus was forced by Vespasian to send his lover, Queen _______, back to Judae",
+      "options": {
+        "A": "Volusianus",
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "The emperor who advanced the frontier in Britain to the Scottish isthmus and fortified it with a\nwall was",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "Constantine put his son ______ to death when he was accused of adultery with is step-­‐mother.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "Rome reached its greatest territorial extent during the reign of __________.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "Which of the following was NOT emperor in 193?",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "Caracalla undermined his father’s trust in his praetorian prefect, _______, and ultimately\nbrought about his execution.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "Caracalla extended citizenship to all free men within the borders of the empire in\n____________.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "Which Roman emperor succeeded Valerian?",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "The wife of Septimius Severus and the mother of Caracalla and Geta was ________.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "The father of both Claudius and Germanicus was ____________.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "Rome’s last emperor in the West was",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "Otho killed himself after",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "Gordian I and Gordian II were appointed emperors to deal with the usurper ______.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "The emperor who was believed to be a Christian by later tradition although he celebrated the\none thousandth anniversary of Rome with pagan games was",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "Which of the following was NOT part of the so-­‐called Gallic empire of Postumus?",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question": "Which of the emperors who ruled the “Gallic Empire” surrendered to Aurelian after the Battle of\nChalons-­‐sur-­‐Marne?",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "After the defeat of its queen and a second rebellion against Rome, Palmyra was captured and\nlooted by",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "The emperor who completed the wall around Rome begun by Aurelian was ______.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "Diocletian became emperor after defeating Carinus at the",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Diocletian and Maximian retired from power in ____.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 1,
+      "question": "The Persian king who treacherously seized the emperor Valerian and eventually displayed his\ntanned skin in a temple was",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question": "The Roman emperor who defeated defeated the Goths at Naissus was ____________",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question": "The emperor whom the bishop Ambrose forced to do penance for the massacre of the citizens\nof Thessalonika was",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "The last male member of Constantine’s dynasty was",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question": "Whom did Augustus exile to the island of Pandateria in 2",
+      "options": {
+        "A": "Volusianus",
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question": "",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question": "Rome fell to a foreign enemy for the first time since 390",
+      "options": {
+        "A": "Volusianus",
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question": "Attila the Hun’s invasion of Gaul was halted in 451 by Aetius at ______.",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question": "The Roman emperor who ordered a statue of himself placed in the Temple at Jerusalem was",
+      "options": {
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian",
+        "A": "Volusianus"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
+      "correct_answer": null
+    },
+    {
+      "question_number": 0,
+      "question": "Who ruled as co-­‐Augustus with his father Trebonianus Gallus from 251-­‐253",
+      "options": {
+        "A": "Volusianus",
+        "B": "Hostilian",
+        "C": "Herrenius Etruscus",
+        "D": "Aemilian"
+      },
+      "type": "multiple_choice",
+      "instruction": null,
       "correct_answer": null
     }
   ],
   "metadata": {
     "year": 2012,
     "format": "pre_2018",
-    "total_questions": 50
+    "total_questions": 52
   }
 }

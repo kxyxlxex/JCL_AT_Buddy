@@ -1,0 +1,542 @@
+[
+  {
+    "question_index": 1,
+    "question_body": "infestus",
+    "question_options": {
+      "A": "angry",
+      "B": "hostile",
+      "C": "widespread",
+      "D": "disagreeable"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 2,
+    "question_body": "minor",
+    "question_options": {
+      "A": "frighten",
+      "B": "lessen",
+      "C": "threaten",
+      "D": "attend to"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 3,
+    "question_body": "censeō",
+    "question_options": {
+      "A": "burn",
+      "B": "think",
+      "C": "disapprove",
+      "D": "forbid"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 4,
+    "question_body": "facultās",
+    "question_options": {
+      "A": "ability",
+      "B": "ease",
+      "C": "deed",
+      "D": "school"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 5,
+    "question_body": "secūris",
+    "question_options": {
+      "A": "axe",
+      "B": "safe",
+      "C": "careless",
+      "D": "protection"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 6,
+    "question_body": "ignōscō",
+    "question_options": {
+      "A": "forget",
+      "B": "not know",
+      "C": "examine",
+      "D": "forgive"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 7,
+    "question_body": "pīcus",
+    "question_options": {
+      "A": "chest",
+      "B": "woodpecker",
+      "C": "cattle",
+      "D": "color"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 8,
+    "question_body": "furō",
+    "question_options": {
+      "A": "steal",
+      "B": "enjoy",
+      "C": "prowl",
+      "D": "be angry"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 9,
+    "question_body": "vetus",
+    "question_options": {
+      "A": "true",
+      "B": "clothed",
+      "C": "old",
+      "D": "forbidden"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 10,
+    "question_body": "flō",
+    "question_options": {
+      "A": "blow",
+      "B": "weep",
+      "C": "flow",
+      "D": "prosper"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 11,
+    "question_body": "ferō",
+    "question_options": {
+      "A": "publish",
+      "B": "seize",
+      "C": "inhabit",
+      "D": "bring"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 12,
+    "question_body": "supplicium",
+    "question_options": {
+      "A": "offering",
+      "B": "reward",
+      "C": "punishment",
+      "D": "plea"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 13,
+    "question_body": "tegō",
+    "question_options": {
+      "A": "weave",
+      "B": "touch",
+      "C": "dye",
+      "D": "cover"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 14,
+    "question_body": "perītus",
+    "question_options": {
+      "A": "dead",
+      "B": "experienced",
+      "C": "ruined",
+      "D": "lost"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 15,
+    "question_body": "vallēs",
+    "question_options": {
+      "A": "wall",
+      "B": "valley",
+      "C": "trench",
+      "D": "stake"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 16,
+    "question_body": "especially",
+    "question_options": {
+      "A": "praesertim",
+      "B": "prōtinus",
+      "C": "saltem",
+      "D": "sponte"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 17,
+    "question_body": "it is fitting",
+    "question_options": {
+      "A": "opus est",
+      "B": "licet",
+      "C": "dedecet",
+      "D": "oportet"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 18,
+    "question_body": "light (in weight)",
+    "question_options": {
+      "A": "lēnis",
+      "B": "levis",
+      "C": "mītis",
+      "D": "mollis"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 19,
+    "question_body": "breeze",
+    "question_options": {
+      "A": "aura",
+      "B": "auris",
+      "C": "äer",
+      "D": "aurora"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 20,
+    "question_body": "each",
+    "question_options": {
+      "A": "quisque",
+      "B": "quisquam",
+      "C": "quidem",
+      "D": "quīdam"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 21,
+    "question_body": "to admire",
+    "question_options": {
+      "A": "nitor",
+      "B": "nectō",
+      "C": "mīror",
+      "D": "micō"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 22,
+    "question_body": "plan",
+    "question_options": {
+      "A": "contiō",
+      "B": "contentiō",
+      "C": "consilium",
+      "D": "concitus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 23,
+    "question_body": "to explain",
+    "question_options": {
+      "A": "experior",
+      "B": "explicō",
+      "C": "explōrō",
+      "D": "expōnō"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 24,
+    "question_body": "likewise",
+    "question_options": {
+      "A": "sīcut",
+      "B": "item",
+      "C": "īdem",
+      "D": "velut"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 25,
+    "question_body": "to attack",
+    "question_options": {
+      "A": "orior",
+      "B": "aggredior",
+      "C": "saliō",
+      "D": "molior"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 26,
+    "question_body": "white",
+    "question_options": {
+      "A": "cinerārius",
+      "B": "alvus",
+      "C": "albus",
+      "D": "āleāris"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 27,
+    "question_body": "once",
+    "question_options": {
+      "A": "mox",
+      "B": "nuper",
+      "C": "paulisper",
+      "D": "olim"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 28,
+    "question_body": "to defeat, overcome",
+    "question_options": {
+      "A": "vincō",
+      "B": "supersum",
+      "C": "vinciō",
+      "D": "supplicō"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 29,
+    "question_body": "to open",
+    "question_options": {
+      "A": "condō",
+      "B": "texō",
+      "C": "aperiō",
+      "D": "recumbō"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 30,
+    "question_body": "to take possession",
+    "question_options": {
+      "A": "nancīscor",
+      "B": "pōtō",
+      "C": "potior",
+      "D": "sciscitor"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 31,
+    "question_body": "vulgus",
+    "question_options": {
+      "A": "faciēs",
+      "B": "turba",
+      "C": "dedecus",
+      "D": "plāga"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 32,
+    "question_body": "comperiō",
+    "question_options": {
+      "A": "colligō",
+      "B": "instituō",
+      "C": "inveniō",
+      "D": "observō"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 33,
+    "question_body": "ordior",
+    "question_options": {
+      "A": "nascor",
+      "B": "precor",
+      "C": "surgō",
+      "D": "incipiō"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 34,
+    "question_body": "vagor",
+    "question_options": {
+      "A": "errō",
+      "B": "obscūrō",
+      "C": "digredior",
+      "D": "deficiō"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 35,
+    "question_body": "consuētūdō",
+    "question_options": {
+      "A": "mors",
+      "B": "suāsiō",
+      "C": "mos",
+      "D": "statua"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 36,
+    "question_body": "prōsum",
+    "question_options": {
+      "A": "noceō",
+      "B": "sequor",
+      "C": "dēficiō",
+      "D": "serviō"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 37,
+    "question_body": "agilis",
+    "question_options": {
+      "A": "lēnis",
+      "B": "alacer",
+      "C": "turpis",
+      "D": "piger"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 38,
+    "question_body": "aestās",
+    "question_options": {
+      "A": "hiems",
+      "B": "friō",
+      "C": "aevum",
+      "D": "febris"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 39,
+    "question_body": "hauriō",
+    "question_options": {
+      "A": "ēmittō",
+      "B": "solvō",
+      "C": "compleō",
+      "D": "tenuō"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 40,
+    "question_body": "callidus",
+    "question_options": {
+      "A": "frīgidus",
+      "B": "fessus",
+      "C": "stupidus",
+      "D": "foedus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 46,
+    "question_body": "poēta : recitō ::",
+    "question_options": {
+      "A": "deus : veneror",
+      "B": "tectum : aedificō",
+      "C": "venia : parcō",
+      "D": "praecō : nūntiō"
+    },
+    "question_key": "D",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 47,
+    "question_body": "moenia : urbs ::",
+    "question_options": {
+      "A": "pariēs : oppidum",
+      "B": "vallum : castra",
+      "C": "agger : fossa",
+      "D": "pōns : rīvus"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 48,
+    "question_body": "sagittae : pharetra ::",
+    "question_options": {
+      "A": "librī : scrīnium",
+      "B": "fluctūs : mare",
+      "C": "lectīcus : via",
+      "D": "carbasus : nāvis"
+    },
+    "question_key": "A",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 49,
+    "question_body": "laurus : arbor ::",
+    "question_options": {
+      "A": "malum : fīcus",
+      "B": "radīx : flōs",
+      "C": "caepa : holus",
+      "D": "grāmen : humus"
+    },
+    "question_key": "C",
+    "question_instruction": "Answer the following question."
+  },
+  {
+    "question_index": 50,
+    "question_body": "rōstrum : volucris ::",
+    "question_options": {
+      "A": "fulmen : caelum",
+      "B": "ungula : equus",
+      "C": "vacca : pecus",
+      "D": "sōl : astrum"
+    },
+    "question_key": "B",
+    "question_instruction": "Answer the following question."
+  }
+]
