@@ -878,7 +878,8 @@
       "options": {
         "A": "4",
         "B": "6",
-        "C": "12 d."
+        "C": "12",
+        "D": "24"
       },
       "type": "multiple_choice",
       "instruction": null,
@@ -895,7 +896,8 @@
       "options": {
         "A": "14",
         "B": "1",
-        "C": "18 d."
+        "C": "18",
+        "D": "10"
       },
       "type": "multiple_choice",
       "instruction": null,
