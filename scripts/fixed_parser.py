@@ -85,7 +85,9 @@ def parse_test_file_fixed(test_file_path):
             if (not re.match(r'^N\.B\.', line) and  # Not N.B. instructions
                 not re.match(r'^\d+\.', line) and  # Not question numbers
                 not re.match(r'^([a-d])\.\s*(.+)$', line) and  # Not answer options
-                not re.match(r'^\d{4}\s+FJCL\s+State\s+Latin\s+Forum', line) and  # Not headers
+                not re.match(r'^\d{4}\s+FJCL\s+State\s+(Latin\s+)?Forum', line) and  # Not headers
+                not re.match(r'^\d{4}\s+FJCL\s+State\s+Forum.*-$', line) and  # Not headers ending with dash
+                not re.match(r'^\d{4}\s+FJCL\s+State\s+Forum.*\s+-\s*$', line) and  # Not headers ending with space-dash-space
                 not re.match(r'^Part\s+\d+\s*[-–]\s*(.+)$', line) and  # Not "Part x - Description" dividers
                 line.endswith(('.', ':')) and  # Ends with period or colon
                 len(line.split()) > 2 and  # Has multiple words
@@ -122,6 +124,14 @@ def parse_test_file_fixed(test_file_path):
                 }
                 continue
             
+            # Extract instruction from Part x) lines and strip the Part x) prefix
+            part_match = re.match(r'^Part\s+(\d+)\)\s*(.+)$', line)
+            if part_match:
+                # Extract the instruction part (everything after "Part x)")
+                instruction_text = part_match.group(2).strip()
+                current_instruction = instruction_text
+                continue
+            
             # If we have a current question and this line doesn't start with an option, 
             # it might be a continuation of the question statement
             if (current_question and 
@@ -131,7 +141,6 @@ def parse_test_file_fixed(test_file_path):
                 not re.match(r'^Part\s+(\d+)\s*[-–]\s*(.+)$', line) and  # Not a section divider
                 not re.match(r'^Part\s+(\d+)-\s*(.+)$', line) and  # Not a section divider (hyphen)
                 not re.match(r'^([IVX]+)\.\s*(.+)$', line) and  # Not a Roman numeral section
-                not re.match(r'^Part\s+(\d+)\)\s*(.+)$', line) and  # Not a Part x) section
                 not re.match(r'^N\.B\.', line) and  # Not an N.B. instruction
                 line.strip() and  # Not empty
                 not any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions'])):  # Not an instruction
@@ -174,7 +183,9 @@ def parse_test_file_fixed(test_file_path):
             if (not re.match(r'^N\.B\.', line) and  # Not N.B. instructions
                 not re.match(r'^\d+\.', line) and  # Not question numbers
                 not re.match(r'^([A-D])\.\s*(.+)$', line) and  # Not answer options
-                not re.match(r'^\d{4}\s+FJCL\s+State\s+Latin\s+Forum', line) and  # Not headers
+                not re.match(r'^\d{4}\s+FJCL\s+State\s+(Latin\s+)?Forum', line) and  # Not headers
+                not re.match(r'^\d{4}\s+FJCL\s+State\s+Forum.*-$', line) and  # Not headers ending with dash
+                not re.match(r'^\d{4}\s+FJCL\s+State\s+Forum.*\s+-\s*$', line) and  # Not headers ending with space-dash-space
                 not re.match(r'^Part\s+\d+\s*[-–]\s*(.+)$', line) and  # Not "Part x - Description" dividers
                 line.endswith(('.', ':')) and  # Ends with period or colon
                 len(line.split()) > 2 and  # Has multiple words
@@ -206,6 +217,14 @@ def parse_test_file_fixed(test_file_path):
                 }
                 continue
             
+            # Extract instruction from Part x) lines and strip the Part x) prefix
+            part_match = re.match(r'^Part\s+(\d+)\)\s*(.+)$', line)
+            if part_match:
+                # Extract the instruction part (everything after "Part x)")
+                instruction_text = part_match.group(2).strip()
+                current_instruction = instruction_text
+                continue
+            
             # If we have a current question and this line doesn't start with an option, 
             # it might be a continuation of the question statement
             if (current_question and 
@@ -215,7 +234,6 @@ def parse_test_file_fixed(test_file_path):
                 not re.match(r'^Part\s+(\d+)\s*[-–]\s*(.+)$', line) and  # Not a section divider
                 not re.match(r'^Part\s+(\d+)-\s*(.+)$', line) and  # Not a section divider (hyphen)
                 not re.match(r'^([IVX]+)\.\s*(.+)$', line) and  # Not a Roman numeral section
-                not re.match(r'^Part\s+(\d+)\)\s*(.+)$', line) and  # Not a Part x) section
                 not re.match(r'^N\.B\.', line) and  # Not an N.B. instruction
                 line.strip() and  # Not empty
                 not any(word in line.lower() for word in ['choose', 'match', 'identify', 'give', 'complete', 'select', 'answer', 'refer', 'use', 'items', 'for questions'])):  # Not an instruction
