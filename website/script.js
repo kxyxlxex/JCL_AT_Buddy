@@ -309,7 +309,8 @@ class TestGenerator {
         // Calculate score
         let correct = 0;
         this.currentTest.forEach((question, index) => {
-            if (this.userAnswers[index] === question.correct_answer) {
+            const correctAnswer = question.question_key || question.correct_answer;
+            if (this.userAnswers[index] === correctAnswer) {
                 correct++;
             }
         });
@@ -343,7 +344,7 @@ class TestGenerator {
         
         this.currentTest.forEach((question, index) => {
             const userAnswer = this.userAnswers[index];
-            const correctAnswer = question.correct_answer;
+            const correctAnswer = question.question_key || question.correct_answer;
             const isCorrect = userAnswer === correctAnswer;
             
             const questionDiv = document.createElement('div');
