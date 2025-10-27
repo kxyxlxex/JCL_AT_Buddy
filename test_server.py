@@ -48,4 +48,4 @@ def start_test_server(port=8000):
             httpd.shutdown()
 
 if __name__ == "__main__":
-    start_test_server()
+    start_test_server(port=8002)

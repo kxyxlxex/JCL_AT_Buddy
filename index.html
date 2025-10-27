@@ -17,8 +17,6 @@
             <div class="test-selection">
                 <h2>Select Test Subject</h2>
                 <div class="test-options">
-                    
-                    
                     <button class="test-option" data-subject="Derivatives_I">
                         <h3>Derivatives I</h3>
                         <p>First level derivative questions</p>
@@ -71,7 +69,9 @@
                 </div>
                 
                 <div class="question-container">
-                    <div class="instruction-box" id="instructionText"></div>
+                    <div id="instructionBox" class="instruction-box" style="display: none;">
+                        <p id="instructionText"></p>
+                    </div>
                     <div class="question" id="questionText"></div>
                     <div class="options" id="optionsContainer"></div>
                 </div>
