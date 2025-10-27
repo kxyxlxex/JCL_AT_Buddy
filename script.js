@@ -6,9 +6,90 @@ class TestGenerator {
         this.userAnswers = {};
         this.timeRemaining = 50 * 60; // 50 minutes in seconds
         this.timer = null;
+        this.currentSubject = null;
         
         this.initializeEventListeners();
         this.loadAllQuestions();
+        this.setupHistoryNavigation();
+    }
+    
+    setupHistoryNavigation() {
+        // Handle browser back button
+        window.addEventListener('popstate', (event) => {
+            if (event.state && event.state.page === 'test') {
+                // Do nothing - we're already in test view
+            } else {
+                // Go back to test selection
+                this.returnToSelection();
+            }
+        });
+    }
+    
+    checkForSavedTest(subject) {
+        const savedTest = localStorage.getItem(`jcl_test_progress_${subject}`);
+        return savedTest !== null;
+    }
+    
+    showContinueDialog(subject, onContinue, onNew) {
+        const modal = document.createElement('div');
+        modal.className = 'modal-overlay';
+        modal.innerHTML = `
+            <div class="modal-content">
+                <h3>Continue Saved Test?</h3>
+                <p>You have an unfinished ${subject.replace(/_/g, ' ')} test. Would you like to continue?</p>
+                <div class="modal-buttons">
+                    <button class="modal-btn modal-btn-yes" id="continueYes">Yes</button>
+                    <button class="modal-btn modal-btn-no" id="continueNo">No</button>
+                </div>
+            </div>
+        `;
+        document.body.appendChild(modal);
+        
+        document.getElementById('continueYes').addEventListener('click', () => {
+            document.body.removeChild(modal);
+            onContinue();
+        });
+        
+        document.getElementById('continueNo').addEventListener('click', () => {
+            localStorage.removeItem(`jcl_test_progress_${subject}`);
+            document.body.removeChild(modal);
+            onNew();
+        });
+    }
+    
+    saveTestProgress() {
+        if (!this.currentSubject) return;
+        
+        const testData = {
+            subject: this.currentSubject,
+            currentTest: this.currentTest,
+            currentQuestionIndex: this.currentQuestionIndex,
+            userAnswers: this.userAnswers,
+            timeRemaining: this.timeRemaining
+        };
+        localStorage.setItem(`jcl_test_progress_${this.currentSubject}`, JSON.stringify(testData));
+    }
+    
+    loadSavedTest(subject) {
+        const savedData = JSON.parse(localStorage.getItem(`jcl_test_progress_${subject}`));
+        if (savedData) {
+            this.currentSubject = savedData.subject;
+            this.currentTest = savedData.currentTest;
+            this.currentQuestionIndex = savedData.currentQuestionIndex;
+            this.userAnswers = savedData.userAnswers;
+            this.timeRemaining = savedData.timeRemaining;
+            
+            // Show test interface
+            document.querySelector('.test-selection').style.display = 'none';
+            document.getElementById('testInterface').style.display = 'block';
+            
+            // Push state for back button
+            history.pushState({ page: 'test' }, '', '#test');
+            
+            // Start timer and display
+            this.startTimer();
+            this.displayQuestion();
+        }
     }
     
     initializeEventListeners() {
@@ -32,33 +113,6 @@ class TestGenerator {
         // Review actions
         document.getElementById('backToResults').addEventListener('click', () => this.backToResults());
         document.getElementById('newTestFromReview').addEventListener('click', () => this.newTest());
-        
-        // Auto-save when page is about to be closed
-        window.addEventListener('beforeunload', () => {
-            if (this.currentTest && this.currentTest.length > 0) {
-                this.saveProgress();
-            }
-        });
-        
-        // Auto-save when user switches tabs or minimizes browser
-        document.addEventListener('visibilitychange', () => {
-            if (document.hidden && this.currentTest && this.currentTest.length > 0) {
-                this.saveProgress();
-            }
-        });
-
-        // Browser history: ensure a home state exists
-        if (!history.state) {
-            history.replaceState({ view: 'home' }, '', '#home');
-        }
-
-        // Handle back/forward navigation: default to home for non-test states
-        window.addEventListener('popstate', (event) => {
-            const state = event.state;
-            if (!state || state.view !== 'test') {
-                this.exitToHome();
-            }
-        });
     }
     
     async loadAllQuestions() {
@@ -101,85 +155,29 @@ class TestGenerator {
             return;
         }
         
-        this.currentSubject = subject;
-        
-        // Check for saved progress
-        const savedProgress = this.loadProgress(subject);
-        if (savedProgress) {
-            this.showResumeDialog(subject, savedProgress);
-            return;
-        }
-        
-        // Hide test selection, show test interface
-        document.querySelector('.test-selection').style.display = 'none';
-        document.getElementById('testInterface').style.display = 'block';
-        document.getElementById('results').style.display = 'none';
-        
-        // Ensure an in-app home entry exists just before the test, then push test entry
-        try {
-            history.pushState({ view: 'home' }, '', '#home');
-            history.pushState({ view: 'test', subject: this.currentSubject, q: 1 }, '', `#test/${encodeURIComponent(this.currentSubject)}/1`);
-        } catch (_) {
-            // no-op if history not available
-        }
-
-        // Generate random 50 questions from all years for this subject
-        this.generateRandomTest(subject);
-        this.currentQuestionIndex = 0;
-        this.userAnswers = {};
-        this.timeRemaining = 50 * 60;
-        
-        // Start timer
-        this.startTimer();
-        
-        // Display first question
-        this.displayQuestion();
-    }
-    
-    showResumeDialog(subject, savedProgress) {
-        // Create custom resume dialog
-        const dialog = document.createElement('div');
-        dialog.className = 'resume-dialog-overlay';
-        dialog.innerHTML = `
-            <div class="resume-dialog">
-                <h3>Resume Test?</h3>
-                <p>You have a saved test in progress for <strong>${subject.replace(/_/g, ' ')}</strong>.</p>
-                <p>Would you like to resume it?</p>
-                <div class="dialog-buttons">
-                    <button id="resumeNo" class="dialog-button no-button">No</button>
-                    <button id="resumeYes" class="dialog-button yes-button">Yes</button>
-                </div>
-            </div>
-        `;
-        
-        document.body.appendChild(dialog);
-        
-        // Add event listeners
-        document.getElementById('resumeNo').addEventListener('click', () => {
-            document.body.removeChild(dialog);
+        // Check if there's a saved test for this subject
+        if (this.checkForSavedTest(subject)) {
+            this.showContinueDialog(
+                subject,
+                () => this.loadSavedTest(subject),
+                () => this.startNewTest(subject)
+            );
+        } else {
             this.startNewTest(subject);
-        });
-        
-        document.getElementById('resumeYes').addEventListener('click', () => {
-            document.body.removeChild(dialog);
-            this.resumeTest(savedProgress);
-        });
+        }
     }
     
     startNewTest(subject) {
+        this.currentSubject = subject;
+        
         // Hide test selection, show test interface
         document.querySelector('.test-selection').style.display = 'none';
         document.getElementById('testInterface').style.display = 'block';
         document.getElementById('results').style.display = 'none';
         
-        // Ensure an in-app home entry exists just before the test, then push test entry
-        try {
-            history.pushState({ view: 'home' }, '', '#home');
-            history.pushState({ view: 'test', subject: this.currentSubject, q: 1 }, '', `#test/${encodeURIComponent(this.currentSubject)}/1`);
-        } catch (_) {
-            // no-op if history not available
-        }
-
+        // Push state for back button functionality
+        history.pushState({ page: 'test' }, '', '#test');
+        
         // Generate random 50 questions from all years for this subject
         this.generateRandomTest(subject);
         this.currentQuestionIndex = 0;
@@ -191,6 +189,9 @@ class TestGenerator {
         
         // Display first question
         this.displayQuestion();
+        
+        // Save initial progress
+        this.saveTestProgress();
     }
     
     generateRandomTest(subject) {
@@ -211,29 +212,29 @@ class TestGenerator {
         document.getElementById('questionCounter').textContent = 
             `Question ${this.currentQuestionIndex + 1} of 50`;
         
-        // Display instruction in separate box above (if exists)
-        const instructionBlock = document.getElementById('instructionText');
-        instructionBlock.innerHTML = '';
-        if (question.instruction) {
-            const instructionDiv = document.createElement('div');
-            instructionDiv.className = 'instruction';
-            instructionDiv.textContent = this.formatInstruction(question.instruction);
-            instructionBlock.appendChild(instructionDiv);
+        // Display instruction if available
+        const instructionBox = document.getElementById('instructionBox');
+        const instructionText = document.getElementById('instructionText');
+        const instruction = question.question_instruction || question.instruction;
+        if (instruction) {
+            instructionText.textContent = instruction;
+            instructionBox.style.display = 'block';
+        } else {
+            instructionBox.style.display = 'none';
         }
         
-        // Display question in its own prominent box
-        const questionBlock = document.getElementById('questionText');
-        questionBlock.innerHTML = '';
-        const qLine = document.createElement('div');
-        qLine.className = 'question-line';
-        qLine.textContent = question.question;
-        questionBlock.appendChild(qLine);
+        // Display question - filter out "Question X" pattern
+        let questionText = question.question_body || question.question || '';
+        // Remove "Question X" or "Question X." at the start
+        questionText = questionText.replace(/^Question\s+\d+\.?\s*/i, '');
+        document.getElementById('questionText').textContent = questionText;
         
         // Display options
         const optionsContainer = document.getElementById('optionsContainer');
         optionsContainer.innerHTML = '';
         
-        Object.entries(question.options).forEach(([key, value]) => {
+        const options = question.question_options || question.options;
+        Object.entries(options).forEach(([key, value]) => {
             const optionDiv = document.createElement('div');
             optionDiv.className = 'option';
             
@@ -267,37 +268,26 @@ class TestGenerator {
         // Update navigation buttons
         document.getElementById('prevQuestion').disabled = this.currentQuestionIndex === 0;
         document.getElementById('nextQuestion').disabled = this.currentQuestionIndex === 49;
-
-        // Replace the current history state so Back goes straight to home
-        try {
-            history.replaceState(
-                { view: 'test', subject: this.currentSubject, q: this.currentQuestionIndex + 1 },
-                '',
-                `#test/${encodeURIComponent(this.currentSubject)}/${this.currentQuestionIndex + 1}`
-            );
-        } catch (_) {
-            // ignore history errors
-        }
     }
     
     selectAnswer(answer) {
         this.userAnswers[this.currentQuestionIndex] = answer;
-        
-        // Save progress automatically when user answers a question
-        this.saveProgress();
         
         // Update visual selection
         document.querySelectorAll('.option').forEach(option => {
             option.classList.remove('selected');
         });
         document.querySelector(`input[value="${answer}"]`).parentElement.classList.add('selected');
+        
+        // Save progress
+        this.saveTestProgress();
     }
     
     previousQuestion() {
         if (this.currentQuestionIndex > 0) {
             this.currentQuestionIndex--;
             this.displayQuestion();
-            this.saveProgress(); // Save progress when navigating
+            this.saveTestProgress();
         }
     }
     
@@ -305,7 +295,7 @@ class TestGenerator {
         if (this.currentQuestionIndex < 49) {
             this.currentQuestionIndex++;
             this.displayQuestion();
-            this.saveProgress(); // Save progress when navigating
+            this.saveTestProgress();
         }
     }
     
@@ -317,11 +307,6 @@ class TestGenerator {
             document.getElementById('timeRemaining').textContent = 
                 `Time: ${minutes}:${seconds.toString().padStart(2, '0')}`;
             
-            // Auto-save every 30 seconds
-            if (this.timeRemaining % 30 === 0) {
-                this.saveProgress();
-            }
-            
             if (this.timeRemaining <= 0) {
                 this.submitTest();
             }
@@ -331,10 +316,16 @@ class TestGenerator {
     submitTest() {
         clearInterval(this.timer);
         
+        // Clear saved progress since test is complete
+        if (this.currentSubject) {
+            localStorage.removeItem(`jcl_test_progress_${this.currentSubject}`);
+        }
+        
         // Calculate score
         let correct = 0;
         this.currentTest.forEach((question, index) => {
-            if (this.userAnswers[index] === question.correct_answer) {
+            const correctAnswer = question.question_key || question.correct_answer;
+            if (this.userAnswers[index] === correctAnswer) {
                 correct++;
             }
         });
@@ -356,9 +347,6 @@ class TestGenerator {
             score: correct,
             percentage: percentage
         };
-        
-        // Clear saved progress since test is completed
-        this.clearProgress();
     }
     
     reviewAnswers() {
@@ -371,12 +359,21 @@ class TestGenerator {
         
         this.currentTest.forEach((question, index) => {
             const userAnswer = this.userAnswers[index];
-            const correctAnswer = question.correct_answer;
+            const correctAnswer = question.question_key || question.correct_answer;
             const isCorrect = userAnswer === correctAnswer;
             
             const questionDiv = document.createElement('div');
             questionDiv.className = `review-question ${isCorrect ? 'correct' : 'incorrect'}`;
             
+            // Filter out "Question X" pattern for review too
+            let questionText = question.question_body || question.question || '';
+            questionText = questionText.replace(/^Question\s+\d+\.?\s*/i, '');
+            
+            const instruction = question.question_instruction || question.instruction;
+            const instructionHTML = instruction ? 
+                `<div class="review-instruction">${instruction}</div>` : '';
+            
+            const options = question.question_options || question.options;
             questionDiv.innerHTML = `
                 <div class="question-header">
                     <h4>Question ${index + 1} ${isCorrect ? '✓' : '✗'}</h4>
@@ -384,12 +381,10 @@ class TestGenerator {
                         ${isCorrect ? 'Correct' : 'Incorrect'}
                     </span>
                 </div>
-                <div class="question-text">
-                    ${question.instruction ? `<div class=\"instruction-box\"><div class=\"instruction\">${this.formatInstruction(question.instruction)}</div></div>` : ''}
-                    <div class=\"question\"><div class=\"question-line\">${question.question}</div></div>
-                </div>
+                ${instructionHTML}
+                <div class="question-text">${questionText}</div>
                 <div class="options-review">
-                    ${Object.entries(question.options).map(([key, value]) => `
+                    ${Object.entries(options).map(([key, value]) => `
                         <div class="option-review ${key === correctAnswer ? 'correct-answer' : ''} ${key === userAnswer && !isCorrect ? 'user-answer-wrong' : ''}">
                             <span class="option-letter">${key}.</span>
                             <span class="option-text">${value}</span>
@@ -410,141 +405,33 @@ class TestGenerator {
         document.getElementById('results').style.display = 'block';
     }
     
-    newTest() {
+    returnToSelection() {
         // Reset everything and go back to test selection
-        document.getElementById('results').style.display = 'none';
-        document.getElementById('reviewInterface').style.display = 'none';
-        document.querySelector('.test-selection').style.display = 'block';
-        
-        this.currentTest = [];
-        this.currentQuestionIndex = 0;
-        this.userAnswers = {};
-        clearInterval(this.timer);
-
-        // Return URL to home state
-        try {
-            history.replaceState({ view: 'home' }, '', '#home');
-        } catch (_) {
-            // ignore
-        }
-    }
-    
-    // Progress saving methods
-    saveProgress() {
-        if (!this.currentSubject || !this.currentTest.length) return;
-        
-        const progress = {
-            subject: this.currentSubject,
-            currentQuestionIndex: this.currentQuestionIndex,
-            userAnswers: this.userAnswers,
-            timeRemaining: this.timeRemaining,
-            testQuestions: this.currentTest.map(q => ({
-                question_number: q.question_number,
-                question: q.question,
-                options: q.options,
-                correct_answer: q.correct_answer
-            })),
-            timestamp: Date.now()
-        };
-        
-        localStorage.setItem(`jcl_test_progress_${this.currentSubject}`, JSON.stringify(progress));
-        console.log('Progress saved for', this.currentSubject);
-    }
-    
-    loadProgress(subject) {
-        try {
-            const saved = localStorage.getItem(`jcl_test_progress_${subject}`);
-            if (!saved) return null;
-            
-            const progress = JSON.parse(saved);
-            
-            // Check if progress is older than 24 hours
-            const hoursSinceSaved = (Date.now() - progress.timestamp) / (1000 * 60 * 60);
-            if (hoursSinceSaved > 24) {
-                localStorage.removeItem(`jcl_test_progress_${subject}`);
-                return null;
-            }
-            
-            return progress;
-        } catch (error) {
-            console.error('Error loading progress:', error);
-            return null;
-        }
-    }
-    
-    resumeTest(progress) {
-        // Hide test selection, show test interface
-        document.querySelector('.test-selection').style.display = 'none';
-        document.getElementById('testInterface').style.display = 'block';
-        document.getElementById('results').style.display = 'none';
-        
-        // Ensure history entries for home and test exist when resuming
-        try {
-            history.pushState({ view: 'home' }, '', '#home');
-            history.pushState({ view: 'test', subject: progress.subject, q: progress.currentQuestionIndex + 1 }, '', `#test/${encodeURIComponent(progress.subject)}/${progress.currentQuestionIndex + 1}`);
-        } catch (_) {}
-        
-        // Restore test state
-        this.currentSubject = progress.subject;
-        this.currentTest = progress.testQuestions;
-        this.currentQuestionIndex = progress.currentQuestionIndex;
-        this.userAnswers = progress.userAnswers;
-        this.timeRemaining = progress.timeRemaining;
-        
-        // Start timer
-        this.startTimer();
-        
-        // Display current question
-        this.displayQuestion();
-        
-        console.log('Test resumed from question', this.currentQuestionIndex + 1);
-    }
-    
-    clearProgress() {
-        if (this.currentSubject) {
-            localStorage.removeItem(`jcl_test_progress_${this.currentSubject}`);
-        }
-    }
-
-    exitToHome() {
-        // Called when user hits the browser Back button to leave the test
-        clearInterval(this.timer);
         document.getElementById('testInterface').style.display = 'none';
         document.getElementById('results').style.display = 'none';
         document.getElementById('reviewInterface').style.display = 'none';
         document.querySelector('.test-selection').style.display = 'block';
-    }
-
-    // Format section title: strip leading Part x) / Roman I., remove trailing period, add colon
-    formatSectionTitle(raw) {
-        try {
-            let s = String(raw).trim();
-            // Remove leading 'Part x)' prefix (case-insensitive)
-            s = s.replace(/^Part\s+\d+\)\s*/i, '');
-            // Remove leading Roman numeral with period (e.g., 'I.', 'II.', 'IV.')
-            s = s.replace(/^[IVXLCDM]+\.\s*/i, '');
-            // Remove trailing period(s)
-            s = s.replace(/[\.:]+\s*$/,'');
-            // Always add a single colon
-            s = `${s}:`;
-            return s;
-        } catch (_) {
-            return raw;
+        
+        clearInterval(this.timer);
+        
+        // Update URL
+        if (window.location.hash) {
+            history.pushState(null, '', window.location.pathname);
         }
     }
-
-    // Format instruction: ensure it ends with a colon
-    formatInstruction(raw) {
-        try {
-            let s = String(raw).trim();
-            // Remove trailing punctuation (periods, colons, etc.)
-            s = s.replace(/[\.:!?]+\s*$/, '');
-            // Always add a single colon
-            s = `${s}:`;
-            return s;
-        } catch (_) {
-            return raw;
+    
+    newTest() {
+        // Clear saved progress for current subject
+        if (this.currentSubject) {
+            localStorage.removeItem(`jcl_test_progress_${this.currentSubject}`);
         }
+        
+        this.currentTest = [];
+        this.currentQuestionIndex = 0;
+        this.userAnswers = {};
+        this.currentSubject = null;
+        
+        this.returnToSelection();
     }
 }
 
