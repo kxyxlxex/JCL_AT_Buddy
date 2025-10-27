@@ -11,7 +11,6 @@ class TestGenerator {
         this.initializeEventListeners();
         this.loadAllQuestions();
         this.setupHistoryNavigation();
-        this.checkForSavedTest();
     }
     
     setupHistoryNavigation() {
@@ -26,20 +25,18 @@ class TestGenerator {
         });
     }
     
-    checkForSavedTest() {
-        const savedTest = localStorage.getItem('jcl_test_progress');
-        if (savedTest) {
-            this.showContinueDialog();
-        }
+    checkForSavedTest(subject) {
+        const savedTest = localStorage.getItem(`jcl_test_progress_${subject}`);
+        return savedTest !== null;
     }
     
-    showContinueDialog() {
+    showContinueDialog(subject, onContinue, onNew) {
         const modal = document.createElement('div');
         modal.className = 'modal-overlay';
         modal.innerHTML = `
             <div class="modal-content">
                 <h3>Continue Saved Test?</h3>
-                <p>You have an unfinished test. Would you like to continue?</p>
+                <p>You have an unfinished ${subject.replace(/_/g, ' ')} test. Would you like to continue?</p>
                 <div class="modal-buttons">
                     <button class="modal-btn modal-btn-yes" id="continueYes">Yes</button>
                     <button class="modal-btn modal-btn-no" id="continueNo">No</button>
@@ -49,17 +46,20 @@ class TestGenerator {
         document.body.appendChild(modal);
         
         document.getElementById('continueYes').addEventListener('click', () => {
-            this.loadSavedTest();
             document.body.removeChild(modal);
+            onContinue();
         });
         
         document.getElementById('continueNo').addEventListener('click', () => {
-            localStorage.removeItem('jcl_test_progress');
+            localStorage.removeItem(`jcl_test_progress_${subject}`);
             document.body.removeChild(modal);
+            onNew();
         });
     }
     
     saveTestProgress() {
+        if (!this.currentSubject) return;
+        
         const testData = {
             subject: this.currentSubject,
             currentTest: this.currentTest,
@@ -67,11 +67,11 @@ class TestGenerator {
             userAnswers: this.userAnswers,
             timeRemaining: this.timeRemaining
         };
-        localStorage.setItem('jcl_test_progress', JSON.stringify(testData));
+        localStorage.setItem(`jcl_test_progress_${this.currentSubject}`, JSON.stringify(testData));
     }
     
-    loadSavedTest() {
-        const savedData = JSON.parse(localStorage.getItem('jcl_test_progress'));
+    loadSavedTest(subject) {
+        const savedData = JSON.parse(localStorage.getItem(`jcl_test_progress_${subject}`));
         if (savedData) {
             this.currentSubject = savedData.subject;
             this.currentTest = savedData.currentTest;
@@ -155,6 +155,19 @@ class TestGenerator {
             return;
         }
         
+        // Check if there's a saved test for this subject
+        if (this.checkForSavedTest(subject)) {
+            this.showContinueDialog(
+                subject,
+                () => this.loadSavedTest(subject),
+                () => this.startNewTest(subject)
+            );
+        } else {
+            this.startNewTest(subject);
+        }
+    }
+    
+    startNewTest(subject) {
         this.currentSubject = subject;
         
         // Hide test selection, show test interface
@@ -304,7 +317,9 @@ class TestGenerator {
         clearInterval(this.timer);
         
         // Clear saved progress since test is complete
-        localStorage.removeItem('jcl_test_progress');
+        if (this.currentSubject) {
+            localStorage.removeItem(`jcl_test_progress_${this.currentSubject}`);
+        }
         
         // Calculate score
         let correct = 0;
@@ -406,8 +421,10 @@ class TestGenerator {
     }
     
     newTest() {
-        // Clear saved progress
-        localStorage.removeItem('jcl_test_progress');
+        // Clear saved progress for current subject
+        if (this.currentSubject) {
+            localStorage.removeItem(`jcl_test_progress_${this.currentSubject}`);
+        }
         
         this.currentTest = [];
         this.currentQuestionIndex = 0;
