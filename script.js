@@ -30,6 +30,35 @@ class TestGenerator {
         return savedTest !== null;
     }
     
+    showTimeSelectionModal(subject, onTimeSelected) {
+        const modal = document.createElement('div');
+        modal.className = 'modal-overlay';
+        modal.innerHTML = `
+            <div class="modal-content">
+                <h3>Select Test Duration</h3>
+                <p>Choose how much time you'd like for this test:</p>
+                <div class="time-selection-grid">
+                    <button class="time-option" data-minutes="3">3 Minutes</button>
+                    <button class="time-option" data-minutes="5">5 Minutes</button>
+                    <button class="time-option" data-minutes="10">10 Minutes</button>
+                    <button class="time-option" data-minutes="15">15 Minutes</button>
+                    <button class="time-option" data-minutes="30">30 Minutes</button>
+                    <button class="time-option" data-minutes="45">45 Minutes</button>
+                    <button class="time-option" data-minutes="60">1 Hour</button>
+                </div>
+            </div>
+        `;
+        document.body.appendChild(modal);
+        
+        modal.querySelectorAll('.time-option').forEach(button => {
+            button.addEventListener('click', () => {
+                const minutes = parseInt(button.dataset.minutes);
+                document.body.removeChild(modal);
+                onTimeSelected(minutes);
+            });
+        });
+    }
+    
     showContinueDialog(subject, onContinue, onNew) {
         const modal = document.createElement('div');
         modal.className = 'modal-overlay';
@@ -160,14 +189,14 @@ class TestGenerator {
             this.showContinueDialog(
                 subject,
                 () => this.loadSavedTest(subject),
-                () => this.startNewTest(subject)
+                () => this.showTimeSelectionModal(subject, (minutes) => this.startNewTest(subject, minutes))
             );
         } else {
-            this.startNewTest(subject);
+            this.showTimeSelectionModal(subject, (minutes) => this.startNewTest(subject, minutes));
         }
     }
     
-    startNewTest(subject) {
+    startNewTest(subject, minutes = 50) {
         this.currentSubject = subject;
         
         // Hide test selection, show test interface
@@ -182,7 +211,7 @@ class TestGenerator {
         this.generateRandomTest(subject);
         this.currentQuestionIndex = 0;
         this.userAnswers = {};
-        this.timeRemaining = 50 * 60;
+        this.timeRemaining = minutes * 60;
         
         // Start timer
         this.startTimer();
@@ -308,9 +337,28 @@ class TestGenerator {
                 `Time: ${minutes}:${seconds.toString().padStart(2, '0')}`;
             
             if (this.timeRemaining <= 0) {
-                this.submitTest();
+                this.showTimesUpMessage();
             }
         }, 1000);
+    }
+    
+    showTimesUpMessage() {
+        clearInterval(this.timer);
+        
+        const overlay = document.createElement('div');
+        overlay.className = 'times-up-overlay';
+        overlay.innerHTML = `
+            <div class="times-up-message">
+                Time's Up!
+            </div>
+        `;
+        document.body.appendChild(overlay);
+        
+        // Auto-submit after 2 seconds
+        setTimeout(() => {
+            document.body.removeChild(overlay);
+            this.submitTest();
+        }, 2000);
     }
     
     submitTest() {
